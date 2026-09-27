@@ -4,7 +4,7 @@ Pope Hall sat above Spirit City like a blade laid flat. Stone, gold, and quiet. 
 
 He woke with cold stone under his back and two lives in one skull.
 
-One life was Earth's. A boy who had been single his whole life. Virgin. A boy who read at night with a small light on, Soul Land open to the end, all of it, one and two and three and the wiki pages after. He knew Tang San, Bibi Dong, Qian Renxue, Qian Daoliu. He knew Spirit Hall, Angel God, Rakshasa God. He knew soul cores, dragon cores, angel cores.
+One life was Earth's. Gaurav Meena. Chinese fantasy call Càn Róng. A boy who had been single his whole life. Virgin. A boy who read at night with a small light on, Soul Land open to the end, all of it, one and two and three and the wiki pages after. He knew Tang San, Bibi Dong, Qian Renxue, Qian Daoliu. He knew Spirit Hall, Angel God, Rakshasa God. He knew soul cores, dragon cores, angel cores. He was Gaurav Meena, now called Càn Róng in Chinese fantasy.
 
 The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel. Son of Qian Daoliu. Teacher of Bibi Dong. Fifty years of politics, Elder Hall, Worship Hall, the hunt for the Blue Silver Emperor, Tang Hao, the death waiting in Pope Hall.
 

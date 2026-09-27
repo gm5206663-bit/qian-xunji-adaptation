@@ -1,13 +1,14 @@
-# Qian Xun Ji — STATUS — Wikipedia Style — v0.6 Perfect Clean Systematic — Current Pope — Soul Bone Natural Effects vs Real Skills Separated
+# Qian Xun Ji — STATUS — Wikipedia Style — v0.7 Perfect Clean Systematic — Current Pope — OC Real Name Gaurav Meena / Càn Róng — Soul Bone Natural Effects vs Real Skills Separated
 
 ## Infobox — Basic Information
 
 | Field | Detail |
 |---|---|
-| **Name** | Qian Xun Ji (千寻疾) |
+| **Name** | Qian Xun Ji (千寻疾) — body name — current Pope |
+| **OC Real Name** | **Gaurav Meena** — Earth name — based on user — single virgin — what if I reborn — Chinese fantasy call **Càn Róng** — per user 2026-09-27f |
 | **Title** | Angel Douluo — His Holiness the Pope |
 | **Position** | **Current Pope of Spirit Hall** — Day 0 The Night After — before Tang Hao injury — before death — Supreme Pontiff |
-| **Age** | 60+ at death in canon Qian Renxue about 10 years older than Tang San more than 60 at death — currently 50 before death — body purified younger after seclusion |
+| **Age** | 60+ at death in canon Qian Renxue about 10 years older than Tang San more than 60 at death — currently 50 before death — body purified younger after seclusion — Earth age Gaurav Meena young adult single virgin |
 | **Level** | **96** after 1 month seclusion — **95→96 only one level quality focus** — canon Rank 95 Super Douluo Power Attack System — much stronger than normal 96 because no human has soul core in this era |
 | **Martial Soul** | Seraphim — Six-Winged Angel — Angel God bloodline — Supreme/Ultimate/God tier — Holy Light Sun Fire — Power Attack System |
 | **Bloodline** | Angel God bloodline — purified during seclusion — six wings brighter white-gold — closer to Angel God |
@@ -21,12 +22,12 @@
 | **Physique** | Title Douluo peak — body tough as angel — spiritual sea tough as angel |
 | **Adaptation Talent** | Mortal Divine Level — NOT True Divine yet — True Divine only when God |
 | **Father** | Qian Daoliu — Grand Worship — Angel Douluo — Limit 99 — High Priest — 8 Black 1 Red novel 2Y2P5B donghua |
-| **Daughter** | Qian Renxue — not yet born — will be born from that night — Seraphim — future Angel God |
-| **Spouse** | Bibi Dong — Saintess — twin spiders — victim — official husband in canon — considers wife genuinely |
+| **Daughter** | Qian Renxue — not yet born — will be born from that night — Seraphim — future Angel God — OC will be real father |
+| **Spouse** | Bibi Dong — Saintess — twin spiders — victim — official husband in canon — considers wife genuinely — guilt attraction tolerance extreme never kills — Earth single virgin Gaurav Meena / Càn Róng matters body memory own |
 | **Affiliation** | Spirit Hall |
 | **Occupation** | Supreme Pontiff |
 | **Status** | Alive — current Pope — canon deceased body soul soul power spiritual power devoured by Bibi Dong |
-| **Meta Knowledge** | All_plus_fandom — SL1+SL2+SL3+SL4+wiki+donghua+fandom |
+| **Meta Knowledge** | All_plus_fandom — SL1+SL2+SL3+SL4+wiki+donghua+fandom — Earth boy Gaurav Meena / Càn Róng read all night Soul Land open to end all of it |
 
 ---
 
