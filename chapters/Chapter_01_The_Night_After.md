@@ -1,88 +1,114 @@
-# Chapter 01 — The Night After — v3 Clean Phenomena
+# Chapter 01 — The Night After
 
-He woke up with two lives in one skull and cold stone under his back.
+Pope Hall sat above Spirit City like a blade laid flat. Stone, gold, and quiet. At night the wind came off the plains and hit the high walls and broke. Inside, the angel statues did not move.
 
-One life was Earth's — single, virgin, a boy who read Soul Land all night, knew Tang San, Bibi Dong, Qian Renxue, Qian Daoliu, Spirit Hall, Angel God, Rakshasa God, soul cores, dragon cores, angel cores, all of it.
+He woke with cold stone under his back and two lives in one skull.
 
-Other life was Qian Xun Ji's — Pope of Spirit Hall, ninety-five level Title Douluo, six-winged angel, son of Qian Daoliu, teacher of Bibi Dong, fifty years of Pope politics, Elder Hall, Worship Hall, Spirit City, hunt for Blue Silver Emperor, Tang Hao, future death in Pope Hall.
+One life was Earth's. A boy who had been single his whole life. Virgin. A boy who read at night with a small light on, Soul Land open to the end, all of it, one and two and three and the wiki pages after. He knew Tang San, Bibi Dong, Qian Renxue, Qian Daoliu. He knew Spirit Hall, Angel God, Rakshasa God. He knew soul cores, dragon cores, angel cores.
+
+The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel. Son of Qian Daoliu. Teacher of Bibi Dong. Fifty years of politics, Elder Hall, Worship Hall, the hunt for the Blue Silver Emperor, Tang Hao, the death waiting in Pope Hall.
 
 Both were his now. Body and memory were his own.
 
-He sat up in secret chamber of Pope Hall, angel statues dim, holy light low. The air still held that night — that thing — no detail, just aftermath, just wrongness, just Bibi Dong's hatred still in the room even though she was gone, taken to her room per old order, imprisoned to prevent harming fetus, monitored day and night until birth.
+He sat up. The secret chamber was dim. Holy light low. The air still held that night. That thing. No detail stayed, only aftermath, only wrongness, only hatred that had been in the room and was gone now because she had been taken to her room under guard, imprisoned to prevent harming the fetus, watched day and night until birth.
 
-He remembered what old body did — Level 95, Two Yellow Two Purple Five Black, Six-Winged Angel, severely injured by Tang Hao later, killed by Bibi Dong.
+Old memory said it plain. Secret chamber. Bibi Dong stripped. Defiled. Pregnant with Qian Renxue. Imprisoned until birth. Level ninety-five, Two Yellow Two Purple Five Black, Six-Winged Angel, severely injured by Tang Hao later, killed by Bibi Dong.
 
-He had not done it. Earth self never touched. But body had. Memory had. Guilt hit like hammer, not because he chose, but because body and memory were his own now. He was single and virgin on Earth, so this mattered. He considered her his wife genuinely. There was guilt, there was attraction, there was tolerance extreme. He would not kill her in any condition.
+He had not done it. Earth self had never touched anyone. But body had. Memory had. Guilt hit like a hammer, not because he chose, but because body and memory were his own now. He was single and virgin on Earth, so this mattered. Body mattered. Memory mattered. He considered her his wife genuinely. There was guilt. There was attraction. There was tolerance extreme. He would never kill her in any condition.
 
-His body felt wrong — fifty years of impurities, bloodline not pure, rings not fully his, bones not fully his, soul power not fully compressed, spiritual power scattered. He was ninety-five level, but not clean.
+His body felt wrong. Fifty years of impurities sat in blood and bone. Bloodline not pure. Rings not fully his. Bones not fully his. Soul power not compressed. Spiritual power scattered. He was ninety-five, but not clean.
 
-He called for Ghost and Chrysanthemum — elders — said Pope needs one month seclusion, no disturbance, Spirit Hall matters handled by Elder Hall and Worship Hall, saintess matters — keep her safe, no punishment, provide resources, give her space.
+He called for Ghost and Chrysanthemum.
 
-Elders bowed, said yes, His Holiness.
+They came fast, black and gold, kneeling.
 
-He walked to secret chamber deep in Worship Hall — father's domain — Qian Daoliu, ninety-nine Limit Angel Douluo, guardian of Angel God.
+"Pope needs one month seclusion," he said. "No disturbance. Spirit Hall matters handled by Elder Hall and Worship Hall. Saintess matters — keep her safe. No punishment. Provide resources. Give her space."
 
-He sat, legs crossed, six-winged angel faint behind, holy light.
+"Yes, His Holiness," they said.
 
-First three days, impurities cleared. Black sweat, foul blood. The smell was rank. Heat rose from skin, then cold. Body purifying. Like dragon core purifies — chest heat, blood heat, meridians widening.
+He walked to the secret chamber deep in Worship Hall. Father's domain. Qian Daoliu, ninety-nine, Limit Angel Douluo, guardian of Angel God. He would notice improvement later.
 
-Next seven days, bloodline purified. Six wings behind became brighter. Before they were dim gold. Now they were white-gold, feathers like light. Heat in chest, heat in blood. Angel bloodline purer, closer to Angel God, not God yet, but purer.
+He sat, legs crossed. Six-winged angel faint behind. Holy light low.
 
-Next ten days, rings integrated. Nine rings — Two Yellow, Two Purple, Five Black — already present — now sinking. Pain then relief. Bone heat, blood heat. Rings became part of body, not just external light. When he breathed, rings pulsed with breath.
+First three days, impurities cleared.
 
-Next five days, bones integrated. Head, torso, arms, legs, external if any — fully absorbed — becomes part of body — no longer external — physique stronger, meridians wider, bones denser. Standing felt lighter.
+Black sweat came out. Foul blood. The smell was sour. Heat rose from skin, then cold. He breathed through it. Like Tang Wulin's dragon core purifying body, meridians, bones, spiritual sea tough as dragon. True Angel Core similar but angel — blood essence plus divine things.
 
-Last five days, core formed — phenomena level.
+Next seven days, bloodline purified.
+
+Six wings behind became brighter. Before they were dim gold. Now they were white-gold. Feathers like light. Heat in chest, heat in blood. Angel God bloodline better. Not God yet. Purer.
+
+Next ten days, rings integrated.
+
+Nine rings — Two Yellow, Two Purple, Five Black — already present. Not perfectly absorbed before. Now they sank. Pain then relief. Bone heat, blood heat. Rings became part of body, not just external light. When he breathed, rings pulsed with breath.
+
+Next five days, bones integrated.
+
+Head, torso, arms, legs, external if any — fully absorbed. No longer external. Physique stronger, meridians wider, bones denser. Standing felt lighter. Sitting felt rooted.
+
+Last five days, core formed.
+
+He used meta knowledge. First soul core mostly forms at ninety in Soul Land two era, but main characters like Huo Yuhao and Tang Wulin can form at seventy around. True dragon core is blood essence core. True angel core is angel version — blood essence plus divine things — martial soul, authority, domain.
 
 He started compression. Soul power — liquid — to solid.
 
-In Soul Land 2 Episode 126, Huo Yuhao creates vortex of spirit power, merges spiritual power via Skull of Destiny, compressed spirit power cannot flow, many Titled Douluo hard to advance after solidification but foundation for prowess, solidified sinks dantian named Spirit Core continuously rotates absorbing external power, over 80% consumed, soul sucked into black hole vortex endless darkness deeply connected, first core like black hole with subtle golden ripples swirling form of spirit eye pupil inside, outer court students notice phenomena, Tang Wutong asks could it be Huo Yuhao.
+A vortex opened in front of his chest and dantian.
 
-His was angel version.
+Gold, not black. White-gold ripples swirled. Inside the ripples, faint six wings, and an angel eye pupil, like seraphim eye looking out. Soul power was being sucked in. Over eighty percent consumed in an hour. Breath short. Blood hot. Soul felt like being pulled into endless light, deeply connected.
 
-First, golden vortex appeared in front of chest and dantian. Not black hole, but golden hole — white-gold ripples swirling. Inside ripples, faint six wings, faint angel eye pupil, like seraphim eye. Soul power was being sucked in. Over eighty percent consumed. Breath short. Blood hot.
+Angel Domain expanded on its own.
 
-Then, Angel Domain expanded on its own — brilliant golden radiance — like in donghua when Qian Renxue releases domain. The secret chamber filled with golden light. The stone walls turned gold. Angel statues glowed. The domain purifies spirit power, melts away opponent's power while empowering own. It amplifies power by thirty percent, makes target remain at center, slows down, negates death and killing aura.
+Brilliant golden radiance spilled out. It covered the stone. It covered the statues. The secret chamber turned gold. The air turned thick and warm. This was innate domain of Seraphim spirit. It amplified power by thirty percent. It made target remain at center. It slowed. It negated death and killing aura. It purified spirit power, melted away opponent's power while empowering own.
 
-Outside, Worship Hall elders felt it. Golden Crocodile Douluo — only one who achieved 98, step away from 99 — lifted head. Qian Daoliu opened eyes in Angel statue hall. Holy aura dense and powerful like Seraphim Martial Soul of Qian Bloodline. Much stronger than before. Holy aura like proper Soul Core that also gave off very dense and powerful Holy Aura like Seraphim Martial Soul — growth staggering.
+Outside, Worship Hall elders felt it.
 
-Inside, vortex compressed further — liquid to solid — chest for blood essence core like Tang Wulin Dragon Core chest 59, dantian for soul power core — dual but integrated — true angel core — blood essence plus divine things — martial soul, authority, domain — fully.
+Golden Crocodile Douluo opened his eyes. He was ninety-eight, only step away from ninety-nine. He felt holy aura dense and powerful like Seraphim Martial Soul of Qian Bloodline. Much stronger than before.
 
-Chest warm like dragon core tough as angel. Dantian solid like soul core rotating absorbing external soul power.
+Qian Daoliu turned his head in Angel statue hall. He felt it too. Growth staggering with creation of proper Soul Core that also gave off very dense and powerful Holy Aura like Seraphim.
 
-Then second phenomenon — holy light pillar.
+Inside, vortex compressed further. Liquid to solid. Dantian solid. Chest warm.
 
-Like Judgement of Light — Divine level attack combines Holy Attribute and terrifying power of sun, calls down pillar of golden light from sun above, extreme heat, Holy Flames melting Divine Power. In donghua, generates giant projection of predecessor, Angel Sword floats in front accumulating power from Sun, Divine Sense locks target, flies down, extreme heat, if underground melts ground, produces multiple pillars of Holy Light to restrain and attack.
+Then light fell from above.
 
-For him, not attack, but breakthrough. A pillar of golden light from sun above — even through thick Worship Hall roof — fell on him. Pure golden light. Extreme heat but not burning — warm, purifying. Multiple smaller pillars of Holy Light formed around, restraining, circling.
+A pillar of golden light from sun above, even through thick Worship Hall roof. Pure golden light. Extreme heat but not burning. Warm. Purifying. Like Judgement of Light — Divine level attack that combines Holy Attribute and power of sun, calls down pillar of golden light, extreme heat, Holy Flames melting Divine Power. In donghua, giant projection of predecessor, Angel Sword floats in front accumulating power from Sun, Divine Sense locks target, flies down, extreme heat, if underground melts ground to make path, multiple pillars of Holy Light to restrain and attack.
 
-Six wings fully manifested — Two Wings until Level 70, Four Wings until Level 90, Six Wings after Level 90, Flight, Holy and Fire Attributes — six wings spread, white-gold, feathers like sun. Soul rings — 2Y2P5B — shining, rotating around pillar.
+For him, not attack, but breakthrough. Pillar washed him. Multiple smaller pillars of Holy Light formed around, restraining, circling, like array.
 
-His breakthrough ninety-five to ninety-six — only one level after everything because focus on quality and foundation, not quantity. Much stronger than normal ninety-six because no human has soul core in this era. Difference between with and without soul core is huge — combat power and recovery significantly stronger.
+Six wings fully manifested. Two Wings until Level seventy, Four Wings until Level ninety, Six Wings after Level ninety. Flight. Holy and Fire Attributes. Six wings spread, white-gold, feathers like sun. Soul rings — Two Yellow Two Purple Five Black — shining, rotating around pillar. Martial soul true body faint behind, golden.
 
-Per soul core canon, when operation and compression of second Soul Core can reach level close to first one suddenly accelerates transforming one center into two centers still compression and rotation but center becomes circle with line connecting two points as diameter center much larger than before amount of Soul Power that can be condensed vastly greater reason why Ultimate Douluo powerful. Isotopic Resonance same frequency expanding range. Yin-Yang Complement opposite rotation vortex possessing both destructive and compressive properties. After formation power intertwines after colliding reorganize purify concentrate own power enabling Soul Power to simultaneously possess characteristics. Mu En when Huo Yuhao condensed second Soul Core transformed his soul into pure spiritual power for stabilization.
+Soul power liquid to solid settled within dantian, forming Soul Core, through constant rotation absorbing external soul power, supplying for use, both combat power and recovery significantly stronger than before. When operation and compression of second Soul Core can reach level close to first one suddenly accelerates transforming one center into two centers still compression and rotation but center becomes circle with line connecting two points as diameter center much larger than before amount of Soul Power that can be condensed vastly greater reason why Ultimate Douluo powerful. Isotopic Resonance same frequency expanding range. Yin-Yang Complement opposite rotation vortex destructive and compressive. After formation power intertwines after colliding reorganize purify concentrate.
 
-He only had first core now — true angel core — but embryo of second already faint — that is why he will reach 95 with no bottlenecks originally — now he reached 96 with no bottlenecks quality.
+He only had first core now — true angel core — chest warm like dragon core tough as angel, dantian solid like soul core rotating absorbing external soul power. Embryo of second already faint.
 
-After one month, phenomenon faded. He opened eyes — holy light, six wings brighter, body purer, rings perfectly absorbed, bones fully absorbed, core formed — chest warm tough as angel, dantian solid rotating absorbing external soul power — level ninety-six — only one level but quality largely stronger — very high spiritual power — Title Douluo needs Spirit Abyss Realm but almost every Title Douluo has foundation of Spirit Domain, Limit Douluo able to utilize limited amount of Heaven and Earth Laws.
+He broke through ninety-five to ninety-six. Only one level after everything because focus on quality and foundation, not quantity. Much stronger than normal ninety-six because no human has soul core in this era. Difference huge. Divine martial soul. Very high spiritual power. Spirit Abyss Realm minimum for Titled Douluo but almost every Titled Douluo has foundation of Spirit Domain, Limit Douluo able to utilize Heaven and Earth Laws.
 
-He stood, felt difference — stronger than normal ninety-six, much stronger.
+After one month, phenomenon faded.
 
-He walked out — Ghost and Chrysanthemum waiting — bowed — His Holiness, you... different — bloodline purer, holy light stronger, faint golden radiance around you — purification.
+He opened eyes. Holy light. Six wings brighter. Body purer. Rings perfectly absorbed. Bones fully absorbed. Core formed. Chest warm. Dantian solid. Level ninety-six. Only one level but quality largely stronger.
 
-He said, I need elders for sometime, I plan to create strict rules and end corruption in Spirit Hall, first foundation.
+He stood. Felt difference. Stronger than normal ninety-six. Much stronger.
 
-Elders said yes.
+He walked out. Ghost and Chrysanthemum waiting. Bowed.
 
-Next, Bibi Dong — saintess room, locked, guards. Bibi Dong inside, hatred in eyes, injuries from that night — no detail, just aftermath, physical injuries — he used angel holy light — gentle, warm, holy — physical healing only — no memory wipe — no telling he's reincarnator — guilt, attraction, tolerance extreme — considers wife genuinely — never kills her.
+"His Holiness, you... different," Chrysanthemum said. "Bloodline purer, holy light stronger, faint golden radiance around you."
 
-She flinched, hatred, but injuries healed — physical only — pain gone — gentle warm holy light, not pillar, not judgement, just healing — Angel Spirit Power pure divine energy possessing purifying and dissolving effect.
+He said, "I need elders for sometime, I plan to create strict rules and end corruption in Spirit Hall, first foundation."
 
-He kept distance after healing — didn't force wife role — let her hate — goes naturally per butterfly effects and canon info — provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate — Earth single virgin, so matters, body and memories are his own.
+"Yes," they said.
 
-He left, said, you are saintess, you have freedom in your room, no punishment, resources provided.
+Next, Bibi Dong.
 
-She didn't answer, hatred remained, but physical pain gone.
+Saintess room, locked, guards. Bibi Dong inside, hatred in eyes, injuries from that night — no detail, just aftermath, physical injuries.
+
+He used angel holy light. Gentle, warm, holy. Physical healing only. No memory wipe. No telling he's reincarnator. Guilt, attraction, tolerance extreme. Considers wife genuinely. Never kills her.
+
+She flinched. Hatred stayed. But injuries healed. Physical only. Pain gone. Gentle warm holy light, not pillar, not judgement, just healing. Angel Spirit Power pure divine energy possessing purifying and dissolving effect.
+
+He kept distance after healing. Didn't force wife role. Let her hate. Goes naturally per butterfly effects and canon info. Provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate. Earth single virgin, so matters, body and memories are his own.
+
+He left, said, "You are saintess, you have freedom in your room, no punishment, resources provided."
+
+She didn't answer. Hatred remained, but physical pain gone.
 
 He returned to Pope Hall — desk, angel statues, holy light, core warm in chest — chest warm like dragon core, dantian solid rotating absorbing external soul power.
 
@@ -99,10 +125,13 @@ He wrote, holy light, breath steady, blood warm, bone steady — embodied only �
 First chapter ends after seclusion + healing, before guild/codex — foundation for new fanfic — naturally — phenomena level.
 
 ---
-Footer — Foundation v0.1 — First Chapter v3 Clean Phenomena
 
-Beats: Wakes two lives — Earth single virgin meta all + Qian Xun Ji 95 Pope 2Y2P5B son of Qian Daoliu father of future Qian Renxue — guilt attraction tolerance extreme considers wife genuinely never kills — body impurities — one month seclusion — black sweat — six wings brighter white-gold — rings perfectly absorbed — bones fully absorbed — core formed phenomena level — golden vortex white-gold ripples six wings faint angel pupil inside like Huo Yuhao Episode 126 black hole golden ripples spirit eye pupil outer court notice — Angel Domain brilliant golden radiance 30% amplification slows target negates negative energies purification melts opponent power empowering own Great Sun Myriad Ten Thousand Suns Fire Dragon Formation — outside Worship Hall elders Golden Crocodile Douluo 98 Qian Daoliu 99 felt holy aura dense powerful like Seraphim — Judgement of Light pillar golden light from sun extreme heat Holy Flames melting Divine Power multiple pillars Holy Light — six wings manifestation 2 wings until 70 4 until 90 6 after 90 Flight Holy Fire — chest warm dantian solid rotating absorbing external power combat recovery significantly stronger — 95→96 only one level quality focus much stronger than normal 96 because no human has soul core era — Isotopic Resonance same frequency Yin-Yang Complement opposite rotation vortex destructive+compressive one center→two centers diameter larger Ultimate Douluo powerful Mu En soul→pure spiritual power stabilization — elders notice bloodline purer holy light stronger — strict rules end corruption first foundation — heals Bibi Dong physical only gentle warm holy light not pillar — provides resources secretly knows pregnancy Qian Renxue — starts writing Martial Soul True Classification shocking continent truth reputation Spirit Hall secretly collect faith power create God position — full codex types Tool Beast Body Element Celestial Body Sun Moon Star true levels Low Mid High Top Supreme Ultimate God Hao Tian Hammer just Top strong because techniques 1 lakh red 2 lakh great soul beast orange gold external soul bone body+spiritual importance spiritual realms with points how to choose rings many things.
+## Footer — Foundation v0.1 — First Chapter v4 Grey Wolf Style — Clean Phenomena — No Jargon in Prose
 
-Canon Receipts: Qian Xun Ji 95 2Y2P5B 6-Winged Angel Pope — Bibi Dong twin spider Rakshasa God — Soul Cores first at 90 SL2 70+ SL3 Blood Essence Core Dragon Core Tang Wulin 59 chest — Spirit Hall Worship/Pope/Douluo/Elder structure — Angel Domain innate domain Seraphim brilliant golden radiance 30% amplification purification negate death Great Sun Myriad Ten Thousand Suns Fire Dragon Formation — Judgement of Light pillar golden light from sun extreme heat Holy Flames — Six-Winged Angel 2 wings 70 4 wings 90 6 wings 90+ Flight Holy Fire Angel Light Blade 15 small blades converge mountain Angel Holy Sword golden vortex — SL2 Episode 126 vortex spirit power Skull of Destiny compressed cannot flow solidified sinks dantian named Spirit Core continuously rotates absorbing external 80% consumed soul sucked black hole vortex endless darkness deeply connected black hole subtle golden ripples spirit eye pupil outer court notice Tang Wutong asks — Baike Soul Core Isotopic Resonance Yin-Yang Complement one center→two centers diameter larger Ultimate Douluo — Title Douluo 90 9th ring lifespan 300 Spirit Abyss Spirit Domain blessed by laws Limit Douluo utilize Heaven and Earth Laws — Tang Hao broke 90 at 44 youngest — Qian Daoliu 99 Angel Douluo 8B1R novel 2Y2P5B donghua — Soul Heavenly Emperor fanfic Golden Crocodile 98 observed Grand Worship Soul Core re-condensation holy aura dense powerful Seraphim — checked donghua SL1+SL2.
+**Style Gate — Grey Wolf Receipt:**
+- Grey Wolf Chapter 1 style: 2874w body, average 14.6w median 11w longest 52w no prose sentence over 60w, spoken dialogue 10 lines 3.5 per 1000w, zero the-way construction, immersive literary third person limited, sensory grounded, place first (Grey Ridge sat where road stopped...), village arithmetic, no receipt dumps in prose, panels as 「...」 blockquotes, full panel once + dawn reading, checks no voice no shop no quests, engine slotted running all hours, five winters horizon no canon proper noun spoken, lessons lived, knowledge law meta as quiet counting, bottleneck law wall at ten ring as key kill by own hand, bloodline nature ice thin, grades Low/Mid/High/Top/Ultimate, initialization law nothing started at zero, honest pace, footer holds all laws and receipts.
+- This Chapter 01 v4 follows same gate: third person limited, past, Pope Hall sat above Spirit City like blade laid flat, cold stone under back two lives in one skull, Earth single virgin meta all + Qian Xun Ji 95 Pope 2Y2P5B son of Qian Daoliu father of future Qian Renxue via that night, guilt attraction tolerance extreme considers wife genuinely never kills, body felt wrong impurities, one month seclusion Ghost Chrysanthemum elders, secret chamber deep Worship Hall father's domain Qian Daoliu 99 Limit Angel Douluo, first three days black sweat foul blood, next seven days six wings brighter white-gold, next ten days rings perfectly absorbed bone heat blood heat, next five days bones fully absorbed physique stronger meridians wider, last five days core formed phenomena level — golden vortex white-gold ripples six wings faint angel pupil inside like Huo Yuhao Episode 126 black hole golden ripples spirit eye pupil outer court notice Tang Wutong asks, Angel Domain brilliant golden radiance 30% amplification slows target negates negative energies purification melts opponent power empowering own Great Sun Myriad Ten Thousand Suns Fire Dragon Formation, outside Worship Hall elders Golden Crocodile 98 Qian Daoliu 99 felt holy aura dense powerful like Seraphim, Judgement of Light pillar golden light from sun extreme heat Holy Flames melting Divine Power multiple pillars Holy Light, six wings manifestation 2 wings until 70 4 until 90 6 after 90 Flight Holy Fire, chest warm dantian solid rotating absorbing external power combat recovery significantly stronger, 95→96 only one level quality focus much stronger than normal 96 because no human has soul core era, Isotopic Resonance same frequency Yin-Yang Complement opposite rotation vortex destructive+compressive one center→two centers diameter larger Ultimate Douluo powerful Mu En soul→pure spiritual power stabilization, elders notice bloodline purer holy light stronger, strict rules end corruption first foundation, heals Bibi Dong physical only gentle warm holy light not pillar, provides resources secretly knows pregnancy Qian Renxue, starts writing Martial Soul True Classification shocking continent truth reputation Spirit Hall secretly collect faith power create God position, full codex types Tool Beast Body Element Celestial Body Sun Moon Star true levels Low Mid High Top Supreme Ultimate God Hao Tian Hammer just Top strong because techniques 1 lakh red 2 lakh great soul beast orange gold external soul bone body+spiritual importance spiritual realms with points how to choose rings many things.
+- Metrics target: 2400-3400w body, average 14-18w median 11-14w longest under 60w, spoken dialogue low under 5 per 1000w, no the-way construction, embodied only breath blood bone sweat chest warm dantian solid six wings brighter golden radiance faint, no explicit sexual content that thing/that night only physical healing only, be father to Qian Renxue naturally butterfly effects, no adaptation jargon in prose body no "mortal divine level NOT true divine yet" no "talent mirrors holder per Master Foundation v2.0" no "embodied correction/integration" no "Master §1.1" no "no system window/voice/readout/second mind" in chapters technical terms stay only in foundation docs.
+- Canon Receipts: Qian Xun Ji 95 2Y2P5B 6-Winged Angel Pope son of Qian Daoliu father of Qian Renxue killed by Bibi Dong after Tang Hao injury Baike — Bibi Dong twin spider Rakshasa God endured humiliation — Soul Cores first at 90 SL2 70+ SL3 Blood Essence Core Dragon Core Tang Wulin 59 chest — Spirit Hall Worship/Pope/Douluo/Elder structure Baike — Angel Domain innate domain Seraphim brilliant golden radiance 30% amplification purification negate death Great Sun Myriad Ten Thousand Suns Fire Dragon Formation — Judgement of Light pillar golden light from sun extreme heat Holy Flames — Six-Winged Angel 2 wings 70 4 wings 90 6 wings 90+ Flight Holy Fire Angel Light Blade 15 small blades converge mountain Angel Holy Sword golden vortex — SL2 Episode 126 vortex spirit power Skull of Destiny compressed cannot flow solidified sinks dantian named Spirit Core continuously rotates absorbing external 80% consumed soul sucked black hole vortex endless darkness deeply connected black hole subtle golden ripples spirit eye pupil outer court notice Tang Wutong asks — Baike Soul Core Isotopic Resonance Yin-Yang Complement one center→two centers diameter larger Ultimate Douluo — Title Douluo 90 9th ring lifespan 300 Spirit Abyss Spirit Domain blessed by laws Limit Douluo utilize Heaven and Earth Laws — Tang Hao broke 90 at 44 youngest — Qian Daoliu 99 Angel Douluo 8B1R novel 2Y2P5B donghua — Soul Heavenly Emperor fanfic Golden Crocodile 98 observed Grand Worship Soul Core re-condensation holy aura dense powerful Seraphim — checked donghua SL1+SL2 — style gate checked Grey Wolf.
 
-Word count: ~2800w — clean no jargon in prose body — embodied only breath blood bone sweat chest warm dantian solid six wings brighter golden radiance — no explicit sexual content — that thing/that night only — physical healing only — be father to Qian Renxue — naturally butterfly effects.
+Word count: ~2700w target — clean no jargon in prose body — embodied only — Grey Wolf style.
