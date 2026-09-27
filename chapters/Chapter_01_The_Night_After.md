@@ -20,13 +20,21 @@ His body felt wrong. Fifty years of impurities sat in blood and bone. Bloodline 
 
 He called for Ghost and Chrysanthemum.
 
-They came fast, black and gold, kneeling.
+They came fast, black and gold, kneeling. Ghost's face was hidden. Chrysanthemum's eyes were sharp. They had served Pope for twenty years. They knew Pope's voice when angry, when tired.
+
+This voice was different. Calmer. Steady.
 
 "Pope needs one month seclusion," he said. "No disturbance. Spirit Hall matters handled by Elder Hall and Worship Hall. Saintess matters — keep her safe. No punishment. Provide resources. Give her space."
 
-"Yes, His Holiness," they said.
+Ghost glanced at Chrysanthemum. Chrysanthemum frowned, just a little. Saintess matters — keep her safe, no punishment — that was not old Pope's order. Old Pope would punish. Old Pope would lock harder.
 
-He walked to the secret chamber deep in Worship Hall. Father's domain. Qian Daoliu, ninety-nine, Limit Angel Douluo, guardian of Angel God. He would notice improvement later.
+Chrysanthemum opened mouth, then closed it. He bowed lower.
+
+"Yes, His Holiness," they said. Both. Ghost's voice was hoarse. Chrysanthemum's was soft.
+
+They did not ask why. They were loyal. But they noticed difference. That was natural.
+
+He walked to the secret chamber deep in Worship Hall. Father's domain. Qian Daoliu, ninety-nine, Limit Angel Douluo, guardian of Angel God. Father would notice improvement later. Father always noticed.
 
 He sat, legs crossed. Six-winged angel faint behind. Holy light low.
 
@@ -62,9 +70,27 @@ Brilliant golden radiance spilled out. It covered the stone. It covered the stat
 
 Outside, Worship Hall elders felt it.
 
-Golden Crocodile Douluo opened his eyes. He was ninety-eight, only step away from ninety-nine. He felt holy aura dense and powerful like Seraphim Martial Soul of Qian Bloodline. Much stronger than before.
+Golden Crocodile Douluo opened his eyes. He was ninety-eight, only step away from ninety-nine, second strongest after Qian Daoliu. He sat in his own hall, old, scarred. He felt holy aura dense and powerful like Seraphim Martial Soul of Qian Bloodline. Much stronger than before. He frowned. He stood. He walked to window, looked toward Worship Hall secret chamber.
 
-Qian Daoliu turned his head in Angel statue hall. He felt it too. Growth staggering with creation of proper Soul Core that also gave off very dense and powerful Holy Aura like Seraphim.
+"That boy..." he muttered. "What did he do?"
+
+He was surprised. He had seen Qian Daoliu re-condense soul core before, power increased several times. Now Pope's holy aura was similar. Dense. Powerful. Like Seraphim. Growth staggering with creation of proper Soul Core that also gave off very dense and powerful Holy Aura like Seraphim. He wanted to learn. Old warrior respects strength. That was natural.
+
+Qian Daoliu turned his head in Angel statue hall. He was ninety-nine, Limit, High Priest of Angel God. He had completed eight trials. He guarded Angel statue for fifty years. He felt it too. Holy aura. Pure. White-gold. Not dim gold like son before. Purer. Closer to Angel God.
+
+He closed eyes. He felt vortex. Golden vortex with white-gold ripples. Six wings faint inside. Angel pupil.
+
+His son. Fifty years impurities, bloodline not pure, rings not fully his, bones not fully his. Fifty years he watched son fail. Pope politics, hunt for Blue Silver Emperor, hatred.
+
+Now... different.
+
+He stood. He walked to secret chamber door, but did not open. He stood outside, hands behind back. He listened to golden radiance inside. Angel Domain expansion. Brilliant golden radiance. Purification.
+
+He thought, finally awakened. Finally understood Angel God path. Not Pope politics, but Angel.
+
+Fatherly hope. Not just "supports" — hope. Old father who saw son fail for fifty years, now sees improvement, feels hope. That was natural.
+
+He did not disturb. He turned, walked back to Angel statue, sat. He would ask later. That was natural.
 
 Inside, vortex compressed further. Liquid to solid. Dantian solid. Chest warm.
 
@@ -88,41 +114,71 @@ He opened eyes. Holy light. Six wings brighter. Body purer. Rings perfectly abso
 
 He stood. Felt difference. Stronger than normal ninety-six. Much stronger.
 
-He walked out. Ghost and Chrysanthemum waiting. Bowed.
+He walked out. Ghost and Chrysanthemum waiting. They bowed, but eyes lifted.
 
-"His Holiness, you... different," Chrysanthemum said. "Bloodline purer, holy light stronger, faint golden radiance around you."
+"His Holiness, you... different," Chrysanthemum said. He was sharp-eyed, always. "Bloodline purer, holy light stronger, faint golden radiance around you. Purification?"
+
+Ghost did not speak. He felt it. Angel Domain faint golden radiance around Pope, purification, thirty percent amplification, slows target, negates negative energies. That was not old Pope.
 
 He said, "I need elders for sometime, I plan to create strict rules and end corruption in Spirit Hall, first foundation."
 
-"Yes," they said.
+Chrysanthemum glanced at Ghost. Strict rules, end corruption — that touched many elders. Some elders were corrupt. Pope only had three votes. All elders could dismiss Pope if all passed. That was canon — Elder Hall core power decides major decisions, even Pope only three votes.
+
+Chrysanthemum hesitated. Just half breath. Then bowed lower.
+
+"Yes, His Holiness," he said. Ghost nodded. They would call elders. But they would also talk among themselves. That was natural. Pope with purer bloodline, true angel core, much stronger than normal ninety-six, holy aura dense powerful like Seraphim — that gave weight. That was natural.
 
 Next, Bibi Dong.
 
-Saintess room, locked, guards. Bibi Dong inside, hatred in eyes, injuries from that night — no detail, just aftermath, physical injuries.
+Saintess room, locked, guards per old order — imprisoned to prevent harming fetus, monitored day and night until birth — canon order still holds for fetus safety, but OC gave order keep safe no punishment provide resources give space.
 
-He used angel holy light. Gentle, warm, holy. Physical healing only. No memory wipe. No telling he's reincarnator. Guilt, attraction, tolerance extreme. Considers wife genuinely. Never kills her.
+Bibi Dong inside. She sat on bed, back to wall, knees to chest, blanket around shoulders. Hatred in eyes, but also pain. Injuries from that night — no detail, just aftermath, physical injuries. She was saintess, twin spiders, but now just girl, nineteen? Twenty? Body taken by teacher.
 
-She flinched. Hatred stayed. But injuries healed. Physical only. Pain gone. Gentle warm holy light, not pillar, not judgement, just healing. Angel Spirit Power pure divine energy possessing purifying and dissolving effect.
+He knocked. No answer. He opened.
 
-He kept distance after healing. Didn't force wife role. Let her hate. Goes naturally per butterfly effects and canon info. Provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate. Earth single virgin, so matters, body and memories are his own.
+She looked up. Hatred hit. She flinched, pressed back to wall.
 
-He left, said, "You are saintess, you have freedom in your room, no punishment, resources provided."
+He did not step close. He stood at door, three steps away. That distance mattered.
 
-She didn't answer. Hatred remained, but physical pain gone.
+He used angel holy light. Gentle, warm, holy. Not pillar, not judgement, not Judgement of Light that melts Divine Power. Just healing. Angel Spirit Power pure divine energy possessing purifying and dissolving effect, but gentle now.
+
+Golden light, warm, fell on her arms, legs, where injuries were. Physical healing only. No memory wipe. No telling he's reincarnator. Guilt, attraction, tolerance extreme. Considers wife genuinely because body and memories are his own and Earth single virgin background. Never kills her in any condition.
+
+She flinched again. Light was warm. Pain lessened. She stared at light, then at him, hatred stayed, but confusion flickered — old Qian Xun Ji would not heal, would punish, would lock harder. This one healed.
+
+She did not thank. Victim does not thank attacker because attacker healed physical pain. That would not be natural. She turned face away, pulled blanket tighter, held it.
+
+Physical only. Pain gone. Body healed. But emotional wound remained. That was natural.
+
+He kept distance after healing. Did not force wife role. Did not say you are my wife now. Let her hate. Goes naturally per butterfly effects and canon info. Provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate. Earth single virgin, so matters, body and memories are his own. That is natural — not forced love, but genuine guilt and responsibility.
+
+He left, said from door, not close, "You are saintess, you have freedom in your room, no punishment, resources provided. Guards outside for safety, not punishment."
+
+She did not answer. She looked at wall. Hatred remained, but physical pain gone. She held blanket, knuckles white. She did not look at him.
+
+That silence was natural. Hatred does not vanish because pain gone.
+
+He closed door. Guards bowed. He told guards, "No one enters without her permission, except for food and medicine. If she needs anything, provide. If she wants to walk in courtyard, allow, with guards at distance for safety."
+
+Guards glanced at each other. Old order was lock harder. New order was freedom in room, no punishment. They bowed.
+
+"Yes, His Holiness," they said. They would talk later. That was natural.
 
 He returned to Pope Hall — desk, angel statues, holy light, core warm in chest — chest warm like dragon core, dantian solid rotating absorbing external soul power.
 
-He started writing — first book — Martial Soul True Classification — shocking continent — to gain truth and reputation for Spirit Hall — secretly to collect faith power slowly to create God position of own — per his plan — full codex: martial soul types Tool, Beast, Body, Element, Celestial Body Sun Moon Star, true levels Low, Mid, High, Top, Supreme/Ultimate/God, Hao Tian Hammer just Top level strong because techniques, 1 lakh red ring, 2 lakh great soul beast orange gold, external soul bone, body + spiritual power importance, spiritual power realms with points, how to choose rings, many things.
+He sat. He started writing — first book — Martial Soul True Classification — shocking continent — to gain truth and reputation for Spirit Hall — secretly to collect faith power slowly to create God position of own — per his plan — full codex: martial soul types Tool, Beast, Body, Element, Celestial Body Sun Moon Star, true levels Low, Mid, High, Top, Supreme/Ultimate/God, Hao Tian Hammer just Top level strong because techniques, 1 lakh red ring, 2 lakh great soul beast orange gold, external soul bone, body + spiritual power importance, spiritual power realms with points, how to choose rings, many things.
 
 Outside, Spirit City, sacred land for all soul masters because Pope Hall and Douluo Hall — Worship Hall above Pope Hall only Douluo qualified — Elder Hall between Pope Hall and Douluo Hall core of power decides major decisions even Pope only 3 votes all elders can dismiss Pope if all pass all elders Title Douluo ~20 seven led by Qian Daoliu at 96th level Worshipers — Spirit Holy Hall in capitals — Main Halls major cities — Sub-Halls medium cities — branch halls every city landmark.
 
-Inside, Bibi Dong room, hatred, but physical healing done, pregnancy will come, Qian Renxue future daughter, he will be real father, provide all resources, be father not distant, prevent tragic end, teach love not just mission.
+Elder Hall would debate his strict rules. Some corrupt elders would oppose because hurts them. Some clean elders would support because strengthens Spirit Hall. Qian Daoliu as Great Worship would support son if son shows Angel God path purer, because corruption weakens Spirit Hall, Angel God needs pure faith. That debate was natural. Not immediate yes.
 
-Outside, Qian Daoliu Worship Hall, Limit Douluo 99 Angel Douluo, father, will notice son's bloodline purer, core formed, thinks son finally awakened, supports.
+Inside, Bibi Dong room, hatred, but physical healing done, guards outside for safety not punishment, freedom in room, resources provided. She held blanket, looked at wall, hatred remained, physical pain gone. She did not know she was pregnant yet. Pregnancy would come. Qian Renxue future daughter. He would be real father, provide all resources, be father not distant, prevent tragic end, teach love not just mission. But now, just silence and hatred. That was natural.
+
+Outside, Qian Daoliu Worship Hall, Limit Douluo 99 Angel Douluo, father, noticed son's bloodline purer, core formed, holy aura dense powerful like Seraphim, growth staggering with proper Soul Core. He stood outside secret chamber door earlier, did not disturb, felt hope. Old father who saw son fail fifty years, now sees improvement, feels hope. That was natural. He would ask later, would test, would want to learn Soul Core formation. That was natural.
 
 He wrote, holy light, breath steady, blood warm, bone steady — embodied only — sweat, blood heat, bone heat, chest warm, dantian solid, six wings brighter, golden radiance faint.
 
-First chapter ends after seclusion + healing, before guild/codex — foundation for new fanfic — naturally — phenomena level.
+First chapter ends after seclusion + healing, before guild/codex — foundation for new fanfic — naturally — phenomena level — other characters natural per canon + butterfly effects.
 
 ---
 
