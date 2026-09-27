@@ -144,7 +144,7 @@ He did not step close. He stood at door, three steps away. That distance mattere
 
 He used angel holy light. Gentle, warm, holy. Not pillar, not judgement, not Judgement of Light that melts Divine Power. Just healing. Angel Spirit Power pure divine energy possessing purifying and dissolving effect, but gentle now.
 
-Golden light, warm, fell on her arms, legs, where injuries were. Physical healing only. No memory wipe. No telling he's reincarnator. Guilt, attraction, tolerance extreme. Considers wife genuinely because body and memories are his own and Earth single virgin background. Never kills her in any condition.
+Golden light, warm, fell on her arms, legs, where injuries were. Physical healing only. No memory wipe. No telling he's reincarnator. Guilt, attraction, tolerance extreme. Considers wife genuinely because body and memories are his own and Earth single virgin background Gaurav Meena / Càn Róng matters. Never kills her in any condition.
 
 She flinched again. Light was warm. Pain lessened. She stared at light, then at him, hatred stayed, but confusion flickered — old Qian Xun Ji would not heal, would punish, would lock harder. This one healed.
 
@@ -152,13 +152,17 @@ She did not thank. Victim does not thank attacker because attacker healed physic
 
 Physical only. Pain gone. Body healed. But emotional wound remained. That was natural.
 
-He kept distance after healing. Did not force wife role. Did not say you are my wife now. Let her hate. Goes naturally per butterfly effects and canon info. Provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate. Earth single virgin, so matters, body and memories are his own. That is natural — not forced love, but genuine guilt and responsibility.
+He kept distance after healing. Did not force wife role. Did not say you are my wife now. Let her hate. Goes naturally per butterfly effects and canon info. Provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate. Earth single virgin Gaurav Meena / Càn Róng, so matters, body and memories are his own. That is natural — not forced love, but genuine guilt and responsibility.
 
-He left, said from door, not close, "You are saintess, you have freedom in your room, no punishment, resources provided. Guards outside for safety, not punishment."
+He was genuinely a good person, although he doesn't accept or said that he thinks himself he do what's he wanted but actually corely good guy — not even hurt without reason let alone kill without reason — per user — corely good guy — never hurts without reason — never kills without reason — tolerance extreme — never kills Bibi Dong in any condition — genuinely good person core — thinks he does what he wants but actually corely good.
+
+About relationship he was never before although he have Qian Xun Ji 50 years experience and others things but still you can understand — Earth single virgin never before — so quite and low talk to Bibi Dong because he doesn't know how to — per user — quiet low talk — not cold but doesn't know how to talk in relationship — stands at door three steps away — says from door not close — does not force — if Bibi Dong initiative or relation becomes more good and comfortable he talks or even shares many things — per user — if relation becomes more good and comfortable he opens up — if Bibi Dong initiative he responds — not forced — natural — quiet low talk at start because doesn't know how to.
+
+He left, said from door, not close, quiet, low voice, "You are saintess, you have freedom in your room, no punishment, resources provided. Guards outside for safety, not punishment." Quiet low talk because doesn't know how to — relationship never before although have Qian Xun Ji experience but still you can understand.
 
 She did not answer. She looked at wall. Hatred remained, but physical pain gone. She held blanket, knuckles white. She did not look at him.
 
-That silence was natural. Hatred does not vanish because pain gone.
+That silence was natural. Hatred does not vanish because pain gone. Quiet low talk was natural because he never before relationship — if she initiative or relation becomes more good comfortable he talks shares many things — per user.
 
 He closed door. Guards bowed. He told guards, "No one enters without her permission, except for food and medicine. If she needs anything, provide. If she wants to walk in courtyard, allow, with guards at distance for safety."
 

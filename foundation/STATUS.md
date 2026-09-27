@@ -47,6 +47,16 @@
 
 ---
 
+## OC Personality — Gaurav Meena / Càn Róng — Genuinely Good Person — Quiet Low Talk to Bibi Dong — Natural
+
+- **Genuinely Good Person:** OC is genuinely a good person although he doesn't accept or said that he thinks himself he do what's he wanted but actually corely good guy — per user — he thinks he does what he wants but core is good — not because system — natural
+- **Not Even Hurt Without Reason Let Alone Kill Without Reason:** Not even hurt without reason let alone kill without reason — per user — corely good guy — never hurts without reason — never kills without reason — tolerance extreme — never kills Bibi Dong in any condition — never kills without reason — that is core good
+- **Relationship Never Before:** Relationship was never before although he have Qian Xun Ji experience and others things but still you can understand — per user — Earth single virgin — never before in relationship — although have Qian Xun Ji 50 years Pope experience and memories and others things but still you can understand — still quite and low talk to Bibi Dong because he doesn't know how to — per user — so that's why he quite and low talk to Bibi Dong because he doesn't know how to — natural — quiet low talk — not because cold but because doesn't know how to talk in relationship — Earth single virgin never before
+- **Talk If Bibi Dong Initiative:** He talk or even share many things if Bibi Dong initiative or relation relationship become more good and comfortable — per user — if Bibi Dong initiative or relation become more good and comfortable he talks and shares many things — natural — goes naturally butterfly effects — if relation becomes more good and comfortable he opens up — if Bibi Dong initiative he responds — not forced — natural per canon butterfly effects — quiet low talk at start because doesn't know how to
+- **Embodied:** Shows as quiet low talk to Bibi Dong — stands at door three steps away — says from door not close — guards for safety not punishment — does not force wife role — lets hate remain — provides resources secretly — not even hurt without reason let alone kill — genuinely good person core — thinks he does what he wants but actually corely good guy — per user — clean and clear
+
+---
+
 ## Martial Soul — Seraphim — Six-Winged Angel — Full Description
 
 - **Name:** Seraphim — Six-Winged Angel — Qian family martial soul — Angel God bloodline
