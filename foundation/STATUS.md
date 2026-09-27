@@ -139,7 +139,7 @@
 
 > **Canon Check:** Qian Xun Ji Items Soul Bones Less than 3 among the Angelic Soul Bone set — per fandom — Angel Suit is set of six spirit bones 99,999 years each will reach 100k upon complete fusion — per Baidu Soul Bone Qian Renxue Angel God Set Complete Six Soul Bones excluding External Soul Bones six 99,999 Year Soul Bones all will reach Hundred Thousand Year level upon complete fusion — Soul Bones produced by Ten Thousand Year and below only come with one skill while Hundred Thousand Year Soul Bones guaranteed at least two skills — Soul Bone Skills fixed originating from soul beast core abilities during lifetime do not change based on absorber — Once absorbed cannot be separated unless owner killed automatically drop ownerless — limb bones exception when Titled Douluo can sever limb forcibly extract at cost soul power decreasing 10 levels — When Soul Beast over 100k hunted guaranteed drop 100k bone for body part killer does not possess unless already has all six — per Baidu Soul Bone
 >
-> **So Qian Xun Ji has 2 pieces among Angelic set before seclusion 99,999 each — after True Angel Core formation with adaptation talent becomes 100,000 each — 100k soul bone guaranteed at least two skills — that is the change — not writing Big Thing note — just clean ages**
+> **So Qian Xun Ji has 2 pieces among Angelic set before seclusion 99,999 each — after True Angel Core formation with adaptation talent becomes 100,000 each — 100k soul bone guaranteed at least two skills — that is the change — just clean ages**
 
 | Position | Age Before | Age After | Origin Beast (Designed) — Angelic Set | Soul Bone Skills — Designed — Clean — Two Skills Because 100k — Fixed Origin | Notes — Clean |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 
 **Explanation Clean Systematic:**
 - Canon Less than 3 among Angelic Soul Bone set — so OC has 2 pieces among Angelic set — Head and Torso — each 99,999 years — Angel God Set Complete Six Soul Bones six 99,999 Year Soul Bones all will reach 100k upon complete fusion — so 99,999→100,000 is threshold — 100k soul bone guaranteed at least two skills — soul bone skills fixed originating from soul beast core abilities — once absorbed cannot be separated unless owner killed — limb bones exception Titled Douluo can sever limb forcibly extract at cost soul power decreasing 10 levels — when 100k soul beast hunted guaranteed drop 100k bone for body part killer does not possess unless already has all six — per Baidu Soul Bone
-- After seclusion with True Angel Core + adaptation talent — 99,999→100,000 — that change is because adaptation talent + True Angel Core purifies bones — not writing Big Thing note — just clean ages — much stronger physique — foundation Limit Douluo — body tough as angel — spiritual sea tough as angel — helps forming soul core
+- After seclusion with True Angel Core + adaptation talent — 99,999→100,000 — that change is because adaptation talent + True Angel Core purifies bones — just clean ages — much stronger physique — foundation Limit Douluo — body tough as angel — spiritual sea tough as angel — helps forming soul core
 - Other 4 positions among Angelic set not yet possessed — will be obtained later via hunting 100k soul beasts — guaranteed drop for missing part — plus external rare — will complete Angel Suit six bones — Angel Suit transformation Angel Sacred Armor + Angel Sword upon complete fusion per Angel God Trials — Exclusive Rewards Angel Sacred Armor Transformation of all six spirit bones Angel Sword
 
 ---
