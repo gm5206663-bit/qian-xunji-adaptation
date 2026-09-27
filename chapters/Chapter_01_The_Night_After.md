@@ -52,7 +52,9 @@ Nine rings — Two Yellow, Two Purple, Five Black — already present. Not perfe
 
 Next five days, bones integrated.
 
-Head, torso, arms, legs, external if any — fully absorbed. No longer external. Physique stronger, meridians wider, bones denser. Standing felt lighter. Sitting felt rooted.
+He had less than three among the Angelic Soul Bone set — canon per fandom — Angel Suit is six spirit bones 99,999 years each will reach 100k upon complete fusion per Baidu — he had two pieces among Angelic set before seclusion — Head and Torso — 99,999 years each — Head and Torso fully absorbed — becomes part of body — no longer external — physique stronger, meridians wider, bones denser — natural effects body tough as angel spiritual sea tough as angel Attack Defense Health increase Growth potential passive not active skill — real soul bone skills fixed origin from soul beast core abilities 10k one skill 100k at least two skills — Head bone real skills Physical Disguise + Mental Immunity True World — Torso bone real skills Martial Soul Disguise + Angelic Protection Angel God Armor Prototype — natural effects vs real skills separated — after seclusion with True Angel Core formation with adaptation talent becomes 100,000 years each — 100k guaranteed at least two skills — other four positions among Angelic set not yet possessed will be obtained later via 100k hunt guaranteed drop for missing part unless already has all six — external rare not possessed yet — Angel Suit six bones 99,999 each will reach 100k upon complete fusion Angel Sacred Armor + Angel Sword upon complete fusion per Angel God Trials.
+
+Standing felt lighter. Sitting felt rooted.
 
 Last five days, core formed.
 
