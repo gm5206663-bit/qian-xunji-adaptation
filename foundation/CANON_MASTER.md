@@ -465,7 +465,9 @@ continental superpower of the era — see §11 for its standing among empires.
   Sword (七杀剑), title "Sword"**, of the Seven Treasure Glazed Tile Sect; the
   "first attack Douluo of the continent" claim; his seventh skill is canon's
   clearest phrasing of man-sword unity — **tool-soul true body (器魂真身):
-  "sword and body as one"** — and his ninth is "God-Devil Twin Slash"
+  "sword and body as one"** — and his ninth is "God-Devil Twin Slash";
+  **past level 95, each advance evolves the martial soul itself**
+  [canon-baike: "above level 95, every level-up evolves the martial soul"]
   [canon-baike, donghua page + novel skills; the theatrical film adds
   variants, noted as adaptation]. Fan works' "sword intent" (剑意) language
   is **not** a receipt.
