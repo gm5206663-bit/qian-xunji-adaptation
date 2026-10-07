@@ -9,10 +9,10 @@ in the order below, then do not write a word until you have.
   Pope of Spirit Hall, on the morning after the night with Bibi Dong.
   Adaptation Talent (Mortal Divine Level, never named in prose). Soul Land 1
   era, about 25 years before Tang San is born.
-- **Chapters:** Ch01 "The Night After" — live. Ch02 "The Codex" v1 — on disk,
-  awaiting the author-ordered read-and-fix pass (R26). Nothing else is written.
-- **Next beat:** the read-and-fix pass on Ch01–Ch02, then Ch03 on the
-  author's word.
+- **Chapters:** Ch01 "The Night After" **v5** — live. Ch02 "The Codex"
+  **v2** — pass complete (both under the R26 read-and-fix pass, 2026-10-07;
+  house gate: ALL HARD CHECKS PASS). Nothing else is written.
+- **Next beat:** **Ch03 — on the author's word** (the pass is done).
 - **Stage 0:** grandfathered — founded 2026-09-27, before the Foundation-Stage
   law; drafting is unlocked. See `OPEN_RULINGS.md`.
 - **The far ends are open by the author's own order:** Bibi Dong's road, the

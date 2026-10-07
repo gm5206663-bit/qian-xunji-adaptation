@@ -6,11 +6,11 @@ fixed.
 
 ## §0 LIVE EDGE — where the story is now
 
-- **Chapters:** Ch01 "The Night After" — **live**. Ch02 "The Codex" v1 — on
-  disk, awaiting the author-ordered read-and-fix pass (R26). Nothing else is
-  written.
-- **Next:** the read-and-fix pass on Ch01–Ch02 (gate + canon, line by line,
-  numbers measured), then Ch03 — on the author's word.
+- **Chapters:** Ch01 "The Night After" **v5** — **live**. Ch02 "The Codex"
+  **v2** — pass complete (both under the R26 read-and-fix pass, 2026-10-07;
+  house gate: ALL HARD CHECKS PASS). Nothing else is written.
+- **Next:** **Ch03 — on the author's word** (the pass is done: story kept
+  whole, note paragraphs out of the bodies, jargon out, numbers measured).
 - **Story position:** the morning after the night with Bibi Dong. The one
   month of seclusion is done; the first volume of the codex is written and
   sent out; the first foundation passed the Elder Hall; Bibi Dong's room is
@@ -83,13 +83,16 @@ fixed.
 
 ## §5 Counts (measured only — k06)
 
-- Chapters written: 1 live + 1 v1 pending pass.
-- Baseline measured 2026-10-07 with `tools/measure_chapter.py`, as pushed:
-  **Ch01 body 3,503w — over the band, 7 lines over 60 words, jargon ×1;
-  Ch02 body 2,873w — in band, 8 lines over 60, jargon ×8.** Both bodies
-  interleave story prose with foundation-note paragraphs; the pass separates
-  them and re-measures. (The sweep's finding stands on record: Ch01's footer
-  claimed ~2700w for what measured over 3,500w.)
+- Chapters written: 2 — Ch01 v5 (live) · Ch02 v2 (pass complete).
+- **Passed 2026-10-07 (R26)**, measured with `tools/measure_chapter.py` and
+  the house style gate run directly on both files: **Ch01 v5 body 3,392w —
+  band IN, 0 over 60, 0 the-way, 0 jargon, avg 12.2w, med 10; Ch02 v2 body
+  2,495w — band IN, 0 over 60, 0 the-way, 0 jargon, avg 13.6w, med 10.**
+  Pre-pass baseline, kept for the record: Ch01 3,503w (over band, 7 over-60,
+  jargon ×1); Ch02 2,873w (in band, 8 over-60, jargon ×8); both bodies
+  interlaced story prose with foundation-note paragraphs. The pass separated
+  them; full receipts in the chapter footers. (The sweep's finding stands on
+  record: Ch01's footer had claimed ~2700w for what measured over 3,500w.)
 
 ## §6 The gate
 

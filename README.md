@@ -8,11 +8,12 @@ edges — and a man who, for the first time in this era, has a soul core.
 
 ## Where it stands (2026-10-07)
 
-- **Ch01 "The Night After" — live.**
-- **Ch02 "The Codex" v1 — on disk, awaiting the author-ordered read-and-fix
-  pass.**
-- The foundation docset v6.0 was adopted on 2026-10-07 (Control Centre gate:
-  PASS). Next: the pass on Ch01–Ch02, then Ch03 — on the author's word.
+- **Ch01 "The Night After" v5 — live.**
+- **Ch02 "The Codex" v2 — read-and-fix pass complete (R26, 2026-10-07).**
+- The R26 read-and-fix pass on Ch01–Ch02 is done: story kept whole, note
+  paragraphs out of the bodies, jargon out, house gate ALL HARD CHECKS PASS,
+  every number measured (Ch01 3,392w · Ch02 2,495w — band IN, 0 over-60, 0
+  the-way). Next: **Ch03 — on the author's word.**
 
 ## Start here
 

@@ -38,14 +38,18 @@ shows them ships (k05).
 
 | Chapter | Body words now | Band 2400–3400 | Over-60 lines | the-way | Jargon | Status |
 |---|---|---|---|---|---|---|
-| Ch01 The Night After (live) | 3,503 | **OVER** | 7 | 0 | 1 | pass pending (R26) |
-| Ch02 The Codex v1 | 2,873 | OK | 8 | 0 | 8 | pass pending (R26) |
+| Ch01 The Night After — **v5** | **3,392** | IN | 0 | 0 | 0 | pass complete (R26, 2026-10-07) |
+| Ch02 The Codex — **v2** | **2,495** | IN | 0 | 0 | 0 | pass complete (R26, 2026-10-07) |
 
-**Baseline measured 2026-10-07 (pre-pass), as pushed:** both bodies interleave
-story prose with foundation-note paragraphs — receipt voice, "per instruction"
-lines, codex list-dumps. That interleaving is what pushes Ch01 over the band,
-drives the over-60 counts, and puts banned terms inside the bodies (Ch01:
-"adaptation talent" ×1; Ch02: "adaptation talent" ×3, "true divine" ×4,
-"system window" ×1 — all in note lines, not story lines). The pass separates
-the two — story prose stays, receipts move to the footer, jargon leaves the
-body — and every number above is re-measured at the end of the pass.
+**The pass (R26) ran 2026-10-07 — the same day as the baseline.** The story
+prose stayed whole; the foundation-note paragraphs left the bodies (content
+restated in prose or moved to the chapter footers); jargon left the body; every
+number above was re-measured. House style gate (the Grey Wolf style gate, run
+directly on both chapter files): **ALL HARD CHECKS PASS** — band IN, 0 over-60,
+0 the-way, 0 bare panels. Full receipts in each chapter's footer.
+
+**Pre-pass baseline, kept for the record (measured 2026-10-07, as pushed):**
+Ch01 body 3,503w — over the band, 7 lines over 60, jargon ×1; Ch02 body
+2,873w — in band, 8 lines over 60, jargon ×8. Both bodies interlaced story
+prose with foundation-note paragraphs; that interleaving was what pushed Ch01
+over the band and put banned terms inside the bodies.

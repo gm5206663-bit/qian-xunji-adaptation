@@ -1,199 +1,203 @@
 # Chapter 01 — The Night After
 
-Pope Hall sat above Spirit City like a blade laid flat. Stone, gold, and quiet. At night the wind came off the plains and hit the high walls and broke. Inside, the angel statues did not move.
+Pope Hall sat above Spirit City like a blade laid flat — stone, gold, and quiet. At night the wind came off the plains and hit the high walls and broke. Inside, the angel statues stood in their rows and did not move.
 
 He woke with cold stone under his back and two lives in one skull.
 
-One life was Earth's. Gaurav Meena. Chinese fantasy call Càn Róng. A boy who had been single his whole life. Virgin. A boy who read at night with a small light on, Soul Land open to the end, all of it, one and two and three and the wiki pages after. He knew Tang San, Bibi Dong, Qian Renxue, Qian Daoliu. He knew Spirit Hall, Angel God, Rakshasa God. He knew soul cores, dragon cores, angel cores. He was Gaurav Meena, now called Càn Róng in Chinese fantasy.
+One life was Earth's. His name there had been Gaurav Meena; Càn Róng, if you wrote it in this world's letters. He had been single, and alone, and content with both.
 
-The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel. Son of Qian Daoliu. Teacher of Bibi Dong. Fifty years of politics, Elder Hall, Worship Hall, the hunt for the Blue Silver Emperor, Tang Hao, the death waiting in Pope Hall.
+He was a boy who read at night with a small light on. He had read Soul Land to the end, all of it — one and two and three and the wiki pages after — until he knew its names like a child knows weather.
 
-Both were his now. Body and memory were his own.
+The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel, son of Qian Daoliu, teacher of Bibi Dong. Fifty years of politics and worship and patience, a hunt for a Blue Silver Emperor not yet begun, and an old death waiting somewhere down the years in this same hall.
 
-He sat up. The secret chamber was dim. Holy light low. The air still held that night. That thing. No detail stayed, only aftermath, only wrongness, only hatred that had been in the room and was gone now because she had been taken to her room under guard, imprisoned to prevent harming the fetus, watched day and night until birth.
+Both were his now. The body was his and the memory was his, and there was no one left to ask.
 
-Old memory said it plain. Secret chamber. Bibi Dong stripped. Defiled. Pregnant with Qian Renxue. Imprisoned until birth. Level ninety-five, Two Yellow Two Purple Five Black, Six-Winged Angel, severely injured by Tang Hao later, killed by Bibi Dong.
+He sat up slowly. The secret chamber was dim under its low holy light, and the air still held the shape of what had happened in it. That night. That thing. No detail stayed with him — only the aftermath, the wrongness, and the hatred that had filled this room and then walked out under guard.
 
-He had not done it. Earth self had never touched anyone. But body had. Memory had. Guilt hit like a hammer, not because he chose, but because body and memory were his own now. He was single and virgin on Earth, so this mattered. Body mattered. Memory mattered. He considered her his wife genuinely. There was guilt. There was attraction. There was tolerance extreme. He would never kill her in any condition.
+Old memory said the rest plainly, because old memory did not soften anything. She had been taken back to her room. She was carrying a child. He knew the shape of that child's life from another life entirely — from pages, from a night-light, from a story that had hurt to read and hurt more to remember — a daughter who would be raised hidden, taught duty instead of love, and sent toward an inheritance heavier than she was. She did not know yet. He did.
 
-His body felt wrong. Fifty years of impurities sat in blood and bone. Bloodline not pure. Rings not fully his. Bones not fully his. Soul power not compressed. Spiritual power scattered. He was ninety-five, but not clean.
+He had not done it. The Earth life had never touched anyone; single, careful, a boy with books and no hands on anybody. But the body had done it, and the memory had kept it, and both of those belonged to him, which meant the debt belonged to him too, whatever any court of anyone's opinion would say.
+
+He did not run from that. The body had a wife, as this world counted such things. He would not pretend otherwise, and he would not use it as a claim, either. Under the guilt, and under an attraction he did not trust, something quieter sat — patience laid like a floor under a flooded room, and one line he would not cross. Whatever she became in the years ahead, whatever she chose, he would never be the hand that ended her. That was not generosity. It was the one part of himself he fully recognized.
+
+His body felt wrong, in the manner of an old house with the windows still shut. Fifty years of impurities sat in the blood and the bone. The bloodline was not pure. The rings were not fully his. The bones were not fully his. Soul power lay in him scattered, a lake that had never once been allowed to sit still. He was ninety-five, and not a clean ninety-five at all.
 
 He called for Ghost and Chrysanthemum.
 
-They came fast, black and gold, kneeling. Ghost's face was hidden. Chrysanthemum's eyes were sharp. They had served Pope for twenty years. They knew Pope's voice when angry, when tired.
+They came fast, black and gold, and knelt. Ghost's face was hidden. Chrysanthemum's eyes were quick. Twenty years, the two of them, at the old Pope's back — they knew his voice when it was angry and when it was tired, like hounds know a step on gravel.
 
-This voice was different. Calmer. Steady.
+This voice was neither. This voice was calm. It belonged, they would say later among themselves, to a body that had set something down.
 
-"Pope needs one month seclusion," he said. "No disturbance. Spirit Hall matters handled by Elder Hall and Worship Hall. Saintess matters — keep her safe. No punishment. Provide resources. Give her space."
+"One month of seclusion," he said. "No disturbances. Hall matters go to the Elder Hall and the Worship Hall. The Saintess is to be kept safe. No punishment. Her needs provided. Give her space."
 
-Ghost glanced at Chrysanthemum. Chrysanthemum frowned, just a little. Saintess matters — keep her safe, no punishment — that was not old Pope's order. Old Pope would punish. Old Pope would lock harder.
+Ghost glanced at Chrysanthemum. Chrysanthemum frowned half a finger's width and then smoothed it away. Keep her safe. No punishment. The old Pope would have said harsher things and meant them harder.
 
-Chrysanthemum opened mouth, then closed it. He bowed lower.
+Chrysanthemum opened his mouth, and closed it, and bowed lower than he had bowed in years.
 
-"Yes, His Holiness," they said. Both. Ghost's voice was hoarse. Chrysanthemum's was soft.
+"Yes, His Holiness," they said.
 
-They did not ask why. They were loyal. But they noticed difference. That was natural.
+They did not ask why. They were loyal, and it was not loyalty's business to ask. But they noticed the difference — anyone would have noticed the difference — and that, he thought, was only natural. The world was allowed to notice.
 
-He walked to the secret chamber deep in Worship Hall. Father's domain. Qian Daoliu, ninety-nine, Limit Angel Douluo, guardian of Angel God. Father would notice improvement later. Father always noticed.
+He walked alone to the secret chamber deep under the Worship Hall, into his father's domain. Qian Daoliu was ninety-nine, a Limit Douluo, the Angel God's guardian and his own oldest measure. His father would notice the change before anyone else. His father had always noticed, even in the years when all there was to notice was failure.
 
-He sat, legs crossed. Six-winged angel faint behind. Holy light low.
+He sat cross-legged under the low light. Behind his back, the six wings showed faint and dim gold. He closed his eyes, and let the work begin.
 
-First three days, impurities cleared.
+First three days: impurities.
 
-Black sweat came out. Foul blood. The smell was sour. Heat rose from skin, then cold. He breathed through it. Like Tang Wulin's dragon core purifying body, meridians, bones, spiritual sea tough as dragon. True Angel Core similar but angel — blood essence plus divine things.
+Black sweat came out of him, and foul blood, and the smell of it was old. Heat rose off his skin, and cold chased the heat, and he breathed through both. He held on to the shape of what he was doing. From the other life he knew the pattern — a core of blood essence, the kind the great dragons would carry in an age not yet born. His would be the angel's version. He did not hurry. Hurry was for people with nothing to wait on.
 
-Next seven days, bloodline purified.
+Next seven days: bloodline.
 
-Six wings behind became brighter. Before they were dim gold. Now they were white-gold. Feathers like light. Heat in chest, heat in blood. Angel God bloodline better. Not God yet. Purer.
+The wings behind him brightened as the days went. Dim gold first, then gold with white running through it, then white-gold, feathers laid along light. Heat sat in his chest and moved in his blood. The Angel God's blood ran better in him than it had in fifty years — not divine, he was no god, but purer, closer to the thing the old blood had only ever been a rumor of.
 
-Next ten days, rings integrated.
+Next ten days: rings.
 
-Nine rings — Two Yellow, Two Purple, Five Black — already present. Not perfectly absorbed before. Now they sank. Pain then relief. Bone heat, blood heat. Rings became part of body, not just external light. When he breathed, rings pulsed with breath.
+Nine of them — two yellow, two purple, five black — had hung around him for years like guests who never took their coats off. Now they sank in. There was pain, and after the pain a relief so deep it was almost grief, and then the rings were part of the body and not light hung outside it. When he breathed, they breathed.
 
-Next five days, bones integrated.
+Next five days: bones.
 
-He had less than three among the Angelic Soul Bone set — canon per fandom — Angel Suit is six spirit bones 99,999 years each will reach 100k upon complete fusion per Baidu — he had two pieces among Angelic set before seclusion — Head and Torso — 99,999 years each — Head and Torso fully absorbed — becomes part of body — no longer external — physique stronger, meridians wider, bones denser — natural effects body tough as angel spiritual sea tough as angel Attack Defense Health increase Growth potential passive not active skill — real soul bone skills fixed origin from soul beast core abilities 10k one skill 100k at least two skills — Head bone real skills Physical Disguise + Mental Immunity True World — Torso bone real skills Martial Soul Disguise + Angelic Protection Angel God Armor Prototype — natural effects vs real skills separated — after seclusion with True Angel Core formation with adaptation talent becomes 100,000 years each — 100k guaranteed at least two skills — other four positions among Angelic set not yet possessed will be obtained later via 100k hunt guaranteed drop for missing part unless already has all six — external rare not possessed yet — Angel Suit six bones 99,999 each will reach 100k upon complete fusion Angel Sacred Armor + Angel Sword upon complete fusion per Angel God Trials.
+Of the Angel set he had owned two pieces — head and torso, ninety-nine thousand nine hundred and ninety-nine years apiece, uncounted time spent waiting to be worn. They went in as the rings had: pain first, then relief, then a strangeness like remembering a limb he had never had. His body came out tougher, his meridians wider, his bones denser. The two pieces were no longer armor. They were him. Standing felt lighter. Sitting felt rooted. And one thing more: they had come to him one year short of the hundred-thousand mark, and the perfect absorption carried them across it — a hundred thousand years each, worn all the way through.
 
-Standing felt lighter. Sitting felt rooted.
+Last five days: the core.
 
-Last five days, core formed.
+He used what the other life had given him. In the age to come, the first soul core would arrive at ninety for most who ever managed one at all, though a rare few got there earlier — the dragon-touched heir who would carry a core in his chest by fifty-nine was one of the exceptions the books remembered. There was no such thing as a ninety-five-year-old exception before the eyes of the world. He was going to be the first.
 
-He used meta knowledge. First soul core mostly forms at ninety in Soul Land two era, but main characters like Huo Yuhao and Tang Wulin can form at seventy around. True dragon core is blood essence core. True angel core is angel version — blood essence plus divine things — martial soul, authority, domain.
+He began the compression. Soul power, liquid, packed and pressed toward solid.
 
-He started compression. Soul power — liquid — to solid.
+A vortex opened in front of his chest.
 
-A vortex opened in front of his chest and dantian.
+It was gold, not black. White-gold ripples turned around it, and inside the ripples, faint and far, six wings and a pupil like a seraph's eye — and the vortex drank. Soul power poured in until eighty percent of everything he held was gone. His breath came short. His blood ran hot. It was not burning. It was like being pulled down a long well of light by a rope that was also light.
 
-Gold, not black. White-gold ripples swirled. Inside the ripples, faint six wings, and an angel eye pupil, like seraphim eye looking out. Soul power was being sucked in. Over eighty percent consumed in an hour. Breath short. Blood hot. Soul felt like being pulled into endless light, deeply connected.
+The domain let go on its own.
 
-Angel Domain expanded on its own.
+Brilliant golden radiance came off him and filled the chamber. It covered the stone and climbed the statues and turned the air thick and warm. This was the Seraphim's innate domain, and he knew it from the other life like he knew his own hands. Inside it, his power ran thirty percent stronger. It slowed what stood against it, and settled what stood at its center, and where death-aura pressed in, the domain washed it out. It cleansed.
 
-Brilliant golden radiance spilled out. It covered the stone. It covered the statues. The secret chamber turned gold. The air turned thick and warm. This was innate domain of Seraphim spirit. It amplified power by thirty percent. It made target remain at center. It slowed. It negated death and killing aura. It purified spirit power, melted away opponent's power while empowering own.
+Out in the Worship Hall, an old man felt it.
 
-Outside, Worship Hall elders felt it.
+Golden Crocodile Douluo opened his eyes in his own hall. He was ninety-eight, one step from the final wall, second in the Hall behind Qian Daoliu alone, and his face carried scars older than most of the men who served under him. The holy aura coming off the Worship Hall was dense and heavy, like the Seraphim line at its best — heavier than that, in truth. He rose. He walked to the window and stood a long moment, looking at nothing at all.
 
-Golden Crocodile Douluo opened his eyes. He was ninety-eight, only step away from ninety-nine, second strongest after Qian Daoliu. He sat in his own hall, old, scarred. He felt holy aura dense and powerful like Seraphim Martial Soul of Qian Bloodline. Much stronger than before. He frowned. He stood. He walked to window, looked toward Worship Hall secret chamber.
+"That boy," he said at last. "What did you do?"
 
-"That boy..." he muttered. "What did he do?"
+He had lived ninety-eight years and had never seen a soul core. No one in this era had. He had no word for what he was feeling from across the courtyard; he only knew it was strength — real strength, more of it than the Hall's second man had any comfortable place to put. An old warrior's respect woke in him and pointed itself at whatever had just happened, and under the respect, patient and natural, sat a wanting to learn. He would ask. Later.
 
-He was surprised. He had NEVER seen soul core before — no human in Douluo 1 era has soul core — per SL1 canon soul cores introduced in SL2 — Qian Daoliu 99 does NOT have soul core — Golden Crocodile 98 does NOT have soul core — no one has — OC is first human in this era with True Angel Core — difference huge. Now Pope's holy aura was dense, powerful, like Seraphim, chest warm core dantian solid rotating absorbing external power phenomena golden vortex white-gold ripples six wings faint angel pupil holy pillar Angel Domain expansion. Growth staggering with creation of proper Soul Core that also gave off very dense and powerful Holy Aura like Seraphim — first time seeing soul core in this era. He wanted to learn. Old warrior respects strength. That was natural — wants to form first core.
+Farther in, in the Angel statue hall, Qian Daoliu turned his head.
 
-Qian Daoliu turned his head in Angel statue hall. He was ninety-nine, Limit, High Priest of Angel God. He had completed eight trials. He guarded Angel statue for fifty years. He felt it too. Holy aura. Pure. White-gold. Not dim gold like son before. Purer. Closer to Angel God.
+Ninety-nine. Limit. The Angel God's guardian for fifty years, the Eight Trials of the Angel behind him. He had felt the aura too — and it was pure. White-gold. Not the dim gold of a son who had spent half a century failing to be anything but a Pope. Purer than that. Closer.
 
-He closed eyes. He felt vortex. Golden vortex with white-gold ripples. Six wings faint inside. Angel pupil.
+He closed his eyes, and behind his eyelids the vortex turned: gold, ripple on ripple, wings faint inside it, and a pupil like an eye.
 
-His son. Fifty years impurities, bloodline not pure, rings not fully his, bones not fully his. Fifty years he watched son fail. Pope politics, hunt for Blue Silver Emperor, hatred.
+His son.
 
-Now... different.
+Fifty years of impurities he had watched with his own eyes. Fifty years of the wrong path — politics and hunting and wanting things — and now something new hummed behind the chamber door.
 
-He stood. He walked to secret chamber door, but did not open. He stood outside, hands behind back. He listened to golden radiance inside. Angel Domain expansion. Brilliant golden radiance. Purification.
+He walked to that door and did not open it. He stood outside with his hands behind his back and listened to the light.
 
-He thought, finally awakened. Finally understood Angel God path. Not Pope politics, but Angel.
+Finally awakened, he thought. Finally on the Angel's path. Not the Pope's path. The Angel's.
 
-Fatherly hope. Not just "supports" — hope. Old father who saw son fail for fifty years, now sees improvement, feels hope. That was natural.
+He did not knock. He was an old man, and he knew the value of a threshold left uncrossed. He turned, walked back to the statue, and sat down again. Somewhere under the stone face of him, hope moved — real hope, the first in half a century — and he let it move.
 
-He did not disturb. He turned, walked back to Angel statue, sat. He would ask later. That was natural.
+Inside, the vortex compressed the last of itself. Liquid went to solid. A center.
 
-Inside, vortex compressed further. Liquid to solid. Dantian solid. Chest warm.
+Then the light fell from above.
 
-Then light fell from above.
+A pillar of golden light came down through the thick roof of the Worship Hall as though the roof were not there, and the sun leaned in after it. It was heat without burning. It did not attack; it washed. Smaller pillars formed around the first, circling, holding — an array of light with him at the middle of it.
 
-A pillar of golden light from sun above, even through thick Worship Hall roof. Pure golden light. Extreme heat but not burning. Warm. Purifying. Like Judgement of Light — Divine level attack that combines Holy Attribute and power of sun, calls down pillar of golden light, extreme heat, Holy Flames melting Divine Power. In donghua, giant projection of predecessor, Angel Sword floats in front accumulating power from Sun, Divine Sense locks target, flies down, extreme heat, if underground melts ground to make path, multiple pillars of Holy Light to restrain and attack.
+The six wings came out full.
 
-For him, not attack, but breakthrough. Pillar washed him. Multiple smaller pillars of Holy Light formed around, restraining, circling, like array.
+Two wings until seventy, four until ninety, six after — the old rule of the bloodline, and his were unfolded now, white-gold, feathers like sun on water, the true body of the angel standing faint and golden behind his back. The rings turned slowly around the pillar, two yellow, two purple, five black, and the last of his soul power settled into the new center in his dantian. A core, turning, drinking the world's power in through channels too fine to see, and giving back strength and recovery on a scale the old body had never known. Somewhere past it, faint as a promise, an embryo of the second.
 
-Six wings fully manifested. Two Wings until Level seventy, Four Wings until Level ninety, Six Wings after Level ninety. Flight. Holy and Fire Attributes. Six wings spread, white-gold, feathers like sun. Soul rings — Two Yellow Two Purple Five Black — shining, rotating around pillar. Martial soul true body faint behind, golden.
+He opened his eyes on the last day of the month.
 
-Soul power liquid to solid settled within dantian, forming Soul Core, through constant rotation absorbing external soul power, supplying for use, both combat power and recovery significantly stronger than before. When operation and compression of second Soul Core can reach level close to first one suddenly accelerates transforming one center into two centers still compression and rotation but center becomes circle with line connecting two points as diameter center much larger than before amount of Soul Power that can be condensed vastly greater reason why Ultimate Douluo powerful. Isotopic Resonance same frequency expanding range. Yin-Yang Complement opposite rotation vortex destructive and compressive. After formation power intertwines after colliding reorganize purify concentrate.
+The phenomena had faded by then, but the body they left behind was not a rumor. Holy light had gone steady in him. The six wings were brighter than they had ever been. The rings sat perfectly in him, and the bones had gone all the way in, and the core turned in his chest, warm as a banked sun, solid in his dantian. Ninety-six. One level, after thirty days — and worth more than any three levels the old man could have climbed, because the grade of the thing was different now. No soul master alive in this era had a core. He did. That was not a small luck, and he did not intend to spend it on small things.
 
-He only had first core now — true angel core — chest warm like dragon core tough as angel, dantian solid like soul core rotating absorbing external soul power. Embryo of second already faint.
+He stood. The difference stood with him, in the bones of him, like air on a mountain.
 
-He broke through ninety-five to ninety-six. Only one level after everything because focus on quality and foundation, not quantity. Much stronger than normal ninety-six because no human has soul core in this era. Difference huge. Divine martial soul. Very high spiritual power. Spirit Abyss Realm minimum for Titled Douluo but almost every Titled Douluo has foundation of Spirit Domain, Limit Douluo able to utilize Heaven and Earth Laws.
+He walked out.
 
-After one month, phenomenon faded.
+Ghost and Chrysanthemum were waiting at the chamber mouth. They bowed — and their eyes came up quicker than court manners allowed.
 
-He opened eyes. Holy light. Six wings brighter. Body purer. Rings perfectly absorbed. Bones fully absorbed. Core formed. Chest warm. Dantian solid. Level ninety-six. Only one level but quality largely stronger.
+"His Holiness, you are... different," Chrysanthemum said. He had always been the one who said things. "The bloodline is purer. The holy light is stronger. There is a faint golden radiance around you. Purification?"
 
-He stood. Felt difference. Stronger than normal ninety-six. Much stronger.
+Ghost said nothing. He did not have to. He could feel the domain's edge on his own skin — faint gold, the slowing, the washing-out of whatever mean thing sat nearby. That was not the old Pope. Whatever stood in the old Pope's robes, it was not the old Pope.
 
-He walked out. Ghost and Chrysanthemum waiting. They bowed, but eyes lifted.
+"I will need the elders for a while," he said. "I plan to make strict rules and end the corruption in the Hall. That is the first foundation."
 
-"His Holiness, you... different," Chrysanthemum said. He was sharp-eyed, always. "Bloodline purer, holy light stronger, faint golden radiance around you. Purification?"
+Chrysanthemum glanced at Ghost. Strict rules, and corruption on the table — that touched many elders, and the kind of speech that cuts at corruption makes enemies in the same breath as it makes anything else. Some of the Hall's elders were corrupt, and everyone in the room would know it. The Hall's law was not the Pope's to bend, either: the elders together had voices that could unseat him if enough of them spoke as one.
 
-Ghost did not speak. He felt it. Angel Domain faint golden radiance around Pope, purification, thirty percent amplification, slows target, negates negative energies. That was not old Pope.
+Chrysanthemum hesitated — half a breath, no more. Then he bowed lower.
 
-He said, "I need elders for sometime, I plan to create strict rules and end corruption in Spirit Hall, first foundation."
+"Yes, His Holiness," he said, and Ghost nodded, and between the two of them it was settled that the elders would be called.
 
-Chrysanthemum glanced at Ghost. Strict rules, end corruption — that touched many elders. Some elders were corrupt. Pope only had three votes. All elders could dismiss Pope if all passed. That was canon — Elder Hall core power decides major decisions, even Pope only three votes.
+They would also talk among themselves, that night and other nights. That was natural. The Hall had a new weight at its center, and everything in the Hall would lean toward it or away from it, soon.
 
-Chrysanthemum hesitated. Just half breath. Then bowed lower.
+Next: Bibi Dong.
 
-"Yes, His Holiness," he said. Ghost nodded. They would call elders. But they would also talk among themselves. That was natural. Pope with purer bloodline, true angel core, much stronger than normal ninety-six, holy aura dense powerful like Seraphim — that gave weight. That was natural.
+The Saintess's room sat behind its locks under the old order's guard — kept safe from the world, watched until the birth, the child protected whether anyone wished to say so or not. He had let that order stand, because the child's safety was the one thing the old order had gotten right, and he had laid his own orders under it: no punishment, resources provided, space given.
 
-Next, Bibi Dong.
+He knocked. No answer. He opened the door anyway, quietly.
 
-Saintess room, locked, guards per old order — imprisoned to prevent harming fetus, monitored day and night until birth — canon order still holds for fetus safety, but OC gave order keep safe no punishment provide resources give space.
+She sat on the bed with her back to the wall and her knees pulled up, the blanket wrapped around her shoulders like a wall she could carry. There was hatred in her eyes — settled and clean, aimed at him — and there was less pain than there had been, because he had healed the body's injuries the day before, gently. She had taken that healing like a wall takes light: without moving.
 
-Bibi Dong inside. She sat on bed, back to wall, knees to chest, blanket around shoulders. Hatred in eyes, but also pain. Injuries from that night — no detail, just aftermath, physical injuries. She was saintess, twin spiders, but now just girl, nineteen? Twenty? Body taken by teacher.
+He stopped in the doorway, three steps short of the bed. The distance was the point. In two lives he had never had anyone look at him with hatred, and he did not know how to talk to her, and he had decided not to pretend otherwise. His voice, when it came, was quiet and pitched low, the voice for a room with a hurt animal in it.
 
-He knocked. No answer. He opened.
+"You need to eat."
 
-She looked up. Hatred hit. She flinched, pressed back to wall.
+She did not answer. She looked at the wall.
 
-He did not step close. He stood at door, three steps away. That distance mattered.
+He set the tray on the table by the door — not on the bed, not near her. Soup, bread, and a small bottle of pills for the body and the child neither of them had said out loud. Beside the tray, a small folded pouch: money for a safe house held quietly in the Qian name.
 
-He used angel holy light. Gentle, warm, holy. Not pillar, not judgement, not Judgement of Light that melts Divine Power. Just healing. Angel Spirit Power pure divine energy possessing purifying and dissolving effect, but gentle now.
+"Resources will be provided," he said. "The guards outside are for safety, not punishment. No one enters without your permission except for food and medicine. If you need anything, tell them. If you want to walk in the courtyard, you may, with guards at a distance."
 
-Golden light, warm, fell on her arms, legs, where injuries were. Physical healing only. No memory wipe. No telling he's reincarnator. Guilt, attraction, tolerance extreme. Considers wife genuinely because body and memories are his own and Earth single virgin background Gaurav Meena / Càn Róng matters. Never kills her in any condition.
+Silence. She held the blanket tighter and did not look at him.
 
-She flinched again. Light was warm. Pain lessened. She stared at light, then at him, hatred stayed, but confusion flickered — old Qian Xun Ji would not heal, would punish, would lock harder. This one healed.
+He did not push. He was not owed answers, and she was not required to have words yet, and nothing that lived between the two of them was going to be solved by a speech at a doorway. He would come back. He would say little and keep doing the small things, and if she never spoke to him again for the rest of her life, that would be hers to choose.
 
-She did not thank. Victim does not thank attacker because attacker healed physical pain. That would not be natural. She turned face away, pulled blanket tighter, held it.
+He left, and closed the door with his own hand, softly.
 
-Physical only. Pain gone. Body healed. But emotional wound remained. That was natural.
+The guards straightened. He stood in front of them a moment while the words settled into orders.
 
-He kept distance after healing. Did not force wife role. Did not say you are my wife now. Let her hate. Goes naturally per butterfly effects and canon info. Provides all resources via meta knowledge, knows pregnancy will come with Qian Renxue, provides resources secretly — pills, safe house, via Qian family — respects hate. Earth single virgin Gaurav Meena / Càn Róng, so matters, body and memories are his own. That is natural — not forced love, but genuine guilt and responsibility.
+"No one enters without her permission except for food and medicine," he said. "If she needs anything, provide it. If she wants the yard, allow it, at a distance."
 
-He was genuinely a good person, although he doesn't accept or said that he thinks himself he do what's he wanted but actually corely good guy — not even hurt without reason let alone kill without reason — per user — corely good guy — never hurts without reason — never kills without reason — tolerance extreme — never kills Bibi Dong in any condition — genuinely good person core — thinks he does what he wants but actually corely good.
+The two guards glanced at each other — the old orders had been harder, both of them knew it, neither of them said it. They bowed.
 
-About relationship he was never before although he have Qian Xun Ji 50 years experience and others things but still you can understand — Earth single virgin never before — so quite and low talk to Bibi Dong because he doesn't know how to — per user — quiet low talk — not cold but doesn't know how to talk in relationship — stands at door three steps away — says from door not close — does not force — if Bibi Dong initiative or relation becomes more good and comfortable he talks or even shares many things — per user — if relation becomes more good and comfortable he opens up — if Bibi Dong initiative he responds — not forced — natural — quiet low talk at start because doesn't know how to.
+"Yes, His Holiness."
 
-He left, said from door, not close, quiet, low voice, "You are saintess, you have freedom in your room, no punishment, resources provided. Guards outside for safety, not punishment." Quiet low talk because doesn't know how to — relationship never before although have Qian Xun Ji experience but still you can understand.
+They would talk about it later, the two of them, and by the end of the week the Hall would have it too. That was fine. The Hall could have that one; there was no secret in mercy.
 
-She did not answer. She looked at wall. Hatred remained, but physical pain gone. She held blanket, knuckles white. She did not look at him.
+He walked back to the Pope Hall through the evening.
 
-That silence was natural. Hatred does not vanish because pain gone. Quiet low talk was natural because he never before relationship — if she initiative or relation becomes more good comfortable he talks shares many things — per user.
+The desk waited where he had left it — stone and heavy, carved with the six wings, and behind it the angel statues stood with their swords down. His core was warm in his chest, the turning steady now like a second breath, and when he sat the chair felt smaller than it had a month ago. Or he felt larger, which was the same thing said rudely.
 
-He closed door. Guards bowed. He told guards, "No one enters without her permission, except for food and medicine. If she needs anything, provide. If she wants to walk in courtyard, allow, with guards at distance for safety."
+He took up the brush.
 
-Guards glanced at each other. Old order was lock harder. New order was freedom in room, no punishment. They bowed.
+There was a book in his head that the continent did not have and could not have, because this world had spent a thousand years guessing at its own rules. Where the guesses were wrong, they were wrong expensively. Where they were right, nobody knew why. He had the why — from the other life, from pages, and from fifty years of the old Pope's hands and memory — and somewhere in the seclusion he had decided to write it down.
 
-"Yes, His Holiness," they said. They would talk later. That was natural.
+The first book would be only the ground floor: what a martial soul truly is, what the grades are worth, how a ring should be chosen and what it costs the body to carry one. He would not write about the core. Not in the first book — there would be a right year for that, and this was not it. And beneath the honest reason he kept one more reason, folded small where no eye could reach it: a Hall that people believed in was a Hall that gathered a quieter and heavier kind of strength, slowly, year on year. He turned that thought over once and set it back where it lived, and did not write it.
 
-He returned to Pope Hall — desk, angel statues, holy light, core warm in chest — chest warm like dragon core, dantian solid rotating absorbing external soul power.
+He wrote the first line.
 
-He sat. He started writing — first book — Martial Soul True Classification — shocking continent — to gain truth and reputation for Spirit Hall — secretly to collect faith power slowly to create God position of own — per his plan — full codex: martial soul types Tool, Beast, Body, Element, Celestial Body Sun Moon Star, true levels Low, Mid, High, Top, Supreme/Ultimate/God, Hao Tian Hammer just Top level strong because techniques, 1 lakh red ring, 2 lakh great soul beast orange gold, external soul bone, body + spiritual power importance, spiritual power realms with points, how to choose rings, many things.
+Martial Soul True Classification.
 
-Outside, Spirit City, sacred land for all soul masters because Pope Hall and Douluo Hall — Worship Hall above Pope Hall only Douluo qualified — Elder Hall between Pope Hall and Douluo Hall core of power decides major decisions even Pope only 3 votes all elders can dismiss Pope if all pass all elders Title Douluo ~20 seven led by Qian Daoliu at 96th level Worshipers — Spirit Holy Hall in capitals — Main Halls major cities — Sub-Halls medium cities — branch halls every city landmark.
-
-Elder Hall would debate his strict rules. Some corrupt elders would oppose because hurts them. Some clean elders would support because strengthens Spirit Hall. Qian Daoliu as Great Worship would support son if son shows Angel God path purer, because corruption weakens Spirit Hall, Angel God needs pure faith. That debate was natural. Not immediate yes.
-
-Inside, Bibi Dong room, hatred, but physical healing done, guards outside for safety not punishment, freedom in room, resources provided. She held blanket, looked at wall, hatred remained, physical pain gone. She did not know she was pregnant yet. Pregnancy would come. Qian Renxue future daughter. He would be real father, provide all resources, be father not distant, prevent tragic end, teach love not just mission. But now, just silence and hatred. That was natural.
-
-Outside, Qian Daoliu Worship Hall, Limit Douluo 99 Angel Douluo, father, noticed son's bloodline purer, core formed, holy aura dense powerful like Seraphim, growth staggering with proper Soul Core — **CORRECTED: Qian Daoliu 99 does NOT have soul core — no human in SL1 era has soul core — soul cores introduced in SL2 — Qian Daoliu has NEVER seen soul core before — never re-condensed — OC is first human in this era with True Angel Core — first time seeing — shocked but hopeful**. He stood outside secret chamber door earlier, did not disturb, felt hope. Old father who saw son fail fifty years, now sees improvement, feels hope. That was natural. He would ask later, would test, would want to learn Soul Core formation to form first core. That was natural.
-
-He wrote, holy light, breath steady, blood warm, bone steady — embodied only — sweat, blood heat, bone heat, chest warm, dantian solid, six wings brighter, golden radiance faint.
-
-First chapter ends after seclusion + healing, before guild/codex — foundation for new fanfic — naturally — phenomena level — other characters natural per canon + butterfly effects.
+The brush did not shake. He had fifty years of ways to hold a brush, and a world's worth of things that needed saying, and the night was long.
 
 ---
 
-## Footer — Foundation v0.1 — First Chapter v4 Grey Wolf Style — Clean Phenomena — No Jargon in Prose
+## Footer
 
-**Style Gate — Grey Wolf Receipt:**
-- Grey Wolf Chapter 1 style: 2874w body, average 14.6w median 11w longest 52w no prose sentence over 60w, spoken dialogue 10 lines 3.5 per 1000w, zero the-way construction, immersive literary third person limited, sensory grounded, place first (Grey Ridge sat where road stopped...), village arithmetic, no receipt dumps in prose, panels as 「...」 blockquotes, full panel once + dawn reading, checks no voice no shop no quests, engine slotted running all hours, five winters horizon no canon proper noun spoken, lessons lived, knowledge law meta as quiet counting, bottleneck law wall at ten ring as key kill by own hand, bloodline nature ice thin, grades Low/Mid/High/Top/Ultimate, initialization law nothing started at zero, honest pace, footer holds all laws and receipts.
-- This Chapter 01 v4 follows same gate: third person limited, past, Pope Hall sat above Spirit City like blade laid flat, cold stone under back two lives in one skull, Earth single virgin meta all + Qian Xun Ji 95 Pope 2Y2P5B son of Qian Daoliu father of future Qian Renxue via that night, guilt attraction tolerance extreme considers wife genuinely never kills, body felt wrong impurities, one month seclusion Ghost Chrysanthemum elders, secret chamber deep Worship Hall father's domain Qian Daoliu 99 Limit Angel Douluo, first three days black sweat foul blood, next seven days six wings brighter white-gold, next ten days rings perfectly absorbed bone heat blood heat, next five days bones fully absorbed physique stronger meridians wider, last five days core formed phenomena level — golden vortex white-gold ripples six wings faint angel pupil inside like Huo Yuhao Episode 126 black hole golden ripples spirit eye pupil outer court notice Tang Wutong asks, Angel Domain brilliant golden radiance 30% amplification slows target negates negative energies purification melts opponent power empowering own Great Sun Myriad Ten Thousand Suns Fire Dragon Formation, outside Worship Hall elders Golden Crocodile 98 Qian Daoliu 99 felt holy aura dense powerful like Seraphim, Judgement of Light pillar golden light from sun extreme heat Holy Flames melting Divine Power multiple pillars Holy Light, six wings manifestation 2 wings until 70 4 until 90 6 after 90 Flight Holy Fire, chest warm dantian solid rotating absorbing external power combat recovery significantly stronger, 95→96 only one level quality focus much stronger than normal 96 because no human has soul core era, Isotopic Resonance same frequency Yin-Yang Complement opposite rotation vortex destructive+compressive one center→two centers diameter larger Ultimate Douluo powerful Mu En soul→pure spiritual power stabilization, elders notice bloodline purer holy light stronger, strict rules end corruption first foundation, heals Bibi Dong physical only gentle warm holy light not pillar, provides resources secretly knows pregnancy Qian Renxue, starts writing Martial Soul True Classification shocking continent truth reputation Spirit Hall secretly collect faith power create God position, full codex types Tool Beast Body Element Celestial Body Sun Moon Star true levels Low Mid High Top Supreme Ultimate God Hao Tian Hammer just Top strong because techniques 1 lakh red 2 lakh great soul beast orange gold external soul bone body+spiritual importance spiritual realms with points how to choose rings many things.
-- Metrics target: 2400-3400w body, average 14-18w median 11-14w longest under 60w, spoken dialogue low under 5 per 1000w, no the-way construction, embodied only breath blood bone sweat chest warm dantian solid six wings brighter golden radiance faint, no explicit sexual content that thing/that night only physical healing only, be father to Qian Renxue naturally butterfly effects, no adaptation jargon in prose body no "mortal divine level NOT true divine yet" no "talent mirrors holder per Master Foundation v2.0" no "embodied correction/integration" no "Master §1.1" no "no system window/voice/readout/second mind" in chapters technical terms stay only in foundation docs.
-- Canon Receipts: Qian Xun Ji 95 2Y2P5B 6-Winged Angel Pope son of Qian Daoliu father of Qian Renxue killed by Bibi Dong after Tang Hao injury Baike — Bibi Dong twin spider Rakshasa God endured humiliation — Soul Cores first at 90 SL2 70+ SL3 Blood Essence Core Dragon Core Tang Wulin 59 chest — **CORRECTED: No human in SL1 era has soul core — per SL1 canon soul cores introduced in SL2 — Qian Daoliu 99 does NOT have soul core — Golden Crocodile 98 does NOT have soul core — no one has — OC is first human in this era with True Angel Core — difference huge — previous fanfic contamination about Golden Crocodile observing Grand Worship re-condensing soul core REMOVED — fanfic not canon — fixed** — Spirit Hall Worship/Pope/Douluo/Elder structure Baike — Angel Domain innate domain Seraphim brilliant golden radiance 30% amplification purification negate death Great Sun Myriad Ten Thousand Suns Fire Dragon Formation — Judgement of Light pillar golden light from sun extreme heat Holy Flames — Six-Winged Angel 2 wings 70 4 wings 90 6 wings 90+ Flight Holy Fire Angel Light Blade 15 small blades converge mountain Angel Holy Sword golden vortex — SL2 Episode 126 vortex spirit power Skull of Destiny compressed cannot flow solidified sinks dantian named Spirit Core continuously rotates absorbing external 80% consumed soul sucked black hole vortex endless darkness deeply connected black hole subtle golden ripples spirit eye pupil outer court notice Tang Wutong asks — Baike Soul Core Isotopic Resonance Yin-Yang Complement one center→two centers diameter larger Ultimate Douluo — Title Douluo 90 9th ring lifespan 300 Spirit Abyss Spirit Domain blessed by laws Limit Douluo utilize Heaven and Earth Laws — Tang Hao broke 90 at 44 youngest — Qian Daoliu 99 Angel Douluo 8B1R novel 2Y2P5B donghua — checked donghua SL1+SL2 — style gate checked Grey Wolf.
-
-Word count: ~2700w target — clean no jargon in prose body — embodied only — Grey Wolf style.
+- **Ch01 v5 — "The Night After" — the read-and-fix pass (R26), 2026-10-07.**
+- **Chapter time:** the night of the assault and the month after — the seclusion (three days impurities · seven days bloodline · ten days rings · five days bones · five days core), then the first evening back at the desk.
+- **LAWS APPLIED:**
+  - **k01 style gate — Grey Wolf style.** Third person limited, past, place first; band held; no sentence over 60 words; no "the way" simile; dialogue kept low. Numbers at the foot of this block.
+  - **k02 — no system, no jargon, embodied only.** The talent is never named; the gains are breath, blood, bone, heat, light.
+  - **k03 — the night law.** The assault is "that thing / that night" only — no detail, no flashback. The healing is physical only: gentle holy light, never a pillar, never judgement. No memory wipe; nothing said to her about who he is.
+  - **k04 — phenomena.** Golden vortex · white-gold ripples · six wings and the angel pupil inside it · holy pillar from the sun · Angel Domain expansion · outer sensing (Golden Crocodile; Qian Daoliu) · six-wing manifestation.
+  - **k05 — stage crossing, five answers.** What changed: impurities out, bloodline purer, rings and bones all the way in, True Angel Core formed, 95→96. What caused it: one month of seclusion, the Adaptation Talent, meta knowledge of how a core forms. What he already had: level 95, divine martial soul, the canon ring set and two bones already his, very high spiritual power. What failed first: nothing is free — the pain and sweat are on the page. What remains: one level only; no precedent and no teacher (the era's first core); a core is not godhood.
+  - **k06 — measured claims.** Every number below printed by `tools/measure_chapter.py` at the pass.
+  - **k07 — naturally.** Nothing steered; Bibi Dong's road is not advanced, guessed, or decided by this chapter.
+  - **k10 — plain language.**
+- **Beats:** wake with both lives in one skull — the old Pope's death still down the years, the night left as "that thing" only; the debt taken, not dodged — the wife he counts as his, the three steps of distance set as a rule; Ghost and Chrysanthemum sent out with the new orders (safe-keeping, no punishment, space); the secret chamber under the Worship Hall — five stages written day by day; the vortex, the domain let go; Golden Crocodile at the window — "That boy. What did you do?"; Qian Daoliu at the door with his hands behind his back, the threshold left uncrossed; the pillar and the six wings, the core settled — "No soul master alive in this era had a core"; out to the two retainers ("The bloodline is purer... Purification?"); the first foundation told to the Hall — strict rules, corruption ended; Bibi Dong's room — tray, pills, the safe-house pouch, the distance kept; the desk at night — the first line of "Martial Soul True Classification," and the second reason folded small.
+- **Canon receipts:** Qian Xun Ji — 95 · 2Y 2P 5B · 6-Winged Angel · Pope · son of Qian Daoliu · teacher of Bibi Dong · killed by Bibi Dong after Tang Hao's injury (canon; held here as his private knowledge of an old death) [Baike Qian Xun Ji]; the night's canon consequence — the child, the guarded room [Baike]; the 6-Winged Angel — two wings to 70, four to 90, six after 90; flight; holy and fire; innate Angel Domain: brilliant golden radiance, 30% amplification, slow, purification, negation of death aura [Baike + Qian Daoliu/Abilities]; breakthrough phenomena as the donghua shows them — vortex, ripples, wings, pupil, light pillar from the sun, domain expansion, outer sensing [SL2 Ep126 receipt + Angel Domain + Judgement of Light]; soul cores are a later era's fact — first at 90 (SL2), 70+ (SL3); Blood Essence Core / Dragon Core — Tang Wulin, chest, age 59 [Soul Cores wiki + Tang Wulin table]; **era law, held**: no human in this era has a soul core — not Qian Daoliu at 99, not Golden Crocodile at 98; the Pope is the first [R7]; the fanfic scene of an elder watching a re-condensation (Soul Heavenly Emperor) is not canon and is not used; the Angel bones — head and torso, each 99,999 years, carried past the hundred-thousand mark by perfect absorption [POWER_LAW].
+- **OPEN_RULINGS flag — the Earth-name line:** the pass proposes "His name there had been Gaurav Meena; Càn Róng, if you wrote it in this world's letters." Both names kept; the "Chinese fantasy" phrasing gone. Author: strike or bless.
+- **PROPOSED (author may strike or keep):** Ghost and Chrysanthemum as the two retainers at his back, and the twenty years with them (placement and number kept from v1; no receipt yet); Chrysanthemum asking "Purification?"; the guards' glance; the chair-feels-smaller line; the closing line.
+- **History:** v1–v4 drafted 2026-09-27 (v3 superseded; v4 "Grey Wolf style"). The v3 file is archived in `_archive/2026-10-07_superseded/` with a marker — never edited. **v5 — this pass (R26, 2026-10-07):** the story kept whole; the foundation-note paragraphs removed from the body (their content restated in prose or moved to this footer); banned terms out of the body; canon line-checks applied (the Eight Trials; bone ages; both names on the Earth line).
+- **Word count (body):** 3,392 (measured at the pass). **Metrics:** average 12.2w · median 10w · longest 53w · zero over 60; spoken dialogue 10 lines (2.9 per 1000w); the-way 0; jargon 0. Band 2,400–3,400: **IN**.

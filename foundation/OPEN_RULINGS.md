@@ -29,6 +29,8 @@
 
 **Flagged for the author's word (small, not lanes):**
 
-- Ch01 carries the line "He was Gaurav Meena, now called Càn Róng in Chinese
-  fantasy." It reads as an artifact of an earlier draft. The read-and-fix
-  pass will propose clean wording; the author strikes or blesses it then.
+- **Ch01 — the Earth-name line.** The pass (2026-10-07) executed the proposed
+  clean wording; Ch01 v5 now reads: "His name there had been Gaurav Meena;
+  Càn Róng, if you wrote it in this world's letters." Both names kept; the
+  "Chinese fantasy" phrasing gone. **Awaiting the author: strike or bless.**
+  Nothing is closed until the author's word.
