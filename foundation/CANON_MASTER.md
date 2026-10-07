@@ -26,7 +26,8 @@
 
 ## 0. The franchise map — every installment, checked 2026-10-07
 
-> The series is one canon in ten volumes (plus extras). Main volumes sit
+> The series is one canon in **ten works — six main volumes and four
+> wai-zhuan extras**. Main volumes sit
 > **10,000 years apart** — the fourth-generation Shrek Seven Devils follow
 > the first "after thirty thousand years", the third "after ten thousand"
 > [canon-baike: Fourth Generation Shrek Seven Devils]. **[SL1] is our
@@ -36,14 +37,14 @@
 | --- | --- | --- | --- |
 | SL1 | **斗罗大陆** (Soul Land, 2008–09; 336 chapters) | **our stage (2619–2655)** | the deep mine — §§1–12 |
 | SL2 | **绝世唐门** (Unrivaled Tang Sect) | ~10,000 years on; Huo Yuhao | core record §2b; sword §11 |
-| 外传 | **神界传说** (God Realm Legend; bridges SL2→SL3) | the god realm; the five god-kings (Sea God/Asura Tang San · Evil God-King Ji Dong · Kind God-King Lie Yan · God of Destruction · Goddess of Life) [canon-baike] | outline only (§12); do not import |
+| 外传 | **神界传说** (God Realm Legend; bridges SL2→SL3) | set about thirty years after Huo Yuhao's ascent — the god realm's great crisis; the five god-kings (Sea God/Asura Tang San · Evil God-King Ji Dong · Kind God-King Lie Yan · God of Destruction · Goddess of Life) [canon-baike + canon-summary] | outline only (§12); do not import |
 | SL3 | **龙王传说** (Legend of the Dragon King) | ~20,000 years on; Tang Wulin | core + sword receipts §2b/§11 |
-| 外传 | **唐门英雄传** (Tang Sect Heroes; bridges SL3→SL4) | god-realm crossover with Tang Jia San Shao's other novel leads (长弓·威 · 雷翔 · 阿呆 · 海龙 · 天痕 · 叶音竹 · 融念冰 · 周维清 …) [canon-baike] | outline only; do not import |
-| SL4 | **终极斗罗** (Ultimate Douluo) | ~30,000 years on; Blue Xuanyu; Soul Federation era | §2b era block; sword gap §13 |
-| 外传 | **史莱克天团** (Shrek Team; 60 ch, 2021) | god-kings teach at Shrek; four special students; ch21 "第二旋涡" · ch25 "贯通天地之桥" [canon-summary: chapter list] | cited by the core record (the Bridge) |
-| 外传 | **斗罗世界** (Douluo World; 39 ch, 2023) | the god-kings create the simulated "Douluo World"; **Huo Yuhao & Tang Wutong's son** leads a team; the final task = challenge the first-generation Seven Devils [canon-summary] | outline only; do not import |
+| 外传 | **唐门英雄传** (Tang Sect Heroes; bridges SL3→SL4) | the crisis chain: the Destruction god-king's civil war; the Time-Space Turbulence; the **Golden Dragon King** breaks free and is slain by Tang San with two god-kings; its dying **divine core is forced into newborn Tang Wulin** under **eighteen seals**; the realm falls into the black hole; the **six god-realms' alliance** and the **War of the Gods**; Tang San leads the **Great God Circle**. Cast: the other-novel leads (长弓·威 · 雷翔 · 阿呆 · 海龙 · 天痕 · 叶音竹 · 融念冰 · 周维清 …) **plus Huo Yuhao — the Emotion God, founder of the Spirit Transmission Tower, Tang Wutong's husband** [canon-baike + canon-summary: zhihu/Tencent/Qidian] | outline only; do not import |
+| SL4 | **终极斗罗** (Ultimate Douluo) | ~30,000 years on; protagonist **Tang Xuanyu (蓝轩宇)** — son of Tang Wulin and Gu Yuena, grandson of Tang San and Xiao Wu; found as a **golden-silver patterned egg** in the far north; adopted by Lan Xiao and Nan Cheng; the **Golden and Silver Dragon King bloodlines clash at every tenth-rank breakthrough** ("Little Dragon God"); he ends as the new **Dragon God** and founds the Divine Dragon Realm [canon-wiki: Tang_Xuanyu + franchise summaries] | §2b era block; sword gap §13 |
+| 外传 | **史莱克天团** (Shrek Team; 60 ch, 2021) | four god-kings teach four students — **Light God-King Chang Gong Wei · Death God A Dai · Mad God Lei Xiang · Strength God Zhou Weiqing**; the disciples: **Dai Ying (Huo Yuhao's daughter) · Yi Chen · Ling Yumo · Meng Binbai**; Lei Xiang becomes Shrek's awakening-branch dean, teaching Yi Chen the **Mad-God Arts and Heaven-Demon Arts**; ch21 "第二旋涡" · ch25 "贯通天地之桥" [canon-summary: Sohu/baike + chapter list] | cited by the core record (the Bridge) |
+| 外传 | **斗罗世界** (Douluo World; 39 ch, 2023) | the god-kings create the simulated "Douluo World"; **Huo Yuhao & Tang Wutong's son** leads a team (the daughter, **Dai Ying**, is the Shrek Team era's student); the final task = challenge the first-generation Seven Devils [canon-summary: Tencent + print lists] | outline only; do not import |
 | SL5 | **重生唐三** (Rebirth of Tang San; 1,184 ch, ended "大团圆") | **another planet — Falan/妖精大陆**; Tang San searches Xiao Wu's reincarnation | §2b era block (the two cores) |
-| SL6 | *重生霍雨浩* (Rebirth of Huo Yuhao) | appears in a 2026 series listing; **no official receipt found this pass**; fan works share the name | **[unverified] — do not cite** (§13) |
+| SL6 | *重生霍雨浩* (Rebirth of Huo Yuhao) | named in the zh.wikipedia series line-up (June 2026 revision); the deep search found **only fan works by other authors** under the name — **no official receipt** | **[unverified] — do not cite** (§13) |
 
 - **Adaptations:** animation = six parts (the five main volumes + the God
   Realm extra), plus the 2025 theatrical film *Sword Dao Chen Xin*
@@ -183,7 +184,11 @@ Tang San 11 years away.
   not a standard soul core); his breakthrough keyed on the vortex and the
   spiritual sea "communicating through a colored bridge" [canon-summary of
   ch608 + character baike]. He also **self-produces soul rings** — the
-  beast-hunt cycle is gone in that era [canon-baike].
+  beast-hunt cycle is gone in that era [canon-baike]. His lineage — son of
+  Tang Wulin and Gu Yuena, the Golden and Silver Dragon King bloodlines in
+  lifelong conflict (they clash at every tenth-rank breakthrough) — is why
+  the era calls him "Little Dragon God"; he ends as the new **Dragon God**,
+  founding the Divine Dragon Realm [canon-wiki: Tang_Xuanyu].
 - **[SL5] the two-core elaboration (tagged [later]):** Tang San's reincarnated
   body carries **a soul core** (from his Xuantian Gong cultivation — 13
   layers, each absorbing one demon-god-transformation ability) and **a
@@ -412,6 +417,17 @@ continental superpower of the era — see §11 for its standing among empires.
 - The rest of the Elder Hall's twenty-odd seats are **unnamed in canon**
   [gap — the wiki's Titled Douluo category lists 150 names across all eras,
   mostly later material].
+- **A fuller named fleet exists across the books** [canon-wiki roster —
+  later-era attestation; record names, not 2619 seats]: **Snake Lance Douluo
+  (She Long)** and **Porcupine Fish Douluo (Ci Xue)** — the pair sent against
+  Tang San at the palace [ch190]; **Sacred Dragon Douluo (Tuoba Xi)**;
+  **Devil Bear Douluo**; plus **Ghost Leopard**, **Spirit Kite**, **Sea
+  Turtle**, and an unnamed **Ninth Elder** (died killing Yu Yuanzhen in the
+  Soul Hunting Operation [ch156]).
+- **Grades below the seats:** the bishopric runs **Platinum Bishop (81+)**
+  and **Bishop (61+)** — **Salas** (platinum) and **Meyers** (bishop, †)
+  are named; the **Golden Generation** — Hu Liena · Xie Yue · Yan — is rated
+  **level 71+** in later records [canon-wiki roster].
 
 ## 7. The house of Qian — the Angel blood
 
@@ -443,6 +459,23 @@ continental superpower of the era — see §11 for its standing among empires.
 - **Qian Renxue — the coming child.**
   - Born **2620**; **innate soul power 20** — she steps into level 20 with her
     first rings; a **six-winged angel** of the same blood [canon-wiki chart].
+  - **Raised cold, and the plan she made herself:** from a young age she
+    **hated the mother who never showed her love** and was **extremely
+    attached to her grandfather**; the Xue Qinghe infiltration was **her own
+    plan**, against a crown prince **the same age as her**; canon dates her
+    killings of the empire's 2nd and 3rd princes to when they were **12 and
+    11** [canon-wiki ch164/195]. The masquerade's method as the manhua extra
+    renders it — a staged beast attack, **a year as the prince's servant**
+    studying his every habit, then a birthday-hunt murder with her
+    **Seraphim** shown to the dying escort [canon-manhua extra — method
+    detail flagged, §13 item 14].
+  - **The court face:** meticulous, calm, precise, endless perseverance;
+    proud, and careful of her own people [canon-wiki]. In the palace fight
+    she **declares herself "Qian Xunji's child"** [ch192], and unmasks by
+    removing a **mask-type soul tool** [ch193].
+  - **Record only (later age):** she walks the nine **Angel God trials**;
+    her grandfather **Qian Daoliu gives his life in the final stage** to
+    lift her [canon-wiki; §6]. Do not import.
   - Canon ladder (ages per wiki/donghua): Soul Saint at ~29; **Angel Level
     Nine Trials** run through the story — fifth trial → 89, sixth → 90 (33),
     ninth ring → 92, 95 in the **Angel Sword Vault** (34), eighth trial → 99,
@@ -485,6 +518,21 @@ continental superpower of the era — see §11 for its standing among empires.
   [canon-wiki].
 - **Temperament (canon arc):** tender, innocent, and trusting before the
   violation; noble, ruthless, calculating after [canon-wiki].
+- **The long parallel road (record only):** by the finals-era record she had
+  been **attempting the Rakshasa God trials for over twenty years** —
+  within, by her own estimate, ten years of completing them — and when she
+  sensed Renxue receiving the Angel trials, a **projection of Rakshasa**
+  flashed behind her [canon-wiki ch223]. Both windows open after our stage.
+- **Conduct receipts (later age):** she ordered Tang San's death after the
+  Elder Hall's ruling, then chose before Tang Hao to **endure and let the
+  world underestimate the Hall** [ch124–130]; she shielded Yu Xiaogang in
+  the same hour — the token, and Gui Mei's kill order called off [ch126].
+- **The Soul Hunting Operation's shadow:** the operation she finally
+  announced **had been blocked by the Elder Hall about two decades earlier**
+  [ch146] — its first attempt falls years after our stage. Phase One: the
+  raids on the Seven Treasure Glazed Tile Clan and the destruction of the
+  Blue Lightning Tyrant Dragon Clan — her **Ninth Elder** died killing Yu
+  Yuanzhen [ch156].
 - **Hu Liena:** her disciple, raised like a daughter — in Bibi Dong's heart
   higher than her biological daughter; slated to be the next Pope
   [canon-baike].
@@ -663,15 +711,18 @@ continental superpower of the era — see §11 for its standing among empires.
    and is **withdrawn**. What remains non-canon: 剑魂 as a DNF class name
    borrowed by crossovers, and any *talking* sword. The story's sword
    working rides the ladder receipts as [design].
-10. **SL4 core receipts — updated same day:** the fandom core page cites
-   only SL2/SL3/SL5 for standard 魂核, but SL4's own model (bloodline vortex,
-   spiritual sea, Dragon God Core, the colored-bridge breakthrough, self-produced
-   rings) is now recorded in §2b [canon-summary; chapter-level receipts not
-   yet deep-fetched].
-11. **SL6 status — [unverified]:** "重生霍雨浩" (Rebirth of Huo Yuhao) appears
-   in a 2026 series listing as the sixth volume, but **no official receipt
-   was found this pass** (fan works share the exact title). Do not cite until
-   an official source lands.
+10. **SL4 core receipts — updated (deep round):** the fandom core page cites
+   only SL2/SL3/SL5 for standard 魂核; SL4's own model (bloodline vortex,
+   spiritual sea, Dragon God Core, the colored-bridge breakthrough, self-
+   produced rings) stays on summaries in §2b, while the protagonist's
+   chapter-level plot (golden-silver egg; Lan Xiao & Nan Cheng; the
+   bloodline conflict; the Divine Dragon Realm) is now sourced from his
+   page [canon-wiki: Tang_Xuanyu 0–1].
+11. **SL6 status — [unverified, deepened]:** zh.wikipedia's series list names
+   "重生霍雨浩" as the sixth volume (June 2026 revision); the deep search
+   however found **no official receipt** — every 2026 book of that name is a
+   **fan work by other authors** (87-ch Fanqie · 25-ch Qidian · 313-ch
+   Hongxiu titles among them). Do not cite until an official source lands.
 12. **Sword receipts in SL4/SL5:** none found this pass — the eras' named
    blade/claw users are logged only where receipts exist (SL3's Ye Xinglan,
    Mu Tian, Sima Jinchi). Gaps flagged, not filled.
@@ -679,6 +730,9 @@ continental superpower of the era — see §11 for its standing among empires.
    fandom"*. Whether the wiki/fandom half means he also knows SL4–SL6 and
    the extras is **an open ruling for the author** — until then, pages use
    later material for the record only.
+14. **Renxue's Xue Qinghe method [disputed]:** the staged-attack / year-as-
+   servant sequence rides a **manhua extra**; the novel covers the plan
+   itself (ch164/195). Texture at most until novel chapters are read.
 
 **Harvest status:** first complete pass shipped 2026-10-07 (this file).
 Every later pass adds rows here and strikes them from this list.
@@ -720,3 +774,18 @@ Every later pass adds rows here and strikes them from this list.
   baike + ch608 summary (colored bridge) · SL5 Tang San baike (two cores →
   Demon-God True Body) · 史莱克天团 chapter list (ch21/ch25) · 斗罗世界
   39-chapter list · Fourth Generation Shrek Seven Devils (30k-year spacing).
+- **Deep round (2026-10-07, same day — the author: "Go deeper"):** fandom
+  Bibi_Dong chunks 2–4 (tournament conduct ch124–130; the Soul Hunting
+  Operation ch146/156; Rakshasa ch223; the Jialing Pass war ch260–282) ·
+  Qian_Renxue 1–2 (history ch164/195; the Xue Qinghe masquerade; "Qian
+  Xunji's child" ch192; the mask soul tool ch193; She Long / Ci Xue ch190) ·
+  Qian_Xunji 1 (full ref list ch144/192/195/223 + the Hall navbox roster) ·
+  Martial_Soul_Hall 4 (bishop + elder roster blocks) · Tang_Xuanyu 0–1
+  (golden-silver egg; Lan Xiao & Nan Cheng; the bloodline conflict; the
+  Divine Dragon Realm) · 唐门英雄传 plot summaries (zhihu + Tencent + Qidian:
+  the god-realm civil war, the Golden Dragon King, eighteen seals, the
+  Great God Circle) · 史莱克天团 cast (Sohu + baike 大神圈十六神王: the
+  four god-kings, the disciples incl. Dai Ying; Lei Xiang as dean) ·
+  斗罗世界 (Tencent: the son leads; the final task vs generation one) ·
+  神界传说 setting (Tencent: ~30 years after Huo Yuhao's ascent) · SL6
+  deep search (fan works only). **Empty page:** fandom /wiki/God_Realm.
