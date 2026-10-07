@@ -84,3 +84,4 @@
 - **True Angel Core:** Blood essence + divine things martial soul authority domain fully true angel core like True Dragon Core but angel
 - **Mortal Divine Level:** Peak mortal adaptation talent NOT true divine yet true divine only when God
 - **Naturally:** Story goes naturally per butterfly effects and canon info OC adapts world adapts too
+- **Not pre-decided:** Bibi Dong's road, the secret, the far era — author 2026-10-07 (R22–R24). Never planned ahead; the pages carry them.

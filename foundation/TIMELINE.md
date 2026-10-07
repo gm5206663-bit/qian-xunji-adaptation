@@ -1,5 +1,8 @@
 # TIMELINE — Qian Xun Ji Reborn — v0.2 Clean
 
+> **NOTE 2026-10-07, docset adoption:** the Years 5–25 rows below carried guesses marked "maybe". The author ruled on 2026-10-07 that the far era, Bibi Dong's road, and the secret are **never pre-decided** (RULINGS_LOG R22–R24). The guesses were neutralized inline the same day; canon facts stand.
+
+
 ## Canon Timeline Reference — Clean
 
 - **~50y before SL1 start:** Qian Xun Ji born son of Qian Daoliu
@@ -27,10 +30,10 @@
   - Guild codex success faith power collected God position slowly forming
   - Much stronger than normal 96 because soul core quality foundation divine martial soul very high spiritual power no human has soul core era difference huge knows how strong he is matters to him
 - **Years 5-10 — Tang Hao Battle + Bibi Dong Revenge Clean:**
-  - Canon Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao OC knows can change via meta knowledge maybe avoid prepare not hunt goes naturally
-  - Canon Bibi Dong kills Qian Xun Ji after injured OC stronger true angel core tolerance extreme never kills how to handle goes naturally maybe Bibi Dong doesn't need to kill because OC reformed healed provided resources be father etc maybe tries and fails because true angel core goes naturally butterfly effects
+  - Canon Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao OC knows; **nothing pre-decided — the pages carry it (R22)**
+  - Canon Bibi Dong kills Qian Xun Ji after injured OC stronger true angel core tolerance extreme never kills her road is **not pre-decided — never written ahead (R23); the pages carry it**
 - **Years 10-25 — Angel God + True Divine Adaptation Talent + Tang San Era Clean:**
-  - True Angel Core evolves becomes Angel God seed OC becomes Angel God early? Or helps Qian Renxue become Angel God with love
+  - True Angel Core evolves becomes Angel God seed — **the far shape is not pre-decided (R22)**; helps Qian Renxue become Angel God with love
   - When becomes God adaptation talent becomes True Divine Adaptation Talent can increase rings age quality bones age quality God position become part make everything God level every part true divine
-  - Tang San born twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God war with Spirit Hall OC knows all wants save Spirit Hall not be villain maybe ally naturally
-- **Beyond:** SL2 Huo Yuhao era SL3 Tang Wulin era OC as Angel God? Or new God position via faith power True Divine makes everything God level naturally
+  - Tang San born twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God war with Spirit Hall OC knows all; the far era is **not pre-decided (R22)**
+- **Beyond:** SL2 Huo Yuhao era SL3 Tang Wulin era what he is in those eras is **not pre-decided (R22)**; the True Divine rule (R8) stands for whenever he is a God

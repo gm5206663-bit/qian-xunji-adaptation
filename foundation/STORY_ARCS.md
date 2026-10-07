@@ -1,5 +1,8 @@
 # STORY ARCS — Qian Xun Ji Reborn — v0.2 Clean — Natural Butterfly Effects — Grey Wolf Style
 
+> **NOTE 2026-10-07, docset adoption:** the Arc 5–6 drafts below carried guesses marked "maybe". The author ruled on 2026-10-07 that the far era, Bibi Dong's road, and the secret are **never pre-decided** (RULINGS_LOG R22–R24). The guesses were neutralized inline the same day; canon facts stand.
+
+
 ## Canon Ground Time — Clean
 
 - **Year:** ~25 years before Tang San — Qian Renxue ~6 years older than Tang San — Qian Xun Ji assaults Bibi Dong Bibi Dong gives birth Qian Renxue hidden Bibi Dong later becomes Pope after killing Qian Xun Ji Qian Renxue grows goes to Heaven Dou as Xue Qinghe Tang San born later — Our start right after assault before birth before Qian Xun Ji death by Tang Hao + Bibi Dong
@@ -47,15 +50,15 @@
 
 ## Arc 5: Tang Hao Battle + Bibi Dong's Revenge + Future (Years 5-10) — Clean
 
-- **Tang Hao:** Canon Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao — OC knows via meta knowledge can change maybe avoid maybe prepare maybe not hunt — goes naturally
-- **Bibi Dong:** Will become Title Douluo will try to kill Qian Xun Ji in canon — OC stronger tolerance extreme never kills — how to handle goes naturally butterfly effects — maybe Bibi Dong doesn't need to kill because OC reformed healed provided resources be father etc — maybe still hates but doesn't kill — or tries and fails because OC has true angel core
-- **Qian Renxue Growth:** Grows up 6-Winged Angel OC teaches as father prevents tragic end teaches love
+- **Tang Hao:** Canon Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao — OC knows via meta knowledge; **nothing is pre-decided — the pages carry it (R22)**
+- **Bibi Dong:** Will become Title Douluo will try to kill Qian Xun Ji in canon — OC stronger tolerance extreme never kills — her road is **not pre-decided — never written ahead (R23); the pages carry it scene by scene**
+- **Qian Renxue Growth:** Grows up 6-Winged Angel OC teaches as father — love, not mission; the rest is **not pre-decided (R22)**
 
 ## Arc 6: Angel God + True Divine Adaptation Talent (Years 10-25 up to Tang San era) — Clean
 
-- **True Angel Core evolves:** Blood Essence + Divine Things Martial Soul Authority Domain fully becomes Angel God seed — OC becomes Angel God early? Canon Qian Renxue becomes Angel God Qian Daoliu sacrifices — OC may become Angel God before or help Qian Renxue become Angel God with love not mission
+- **True Angel Core evolves:** Blood Essence + Divine Things Martial Soul Authority Domain fully becomes Angel God seed — OC's own ascent — before her, beside her, or later — is **not pre-decided (R22)** (canon: Qian Renxue becomes Angel God; Qian Daoliu's trials pay the price)
 - **True Divine Adaptation Talent:** When he becomes God adaptation talent becomes True Divine Adaptation Talent can increase rings age bone age quality God position become part make everything God level every part true divine everything God level
-- **Tang San Era:** Tang San born twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God war with Spirit Hall — OC knows all wants save Spirit Hall not be villain maybe ally — Naturally
+- **Tang San Era:** Tang San born twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God war with Spirit Hall — OC knows all wants save Spirit Hall, not be the villain — **the far era is not pre-decided (R22)**
 
 ## Natural Butterfly Effects — Clean
 
