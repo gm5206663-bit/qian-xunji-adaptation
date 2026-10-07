@@ -286,6 +286,13 @@ no PROPOSED detail struck. v1 archived byte-preserved; re-measured (2,783w)
 and re-gated (ALL HARD CHECKS PASS) at ship. Ch05 still opens only on the
 author's word.
 
+**Addendum (the author: *"Rebuild the last chapter"*).** Executed as **Ch04
+v3** — a full rebuild on the s38 word: fresh prose end to end; the failed
+doubling made a scene; the held-cut ladder restaged; the wet-snow night pays
+the winter off; signature lines kept verbatim; every beat, answer, and lock
+unchanged. v2 archived byte-preserved; re-measured (2,735w) and re-gated
+(ALL HARD CHECKS PASS) at ship.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

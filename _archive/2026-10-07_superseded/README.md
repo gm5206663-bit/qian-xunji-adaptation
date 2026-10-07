@@ -17,3 +17,4 @@ deleted — so the record stays whole and no checker silently depends on them.
 - If anything below is ever needed, quote it into its new home with a date —
   do not resurrect the file.
 - 2026-10-07 — `Chapter_04_The_Second_Core_v1.md` — superseded by the v2 rewrite (author: "Rewrite the last chapter"); byte-preserved here.
+- 2026-10-07 — `Chapter_04_The_Second_Core_v2.md` — superseded by the v3 rebuild (author: "Rebuild the last chapter"); byte-preserved here.
