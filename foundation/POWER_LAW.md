@@ -71,8 +71,13 @@ the author's rulings; [era] true of this world's clock.
   with the sword**; success would make him, in his judgment, the strongest
   below the gods in this era. Canon ground: `CANON_MASTER.md` §2b. The shape
   (sword basis, placement, danger, one chapter or two) is fixed by the
-  author's answers; the crossing enters METERS' five-question ledger before
-  the chapter that shows it ships (k05).
+  author's answers (same day): the sword means the sword path — his own
+  blade, walked as a road; the working is checked against canon (the blade's
+  silent consciousness rides the canon sword receipts; tool-souls do not
+  speak); the core sits in the **spiritual sea between the brows**; one
+  chapter carries the climb; the strength claim is **his own self-assessment**.
+  Executed: **Ch04** (2026-10-07) — the second center formed, cold, turning
+  against the first; rank stays 96; the five-question entry is in METERS.
 
 ## Why 96 here is not 96 anywhere else
 
@@ -80,7 +85,9 @@ No human in this era has a soul core, and he does; his martial soul is divine;
 his spiritual power stands very high; his bloodline runs purer than any Qian
 before him. His recovery and combat capacity are simply a different order.
 That is a **quality** fact, not vanity: the story may use it, but nothing in
-it breaks the ladder — he has not skipped a rank and does not get one free.
+it breaks the ladder — he has not skipped a rank and does not get one free —
+and two cores do not break that rule either: they make the climb's floor his,
+not the summit (Ch04).
 (R13, k05)
 
 ## Spiritual power — the realms and their points

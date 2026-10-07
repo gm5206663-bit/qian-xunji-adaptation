@@ -39,6 +39,12 @@ Simple names, one place each, receipt where the place is canon.
   space given; guards at a distance; no one enters without permission except
   food and medicine. He speaks from three steps away. (Ch02; R16.)
 - **The Pope's desk** — where the codex is written, volume by volume.
+- **The small court behind the Pope's quarters** — flagstones, one bare
+  tree, a well nobody used; where the sword was walked as a road, winter
+  2619. [design, Ch04]
+- **The secret chamber under the Worship Hall** — Qian Daoliu's domain, deep
+  and stone; the month of the first core (Ch01) and five days of the second
+  (Ch04). [design + canon shape]
 
 ## Not yet on stage
 

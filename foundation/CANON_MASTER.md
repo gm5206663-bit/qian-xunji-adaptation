@@ -24,7 +24,7 @@ The novels run on a numbered Douluo Calendar. The dated spine, all
 | Year | Event |
 | --- | --- |
 | ~2566–2570 | **Qian Xun Ji born**, son of Qian Daoliu (wiki: 50+ at Renxue's birth, 60+ at his death) [canon-wiki]. |
-| **2619 (late)** | **The night** — Qian Xun Ji violates Bibi Dong in the secret chamber; she is pregnant. She is imprisoned and monitored through the pregnancy; her freedom returns only after the birth [canon-baike: "to prevent harming the fetus, imprisoned and monitored day and night; only after birth freedom restored"]. **Our story starts the morning after this night — story present: late 2619.** |
+| **2619 (late summer)** | **The night** — Qian Xun Ji violates Bibi Dong in the secret chamber; she is pregnant. She is imprisoned and monitored through the pregnancy; her freedom returns only after the birth [canon-baike: "to prevent harming the fetus, imprisoned and monitored day and night; only after birth freedom restored"]. **Our story starts the morning after this night — story present: late 2619.** |
 | **2620** | **Qian Renxue born** [canon-baike: "In Douluo Calendar year 2620, Bibi Dong gave birth to Qian Xunji's child, named Qian Renxue"]. |
 | **2631** | **Tang San born, 11 January** (Douluo Calendar) [canon-baike]. Tang Hao becomes a Titled Douluo at 44 [canon-baike]. The hunt of A Yin — Tang Hao wounds Qian Xun Ji; **Qian Xun Ji dies** on his return, killed by Bibi Dong; the wounds are publicly blamed [canon-wiki; the year per the baike calendar: "2631 — Tang Hao becomes Titled Douluo (44) + Qian Xunji dies"]. |
 | **2637** | Tang San's awakening (age 6). |

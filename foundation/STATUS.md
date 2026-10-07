@@ -7,18 +7,24 @@ fixed.
 ## §0 LIVE EDGE — where the story is now
 
 - **Chapters:** Ch01 "The Night After" **v5** · Ch02 "The Codex" **v2** ·
-  Ch03 "The First Cut" **v1** — all live; house gate ALL HARD CHECKS PASS.
-  (Canon-harvest corrections applied 2026-10-07 — see §7.)
-- **Next:** **Ch04 — on the author's word.**
+  Ch03 "The First Cut" **v1** · Ch04 "The Second Core" **v1** — all live;
+  house gate ALL HARD CHECKS PASS. (Canon-harvest corrections applied
+  2026-10-07 — see §7; Ch04 follows the author's R27 order.)
+- **Next:** **Ch05 — on the author's word.**
 - **Story position:** the morning after the night with Bibi Dong — now five
   weeks on. The codex's first volume is public; the guild has opened (pilot
   room, first teacher, first reader posted to Chenghe); the reform's first cut
   is done — the steward stripped, the old elder's hall under five years of open
   books, the answer rule passed; Bibi Dong walks the yard, physically whole,
   and said six words; the physician is settled and the child is due when the
-  year turns.
+  cold breaks. **Ch04:** the winter of the sword — the second core formed in
+  the sea between the brows (cold, turning against the warm first), the
+  Worship Hall lights unclaimed for five nights, the Grand Worship at the
+  threshold asking nothing; the year turned with the sum done — below the
+  gods, he could not find the man for him, and that was his own count.
 - **Clock:** ~11 years before Tang San is born — canon dates: Renxue 2620, Tang
-  San 11 January 2631. The story present is late Douluo Calendar 2619.
+  San 11 January 2631. The story present has reached the turn of 2619 into
+  2620 (Ch04 ends with the year turning; the child due when the cold breaks).
 - **The far ends:** not pre-decided — Bibi Dong's road, the secret, the Tang
   San era (R22–R24). Write the present.
 
@@ -32,6 +38,11 @@ fixed.
   the era's only soul core (R7, R13).
 - Adaptation Talent, **Mortal Divine Level** — not True Divine; True Divine
   only when he is a God (R8). Never named in prose (R17).
+- **Second core (Ch04, R27):** the sword walked as a road until the blade
+  stayed; a thread of the sea between his brows now lives in the blade; five
+  sealed days set a **second center** — small, cold, between the brows —
+  turning **against** the first. Rank stays 96; the climb's floor is his; the
+  last door still needs its own keys.
 - What he is doing now: writing the codex volumes; the guild is forming; the
   strict rules have their first vote; resources flow secretly to Bibi Dong;
   he prepares for the child he knows is coming.
@@ -86,7 +97,8 @@ fixed.
 
 ## §5 Counts (measured only — k06)
 
-- Chapters written: 3 — Ch01 v5 · Ch02 v2 · Ch03 v1 (all live, gates green).
+- Chapters written: **4** — Ch01 v5 · Ch02 v2 · Ch03 v1 · Ch04 v1 (all live,
+  gates green).
 - **Passed 2026-10-07 (R26)**, measured with `tools/measure_chapter.py` and
   the house style gate run directly on both files: **Ch01 v5 body 3,392w —
   band IN, 0 over 60, 0 the-way, 0 jargon, avg 12.2w, med 10; Ch02 v2 body
@@ -100,7 +112,9 @@ fixed.
   **Ch03 v1** (first draft, 2026-10-07, the author's "Next"): body 2,691w
   (re-measured after the canon-harvest corrections: **2,694w**) —
   band IN, 0 over 60, 0 the-way, 0 jargon, avg 13.8w, med 11; house gate ALL
-  HARD CHECKS PASS.
+  HARD CHECKS PASS. **Ch04 v1** (first draft, 2026-10-07, the author's R27
+  order — the second core): body **2,596w** — band IN, 0 over 60, 0 the-way,
+  0 jargon, avg 14.4w, med 12; house gate ALL HARD CHECKS PASS.
 
 ## §6 The gate
 
@@ -123,3 +137,6 @@ fixed.
   an unnamed old elder.
 - Chapter bodies re-measured after the corrections: **Ch02 v2 2,490w · Ch03
   v1 2,694w** — house gate ALL HARD CHECKS PASS on both.
+- **R27 executed the same day:** the author's second-core order — Ch04 "The
+  Second Core" (2,596w, gates green); the sword-side receipts (Sword Dao
+  Chen Xin; man-sword unity) folded into `CANON_MASTER.md` §11.

@@ -228,6 +228,19 @@ first. Precise shape (sword basis, placement, danger, one chapter or two) is
 set by the author's answers; the crossing enters METERS' five-question
 ledger before any chapter that shows it ships (k05).
 
+**The author's answers (same day, on the check-questions):** sword basis —
+*"Hey a sword meaning sword path you check, he have sword of course"*; the
+sword soul's nature — *"You check canon"*; placement — the **spiritual sea**
+(between the eyebrows, canon's closest precedent being Tang Wulin's second
+core); pacing — **one chapter**; the strength claim — *"That was his self
+assessment accordingly to what he know"*.
+
+**Outcome:** executed as **Ch04 "The Second Core"** (2026-10-07) — the sword
+walked as a road through the winter until the blade stayed; the second center
+formed in the spiritual sea, cold, turning against the first; the
+strongest-below-the-gods claim stands in the text as **his own sum**, never
+narration. Canon receipts folded into `CANON_MASTER.md` §2b and §11.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

@@ -13,8 +13,9 @@ in the order below, then do not write a word until you have.
 - **Chapters:** Ch01 v5 · Ch02 v2 · Ch03 v1 — all live; house gate ALL HARD
   CHECKS PASS. (Ch01–Ch02 passed R26 on 2026-10-07; Ch03, "The First Cut," was
   written the same day on the author's "Next." Canon-harvest corrections of
-  2026-10-07: Ch02 body 2,490w, Ch03 body 2,694w — re-measured, gates green.)
-- **Next beat:** **Ch04 — on the author's word.**
+  2026-10-07: Ch02 body 2,490w, Ch03 body 2,694w — re-measured, gates green.
+  Ch04, "The Second Core," written the same day on R27: 2,596w, gates green.)
+- **Next beat:** **Ch05 — on the author's word.**
 - **Stage 0:** grandfathered — founded 2026-09-27, before the Foundation-Stage
   law; drafting is unlocked. See `OPEN_RULINGS.md`.
 - **The far ends are open by the author's own order:** Bibi Dong's road, the

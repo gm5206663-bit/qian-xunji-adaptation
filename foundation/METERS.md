@@ -11,7 +11,7 @@ from memory (k06).
 | Level | **96** | 95→96 in the seclusion; quality focus, one level only (R2) |
 | Ring set | **2Y 2P 5B** | canon set; perfectly absorbed — part of the body (R2) |
 | Soul bones | **Head 100k · Torso 100k** | 99,999 → 100,000 after seclusion; others not yet possessed (R2, POWER_LAW) |
-| Soul core | **True Angel Core — formed** | blood essence + divine things + authority domain; warm chest, solid turning dantian (R9) |
+| Soul cores | **True Angel Core — formed (low, warm)**; **second core — formed (Ch04)** | first: blood essence + divine things + authority domain, chest/dantian, turning one way (R9, Ch01); second: a thread of spirit in the blade, compressed in the sea between the brows, cold, turning against the first (R27, Ch04) |
 | Spiritual power | **Very high** — exact realm not yet fixed in text | do not invent a number; record when a chapter states one (POWER_LAW) |
 | Adaptation Talent | **Mortal Divine Level** | not True Divine; never named in prose (R8, R17) |
 | Age of the body | ~50 | canon age of Qian Xun Ji (CANON_GROUND) |
@@ -30,6 +30,7 @@ from memory (k06).
 | Crossing | What changed | What caused it | What he already had | What failed first | Limitation that remains |
 |---|---|---|---|---|---|
 | Seclusion, 95→96 (Ch01) | body remade; core formed; bloodline purer | one month, adaptation talent, meta knowledge of core formation | 95 level, divine martial soul, rings and bones already his, very high spiritual power | — nothing is free: the month of pain and sweat is on the page | one level only; core does not equal godhood; first core of the era — no teacher, no precedent (R2, R13) |
+| Second core (Ch04) | a second center formed — spirit and blade in one thread — in the spiritual sea between the brows; the two centers turn against each other; the climb's floor is his (canon: no bottleneck before the heights) | a season of the sword walked as a road, then five days of sealed condensation; the blade's thread holding the second turn | the era's only core; the divine soul; very high spiritual power; canon knowledge of both roads | the skill-model blade (the light went out at the end of every cut); and on the second day the second center nearly scattered | rank stays ninety-six; two cores are not godhood; the last door still needs its own keys; no teacher, no precedent; a wrong step would have broken the body (R27) |
 
 New crossings append here with all five answers before the chapter that
 shows them ships (k05).
@@ -39,8 +40,9 @@ shows them ships (k05).
 | Chapter | Body words now | Band 2400–3400 | Over-60 lines | the-way | Jargon | Status |
 |---|---|---|---|---|---|---|
 | Ch01 The Night After — **v5** | **3,392** | IN | 0 | 0 | 0 | pass complete (R26, 2026-10-07) |
-| Ch02 The Codex — **v2** | **2,495** | IN | 0 | 0 | 0 | pass complete (R26, 2026-10-07) |
-| Ch03 The First Cut — **v1** | **2,691** | IN | 0 | 0 | 0 | live (first draft, 2026-10-07) |
+| Ch02 The Codex — **v2** | **2,490** | IN | 0 | 0 | 0 | live (R26 pass; canon-harvest corrections 2026-10-07) |
+| Ch03 The First Cut — **v1** | **2,694** | IN | 0 | 0 | 0 | live (first draft 2026-10-07; canon-harvest corrections same day) |
+| Ch04 The Second Core — **v1** | **2,596** | IN | 0 | 0 | 0 | live (first draft, 2026-10-07, R27) |
 
 **The pass (R26) ran 2026-10-07 — the same day as the baseline.** The story
 prose stayed whole; the foundation-note paragraphs left the bodies (content
@@ -48,6 +50,13 @@ restated in prose or moved to the chapter footers); jargon left the body; every
 number above was re-measured. House style gate (the Grey Wolf style gate, run
 directly on both chapter files): **ALL HARD CHECKS PASS** — band IN, 0 over-60,
 0 the-way, 0 bare panels. Full receipts in each chapter's footer.
+
+**Canon-harvest corrections (2026-10-07, later the same day):** Ch02 body
+2,490w and Ch03 body 2,694w re-measured after the corrections (invented names
+out; Clear Sky direction; the due line's season fix). **Ch04 "The Second
+Core"** shipped as the fourth chapter the same day: 2,596w, band IN, 0
+over-60, 0 the-way, 0 jargon, dialogue 2.7 per 1000w — house gate ALL HARD
+CHECKS PASS; the crossing's five answers sit in the ledger above.
 
 **Pre-pass baseline, kept for the record (measured 2026-10-07, as pushed):**
 Ch01 body 3,503w — over the band, 7 lines over 60, jargon ×1; Ch02 body

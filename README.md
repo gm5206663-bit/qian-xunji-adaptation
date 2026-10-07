@@ -8,12 +8,13 @@ edges — and a man who, for the first time in this era, has a soul core.
 
 ## Where it stands (2026-10-07)
 
-- **Ch01 "The Night After" v5 — live. Ch02 "The Codex" v2 — live.**
-- **Ch03 "The First Cut" v1 — live (2026-10-07, the author's "Next").**
-- The R26 read-and-fix pass on Ch01–Ch02 is done; Ch03 followed the same day.
-  House gate ALL HARD CHECKS PASS on all three; every number measured (Ch01
-  3,392w · Ch02 2,495w · Ch03 2,691w — band IN, 0 over-60, 0 the-way).
-  Next: **Ch04 — on the author's word.**
+- **Ch01 "The Night After" v5 · Ch02 "The Codex" v2 · Ch03 "The First Cut" v1 · Ch04 "The Second Core" v1 — all live.**
+- Ch03 and Ch04 were written on the author's orders (the "Next"; R27 — the
+  second core, the sword path); the canon-harvest corrections (clock, names,
+  Clear Sky direction) are applied.
+  House gate ALL HARD CHECKS PASS on all four; every number measured (Ch01
+  3,392w · Ch02 2,490w · Ch03 2,694w · Ch04 2,596w — band IN, 0 over-60,
+  0 the-way). Next: **Ch05 — on the author's word.**
 
 ## Start here
 
