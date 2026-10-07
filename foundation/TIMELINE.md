@@ -1,16 +1,17 @@
 # TIMELINE — Qian Xun Ji Reborn — v0.2 Clean
 
+> **NOTE 2026-10-07 (canon harvest):** clock corrected to canon — Renxue's birth is dated 2620 and Tang San's 11 January 2631 (Douluo Calendar, Baidu Baike EN), so the story present sits at late 2619, about eleven years before Tang San, and the hunt / the canon death fall around year 11-12. The old "~24y / ~15y / ~14y" guesses and the "~2624" birth year are replaced below; nothing about the far era is decided (R22).
+>
 > **NOTE 2026-10-07, docset adoption:** the Years 5–25 rows below carried guesses marked "maybe". The author ruled on 2026-10-07 that the far era, Bibi Dong's road, and the secret are **never pre-decided** (RULINGS_LOG R22–R24). The guesses were neutralized inline the same day; canon facts stand.
 
 
 ## Canon Timeline Reference — Clean
 
-- **~50y before SL1 start:** Qian Xun Ji born son of Qian Daoliu
-- **~25-30y before Tang San birth:** Qian Xun Ji assaults Bibi Dong secret chamber Bibi Dong pregnant Qian Renxue
-- **~24y before Tang San:** Qian Renxue born hidden raised by Qian family
-- **~15y before Tang San:** Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao Hao Tian Douluo
-- **~14y before Tang San:** Bibi Dong kills Qian Xun Ji Pope Hall after injured becomes Pope devours soul body advances Title Douluo
-- **Tang San birth:** ~2624 Spirit Hall calendar Tang San born later destroys Spirit Hall
+- **~2570:** Qian Xun Ji born, son of Qian Daoliu (canon-wiki: 50+ at Renxue's birth, 60+ at his death).
+- **Late 2619 — the night:** Qian Xun Ji [in canon] assaults Bibi Dong in the secret chamber; Bibi Dong pregnant; the child due when the year turns. **Our story starts right after this night.**
+- **2620:** Qian Renxue born [canon-baike: "In Douluo Calendar year 2620, Bibi Dong gave birth to Qian Xunji's child, named Qian Renxue"].
+- **2631:** Tang San born 11 January (Douluo Calendar) [canon-baike]; Tang Hao becomes a Titled Douluo at 44 [canon-baike]; the hunt of the Blue Silver Emperor — Tang Hao wounds Qian Xun Ji; Qian Xun Ji dies on his return, killed by Bibi Dong, the wounds publicly blamed [canon-wiki; year per baike calendar]. About eleven years after our present.
+- **2637:** Tang San's awakening (6). **2643:** Shrek (12). **2645:** the tournament (14). **2647:** Slaughter City. **2650:** Xiao Wu's sacrifice. **2655:** Tang San Titled Douluo (24); Bibi Dong dies (55) [canon-baike].
 
 ## Our Timeline — Divergence at Assault Night — Clean — Phenomena Level
 
@@ -29,10 +30,10 @@
   - Creates strict rules ends corruption first foundation uses Qian Xun Ji memories + meta knowledge + adaptation talent to see corruption cleans
   - Guild codex success faith power collected God position slowly forming
   - Much stronger than normal 96 because soul core quality foundation divine martial soul very high spiritual power no human has soul core era difference huge knows how strong he is matters to him
-- **Years 5-10 — Tang Hao Battle + Bibi Dong Revenge Clean:**
+- **Years 10-12 (canon: ~2631) — Tang Hao Battle + Bibi Dong Revenge:**
   - Canon Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao OC knows; **nothing pre-decided — the pages carry it (R22)**
   - Canon Bibi Dong kills Qian Xun Ji after injured OC stronger true angel core tolerance extreme never kills her road is **not pre-decided — never written ahead (R23); the pages carry it**
-- **Years 10-25 — Angel God + True Divine Adaptation Talent + Tang San Era Clean:**
+- **Years 10 on — Angel God + True Divine Adaptation Talent + Tang San Era:**
   - True Angel Core evolves becomes Angel God seed — **the far shape is not pre-decided (R22)**; helps Qian Renxue become Angel God with love
   - When becomes God adaptation talent becomes True Divine Adaptation Talent can increase rings age quality bones age quality God position become part make everything God level every part true divine
   - Tang San born twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God war with Spirit Hall OC knows all; the far era is **not pre-decided (R22)**

@@ -1,12 +1,18 @@
 # CANON_ACCESS.md — how canon ore enters Qian Xun Ji Reborn
 
+> **The complete harvest: `CANON_MASTER.md`** (built 2026-10-07 on the
+> author's order — "collect all information of canon completely everything").
+> The MASTER is the mine itself — every claim tagged, receipts at the foot.
+> This file decides how that ore enters the story.
+
 ## The spine vs the anchors
 
 - **Spine (load-bearing):** **Soul Land 1 — the Douluo Dalu era** — its
   people, ranks, Spirit Hall, and clock. Where the story stands is decided by
   this spine: the night with Bibi Dong; Qian Xun Ji 95, Pope, 6-Winged Angel,
   rings 2Y2P5B, son of Qian Daoliu; Qian Renxue to be born; the Tang Hao
-  wound and the canon death about twenty-five years on; Tang San born into a
+  wound and the canon death about eleven years on (canon dates: Renxue born
+  2620, Tang San born 11 January 2631); Tang San born into a
   world this story will have changed.
 - **Anchors (citable, never load-bearing for beats):** Soul Land 2 and 3
   receipts — used knowingly, because the OC's meta knowledge carries them

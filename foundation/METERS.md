@@ -23,7 +23,7 @@ from memory (k06).
 | Faith power | secretly, through guild + codex truth and reputation | slow; no number until it has a scene (R10); the guild opened and the book is public (Ch03) |
 | Codex volumes | the in-world book, volume by volume | Vol 1 written and public (Ch02–Ch03); Vol 2 begun (Ch02) (CODEX.md) |
 | Reform progress | corruption cut, rules made, Elder Hall votes | first cut made — Chenghe, the answer rule passed (Ch03); natural political body, no schedule (R12) |
-| Days · months · years | the story clock | canon clock: ~25 years to Tang San (TIMELINE) |
+| Days · months · years | the story clock | canon clock: ~11 years to Tang San's birth (11 Jan 2631); present late 2619 (TIMELINE) |
 
 ## Stage-crossing ledger (five questions each)
 

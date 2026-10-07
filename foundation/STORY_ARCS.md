@@ -5,7 +5,7 @@
 
 ## Canon Ground Time — Clean
 
-- **Year:** ~25 years before Tang San — Qian Renxue ~6 years older than Tang San — Qian Xun Ji assaults Bibi Dong Bibi Dong gives birth Qian Renxue hidden Bibi Dong later becomes Pope after killing Qian Xun Ji Qian Renxue grows goes to Heaven Dou as Xue Qinghe Tang San born later — Our start right after assault before birth before Qian Xun Ji death by Tang Hao + Bibi Dong
+- **Year:** ~11 years before Tang San is born (present late 2619; Renxue born 2620, Tang San 11 January 2631) — Qian Renxue about ten years older than Tang San — Qian Xun Ji assaults Bibi Dong Bibi Dong gives birth Qian Renxue hidden Bibi Dong later becomes Pope after killing Qian Xun Ji Qian Renxue grows goes to Heaven Dou as Xue Qinghe Tang San born later — Our start right after assault before birth before Qian Xun Ji death by Tang Hao + Bibi Dong
 - **Qian Xun Ji Canon:** Level 95 Angel Douluo Pope 6-Winged Angel rings 2Y2P5B age ~50 son of Qian Daoliu 99 Limit father of Qian Renxue via assault severely injured by Tang Hao killed by Bibi Dong in Pope Hall
 - **Our Divergence:** OC reincarnator from Earth based on user single virgin so matters considers Bibi Dong wife genuinely guilt attraction tolerance extreme never kills — receives all memories real Qian Xun Ji + meta all_plus_fandom — adaptation talent Mortal Divine Level NOT True Divine yet very strong because 95 level holder — goes 1 month seclusion to adapt
 
@@ -48,13 +48,13 @@
 - **Faith Power:** Collects faith power via guild codex truth reputation people worship Spirit Hall holy land knowledge faith power slowly creates God position own secret reason guild codex
 - **Avoid Death:** Canon Bibi Dong kills Qian Xun Ji after severely injured by Tang Hao — OC much stronger than normal 96 because soul core quality foundation divine martial soul very high spiritual power no human has soul core era difference huge knows how strong he is matters to him so can avoid death but goes naturally doesn't force adapts
 
-## Arc 5: Tang Hao Battle + Bibi Dong's Revenge + Future (Years 5-10) — Clean
+## Arc 5: Tang Hao Battle + Bibi Dong's Revenge + Future (Years 10-12 — canon ~2631)
 
 - **Tang Hao:** Canon Qian Xun Ji leads hunt for 100k Blue Silver Emperor A Yin severely injured by Tang Hao — OC knows via meta knowledge; **nothing is pre-decided — the pages carry it (R22)**
 - **Bibi Dong:** Will become Title Douluo will try to kill Qian Xun Ji in canon — OC stronger tolerance extreme never kills — her road is **not pre-decided — never written ahead (R23); the pages carry it scene by scene**
 - **Qian Renxue Growth:** Grows up 6-Winged Angel OC teaches as father — love, not mission; the rest is **not pre-decided (R22)**
 
-## Arc 6: Angel God + True Divine Adaptation Talent (Years 10-25 up to Tang San era) — Clean
+## Arc 6: Angel God + True Divine Adaptation Talent (Years 10 on — up to whatever the Tang San era becomes)
 
 - **True Angel Core evolves:** Blood Essence + Divine Things Martial Soul Authority Domain fully becomes Angel God seed — OC's own ascent — before her, beside her, or later — is **not pre-decided (R22)** (canon: Qian Renxue becomes Angel God; Qian Daoliu's trials pay the price)
 - **True Divine Adaptation Talent:** When he becomes God adaptation talent becomes True Divine Adaptation Talent can increase rings age bone age quality God position become part make everything God level every part true divine everything God level

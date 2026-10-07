@@ -8,15 +8,17 @@ fixed.
 
 - **Chapters:** Ch01 "The Night After" **v5** · Ch02 "The Codex" **v2** ·
   Ch03 "The First Cut" **v1** — all live; house gate ALL HARD CHECKS PASS.
+  (Canon-harvest corrections applied 2026-10-07 — see §7.)
 - **Next:** **Ch04 — on the author's word.**
 - **Story position:** the morning after the night with Bibi Dong — now five
   weeks on. The codex's first volume is public; the guild has opened (pilot
   room, first teacher, first reader posted to Chenghe); the reform's first cut
-  is done — the steward stripped, Stone Arm's hall under five years of open
+  is done — the steward stripped, the old elder's hall under five years of open
   books, the answer rule passed; Bibi Dong walks the yard, physically whole,
   and said six words; the physician is settled and the child is due when the
   year turns.
-- **Clock:** ~25 years before Tang San is born.
+- **Clock:** ~11 years before Tang San is born — canon dates: Renxue 2620, Tang
+  San 11 January 2631. The story present is late Douluo Calendar 2619.
 - **The far ends:** not pre-decided — Bibi Dong's road, the secret, the Tang
   San era (R22–R24). Write the present.
 
@@ -88,13 +90,15 @@ fixed.
 - **Passed 2026-10-07 (R26)**, measured with `tools/measure_chapter.py` and
   the house style gate run directly on both files: **Ch01 v5 body 3,392w —
   band IN, 0 over 60, 0 the-way, 0 jargon, avg 12.2w, med 10; Ch02 v2 body
-  2,495w — band IN, 0 over 60, 0 the-way, 0 jargon, avg 13.6w, med 10.**
+  2,495w — band IN, 0 over 60, 0 the-way, 0 jargon, avg 13.6w, med 10;
+  re-measured after the canon-harvest corrections: **2,490w**.**
   Pre-pass baseline, kept for the record: Ch01 3,503w (over band, 7 over-60,
   jargon ×1); Ch02 2,873w (in band, 8 over-60, jargon ×8); both bodies
   interlaced story prose with foundation-note paragraphs. The pass separated
   them; full receipts in the chapter footers. (The sweep's finding stands on
   record: Ch01's footer had claimed ~2700w for what measured over 3,500w.)
-  **Ch03 v1** (first draft, 2026-10-07, the author's "Next"): body 2,691w —
+  **Ch03 v1** (first draft, 2026-10-07, the author's "Next"): body 2,691w
+  (re-measured after the canon-harvest corrections: **2,694w**) —
   band IN, 0 over 60, 0 the-way, 0 jargon, avg 13.8w, med 11; house gate ALL
   HARD CHECKS PASS.
 
@@ -102,3 +106,20 @@ fixed.
 
 - Control Centre `tools/foundation_gate.py` against this repo: **PASS, 0
   errors** at adoption (2026-10-07). Re-run it after any docset edit.
+
+## §7 Canon harvest (2026-10-07)
+
+- The complete, tagged canon reference is **`CANON_MASTER.md`** — built on the
+  author's order ("collect all information of canon completely everything"):
+  the clock, ranks, rings, the Hall's full structure and rosters, the Qian
+  house, Bibi Dong's record, the 2619→2631 harness, Clear Sky, the continent,
+  and an open-gaps list that later passes shrink. Every claim tagged, receipts
+  at its foot.
+- **Corrections shipped in the same pass:** the clock is now **~11 years to
+  Tang San** (Renxue 2620; Tang San 11 January 2631; story present late 2619)
+  — fixed across CANON_ACCESS / HANDOFF / STATUS / METERS / RELATIONSHIPS /
+  CHARACTERS / GLOSSARY / TIMELINE / STORY_ARCS; Ch02's invented elder names
+  removed; Ch03's direction set to canon-east; "Stone Arm Douluo" retired to
+  an unnamed old elder.
+- Chapter bodies re-measured after the corrections: **Ch02 v2 2,490w · Ch03
+  v1 2,694w** — house gate ALL HARD CHECKS PASS on both.

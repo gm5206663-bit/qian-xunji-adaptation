@@ -55,4 +55,4 @@
 
 ## Tang San Era — Future — Clean — Natural
 
-- 25 years later Tang San twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God destroys Spirit Hall in canon — OC knows via meta knowledge all_plus_fandom Gaurav Meena / Càn Róng read all night Soul Land open to end all of it — wants save Spirit Hall reform not villain maybe avoid war collect faith power create own God position — naturally — not forced ally — goes naturally per butterfly effects — world adapts too
+- Eleven years later (born 11 January 2631) Tang San twin Blue Silver Grass + Clear Sky Hammer becomes Sea God + Asura God destroys Spirit Hall in canon — OC knows via meta knowledge all_plus_fandom Gaurav Meena / Càn Róng read all night Soul Land open to end all of it — wants save Spirit Hall reform not villain maybe avoid war collect faith power create own God position — naturally — not forced ally — goes naturally per butterfly effects — world adapts too

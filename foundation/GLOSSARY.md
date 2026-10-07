@@ -76,7 +76,7 @@
 - **Bibi Dong:** Saintess → Pope → Rakshasa God twin spider Death Spider Emperor + Soul Devouring Spider Emperor hates Qian Xun Ji mother of Qian Renxue hidden pregnancy killed Qian Xun Ji in canon after Tang Hao injury
 - **Qian Renxue:** Daughter of Qian Xun Ji and Bibi Dong 6-Winged Angel hidden raised by Qian family Angel God tragic OC be real father
 - **Qian Daoliu:** Father Angel Douluo 99 Limit Worship Hall Great Worship guardian Angel God supports son after seclusion
-- **Tang San:** Future 25 years later twin Blue Silver Grass + Clear Sky Hammer Sea God + Asura God destroys Spirit Hall in canon OC knows via meta knowledge all_plus_fandom
+- **Tang San:** Future eleven years later (born 11 January 2631) twin Blue Silver Grass + Clear Sky Hammer Sea God + Asura God destroys Spirit Hall in canon OC knows via meta knowledge all_plus_fandom
 
 ## Other Terms — Clean
 

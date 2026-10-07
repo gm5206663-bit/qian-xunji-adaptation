@@ -79,7 +79,7 @@ nobody pre-decides Bibi Dong's road or the secret (R23, R24).
 - **Tang Hao** [canon]: the man who canonically wounds Qian Xun Ji in the
   A Yin hunt, opening the door to the canon death. **Nothing is pre-decided**
   about that road (R22/R23).
-- **Tang San** [canon]: born about 25 years on, into whatever world this
+- **Tang San** [canon]: born about eleven years on (11 January 2631), into whatever world this
   story builds. **Nothing is pre-decided** (R22).
 - People not yet on stage are not listed here with plans attached; canon
   biographies live in `CANON_GROUND.md`, and the pages decide meetings.

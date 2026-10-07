@@ -8,10 +8,12 @@ in the order below, then do not write a word until you have.
 - **Serial:** Qian Xun Ji Reborn — a reader from Earth wakes as Qian Xun Ji,
   Pope of Spirit Hall, on the morning after the night with Bibi Dong.
   Adaptation Talent (Mortal Divine Level, never named in prose). Soul Land 1
-  era, about 25 years before Tang San is born.
+  era, about eleven years before Tang San is born (story present late 2619;
+  the child due at the turn of 2620; Tang San, January 2631).
 - **Chapters:** Ch01 v5 · Ch02 v2 · Ch03 v1 — all live; house gate ALL HARD
   CHECKS PASS. (Ch01–Ch02 passed R26 on 2026-10-07; Ch03, "The First Cut," was
-  written the same day on the author's "Next.")
+  written the same day on the author's "Next." Canon-harvest corrections of
+  2026-10-07: Ch02 body 2,490w, Ch03 body 2,694w — re-measured, gates green.)
 - **Next beat:** **Ch04 — on the author's word.**
 - **Stage 0:** grandfathered — founded 2026-09-27, before the Foundation-Stage
   law; drafting is unlocked. See `OPEN_RULINGS.md`.
@@ -27,8 +29,9 @@ in the order below, then do not write a word until you have.
 4. `STATUS.md` — the single current-truth source (read §0 first)
 5. `SYSTEM_SPEC.md` · `METERS.md` — the system pack: the Angel complete,
    and every meter that moves
-6. `CANON_GROUND.md` · `CANON_ACCESS.md` — what is verified, and how canon
-   ore enters
+6. `CANON_GROUND.md` · `CANON_ACCESS.md` · `CANON_MASTER.md` — what is
+   verified, how canon ore enters, and the complete harvest (every claim
+   tagged, receipts at the foot)
 7. `POWER_LAW.md` — how power works here (ranks, rings, bones, the core)
 8. `CHARACTERS.md` · `RELATIONSHIPS.md` — the cast, then the web
 9. `STORY_ARCS.md` · `TIMELINE.md` — where the canon clock stands
