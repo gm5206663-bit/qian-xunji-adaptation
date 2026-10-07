@@ -293,6 +293,18 @@ the winter off; signature lines kept verbatim; every beat, answer, and lock
 unchanged. v2 archived byte-preserved; re-measured (2,735w) and re-gated
 (ALL HARD CHECKS PASS) at ship.
 
+**Addendum (the author, on the invented arms master: *"Why you even do, like
+canon is nonsense, what you think who is he"*).** **Struck.** The old arms
+master of Ch04 v1–v3 was invention — *not canon, and not who he is*: the
+era's Angel Douluo does not take lessons in his own court, and the author's
+own R27 line was *"he have sword of course"*. As of **v4** the discipline
+comes from the book alone — the Seven Treasures blade-walker's road
+(canon) and the far volume's ledger, *ten thousand mornings, or don't
+bother* (the SL2 ch271 receipt, Ji Juechen). The only book-swordsman is
+canon — **Chen Xin of the Seven Treasures**; the man at the door is canon —
+**the Grand Worship (Qian Daoliu)**. v3 archived byte-preserved; re-measured
+(2,716w) and re-gated (ALL HARD CHECKS PASS) at ship.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

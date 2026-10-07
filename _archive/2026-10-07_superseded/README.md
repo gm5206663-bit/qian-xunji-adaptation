@@ -18,3 +18,4 @@ deleted — so the record stays whole and no checker silently depends on them.
   do not resurrect the file.
 - 2026-10-07 — `Chapter_04_The_Second_Core_v1.md` — superseded by the v2 rewrite (author: "Rewrite the last chapter"); byte-preserved here.
 - 2026-10-07 — `Chapter_04_The_Second_Core_v2.md` — superseded by the v3 rebuild (author: "Rebuild the last chapter"); byte-preserved here.
+- 2026-10-07 — `Chapter_04_The_Second_Core_v3.md` — superseded by v4 (the invented arms master struck on the author's call); byte-preserved here.

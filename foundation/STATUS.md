@@ -7,11 +7,11 @@ fixed.
 ## §0 LIVE EDGE — where the story is now
 
 - **Chapters:** Ch01 "The Night After" **v5** · Ch02 "The Codex" **v2** ·
-  Ch03 "The First Cut" **v1** · Ch04 "The Second Core" **v3** — all live;
+  Ch03 "The First Cut" **v1** · Ch04 "The Second Core" **v4** — all live;
   house gate ALL HARD CHECKS PASS. (Canon-harvest corrections applied
-  2026-10-07 — see §7; Ch04 v3 REBUILT on the author's "Rebuild the last
-  chapter" order — fresh prose end to end, the failed doubling on the page,
-  the held-cut ladder restaged; same R27 beats and locks.)
+  2026-10-07 — see §7; Ch04 v4: the invented old arms master STRUCK on the
+  author's call — not canon, and not who he is; the discipline comes from
+  the book alone; same R27 beats and locks.)
 - **Next:** **Ch05 — on the author's word.**
 - **Story position:** the morning after the night with Bibi Dong — now five
   weeks on. The codex's first volume is public; the guild has opened (pilot
@@ -40,10 +40,10 @@ fixed.
   the era's only soul core (R7, R13).
 - Adaptation Talent, **Mortal Divine Level** — not True Divine; True Divine
   only when he is a God (R8). Never named in prose (R17).
-- **Second core (Ch04, R27; v3):** the winter's held cuts grew the thread
+- **Second core (Ch04, R27; v4):** the winter's held cuts grew the thread
   from the sea between the brows into the blade, and the blade stayed where
   it was left — and the first attempt, doubling from the angel's own warmth,
-  slid back down the old channel; five
+  slid back down the old channel; no teacher stands in the court; five
   sealed days set a **second center** — small, cold, between the brows —
   turning **against** the first. Rank stays 96; the climb's floor is his; the
   last door still needs its own keys.
