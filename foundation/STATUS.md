@@ -148,3 +148,14 @@ fixed.
   Intent from fused spiritual + soul power, ch271; SL3 ch1249/1515). The
   earlier "sword intent = fanon" note is **withdrawn** — `CANON_MASTER.md`
   §11 and §13 item 9 corrected; receipts added.
+- **Third pass (same day — the author: "Again you just check soul' land 2,
+  please check everything completely everything"):** the franchise was
+  checked **work by work, end to end**. `CANON_MASTER.md` gained **§0 The
+  franchise map** (SL1–SL6 + 外传 神界传说/唐门英雄传/史莱克天团/斗罗世界 +
+  the crossover related-works list; what each work contributes vs what is
+  receipt-poor; every line era-tagged), the **SL2/SL3/SL4/SL5 core-era
+  blocks** in §2b, the **Ye Xinglan sword-soul receipt** in §11, and §13
+  items 10–13 (SL4 core receipts updated; **SL6 unverified — not citable**;
+  sword gaps in SL4/SL5 flagged as gaps, not filled; **open ruling: how far
+  the OC's bible reaches beyond SL1–SL3**). Ch04 unchanged — it stands as
+  the author set it. Gates green.

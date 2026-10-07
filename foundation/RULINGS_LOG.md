@@ -255,6 +255,25 @@ still stands: no tool-soul speaks; the tier's name stays out of the plain
 prose; Ch04's rendered fruit maps onto the ladder — unity, with the fused
 intent carried into the blade.
 
+**Addendum, same day (third pass — the author: *"Again you just check soul'
+land 2, please check everything completely everything"*):** the franchise
+check was completed **work by work**, and the map now lives in
+`CANON_MASTER.md` **§0** — SL1 (our stage) · SL2 · SL3 · SL4 · SL5 · SL6
+(unverified) + 外传 神界传说 / 唐门英雄传 / 史莱克天团 / 斗罗世界 + the
+crossover related works. Findings: **the franchise's named sword-soul holder
+is SL3's Ye Xinglan** (Star God Sword, called 剑痴; "through long
+comprehension of the sword dao gradually formed a sword soul", realm
+"Sword God" — baike) — the receipt the ladder note stands on; SL2's
+second-core chapter title and the two methods (**Isotopic Resonance** vs
+**Yin-Yang Complement**), stabilized by **Elder Mu's willing soul** (baike);
+SL3's **Soul-Sage start / Titled floor** for a second core (ch1394); SL4's
+own model (**bloodline vortex / spiritual sea / Dragon God Core / colored
+bridge** — its era self-produces rings); SL5's two cores → **Demon-God True
+Body**; 史莱克天团 **ch21 "Second Vortex" / ch25 "Piercing the Bridge Between
+Heaven and Earth"**. **SL6 (重生霍雨浩): no official receipt — not citable.**
+Open for the author: whether the youth's reading ("SL1+SL2+SL3+wiki+fandom")
+reaches SL4–SL6 and the extras — see §13 item 13.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

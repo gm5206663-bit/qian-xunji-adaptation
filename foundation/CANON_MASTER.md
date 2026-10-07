@@ -8,14 +8,13 @@
 > is never a receipt, and nothing on this page is [design]: our inventions
 > live in the story files.
 >
-> **Scope, corrected 2026-10-07 (the author: *"why you just check soul'
-> land 1 canon information"*):** the series is one continuous canon through
-> Soul Land II–V, and the machinery our pages now run on — **soul cores, the
-> sword ladder** — is **later-era** material. The harvest is therefore
-> franchise-wide, every receipt **era-tagged**: **[SL1]** our world ·
-> **[SL2] / [SL3] / [SL5]** = the books the OC has read, never his world's
-> common knowledge. Later-era mechanics may exist on our pages **only** as
-> his future knowledge (bible: SL1+SL2+SL3+wiki/fandom).
+> **Scope — final (2026-10-07, second correction; the author: *"Again you
+> just check soul' land 2, please check everything completely everything"*):**
+> the harvest now covers the **complete franchise** — every main volume,
+> every 外传 extra, plus adaptations, all listed in **§0 The franchise map**,
+> every receipt **era-tagged**: **[SL1]** our world · **[SL2]–[SL6] and the
+> extras** = later material. What the OC's bible covers is the author's line:
+> **SL1+SL2+SL3+wiki/fandom** — anything beyond that is open (see §13).
 >
 > **Tags:** **[canon-novel]** as written in the novel (via Baike/Fandom
 > summaries of the novel text) · **[canon-baike]** Baidu Baike (EN/CN) ·
@@ -24,6 +23,34 @@
 > **[disputed]** sources disagree · **[gap]** canon silent or not yet
 > verified in this harvest · **[later]** Soul Land II+ material, anachronistic
 > to our era.
+
+## 0. The franchise map — every installment, checked 2026-10-07
+
+> The series is one canon in ten volumes (plus extras). Main volumes sit
+> **10,000 years apart** — the fourth-generation Shrek Seven Devils follow
+> the first "after thirty thousand years", the third "after ten thousand"
+> [canon-baike: Fourth Generation Shrek Seven Devils]. **[SL1] is our
+> stage**; everything after it is later material (the OC's books at most).
+
+| # | Work | Place in canon | Status in our record |
+| --- | --- | --- | --- |
+| SL1 | **斗罗大陆** (Soul Land, 2008–09; 336 chapters) | **our stage (2619–2655)** | the deep mine — §§1–12 |
+| SL2 | **绝世唐门** (Unrivaled Tang Sect) | ~10,000 years on; Huo Yuhao | core record §2b; sword §11 |
+| 外传 | **神界传说** (God Realm Legend; bridges SL2→SL3) | the god realm; the five god-kings (Sea God/Asura Tang San · Evil God-King Ji Dong · Kind God-King Lie Yan · God of Destruction · Goddess of Life) [canon-baike] | outline only (§12); do not import |
+| SL3 | **龙王传说** (Legend of the Dragon King) | ~20,000 years on; Tang Wulin | core + sword receipts §2b/§11 |
+| 外传 | **唐门英雄传** (Tang Sect Heroes; bridges SL3→SL4) | god-realm crossover with Tang Jia San Shao's other novel leads (长弓·威 · 雷翔 · 阿呆 · 海龙 · 天痕 · 叶音竹 · 融念冰 · 周维清 …) [canon-baike] | outline only; do not import |
+| SL4 | **终极斗罗** (Ultimate Douluo) | ~30,000 years on; Blue Xuanyu; Soul Federation era | §2b era block; sword gap §13 |
+| 外传 | **史莱克天团** (Shrek Team; 60 ch, 2021) | god-kings teach at Shrek; four special students; ch21 "第二旋涡" · ch25 "贯通天地之桥" [canon-summary: chapter list] | cited by the core record (the Bridge) |
+| 外传 | **斗罗世界** (Douluo World; 39 ch, 2023) | the god-kings create the simulated "Douluo World"; **Huo Yuhao & Tang Wutong's son** leads a team; the final task = challenge the first-generation Seven Devils [canon-summary] | outline only; do not import |
+| SL5 | **重生唐三** (Rebirth of Tang San; 1,184 ch, ended "大团圆") | **another planet — Falan/妖精大陆**; Tang San searches Xiao Wu's reincarnation | §2b era block (the two cores) |
+| SL6 | *重生霍雨浩* (Rebirth of Huo Yuhao) | appears in a 2026 series listing; **no official receipt found this pass**; fan works share the name | **[unverified] — do not cite** (§13) |
+
+- **Adaptations:** animation = six parts (the five main volumes + the God
+  Realm extra), plus the 2025 theatrical film *Sword Dao Chen Xin*
+  [canon-donghua]; live-action drama, manhua, and games exist throughout —
+  **adaptation flavor, never receipts**, except where a page says so.
+- **What the OC knows (author's bible line):** *"SL1+SL2+SL3+wiki+fandom"* —
+  see §13 for the open question about anything beyond that.
 
 ## 1. The clock — the Douluo Calendar
 
@@ -126,6 +153,48 @@ Tang San 11 years away.
   **Spatial core** — lower dantian, on the path to Limit Douluo; first
   human yin-yang (and only triple-core) holder [canon-wiki: Soul_Cores ref
   list ch458.2/459.1/459.3, 521, 587.3, 619.1/.2 + franchise summary].
+- **What cores do (baike, the flat statement):** a core **does not raise
+  cultivation level**; its gains show in **soul-power recovery speed**; cores
+  themselves have **tiers** ("same-tier cores hold equal soul power"), and
+  they refine as the cultivator does [canon-baike: 魂核 item 22553579].
+- **[SL2] the method, verbatim:** a core is "one of the necessary thresholds"
+  for reaching Titled Douluo and then Limit Douluo; SL2 mapping — **first
+  core → stepping into Titled; second core → advancing to Super Douluo
+  (95+)** [canon-baike]. The second core's chapter is literally titled
+  "The Second Soul Core's Two Cultivation Methods" — **Isotopic Resonance**
+  (match the first core's frequency; minimal interference) vs **Yin-Yang
+  Complement** (opposing turns) [canon-novel ch521; canon-baike EN].
+  Huo Yuhao's second core was stabilized by **Elder Mu's soul, willingly
+  transformed into pure spiritual power** for the act — and Long Xiaoyao's
+  Dragon Pill fed the body through it [canon-baike: Soul Core]. Ch619
+  in his own words: after the third core settled, "the head is the gathering
+  place of spiritual power; the dantian is the gathering place of soul
+  power"; Tang Wutong became the second human to complete the chain — only
+  with his guidance and a 100% fusion bond [canon-novel ch619 raw summary].
+- **[SL3] the stage shifts:** with better methods and heavier spiritual-power
+  training, soul masters can **begin condensing a core from the Soul Sage
+  stage (魂圣)**; but a **second core requires at least the Titled Douluo
+  realm** — stated flat in the novel [canon-novel ch1394; canon-baike
+  魂核]. Tang Wulin's second core arrived at his Titled breakthrough; two
+  cores = the **Hyper Douluo** hallmark [canon-wiki ch1395/1396].
+- **[SL4] the era's own model (different machinery — tagged [later]):** Blue
+  Xuanyu runs on a **bloodline vortex** (energy source) + **spiritual sea**
+  (law analysis) + the **Dragon God Core** (the executive, a god-tier item,
+  not a standard soul core); his breakthrough keyed on the vortex and the
+  spiritual sea "communicating through a colored bridge" [canon-summary of
+  ch608 + character baike]. He also **self-produces soul rings** — the
+  beast-hunt cycle is gone in that era [canon-baike].
+- **[SL5] the two-core elaboration (tagged [later]):** Tang San's reincarnated
+  body carries **a soul core** (from his Xuantian Gong cultivation — 13
+  layers, each absorbing one demon-god-transformation ability) and **a
+  spiritual core** (from his four-realm spiritual cultivation 纵观·入微·
+  芥子·浩瀚); the **two cores together drive the Demon-God True Body** —
+  "two cores simultaneously stimulating a single transformation brand"
+  [canon-baike: Tang San]. The spine link between them is ch237–239
+  [canon-wiki].
+- **The extras have core receipts too:** *Shrek Team* ch21 "Second Vortex"
+  and ch25 "Piercing the Bridge Between Heaven and Earth" — chapter titles
+  corroborating the vortex-before-core and Bridge doctrines [canon-summary].
 
 - **What a core is:** highly compressed soul power solidified into a stable,
   continuously rotating center inside the cultivator. Once formed it pulls
@@ -518,6 +587,16 @@ continental superpower of the era — see §11 for its standing among empires.
   **martial soul has its own soul**, which its user must understand and win
   recognition from until "the distinction between the two becomes
   increasingly diminished" (Yu Xiaogang, novel ch293) [canon-wiki].
+- **The SL3 sword-soul receipt — Ye Xinglan, the Star God Sword:** a
+  Shrek Seven Devils member (third generation) whose martial soul is the
+  **星神剑 (Star God Sword)** — a mutated sword soul (out of the 星圣剑) —
+  called **剑痴**, and who, in the words of the record, **"through long
+  comprehension of the sword dao gradually formed a sword soul (剑魂)"**,
+  her sword-dao realm reaching the **'剑神' (Sword God) level** [canon-baike:
+  星神剑 item 23271910; tertiary article]. A related later name, 叶陌勇,
+  carries the title "剑神斗罗" (Sword God Douluo); a bloodline link is
+  suggested but **unverified** — [disputed]. This is the franchise's own
+  named sword-soul holder, and the receipt our ladder note stands on.
 - **The SL2 blade precedent — Ji Juechen, the Sword Maniac (剑痴):**
   martial soul an **ordinary sword** with no special power, innate soul
   power rank 3 — and top of his era's assault masters by comprehension
@@ -584,8 +663,22 @@ continental superpower of the era — see §11 for its standing among empires.
    and is **withdrawn**. What remains non-canon: 剑魂 as a DNF class name
    borrowed by crossovers, and any *talking* sword. The story's sword
    working rides the ladder receipts as [design].
-10. **SL4 (Ultimate Douluo) core receipts:** the fandom core page cites
-   only SL2/SL3/SL5 — no SL4 core material found this pass.
+10. **SL4 core receipts — updated same day:** the fandom core page cites
+   only SL2/SL3/SL5 for standard 魂核, but SL4's own model (bloodline vortex,
+   spiritual sea, Dragon God Core, the colored-bridge breakthrough, self-produced
+   rings) is now recorded in §2b [canon-summary; chapter-level receipts not
+   yet deep-fetched].
+11. **SL6 status — [unverified]:** "重生霍雨浩" (Rebirth of Huo Yuhao) appears
+   in a 2026 series listing as the sixth volume, but **no official receipt
+   was found this pass** (fan works share the exact title). Do not cite until
+   an official source lands.
+12. **Sword receipts in SL4/SL5:** none found this pass — the eras' named
+   blade/claw users are logged only where receipts exist (SL3's Ye Xinglan,
+   Mu Tian, Sima Jinchi). Gaps flagged, not filled.
+13. **What the OC knows beyond SL1–SL3:** his bible says *"SL1+SL2+SL3+wiki+
+   fandom"*. Whether the wiki/fandom half means he also knows SL4–SL6 and
+   the extras is **an open ruling for the author** — until then, pages use
+   later material for the record only.
 
 **Harvest status:** first complete pass shipped 2026-10-07 (this file).
 Every later pass adds rows here and strikes them from this list.
@@ -616,4 +709,14 @@ Every later pass adds rows here and strikes them from this list.
 - **404s (do not retry):** fandom `Haotian_Sect` / `Clear_Sky_Sect` /
   `Clear_Sky_School` / `Soul_Land` / `Seven_Treasure_Glazed_Tile_School`;
   novel chapter-text mirrors (readnovelfull, wuxiaworld — 404; novelbin —
-  blocked); `/wiki/Sword_Intent` (exists but empty).
+  blocked); `/wiki/Sword_Intent` (exists but empty); fandom `/wiki/Shrek_Team`
+  (empty).
+- **Third pass (2026-10-07, "check everything completely everything"):**
+  franchise listings (zh.wikipedia series list; Baidu baike 斗罗大陆 item
+  55276691 — the six works census of 2020) · zhihu reading-order + timeline
+  threads · baike 魂核 (item 22553579) · baike 星神剑 (item 23271910) ·
+  SL3 ch1394 (second core needs Titled) + ch521 chapter title (two methods)
+  via quotes · SL2 ch619 raw summary (Sina blog mirror) · SL4 character
+  baike + ch608 summary (colored bridge) · SL5 Tang San baike (two cores →
+  Demon-God True Body) · 史莱克天团 chapter list (ch21/ch25) · 斗罗世界
+  39-chapter list · Fourth Generation Shrek Seven Devils (30k-year spacing).
