@@ -7,9 +7,11 @@ fixed.
 ## §0 LIVE EDGE — where the story is now
 
 - **Chapters:** Ch01 "The Night After" **v5** · Ch02 "The Codex" **v2** ·
-  Ch03 "The First Cut" **v1** · Ch04 "The Second Core" **v1** — all live;
+  Ch03 "The First Cut" **v1** · Ch04 "The Second Core" **v2** — all live;
   house gate ALL HARD CHECKS PASS. (Canon-harvest corrections applied
-  2026-10-07 — see §7; Ch04 follows the author's R27 order.)
+  2026-10-07 — see §7; Ch04 v2 rewritten on the author's "Rewrite the last
+  chapter" order — same R27 beats, the fusion earned in the winter's held
+  cuts.)
 - **Next:** **Ch05 — on the author's word.**
 - **Story position:** the morning after the night with Bibi Dong — now five
   weeks on. The codex's first volume is public; the guild has opened (pilot
@@ -38,8 +40,9 @@ fixed.
   the era's only soul core (R7, R13).
 - Adaptation Talent, **Mortal Divine Level** — not True Divine; True Divine
   only when he is a God (R8). Never named in prose (R17).
-- **Second core (Ch04, R27):** the sword walked as a road until the blade
-  stayed; a thread of the sea between his brows now lives in the blade; five
+- **Second core (Ch04, R27; v2):** the winter's held cuts grew the thread
+  from the sea between the brows into the blade, and the blade stayed where
+  it was left; five
   sealed days set a **second center** — small, cold, between the brows —
   turning **against** the first. Rank stays 96; the climb's floor is his; the
   last door still needs its own keys.

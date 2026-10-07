@@ -279,6 +279,13 @@ carried a level deeper rather than wider: the source pages' unread sections
 and the map's thin rows were worked through and are filed in `CANON_MASTER.md`
 §0/§6/§7/§8/§13 and `STATUS.md`. No chapter touched; no ruling amended.
 
+**Addendum (the author: *"Rewrite the last chapter"*).** Executed as **Ch04
+v2** — same chapter, same beats, same R27 answers; the sword-consciousness
+fusion is now earned in the winter's held cuts; the exposition tightened and
+no PROPOSED detail struck. v1 archived byte-preserved; re-measured (2,782w)
+and re-gated (ALL HARD CHECKS PASS) at ship. Ch05 still opens only on the
+author's word.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

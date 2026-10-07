@@ -16,3 +16,4 @@ deleted — so the record stays whole and no checker silently depends on them.
 - Never restore a file from here as live text without a fresh ruling.
 - If anything below is ever needed, quote it into its new home with a date —
   do not resurrect the file.
+- 2026-10-07 — `Chapter_04_The_Second_Core_v1.md` — superseded by the v2 rewrite (author: "Rewrite the last chapter"); byte-preserved here.
