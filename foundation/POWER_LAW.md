@@ -46,11 +46,17 @@ the author's rulings; [era] true of this world's clock.
 
 ## The soul core — the era's only one
 
-- **What canon says:** soul cores are a later-era thing. First core at rank
-  90 in the SL2 era, 70+ in the SL3 era; second at 99. Two cores resonate
-  (Isotopic Resonance), or oppose as Yin and Yang. Blood Essence Core — the
-  Dragon Core family (Tang Wulin, chest, age 59) — forms from bloodline
-  concentration. [canon, SL2/SL3 — carried here as the OC's meta knowledge]
+- **What canon says:** soul cores are a later-era thing, and no one in this
+  era has one. Formation is not tied to a fixed rank — it turns on density,
+  spiritual power, physique, and control (Huo Yuhao formed one at seven
+  rings; Tang Wulin began before rank 60). The second core is the harder
+  climb — two canon methods, **Resonance** (safer) and **Yin Yang Complement**
+  (opposing; dangerous; far stronger — Di Tian had it; Huo Yuhao was the first
+  human); Tang Wulin's second went into his **spiritual sea** at his Titled
+  breakthrough (no bottleneck before 95). Three human locations: between the
+  eyebrows, the chest, the dantian. Blood Essence cores (Dragon Core family)
+  run parallel to soul-power cores, not under their limits. [canon, SL2/SL3 —
+  full receipts: `CANON_MASTER.md` §2b]
 - **What this era says [era]:** no human in this era has a soul core. Not
   Qian Daoliu at 99; not Golden Crocodile at 98. The Pope is the first, and
   the elders' shock is canon-true to the era (R7).
@@ -60,6 +66,13 @@ the author's rulings; [era] true of this world's clock.
   dantian: warm, solid, turning, drinking the world's power. It purifies
   body, meridians, bones; makes the spiritual sea tough as an angel's; it is
   his foundation toward godhood.
+- **The second core [R27, 2026-10-07]:** the author's order — he goes for a
+  **second core**, built from a **sword consciousness: spiritual power fused
+  with the sword**; success would make him, in his judgment, the strongest
+  below the gods in this era. Canon ground: `CANON_MASTER.md` §2b. The shape
+  (sword basis, placement, danger, one chapter or two) is fixed by the
+  author's answers; the crossing enters METERS' five-question ledger before
+  the chapter that shows it ships (k05).
 
 ## Why 96 here is not 96 anywhere else
 

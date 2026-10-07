@@ -207,6 +207,27 @@ the author chose:
 
 This pass runs before any new chapter.
 
+## R27 — The second core, and the sword (2026-10-07)
+
+The author's order, verbatim:
+
+> Next, he going to go for condess second soul core,he know if he succeeded
+> he become strongest under God in this era, he going to from spirit core but
+> not exactly he going to achieve sword soul' level and put this you know
+> fusion both, sword consciousness fusion of spritual power and sword, you
+> can check,so he going to that acutely well you can check and ask questions
+
+Reading of the order, pending the author's answers to the questions asked
+the same day: he attempts a **second soul core**; its basis is a **sword
+consciousness — the fusion of spiritual power and the sword**; achieving it
+makes him, in his judgment, the strongest below the gods in this era. Canon
+check completed the same day (`CANON_MASTER.md` §2b and §13): second cores
+are canon (Di Tian; Huo Yuhao, the first human, by Yin Yang Complement; Tang
+Wulin's second in the spiritual sea) — and no human in this era has even the
+first. Precise shape (sword basis, placement, danger, one chapter or two) is
+set by the author's answers; the crossing enters METERS' five-question
+ledger before any chapter that shows it ships (k05).
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

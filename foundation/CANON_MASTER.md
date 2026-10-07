@@ -94,7 +94,68 @@ Tang San 11 years away.
   [canon-wiki; soul cores are [later] — ours is the era's first and a story
   anomaly per R7, see `SKILLS_CANON.md`].
 
-## 3. Soul rings — the complete mechanics
+## 2b. Soul cores — the full mechanics [canon-wiki]
+
+> Inserted 2026-10-07 (the author's second-core order, R27); sections 3–13
+> keep their numbers.
+
+- **What a core is:** highly compressed soul power solidified into a stable,
+  continuously rotating center inside the cultivator. Once formed it pulls
+  origin energy in on its own, hugely raising soul-power recovery, cultivation
+  efficiency, and the stamina to keep techniques running [canon-wiki].
+- **Requirements and danger:** spiritual power (to control the process),
+  physical resilience, soul-power density, and control. If the forming core
+  loses stability, the compressed energy is extremely dangerous — Elder Xuan
+  warned a body could be destroyed [canon-wiki].
+- **Not a fixed rank:** era and person change the normal stage. In the SL2
+  era a core was thought an ability of extremely high masters — Elder Xuan
+  called a Soul Sage's attempt almost impossible — yet Huo Yuhao succeeded at
+  seven rings, stabilized by the Skydream Iceworm's origin power (a pure
+  fusion of soul power and spiritual power). By the SL3 era, a first core was
+  the normal mark of the seven-ringed Soul Sage stage; Tang Wulin began
+  condensing one **before rank 60** [canon-wiki].
+- **Three human locations:** between the eyebrows, the chest, and the
+  abdominal dantian. Each completed core constrains the circulation and space
+  left for later cores — Huo Yuhao put his first above the dantian, his second
+  in the chest, and deliberately kept the dantian for a third [canon-wiki].
+- **A vortex comes first:** before a core solidifies, the cultivator develops
+  a soul-power vortex that rotates and draws in heaven-and-earth origin
+  energy — the transitional stage that lets exceptional people form cores
+  early [canon-wiki].
+- **Types:** standard soul-power cores; a **Spiritual Soul Core** (tied to
+  spiritual power and the spiritual sea); elemental cores (Ultimate Ice,
+  spatial); and **Blood Essence cores** — the Dragon Core family — which run
+  as parallel structures from bloodline power and are not automatically under
+  the ordinary cores' limits (Tang Wulin: Dragon Core in the chest; his
+  ordinary soul core later; the two stayed separate and supported each other
+  through his life force) [canon-wiki].
+- **The second core — two canon methods:** **Resonance** (the safer path:
+  study the first core's rotation and frequency, bring the second into
+  harmony) and **Yin Yang Complement** (the harder path: the second core
+  rotates against the first, causing severe interference and pressure during
+  formation; if completed, the two energies endlessly collide, purify,
+  compress, and circulate — far more powerful than resonance). Di Tian had
+  achieved yin-yang dual cores; **Huo Yuhao became the first known human** to
+  do it. He later formed a **third**, spatial-type core in the dantian on the
+  path toward the highest mortal realm [canon-wiki].
+- **What a second core buys (canon terms):** its hallmark is Hyper Douluo
+  cultivation and it is called an essential step toward Limit Douluo; Tang
+  Wulin, having just entered Titled Douluo, was held to face **no cultivation
+  bottleneck before at least rank 95** [canon-wiki].
+- **Bridge Between Heaven and Earth (天地之桥):** a connection through which
+  separate centers communicate and circulate into one greater flow. Tang
+  Wulin's yin-yang vortex between his two cores grew into the Bridge; in
+  Soul Land V, Tang San's soul core (dantian) and Spiritual Core (spiritual
+  sea) linked through the spine into the Bridge — the dual-core resonance
+  that let his bloodline transformations evolve [canon-wiki; [later] eras].
+- **Beasts:** powerful soul beasts can carry cores too, but a second is extra
+  hard for them — the yin-yang method is their only path (Di Tian; the Evil
+  Eye Tyrant Emperor) [canon-wiki].
+- **Trivia note:** outside readers compare cores to the jindan/golden core of
+  other cultivation fiction; that comparison is not canon terminology
+  [canon-wiki]. [Later]
+
+
 
 - A **soul ring** is the energy body a soul beast leaves on death, sacrifice,
   or contract. **Only the one who delivers the killing blow can absorb it**,
@@ -400,6 +461,14 @@ continental superpower of the era — see §11 for its standing among empires.
   [canon-wiki categories]. Deep sect detail (masters, elders, grounds) is
   **[gap] this pass** — the fandom school page is missing; fetch via baike
   next.
+- **Sword Douluo Chen Xin — the era's blade ceiling:** **97, Seven Kill
+  Sword (七杀剑), title "Sword"**, of the Seven Treasure Glazed Tile Sect; the
+  "first attack Douluo of the continent" claim; his seventh skill is canon's
+  clearest phrasing of man-sword unity — **tool-soul true body (器魂真身):
+  "sword and body as one"** — and his ninth is "God-Devil Twin Slash"
+  [canon-baike, donghua page + novel skills; the theatrical film adds
+  variants, noted as adaptation]. Fan works' "sword intent" (剑意) language
+  is **not** a receipt.
 - **Yu Xiaogang — the Grandmaster:** his canon epithets are the wiki's own:
   *"In this world, there is no waste martial soul, only waste people."* —
   "Grandmaster." He belongs to the **Golden Iron Triangle** (with Flender and
@@ -443,13 +512,18 @@ continental superpower of the era — see §11 for its standing among empires.
 7. Deep pages: Spirit Bones, Spiritual Power, Soul Power (chapter receipts).
 8. The 2619–2631 Hall internal history (who held what when) — canon is
    thin; our pages decide under R22–R24 where canon is silent.
+9. **"Sword soul" as a formal canon term:** not found this pass. Canon's
+   sword ceiling on record is Chen Xin's tool-soul true body (man-sword
+   unity); the nearest canon core-side concept is the **Spiritual Soul
+   Core**. The harvest keeps looking; the story's own sword working will be
+   [design] riding on those receipts.
 
 **Harvest status:** first complete pass shipped 2026-10-07 (this file).
 Every later pass adds rows here and strikes them from this list.
 
 ## Receipts
 
-- **Fandom (Soulland Wiki):** `/wiki/Martial_Soul_Hall` · `/wiki/Soul_Master` ·
+- **Fandom (Soulland Wiki):** `/wiki/Martial_Soul_Hall` · `/wiki/Soul_Master` · `/wiki/Soul_Cores` ·
   `/wiki/Soul_Rings` (Spirit_Rings) · `/wiki/Martial_Souls` ·
   `/wiki/Category:Titled_Douluo` · `/wiki/Qian_Xunji` · `/wiki/Qian_Renxue` ·
   `/wiki/Bibi_Dong` · `/wiki/Qian_Daoliu` · `/wiki/Yu_Xiaogang` ·
@@ -457,7 +531,7 @@ Every later pass adds rows here and strikes them from this list.
 - **Baidu Baike:** Seven Great Worshipers of the Spirit Hall Empire ·
   Golden Crocodile Douluo · Yue Guan (Chrysanthemum) · Gui Mei (Ghost) ·
   Bibi Dong (item 669223) · Qian Xunji (item 17819) · Qian Renxue (item
-  3406309) · Tang San · Tang Hao · Haotian Sect · Douluo Calendar
+  3406309) · Tang San · Tang Hao · Haotian Sect · Douluo Calendar · Chen Xin / Sword Douluo (donghua baike, item 62099990)
 - **Novel:** ch269 (Clear Sky's distance from Heaven Dou City); ch192/197/
   239/287–288 (Renxue's chart rows via the wiki).
 - **Donghua:** episodes 153/185/196/201/216/240/247/250 (Renxue's chart rows
