@@ -282,7 +282,7 @@ and the map's thin rows were worked through and are filed in `CANON_MASTER.md`
 **Addendum (the author: *"Rewrite the last chapter"*).** Executed as **Ch04
 v2** — same chapter, same beats, same R27 answers; the sword-consciousness
 fusion is now earned in the winter's held cuts; the exposition tightened and
-no PROPOSED detail struck. v1 archived byte-preserved; re-measured (2,782w)
+no PROPOSED detail struck. v1 archived byte-preserved; re-measured (2,783w)
 and re-gated (ALL HARD CHECKS PASS) at ship. Ch05 still opens only on the
 author's word.
 
