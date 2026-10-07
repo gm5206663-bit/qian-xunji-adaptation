@@ -81,10 +81,9 @@ a restatement of the author's rulings and this project's own record.
 
 ## The state at adoption
 
-- Ch01 "The Night After" **v5** — live. Ch02 "The Codex" **v2** — pass
-  complete. Both re-measured at the R26 pass (2026-10-07): band IN, 0 over-60,
-  0 the-way, 0 jargon; house gate green.
-- Next: **Ch03 — on the author's word.**
+- Ch01 v5 · Ch02 v2 · Ch03 v1 — live; band IN, 0 over-60, 0 the-way, 0
+  jargon on all three; house gate green.
+- Next: **Ch04 — on the author's word.**
 - The gate: Control Centre `tools/foundation_gate.py` — PASS, 0 errors, at
   adoption.
 

@@ -20,9 +20,9 @@ from memory (k06).
 
 | Meter | Where it moves | Pace law |
 |---|---|---|
-| Faith power | secretly, through guild + codex truth and reputation | slow; no number until it has a scene (R10) |
-| Codex volumes | the in-world book, volume by volume | Vol 1 written in Ch02 (CODEX.md) |
-| Reform progress | corruption cut, rules made, Elder Hall votes | natural political body — no schedule (R12) |
+| Faith power | secretly, through guild + codex truth and reputation | slow; no number until it has a scene (R10); the guild opened and the book is public (Ch03) |
+| Codex volumes | the in-world book, volume by volume | Vol 1 written and public (Ch02–Ch03); Vol 2 begun (Ch02) (CODEX.md) |
+| Reform progress | corruption cut, rules made, Elder Hall votes | first cut made — Chenghe, the answer rule passed (Ch03); natural political body, no schedule (R12) |
 | Days · months · years | the story clock | canon clock: ~25 years to Tang San (TIMELINE) |
 
 ## Stage-crossing ledger (five questions each)
@@ -40,6 +40,7 @@ shows them ships (k05).
 |---|---|---|---|---|---|---|
 | Ch01 The Night After — **v5** | **3,392** | IN | 0 | 0 | 0 | pass complete (R26, 2026-10-07) |
 | Ch02 The Codex — **v2** | **2,495** | IN | 0 | 0 | 0 | pass complete (R26, 2026-10-07) |
+| Ch03 The First Cut — **v1** | **2,691** | IN | 0 | 0 | 0 | live (first draft, 2026-10-07) |
 
 **The pass (R26) ran 2026-10-07 — the same day as the baseline.** The story
 prose stayed whole; the foundation-note paragraphs left the bodies (content

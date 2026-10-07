@@ -24,6 +24,11 @@ Simple names, one place each, receipt where the place is canon.
 - **Main Halls** — major cities; **Sub-Halls** — medium cities; **Branch
   halls** — every city, a landmark. [canon]
 - The two empires: **Heaven Dou** (north) and **Star Luo** (south). [canon]
+- **Chenghe** — the city of the first cut: its Main Hall, its steward (stripped),
+  its seat (Stone Arm Douluo), its books open five years. [design, Ch03]
+- **The guild's pilot room** — a side hall under the Elder Hall: ten rows of
+  chairs, a stove, a lectern cut down from an old door; the first teacher's
+  board, six characters under his name. [design, Ch03]
 
 ## Rooms that matter right now
 

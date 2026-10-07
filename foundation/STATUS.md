@@ -6,15 +6,16 @@ fixed.
 
 ## §0 LIVE EDGE — where the story is now
 
-- **Chapters:** Ch01 "The Night After" **v5** — **live**. Ch02 "The Codex"
-  **v2** — pass complete (both under the R26 read-and-fix pass, 2026-10-07;
-  house gate: ALL HARD CHECKS PASS). Nothing else is written.
-- **Next:** **Ch03 — on the author's word** (the pass is done: story kept
-  whole, note paragraphs out of the bodies, jargon out, numbers measured).
-- **Story position:** the morning after the night with Bibi Dong. The one
-  month of seclusion is done; the first volume of the codex is written and
-  sent out; the first foundation passed the Elder Hall; Bibi Dong's room is
-  kept safe, resources go to her secretly; Qian Renxue is not yet born.
+- **Chapters:** Ch01 "The Night After" **v5** · Ch02 "The Codex" **v2** ·
+  Ch03 "The First Cut" **v1** — all live; house gate ALL HARD CHECKS PASS.
+- **Next:** **Ch04 — on the author's word.**
+- **Story position:** the morning after the night with Bibi Dong — now five
+  weeks on. The codex's first volume is public; the guild has opened (pilot
+  room, first teacher, first reader posted to Chenghe); the reform's first cut
+  is done — the steward stripped, Stone Arm's hall under five years of open
+  books, the answer rule passed; Bibi Dong walks the yard, physically whole,
+  and said six words; the physician is settled and the child is due when the
+  year turns.
 - **Clock:** ~25 years before Tang San is born.
 - **The far ends:** not pre-decided — Bibi Dong's road, the secret, the Tang
   San era (R22–R24). Write the present.
@@ -83,7 +84,7 @@ fixed.
 
 ## §5 Counts (measured only — k06)
 
-- Chapters written: 2 — Ch01 v5 (live) · Ch02 v2 (pass complete).
+- Chapters written: 3 — Ch01 v5 · Ch02 v2 · Ch03 v1 (all live, gates green).
 - **Passed 2026-10-07 (R26)**, measured with `tools/measure_chapter.py` and
   the house style gate run directly on both files: **Ch01 v5 body 3,392w —
   band IN, 0 over 60, 0 the-way, 0 jargon, avg 12.2w, med 10; Ch02 v2 body
@@ -93,6 +94,9 @@ fixed.
   interlaced story prose with foundation-note paragraphs. The pass separated
   them; full receipts in the chapter footers. (The sweep's finding stands on
   record: Ch01's footer had claimed ~2700w for what measured over 3,500w.)
+  **Ch03 v1** (first draft, 2026-10-07, the author's "Next"): body 2,691w —
+  band IN, 0 over 60, 0 the-way, 0 jargon, avg 13.8w, med 11; house gate ALL
+  HARD CHECKS PASS.
 
 ## §6 The gate
 
