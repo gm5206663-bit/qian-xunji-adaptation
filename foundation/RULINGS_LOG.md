@@ -274,6 +274,11 @@ Heaven and Earth"**. **SL6 (重生霍雨浩): no official receipt — not citabl
 Open for the author: whether the youth's reading ("SL1+SL2+SL3+wiki+fandom")
 reaches SL4–SL6 and the extras — see §13 item 13.
 
+**Addendum (the author: *"Go deeper"*).** The same day's franchise pass was
+carried a level deeper rather than wider: the source pages' unread sections
+and the map's thin rows were worked through and are filed in `CANON_MASTER.md`
+§0/§6/§7/§8/§13 and `STATUS.md`. No chapter touched; no ruling amended.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

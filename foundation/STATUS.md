@@ -159,3 +159,22 @@ fixed.
   sword gaps in SL4/SL5 flagged as gaps, not filled; **open ruling: how far
   the OC's bible reaches beyond SL1–SL3**). Ch04 unchanged — it stands as
   the author set it. Gates green.
+- **Deep round (same day — the author: "Go deeper"):** the thin rows of
+  the franchise map were deepened at source. New receipts folded in:
+  **Renxue's early history** (the cold mother, the clung-to grandfather;
+  the Xue Qinghe plan her own [ch164/195]; the "Qian Xunji's child" line
+  [ch192]; the mask soul tool [ch193]; the staged-attack method flagged
+  manhua-only, §13 item 14) · **Bibi Dong** (Rakshasa trials 20+ years in
+  [ch223]; the tournament restraint [ch124–130]; the Soul Hunting
+  Operation's first attempt blocked by the Elder Hall about two decades
+  before [ch146]; Phase One [ch156]) · **the Hall's named fleet** (She
+  Long, Ci Xue, Tuoba Xi, Devil Bear, the Ninth Elder; bishops Salas /
+  Meyers; Golden Generation at 71+ — §6) · **SL4's protagonist** (Tang
+  Xuanyu: the golden-silver egg; Lan Xiao & Nan Cheng; the bloodline war
+  at every tenth rank; the Divine Dragon Realm) · **the extras' casts**
+  (Tang Sect Heroes' crisis chain + eighteen seals; God Realm Legend ~30
+  years after Huo Yuhao; Shrek Team's four god-kings and disciples incl.
+  Dai Ying; Douluo World's son-lead) · **SL6 resolved as far as sourcing
+  allows** — zh.wikipedia names it, every 2026 book of the name is a fan
+  work; still not citable (§13 item 11). Ch04 untouched. Gates green
+  (re-verified from the correct working directory).
