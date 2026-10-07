@@ -8,7 +8,7 @@
 ## Canon Timeline Reference — Clean
 
 - **~2570:** Qian Xun Ji born, son of Qian Daoliu (canon-wiki: 50+ at Renxue's birth, 60+ at his death).
-- **Late summer 2619 — the night:** Qian Xun Ji [in canon] assaults Bibi Dong in the secret chamber; Bibi Dong pregnant; the child due when the year turns. **Our story starts right after this night.**
+- **Late summer 2619 — the night:** Qian Xun Ji [in canon] assaults Bibi Dong in the secret chamber; Bibi Dong pregnant; the child due when the cold breaks (spring 2620). **Our story starts right after this night.**
 - **2620:** Qian Renxue born [canon-baike: "In Douluo Calendar year 2620, Bibi Dong gave birth to Qian Xunji's child, named Qian Renxue"].
 - **2631:** Tang San born 11 January (Douluo Calendar) [canon-baike]; Tang Hao becomes a Titled Douluo at 44 [canon-baike]; the hunt of the Blue Silver Emperor — Tang Hao wounds Qian Xun Ji; Qian Xun Ji dies on his return, killed by Bibi Dong, the wounds publicly blamed [canon-wiki; year per baike calendar]. About eleven years after our present.
 - **2637:** Tang San's awakening (6). **2643:** Shrek (12). **2645:** the tournament (14). **2647:** Slaughter City. **2650:** Xiao Wu's sacrifice. **2655:** Tang San Titled Douluo (24); Bibi Dong dies (55) [canon-baike].

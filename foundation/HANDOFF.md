@@ -9,7 +9,7 @@ in the order below, then do not write a word until you have.
   Pope of Spirit Hall, on the morning after the night with Bibi Dong.
   Adaptation Talent (Mortal Divine Level, never named in prose). Soul Land 1
   era, about eleven years before Tang San is born (story present late 2619;
-  the child due at the turn of 2620; Tang San, January 2631).
+  the child due when the cold breaks, spring 2620; Tang San, January 2631).
 - **Chapters:** Ch01 v5 · Ch02 v2 · Ch03 v1 — all live; house gate ALL HARD
   CHECKS PASS. (Ch01–Ch02 passed R26 on 2026-10-07; Ch03, "The First Cut," was
   written the same day on the author's "Next." Canon-harvest corrections of
