@@ -140,3 +140,11 @@ fixed.
 - **R27 executed the same day:** the author's second-core order — Ch04 "The
   Second Core" (2,596w, gates green); the sword-side receipts (Sword Dao
   Chen Xin; man-sword unity) folded into `CANON_MASTER.md` §11.
+- **Canon-scope correction (same day, second pass — the author: "why you
+  just check soul' land 1 canon information"):** the R27 canon check was
+  widened **franchise-wide** (SL2–SL5). Two recoveries: the core system is
+  **2nd-era canon created by Huo Yuhao** (no core exists in 2619) and the
+  **sword ladder Intent/Soul/God is real canon** (SL2 Ji Juechen's Sword
+  Intent from fused spiritual + soul power, ch271; SL3 ch1249/1515). The
+  earlier "sword intent = fanon" note is **withdrawn** — `CANON_MASTER.md`
+  §11 and §13 item 9 corrected; receipts added.

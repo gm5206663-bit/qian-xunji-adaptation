@@ -1,4 +1,4 @@
-# CANON MASTER — Soul Land I (the Douluo Dalu era) — the complete harvest
+# CANON MASTER — the full canon record, era-tagged (our stage: Soul Land I) — the complete harvest
 
 > Built 2026-10-07 on the author's order: *"go collect all information of canon
 > completely everything."* This is the reference mine behind `CANON_GROUND.md`
@@ -7,6 +7,15 @@
 > sources conflict, **both versions are shown** — nothing is smoothed. Fanfic
 > is never a receipt, and nothing on this page is [design]: our inventions
 > live in the story files.
+>
+> **Scope, corrected 2026-10-07 (the author: *"why you just check soul'
+> land 1 canon information"*):** the series is one continuous canon through
+> Soul Land II–V, and the machinery our pages now run on — **soul cores, the
+> sword ladder** — is **later-era** material. The harvest is therefore
+> franchise-wide, every receipt **era-tagged**: **[SL1]** our world ·
+> **[SL2] / [SL3] / [SL5]** = the books the OC has read, never his world's
+> common knowledge. Later-era mechanics may exist on our pages **only** as
+> his future knowledge (bible: SL1+SL2+SL3+wiki/fandom).
 >
 > **Tags:** **[canon-novel]** as written in the novel (via Baike/Fandom
 > summaries of the novel text) · **[canon-baike]** Baidu Baike (EN/CN) ·
@@ -94,10 +103,29 @@ Tang San 11 years away.
   [canon-wiki; soul cores are [later] — ours is the era's first and a story
   anomaly per R7, see `SKILLS_CANON.md`].
 
-## 2b. Soul cores — the full mechanics [canon-wiki]
+## 2b. Soul cores — the full mechanics, tagged by era [canon-wiki]
 
 > Inserted 2026-10-07 (the author's second-core order, R27); sections 3–13
-> keep their numbers.
+> keep their numbers. Scope corrected the same day — the record below is
+> franchise-wide and era-tagged.
+
+- **Era origin — the load-bearing fact:** soul cores are **not SL1-era
+  canon**. The method is **created in the SL2 era**: Huo Yuhao watched Di
+  Tian fight, studied how the beast-king's soul power circulated ("like
+  linked black holes"), built the first human core from it, and taught it at
+  Shrek so it could pass down [canon-wiki + franchise summaries: "in Soul
+  Land I no one created a soul core; it belongs to Soul Land II"]. **Our
+  world (2619) therefore has none, and no one to teach it** — the chapter
+  line "No one in this age carried even one center" now rests on the
+  franchise record; the OC's method is **his books' knowledge** [design
+  riding these receipts].
+- **Huo Yuhao's three cores — the canon template [SL2]:** 1st **Spiritual
+  core** — upper dantian (between the brows), formed at his Soul Sage
+  breakthrough, stabilized by the Skydream Iceworm; 2nd **Ultimate Ice
+  core** — middle dantian (chest), at his Titled breakthrough; 3rd
+  **Spatial core** — lower dantian, on the path to Limit Douluo; first
+  human yin-yang (and only triple-core) holder [canon-wiki: Soul_Cores ref
+  list ch458.2/459.1/459.3, 521, 587.3, 619.1/.2 + franchise summary].
 
 - **What a core is:** highly compressed soul power solidified into a stable,
   continuously rotating center inside the cultivator. Once formed it pulls
@@ -114,10 +142,11 @@ Tang San 11 years away.
   fusion of soul power and spiritual power). By the SL3 era, a first core was
   the normal mark of the seven-ringed Soul Sage stage; Tang Wulin began
   condensing one **before rank 60** [canon-wiki].
-- **Three human locations:** between the eyebrows, the chest, and the
-  abdominal dantian. Each completed core constrains the circulation and space
-  left for later cores — Huo Yuhao put his first above the dantian, his second
-  in the chest, and deliberately kept the dantian for a third [canon-wiki].
+- **Three human locations (and the order constraint):** between the
+  eyebrows (upper dantian), the chest (middle dantian), the abdominal
+  dantian (lower). Each completed core constrains the space and circulation
+  left for the next; canon's template fills them upper → middle → lower
+  [canon-wiki: Soul_Cores; Huo Yuhao's layout, [SL2]].
 - **A vortex comes first:** before a core solidifies, the cultivator develops
   a soul-power vortex that rotates and draws in heaven-and-earth origin
   energy — the transitional stage that lets exceptional people form cores
@@ -141,7 +170,14 @@ Tang San 11 years away.
 - **What a second core buys (canon terms):** its hallmark is Hyper Douluo
   cultivation and it is called an essential step toward Limit Douluo; Tang
   Wulin, having just entered Titled Douluo, was held to face **no cultivation
-  bottleneck before at least rank 95** [canon-wiki].
+  bottleneck before at least rank 95** [canon-wiki; [SL3]].
+- **Where Ch04 sits (consistency check):** the first core formed at the
+  95→96 passage (Ch01) and the second at 96 — inside canon's own window:
+  SL3's Tang Wulin formed his second at his Titled breakthrough, and canon
+  calls two cores the **Hyper Douluo** hallmark (95+); the spiritual-sea
+  second carried "no bottleneck before at least rank 95" [canon-wiki
+  ch1395/1396]. The OC sits below that wall, in a world where no human has
+  any core at all.
 - **Bridge Between Heaven and Earth (天地之桥):** a connection through which
   separate centers communicate and circulate into one greater flow. Tang
   Wulin's yin-yang vortex between his two cores grew into the Bridge; in
@@ -468,9 +504,34 @@ continental superpower of the era — see §11 for its standing among empires.
   "sword and body as one"** — and his ninth is "God-Devil Twin Slash";
   **past level 95, each advance evolves the martial soul itself**
   [canon-baike: "above level 95, every level-up evolves the martial soul"]
-  [canon-baike, donghua page + novel skills; the theatrical film adds
-  variants, noted as adaptation]. Fan works' "sword intent" (剑意) language
-  is **not** a receipt.
+  [canon-baike, donghua page + novel skills].
+- **The sword ladder — canon's own tier names (corrected 2026-10-07, second
+  pass):** weapon comprehension runs **Intent → Soul → God**, the weapon's
+  name replacing "Weapon": for the sword, **Sword Intent (剑意) / Sword
+  Soul (剑魂) / Sword God (剑神)**. SL3's Old Tang teaches the triad as the
+  integration of essence, energy and spirit (精·气·神) with the weapon and
+  says the pinnacle is all three perfectly combined; **One with the Sword
+  (人剑合一)** is closely associated but distinct — "a true Blade Soul …
+  goes beyond merely being One with the Blade, requiring fusion with the
+  blade's soul itself" [canon-wiki `/wiki/Comprehension`, SL3 ch1249/ch1515;
+  the page is categorized SL1–SL4]. SL1 already seeds the doctrine that a
+  **martial soul has its own soul**, which its user must understand and win
+  recognition from until "the distinction between the two becomes
+  increasingly diminished" (Yu Xiaogang, novel ch293) [canon-wiki].
+- **The SL2 blade precedent — Ji Juechen, the Sword Maniac (剑痴):**
+  martial soul an **ordinary sword** with no special power, innate soul
+  power rank 3 — and top of his era's assault masters by comprehension
+  alone: **One with the Sword, and a self-created Sword Intent accumulated
+  through the fusion of his Spiritual Power and Soul Power** [canon-wiki
+  `/wiki/Comprehension` citing SL2 ch271]; his 7th ring fuses him with
+  whatever sword he holds; his Solitary Sword Domain gathers sword intent
+  before a strike; named skills: Executioner's Blade, Dragonslayer Sword
+  Intent [canon-wiki `/wiki/Ji_Juechen` + `/Abilities`; baike 季绝尘].
+- **Do not import:** the 2025 theatrical film *Sword Dao Chen Xin* (剑道尘心;
+  Tencent, 玄机科技; set ~20 years before the final battle; Asura-inheritor
+  plot with original settings) and the donghua's "Sword God" god-position
+  tag for Chen Xin — adaptation flavor, kept off the pages
+  [canon-donghua/adaptation].
 - **Yu Xiaogang — the Grandmaster:** his canon epithets are the wiki's own:
   *"In this world, there is no waste martial soul, only waste people."* —
   "Grandmaster." He belongs to the **Golden Iron Triangle** (with Flender and
@@ -514,11 +575,17 @@ continental superpower of the era — see §11 for its standing among empires.
 7. Deep pages: Spirit Bones, Spiritual Power, Soul Power (chapter receipts).
 8. The 2619–2631 Hall internal history (who held what when) — canon is
    thin; our pages decide under R22–R24 where canon is silent.
-9. **"Sword soul" as a formal canon term:** not found this pass. Canon's
-   sword ceiling on record is Chen Xin's tool-soul true body (man-sword
-   unity); the nearest canon core-side concept is the **Spiritual Soul
-   Core**. The harvest keeps looking; the story's own sword working will be
-   [design] riding on those receipts.
+9. **"Sword soul" (剑魂) — corrected 2026-10-07 (second pass):** a **real
+   canon tier**. The weapon-comprehension ladder runs **Sword Intent (剑意)
+   / Sword Soul (剑魂) / Sword God (剑神)** (SL3 ch1249/ch1515; SL2
+   precedent — Ji Juechen's Sword Intent built when his spiritual power and
+   soul power fused, ch271; SL1 seed — a martial soul has its own soul,
+   ch293). The first pass's "fanon only" verdict was scoped to SL1 sources
+   and is **withdrawn**. What remains non-canon: 剑魂 as a DNF class name
+   borrowed by crossovers, and any *talking* sword. The story's sword
+   working rides the ladder receipts as [design].
+10. **SL4 (Ultimate Douluo) core receipts:** the fandom core page cites
+   only SL2/SL3/SL5 — no SL4 core material found this pass.
 
 **Harvest status:** first complete pass shipped 2026-10-07 (this file).
 Every later pass adds rows here and strikes them from this list.
@@ -529,7 +596,15 @@ Every later pass adds rows here and strikes them from this list.
   `/wiki/Soul_Rings` (Spirit_Rings) · `/wiki/Martial_Souls` ·
   `/wiki/Category:Titled_Douluo` · `/wiki/Qian_Xunji` · `/wiki/Qian_Renxue` ·
   `/wiki/Bibi_Dong` · `/wiki/Qian_Daoliu` · `/wiki/Yu_Xiaogang` ·
-  `/wiki/Qian_Renxue/Abilities` · `/wiki/Qian_Daoliu/Abilities`
+  `/wiki/Qian_Renxue/Abilities` · `/wiki/Qian_Daoliu/Abilities` ·
+  `/wiki/Soul_Cores` (full ref list: SL2 ch458.2–619.2 · SL3 ch957–1468 ·
+  SL5 ch237–239 · Shrek Team ch25) · `/wiki/Chen_Xin` ·
+  `/wiki/Ji_Juechen` + `/Abilities` · `/wiki/Comprehension`
+- **Second pass (2026-10-07, franchise-wide per the author's scope call):**
+  baike 季绝尘 (item 20121938) · 剑斗罗 抖音百科 · 尘心 donghua baike (item
+  62099990) · film《剑道尘心》coverage (2025-07-12) · franchise summaries
+  (Sina 2020-08-03 — Huo Yuhao's three cores by dantian; Sohu 2025-11-01 —
+  the core method created in the SL2 era).
 - **Baidu Baike:** Seven Great Worshipers of the Spirit Hall Empire ·
   Golden Crocodile Douluo · Yue Guan (Chrysanthemum) · Gui Mei (Ghost) ·
   Bibi Dong (item 669223) · Qian Xunji (item 17819) · Qian Renxue (item
@@ -541,4 +616,4 @@ Every later pass adds rows here and strikes them from this list.
 - **404s (do not retry):** fandom `Haotian_Sect` / `Clear_Sky_Sect` /
   `Clear_Sky_School` / `Soul_Land` / `Seven_Treasure_Glazed_Tile_School`;
   novel chapter-text mirrors (readnovelfull, wuxiaworld — 404; novelbin —
-  blocked).
+  blocked); `/wiki/Sword_Intent` (exists but empty).

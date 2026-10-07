@@ -241,6 +241,20 @@ formed in the spiritual sea, cold, turning against the first; the
 strongest-below-the-gods claim stands in the text as **his own sum**, never
 narration. Canon receipts folded into `CANON_MASTER.md` §2b and §11.
 
+**Addendum, same day (the author's scope call — "why you just check soul'
+land 1 canon information"):** the check was widened **franchise-wide**. Two
+recoveries: (1) **the core system is 2nd-era canon** — created by Huo Yuhao
+after studying Di Tian; **no core exists in our 2619 world**; his method
+lives in the OC's books (SL1–SL3). (2) **The sword ladder's tier names are
+real canon: Sword Intent (剑意) / Sword Soul (剑魂) / Sword God (剑神)** —
+SL3 ch1249/ch1515, with SL2's Ji Juechen as the receipt for the author's own
+phrase ("Sword Intent accumulated through the fusion of his Spiritual Power
+and Soul Power", ch271) and SL1 ch293 (a martial soul has its own soul; win
+its recognition). The earlier "fanon only" verdict is **withdrawn**. What
+still stands: no tool-soul speaks; the tier's name stays out of the plain
+prose; Ch04's rendered fruit maps onto the ladder — unity, with the fused
+intent carried into the blade.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

@@ -72,9 +72,10 @@ the author's rulings; [era] true of this world's clock.
   below the gods in this era. Canon ground: `CANON_MASTER.md` §2b. The shape
   (sword basis, placement, danger, one chapter or two) is fixed by the
   author's answers (same day): the sword means the sword path — his own
-  blade, walked as a road; the working is checked against canon (the blade's
-  silent consciousness rides the canon sword receipts; tool-souls do not
-  speak); the core sits in the **spiritual sea between the brows**; one
+  blade, walked as a road; the working is checked against canon,
+  franchise-wide (the sword ladder — Intent → Soul → God, SL3 ch1249/1515 —
+  with SL2's Ji Juechen as the fused-spirit receipt, ch271; no tool-soul
+  speaks); the core sits in the **spiritual sea between the brows**; one
   chapter carries the climb; the strength claim is **his own self-assessment**.
   Executed: **Ch04** (2026-10-07) — the second center formed, cold, turning
   against the first; rank stays 96; the five-question entry is in METERS.
