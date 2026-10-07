@@ -12,6 +12,11 @@ fixed.
   2026-10-07 — see §7; Ch04 v4: the invented old arms master STRUCK on the
   author's call — not canon, and not who he is; the discipline comes from
   the book alone; same R27 beats and locks.)
+- **New (same day, on the author's question):** `NUMBER_LEDGER.md` — where
+  every number on our pages comes from, in plain words: the canon ladder
+  (1–99), the measured numbers (printed by the tool), the bookkeeping
+  numbers (R-codes, k-codes, §s — mine, strippable), invention (tagged),
+  and the honest weak spots.
 - **Next:** **Ch05 — on the author's word.**
 - **Story position:** the morning after the night with Bibi Dong — now five
   weeks on. The codex's first volume is public; the guild has opened (pilot
