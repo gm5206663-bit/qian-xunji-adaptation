@@ -162,7 +162,7 @@ The method for the ordinary kind would not be invented for twenty thousand years
 
 At the end of the year he walked the walls alone and counted what he had.
 
-The angel at ninety-six, six wings, the blood purer than it had ever run before. The first core in his dantian, low and warm and finished. The second, between his eyebrows, thin and straight as a blade's edge, and turning.
+The angel at ninety-six, six wings white-gold, the blood running purer than it had ever run in the line. The first core in his dantian, low and warm and finished — the blood's own purity, holding a shape at last. The second, between his eyebrows, thin and straight as a blade's edge, and turning, made of his spirit and his sword.
 
 His spiritual power past the abyss where ordinary men stopped, and standing in the range the books had a name for and this world did not.
 
@@ -196,11 +196,12 @@ He slept in the middle of it. That was the whole art.
 
 ## Footer
 
-- **Ch04 v6 — "The Second Core" — the full rebuild, 2026-10-07.**
+- **Ch04 v7 — "The Second Core" — the full rebuild, 2026-10-07; prose corrected the same day (see below).**
 - **Why rebuilt:** the author's order *"Rebuild all chapters."* v5 archived at `_archive/2026-10-07_superseded/Chapter_04_The_Second_Core_v5.md`.
 - **R27 honoured in full:** the sword means the sword *path* — a discipline, not a second martial soul, and **nobody teaches him**; the second core sits in the **spiritual sea between the eyebrows**; the whole climb is **one chapter**; and "strongest under the gods" is **his own assessment, checked honestly, never narration fact** — the chapter immediately names his father at 99, the woman on the island, and nine worshipers who do not answer to him.
+- **Corrected in v7, on the author's strike** *"His bloodline runs purer, what you even understand meaning, what you just maked to adaption telent."* The year-end inventory on the wall listed the purer blood and the first core as two separate possessions, which repeated the same error in the prose. They are one: the core is the blood's purity holding a shape. v7 also finishes the sentence by saying what the second core is made of — his spirit and his sword — so the two cores are not the same kind of thing twice.
 - **Canon receipts:** cores at the head and the dantian (CANON_MASTER §2b) · the sword road climbed in three long stages, with the Angel-line swordsman of the later age at ninety-seven (B3, CANON_MASTER) · 唐晨 beat 千道流 on Haotian Peak, and 波塞西 beat both (B16, B18) · the two cores as the mark of the high band (CANON_MASTER §2b) · the method not invented until the SL2 era, twenty thousand years on, by a man not yet born (CANON_MASTER §2b).
 - **Design, tagged:** the ledger of mornings · the held cut · the plain sword with no name and no history · the guild reader's blacksmith at fifty-one · the Grand Worship's two lines at the door (*"Five nights." / "It was mine."*) · Bibi Dong's four characters in charcoal · the closing line.
 - **Still struck and absent:** the Chen Xin passage staged as a teacher (v4/v5) · "ten thousand mornings" · the "Sword Dao" naming story · any arms master · any physician · "be the house".
 - **Locks untouched:** R22 · R23 · R24 · R27 · Càn Róng awaiting strike or bless.
-- **Word count (body):** 2,526 (printed by `tools/measure_chapter.py` at the rebuild). **Metrics:** average 16.8w · median 12w · longest 55w · zero over 60; spoken dialogue 11 lines (4.4 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.
+- **Word count (body):** 2,673 (printed by `tools/measure_chapter.py` after the v7 correction). **Metrics:** average 16.6w · median 13w · longest 55w · zero over 60; spoken dialogue 11 lines (4.1 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.

@@ -14,7 +14,7 @@
 - **Trigger:** OC wakes up in Qian Xun Ji body right after that night — flood memories 95 years Pope life Angel martial soul Spirit Hall politics Tang Hao Bibi Dong Qian Daoliu etc + Earth meta SL1-5 fandom — overload needs seclusion
 - **Seclusion:** 1 month Worship Hall secret chamber or Pope Hall secret room — adaptation talent works:
   - Clears impurities 50 years black sweat foul blood
-  - Purifies Angel God bloodline 6-winged angel closer to Angel God bloodline better six wings brighter white-gold
+  - Clears fifty years of filth out of the blood and that is the whole of what it does to the blood — the Angel God's blood then concentrates by its own nature and the concentrated blood IS the True Angel Core, one fact not two (F14) — six wings brighter white-gold, closer to the Angel God, as the same fact seen from outside
   - Perfectly absorbs rings already present 2Y2P5B quality over years rings become part of body
   - Fully absorbs bones becomes part of body no longer external physique stronger meridians wider bones denser
   - Forms True Angel Core Blood Essence + Divine Things Martial Soul Authority Domain fully true angel core like True Dragon Core but angel chest/dantian purifies body meridians bones spiritual sea tough as angel foundation godhood uses meta knowledge knows soul core forms at 90 SL2 era at 70+ SL3 era knows Dragon Core example Tang Wulin 59 — phenomena golden vortex white-gold ripples six wings faint angel pupil holy pillar Angel Domain expansion outer elders notice — much stronger than normal 96 because no human has soul core era difference huge divine martial soul very high spiritual power

@@ -1,14 +1,5 @@
 # POWER ASSESSMENT — Qian Xun Ji (our version), 2619–2620
 
-Written 2026-10-07 from `CANON_MASTER.md` and `CANON_HARVEST_2026-10-07.md`.
-Every line is marked **[canon]** (has a receipt) or **[story]** (our design, open
-to the author's strike or bless). Nothing here is narration fact: R27 requires
-that any claim of his standing stays **his own assessment**.
-
----
-
-# POWER ASSESSMENT — Qian Xun Ji (our version), 2619–2620
-
 **Rewritten 2026-10-07 from the project's own foundation files** —
 `POWER_LAW.md`, `ADAPTATION_TALENT_QIAN_XUNJI.md`, `SKILLS_CANON.md`,
 `SYSTEM_SPEC.md`, `GLOSSARY.md`, `CHARACTERS.md` — and not from generic canon.
@@ -34,11 +25,10 @@ and evolve his whole being along the best path his actual conditions support.
 
 | It | Result |
 | --- | --- |
-| Clears fifty years of impurities | black sweat, foul blood |
-| **Purifies the Angel God bloodline** | six wings brighter, white-gold, closer to the Angel God |
+| **Clears fifty years of filth out of the blood** | black sweat, foul blood — **this is the whole of what it does to the blood** |
+| **The blood then concentrates — and the concentrated blood IS the True Angel Core** | **one fact, not two gains.** See §1b |
 | **Perfectly absorbs the rings already present** (2Y 2P 5B) | **part of the body, not jewellery** — quality over years |
 | **Fully absorbs the soul bones** | physique stronger, meridians wider, bones denser; **99,999 → 100,000 years guaranteed** |
-| **Forms the True Angel Core** | see below |
 | Improves soul-power quality, physique, spiritual power, meridians, bones | **much stronger than a normal 96** |
 | Integrates both memory sets | Earth and Qian Xun Ji both become his own |
 | **Adapts him to fatherhood** | a single man from Earth, now a father — considers Bibi Dong his wife genuinely; guilt, attraction, tolerance; never kills |
@@ -52,6 +42,55 @@ position part of his being · make every part of him God level.
 **What it never does:** no window, no voice, no second mind, no reward engine.
 It cannot create from nothing — it needs real substrate: bloodline, rings,
 bones, knowledge, faith.
+
+---
+
+## 1b. "His bloodline runs purer" — the fact underneath the whole assessment
+
+**Corrected 2026-10-07 on the author's strike: "His bloodline runs purer, what
+you even understand meaning, what you just maked to adaption telent."** I had
+made the purity an *output* of the Adaptation Talent and listed it beside "forms
+the True Angel Core" as a second, separate gain. Wrong twice. Full law and
+receipts: `ADAPTATION_TALENT_QIAN_XUNJI.md` § "His bloodline runs purer".
+
+**What purity is in this franchise.** A bloodline is the **concentration of an
+ancestor's blood** in a body. The 千 line's ancestor is the Angel God, so this
+bloodline is Angel God blood essence. Canon measures purity in exactly those
+terms — 帝天 is "the purest dragon blood after the Golden and Silver Dragon
+Kings." **Purity is a concentration statement, not a compliment.**
+
+**The mechanism, in four steps:**
+
+1. Fifty years of the old man's filth sat in the channel. The talent **cleared
+   the filth** — that is its whole contribution to the blood.
+2. Clean blood **concentrates**, because concentration is what a bloodline is.
+3. **Canon's rule for a concentrating bloodline:** it forms a Blood Essence
+   core — `GLOSSARY.md`: "formed when the original bloodline increases purity";
+   Tang Wulin's Dragon Core came out of his Golden Dragon King blood essence
+   concentration at 59.
+4. **So the True Angel Core IS the purity** — the blood's concentration made
+   solid and turned. The core is the *measurement* of the blood. That is a fact,
+   not a metaphor, and Ch01 says it on the page: *"A centre made of soul power
+   is a storehouse. A centre made of blood and authority is a heart."*
+
+**What the purity is, seen from outside — all the same fact, never four
+blessings:** white-gold wings instead of dim gold · an aura dense enough that
+two old men feel it across a courtyard · the Angel seat, inherited **by blood
+only**, having real capacity in him for the first time since it shattered ·
+recovery and combat at a different order.
+
+**And the forward half of the circle.** Canon: Tang San's dantian core and his
+Spiritual Core linked through the spine into the **Bridge Between Heaven and
+Earth**, "the dual-core resonance that **let his bloodline transformations
+evolve**" (`CANON_MASTER.md` §2b). **His two cores are the road his blood
+walks** — the cores are made of the blood, and the cores drive the blood
+forward. This is the receipt behind the universal system's "bloodline evolution
+YES", and it is the engine this serial runs on.
+
+**What no page may claim:** that the talent purifies the bloodline as a separate
+service · that it concentrates blood on its own (it cannot create from nothing —
+the Angel God's blood is the substrate) · that purity turns the blood into
+something else. Purity here is **Angel God blood at a higher concentration.**
 
 ---
 
@@ -127,10 +166,10 @@ either — or anything like them.**
 **In 2619 no human has a core of any kind — not 千道流 at 99, not 金鳄斗罗 at 98.**
 He is the first, and the elders' shock is canon-true to the era.
 
-`POWER_LAW.md` states it plainly, and it is the correct statement:
-**his recovery and combat capacity are a different order. His martial soul is
-divine. His bloodline runs purer than any Qian before him. 96 here is not 96
-anywhere else.**
+`POWER_LAW.md` states it plainly, and it is the correct statement: **his
+bloodline runs purer than any Qian before him — and the core, the wings, the
+aura and the different order of his recovery and combat are that one fact seen
+from outside. 96 here is not 96 anywhere else.**
 
 **The three who still stand above him, and why:**
 
@@ -153,6 +192,10 @@ narration asserts.**
 
 ## 5. What this file forbids
 
+- **No page may list "purified bloodline" and "True Angel Core" as two
+  separate gains.** They are one fact: the core is the blood's concentration.
+- **No page may treat the Adaptation Talent as the thing that purifies the
+  bloodline.** It clears the filth; the blood concentrates by its own nature.
 - **No page may judge his cores by the rules for ordinary soul cores.** They are
   a Blood Essence core and a Spirit core, and the Blood Essence family runs
   parallel to the ordinary ladder.

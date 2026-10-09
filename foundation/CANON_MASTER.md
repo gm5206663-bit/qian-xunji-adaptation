@@ -841,7 +841,13 @@ fixes one, and no chapter has.** The grounds below are why the placement is
 1. Canon puts Spirit Domain as *the* foundation for Hyper Douluo (95–98)
    cultivation, and he stands at 96.
 2. Canon puts an ordinary Titled Douluo around Spirit Abyss; he is explicitly
-   above any Qian before him, purified bloodline and a core included.
+   above any Qian before him — and the ground of that is **one fact, not two**:
+   his bloodline runs purer than any Qian before him, and the True Angel Core
+   **is** that purity made solid (F14). Ch04 v7's own inventory says it: *"the
+   blood running purer than it had ever run in the line. The first core in his
+   dantian … the blood's own purity, holding a shape at last."* The chapter
+   therefore fixes the **realm** (past the abyss, into the range the books name)
+   without printing a point number, which is what the rule above allows.
 3. Canon's own early climber (Tang Wulin) reached Spirit Domain as a Soul Saint,
    so a 96 holding it is inside the pattern, not outside it.
 

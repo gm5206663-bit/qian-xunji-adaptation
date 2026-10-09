@@ -82,9 +82,30 @@ the author's rulings; [era] true of this world's clock.
 
 ## Why 96 here is not 96 anywhere else
 
-No human in this era has a soul core, and he does; his martial soul is divine;
-his spiritual power stands very high; his bloodline runs purer than any Qian
-before him. His recovery and combat capacity are simply a different order.
+**One cause, and everything else follows from it: his bloodline runs purer
+than any Qian before him.** That is not decoration and it is not one item in a
+list of four — it is the cause, and the list is what it looks like from
+outside. Corrected 2026-10-07 on the author's strike (F14); the mechanism, with
+its receipts, is `ADAPTATION_TALENT_QIAN_XUNJI.md` § "His bloodline runs
+purer".
+
+The short form: the Angel God's blood in him stands at a higher concentration
+than it ever stood in the 千 line, and **canon's own rule for a concentrating
+bloodline is that it forms a Blood Essence core** — so his True Angel Core *is*
+the purity made solid. From that one fact:
+
+- he carries a core in an era where **no human has one** — not 千道流 at 99, not
+  Golden Crocodile at 98;
+- the wings run white-gold instead of dim gold, and the aura is dense enough
+  that two old men feel it across a courtyard;
+- the Angel seat, inherited **by blood only**, has real capacity in him for the
+  first time since it was shattered;
+- his recovery and combat capacity are simply a different order;
+- his spiritual power stands very high, and his martial soul is divine.
+
+**Never state it as four separate blessings.** The core is the blood's
+concentration; the wings and the aura are the same fact seen from outside; the
+divine martial soul is the bloodline itself.
 That is a **quality** fact, not vanity: the story may use it, but nothing in
 it breaks the ladder — he has not skipped a rank and does not get one free —
 and two cores do not break that rule either: they make the climb's floor his,

@@ -100,6 +100,8 @@ And it was not soul power alone that went into it.
 
 His blood went in with it — his own, and the Angel God's, and the whole line's — and behind the blood something else went in that he had no plain word for: the authority the blood carried, and the domain that came with the authority.
 
+The seven days of blood had not been a stage he was finished with. The blood was the substance of the thing, and the thing was the blood run pure enough at last to hold a shape.
+
 A centre made of soul power is a storehouse. A centre made of blood and authority is a heart.
 
 The books had drawn that difference carefully, in a chapter he had read twice, and he was the only man in the world who knew that he was building the second kind of it.
@@ -230,10 +232,11 @@ The Hall had a new weight at its centre, and everything in the Hall would lean t
 
 ## Footer
 
-- **Ch01 v7 — "The Night After" — the full rebuild, 2026-10-07.**
+- **Ch01 v8 — "The Night After" — the full rebuild, 2026-10-07; prose corrected the same day (see below).**
 - **Why rebuilt:** the author's order *"Rebuild all chapters."* Fresh prose and structure, not a patch. v6 archived byte-preserved at `_archive/2026-10-07_superseded/Chapter_01_The_Night_After_v6.md`.
+- **Corrected in v8, on the author's strike** *"His bloodline runs purer, what you even understand meaning, what you just maked to adaption telent."* I had written the blood's purity and the core as two separate gains. They are one fact: canon forms a **Blood Essence core when a bloodline increases purity** (GLOSSARY; Tang Wulin's Dragon Core out of his blood essence at 59), so the core **is** the blood's concentration made solid — which is what the line already on the page says (*"A centre made of soul power is a storehouse. A centre made of blood and authority is a heart."*). v8 adds the one missing link, so the seven days of blood and the five days of the core read as a single movement: *"The blood was the substance of the thing, and the thing was the blood run pure enough at last to hold a shape."* The talent clears the filth; the blood concentrates by its own nature. Full law: `foundation/ADAPTATION_TALENT_QIAN_XUNJI.md` § "His bloodline runs purer".
 - **Canon receipts:** rank 95 (Baidu Baike, Qian Xunji) · six-winged angel, divine-class beast soul, the topmost tier of martial soul (CANON_HARVEST B6) · Qian Daoliu 99, one of three Limit Douluo with 唐晨 and 波塞西 (B16, B18) · Golden Crocodile 98 (B2) · wings two-until-seventy, four-until-ninety, six-after (CANON_MASTER §7) · the Angel Domain comprehended by the blood and held by 千道流 at 99, so holding it at 96 is inside the pattern (B8) · twenty elders, the Pope's three votes, the ring's power to unseat him (B1) · the Douluo Hall admits only the dead (B1) · a core at the Titled wall, with the one receipted exception at seventy-six (NUMBER_LEDGER §5).
 - **His spiritual power** is ruled at **Spirit Domain, 灵域境, 20,000–49,999** (CANON_MASTER §14.4) and the chapter honours the era rule: in 2619 the ladder has no names and no instruments, so he names it only inside his own head.
 - **Design, tagged:** Gaurav Meena / Càn Róng · the month of seclusion and its five stages · the two Angel bones at 99,999 years carried across to 100,000 by perfect absorption · the second core's faint beginning · the one line he will not cross. **Struck by earlier rulings and absent here:** any teacher, any arms master, any invented swordsman — nobody hands him anything.
 - **Locks untouched:** R22 the far era · R23 Bibi Dong's road · R24 the secret · R27 and its five answers · Càn Róng awaiting strike or bless.
-- **Word count (body):** 3,157 (printed by `tools/measure_chapter.py` at the rebuild). **Metrics:** average 15.2w · median 12w · longest 48w · zero over 60; spoken dialogue 10 lines (3.2 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.
+- **Word count (body):** 3,304 (printed by `tools/measure_chapter.py` after the v8 correction). **Metrics:** average 15.4w · median 12w · longest 48w · zero over 60; spoken dialogue 10 lines (3.0 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.
