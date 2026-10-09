@@ -1221,3 +1221,112 @@ coveted it, because **a core helps a soul beast evolve to the 100,000-year tier.
    life/spiritual) is a constraint our chapters must respect: his upper core sits
    between his eyebrows, so it must be a spiritual or attribute-less core, which
    is consistent with what Ch04 describes.
+
+---
+
+## B27 · The Ice and Fire Yin Yang Well, the immortal herbs, and what a ring can be made into
+
+Collected 2026-10-09 on the author's beat: *"he go yin yang velly, well of
+course for immortal Hearbs, well he mix them and make pills, well he plans to
+broke his soul' rings one by one to reabsorb the soul' rings."*
+
+### The place
+
+- **冰火两仪眼** — in the centre of the continent's northern empire, in the core
+  of **落日森林**; a volcano and an ice mountain in one, an inverted cone, with
+  one oval pool holding two springs: 寒极阴泉 (milky white) and 炽热阳泉
+  (vermilion). The line between them never moves; the steam rises off the line.
+  **[Baike 冰火两仪眼/22097644]**
+- **Origin:** the **Water Dragon King and the Fire Dragon King** of the nine
+  died together and were buried **ten thousand zhang** beneath the springs.
+  **[same]**
+- **One of the three great treasure-basins of medicine** (药物三大聚宝盆): rare
+  plants mature **ten times faster** there; ordinary plants cannot survive
+  there at all. The fortune gathered above it is thicker than the whole of
+  Heaven Dou City's. **[same]**
+- **Era danger:** in the **SL1 era ordinary men and beasts who enter explode**;
+  by SL2 the rim flowers alone kill soul masters; by SL4 even a Titled Douluo
+  needs an escort. **[same]**
+- **落日森林** — east of Heaven Dou City, in the middle of the empire;
+  temperate, thinner and more open than Star Dou; beasts mostly one thousand to
+  ten thousand years; from the capital to the forest is "very near" (SL1
+  ch235), and the well in its core is known to almost nobody.
+  **[Baike 魂兽森林 + SL1 ch235]**
+
+### The herbs
+
+- **八角玄冰草** — centre of the yin spring; white, eight-cornered, ice-crystal
+  stamens; **within ten metres the cold kills**, and a little longer brings the
+  cold poison to the heart with no cure. **[Baike 八角玄冰草 + SL1 ch63]**
+- **烈火杏娇疏** — centre of the yang spring; fire-red, cabbage-shaped; supreme
+  fire poison; scorched Tang San's 玄玉手. **[Baike 烈火杏娇疏 + SL1 ch63]**
+- **THE KEY RECEIPT: taken together in the same hour they neutralise each
+  other**, and what comes out of it is a body with **ice-and-fire dual
+  immunity** — this is the 冰火炼金身 forging, and it also strengthened Tang
+  San's physique and made him poison-proof. **[Baike 烈火杏娇疏 + 八角玄冰草]**
+- **幽香绮罗仙品** — pale pink, no leaves, a three-foot stem, a flower a foot
+  across, crystal petals, purple-diamond stamens, a scent so faint you must
+  stand still to catch it. **Cures no poison and defeats every poison**: within
+  its range no venom works. Useless if you are already poisoned before you
+  enter the range. **[SL1 ch63]**
+- Also in the basin: **朱砂莲** (loves cold, superb against fire poison) ·
+  **雪蚕** · **九品龙芝** · **八瓣仙兰** (must be kept in jade; kept 宁荣荣's
+  tower from withering and raised it to nine treasures) · **奇茸通天菊**
+  (neutral; feeds the limbs and opens the eight vessels; the indestructible
+  body). **[SL1 ch63 + Baike + manhua roundups — the last two are secondary]**
+- **Twelve herbs of the highest grade** grow there; Tang San later took all
+  twelve and gave six away. **[secondary roundup; recorded, not smoothed]**
+
+### What a ring can be made into — the receipts that legalise the OC's plan
+
+- **Ring age is not fixed.** "魂环年限并非不能改变" — special methods can raise a
+  ring's years: 神赐 year-raising, the Holy Spirit Cult's secret arts, and in
+  SL2/SL3 the Spirit Pagoda's 升灵台 (kill a virtual beast, take a tenth of its
+  years, split across every ring). **[Baike 魂环/49794]**
+- **There is no universal absorption ceiling.** 玉小刚's table (423 / 764 /
+  1,760 / 5,000 / 12,000 / 20,000 / 50,000 / 100,000) is **canonically wrong**:
+  what a man can absorb turns on martial soul quality, physique and spiritual
+  power — "in theory a first ring of one hundred thousand years is possible."
+  **[Baike 魂环]**
+- **Tang San's fourth ring was over his limit and he absorbed it only because
+  of the Ice and Fire Yin Yang Well.** This is the exact receipt for "the well
+  is what lets a man take more than he should." **[SL1, 地穴魔蛛]**
+- **Absorbing several rings at once purified them across a tier:** three
+  90,000-year 千钧蚁皇 rings, hammered in together, came out **red at 100,000**.
+  **[SL1 ch297]**
+- **炸环, the Great Sumeru Hammer's secret:** break your own rings, pour the
+  years out for one blow far above your weight. **The rings vanish, the soul
+  power stays, the rings return over three days — but a second use inside
+  thirty-six days risks a ring being truly destroyed.** **[SL1 ch297]**
+- **Rings can be stripped, and it costs:** Tang San stripped his to revive
+  小舞, his strength fell back, and the slots had to be refilled by hunting.
+  **[Baike + manhua]**
+- **A wisdom ring (智慧魂环) keeps its sense after becoming a ring and can give
+  its years to other rings to make them evolve, at the cost of its own.**
+  **[Baike 魂环]** — the canon precedent for moving years between rings.
+- **The Sea God's trial raised every ring Tang San carried by fifty thousand
+  years and turned them red.** 千道流 at 99 carries three red rings. **Red, not
+  orange, is what a divine-scale intervention produces.** **[Baike]**
+
+### The two things I had wrong, corrected by the author
+
+1. **There are no plant beasts in our era.** The well's six plant-type
+   ferocious beasts (绮罗郁金香 "香香", 烈火杏娇疏 "小火", 八角玄冰草 "小冰"
+   and the rest) are those herbs **after** they cross ten thousand years and
+   gain sentience; SL4 dates Tang San's use of their *predecessors* to twenty
+   thousand years on, and Huo Yuhao took 小火's essence ten thousand years
+   after that. **In 2619 they are plants. They cannot be hunted and yield no
+   ring.** They can only be cut.
+2. **Nobody owns the well in 2619.** 独孤博 is **78 at rank 91** when canon
+   opens and broke rank 90 at seventy, which puts him near fifty-three in our
+   year; his discovery of the well is dated about seven years before he meets
+   Tang San, i.e. **around 2635.** In our window the basin belongs to no one.
+   **[Baike 独孤博/3431315]**
+
+### Recorded and NOT used (fanfic, not canon)
+
+- A derivative work has **千寻疾** suppress 独孤博's inherited poison with angel
+  power and hand him the well to guard, making him a Spirit Hall man. **This is
+  not canon** — 独孤博 is canonically a Heaven Dou imperial guest, and there is
+  no receipt tying him to Spirit Hall. Recorded so nobody "remembers" it later.
+

@@ -406,3 +406,90 @@ sitting on. 2,651w → 3,161w, gate PASS.
 rather than a quote, the summary is quoted as recorded and dated — never
 dressed up as the author's exact words. A new ruling is logged here or it is
 not a ruling.
+
+---
+
+## R30 — 2026-10-09 — the two waters, the herbs, and the un-knitting of the rings
+
+**The author's words, verbatim:** *"Next,he go yin yang velly, well of course for
+immortal Hearbs, well he mix them and make pills , well he plans to broke his
+soul' rings one by one to reabsorb the soul' rings,of course he know how
+dengerous that be but with immortal hearb and others things like adaption
+telent, well you can ask questions if you have"*
+
+**Asked, and answered:**
+
+| Question | The author's answer |
+|---|---|
+| When he "breaks" a ring, what happens? | **He un-knits the fusion** (took the option: the ring is taken apart, dissolved into the True Angel Core, and the blood re-forges it at a higher age) |
+| How far do the nine rings climb? | *"Choose accordingly to everything"* — **my call, on the foundation files; see below** |
+| What does he find at the well in 2619? | *"Frist but of course there is no plant beast"* — **unclaimed, and no plant beasts** |
+| How many chapters? | *"Natural accordingly to you"* — **my call** |
+
+### The three things the author settled
+
+1. **Un-knitting, not shattering.** He has no hammer and no 炸环. What he does
+   is the thing his own cores make possible: the rings are already part of his
+   body (Ch01, perfect absorption), and the True Angel Core is a **Blood
+   Essence** core, which canon says purifies, refines and concentrates. So he
+   takes the fusion apart, lets the ring down into the core, and the blood
+   re-forges it carrying more years. **This is not a new power. It is F14's law
+   applied: the blood's concentration is what a ring's age is measured
+   against, so a richer blood holds a longer ring.**
+2. **No plant beasts in 2619 — the author's correction, and he is right.** The
+   six plant-type ferocious beasts of the well (绮罗郁金香, 烈火杏娇疏,
+   八角玄冰草 and the rest) are those herbs **after** they have crossed ten
+   thousand years and gained sentience; the SL4 receipt dates Tang San's use of
+   their *predecessors* to twenty thousand years on. In 2619 they are plants.
+   They cannot be hunted and they yield no ring. **They can only be cut.** What
+   guards the rim is the 碧鳞七绝花, and what kills is the ground itself.
+3. **Unclaimed.** 独孤博 is about fifty-three in our year and has not broken
+   ninety — canon opens with him at seventy-eight and rank ninety-one, and puts
+   his discovery of the well about seven years before that. **In 2619 no man
+   alive knows the well is there.** He is the first.
+
+### The ceiling — my call, and the reasoning
+
+**All nine rings cross into red at one hundred thousand years. None reaches
+orange.**
+
+- **Orange and gold are True Divine's.** `ADAPTATION_TALENT_QIAN_XUNJI.md`
+  reserves to True Divine exactly this: *"increase soul rings age and quality."*
+  Mortal Divine may take the rings to the top of what a mortal body can hold;
+  it may not spend the tier that marks godhood. **If he can reach orange now,
+  True Divine has nothing left to do.**
+- **Red is the canon ceiling for a power this size.** The Sea God's own trial
+  raised every ring Tang San carried by fifty thousand years and turned them
+  **red**. 千道流, a Limit Douluo at ninety-nine, carries **three** red rings.
+  Nine would make him the only such man alive — which is the point, and is
+  already past anything on the continent.
+- **The cap is his body, not a number I chose.** Canon: the years a ring can
+  carry turn on martial soul quality, physique and spiritual power, and there
+  is no universal limit. Each re-forge therefore runs **only as far as his
+  blood can hold at that moment** — and because each re-forge leaves the blood
+  richer, **each ring goes further than the one before it.** He does not finish
+  the nine in a month. The ceiling rises as he does, which is the honest shape
+  of it and the reason this is a road and not a windfall.
+
+### Scope — my call
+
+**Two chapters.** Ch05 *"The Two Waters"* — the road east, the basin, the
+cutting, the pills, the forging of the body in the two springs, and the first
+ring loosened at the edge. Ch06 — the un-knitting, and what the first ring
+comes back as. The pace law gives the danger room; compressing nine rings into
+one chapter would make the risk decorative.
+
+### Standing prohibitions from this ruling
+
+- **No plant beast, no ring from a plant, in our era.** The herbs are cut, never
+  hunted.
+- **No ring reaches orange or gold before he is a God.**
+- **Nothing is lost for free and nothing is risked for nothing:** while a ring
+  is down he is one ring thin, and a ring that bursts instead of re-forging is
+  **gone until he kills something older to fill the slot.**
+- **The well is not a shop.** He takes what he needs and leaves the rest
+  standing — that choice is his, and the page must show it as a choice.
+- **Bibi Dong's road and the secret stay untouched (R23, R24).** He carries
+  medicine home for the woman carrying his child; what she does with the fact is
+  hers and is not pre-decided.
+

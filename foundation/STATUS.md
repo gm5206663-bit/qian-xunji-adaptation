@@ -6,12 +6,17 @@ fixed.
 
 ## §0 LIVE EDGE — where the story is now
 
-- **Chapters:** Ch01 "The Night After" **v5** · Ch02 "The Codex" **v2** ·
-  Ch03 "The First Cut" **v1** · Ch04 "The Second Core" **v4** — all live;
-  house gate ALL HARD CHECKS PASS. (Canon-harvest corrections applied
-  2026-10-07 — see §7; Ch04 v4: the invented old arms master STRUCK on the
-  author's call — not canon, and not who he is; the discipline comes from
-  the book alone; same R27 beats and locks.)
+- **Chapters (all live, all gate PASS, measured by `tools/measure_chapter.py`):**
+  Ch01 "The Night After" **v8** 3,304w · Ch02 "The Codex" **v5** 2,513w ·
+  Ch03 "The First Cut" **v3** 2,541w · Ch04 "The Second Core" **v7** 2,673w ·
+  **Ch05 "The Two Waters" v1** 3,395w (2026-10-09). Serial total **14,426w**.
+  Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0.
+- **Latest rulings in force:** **R30** (2026-10-09) — the well, the herbs, the
+  un-knitting of the rings; all nine rings cross into **red at 100,000**, none
+  reaches orange, and the cap is his blood, not a number. **R29** — the codex
+  is limited by strategy, never by knowledge. **F14** (2026-10-09) — the
+  bloodline's purity **is** the True Angel Core; one fact, never two gains.
+- **Next:** Ch06, on the author's word only.
 - **New (same day, on the author's question):** `NUMBER_LEDGER.md` — where
   every number on our pages comes from, in plain words: the canon ladder
   (1–99), the measured numbers (printed by the tool), the bookkeeping

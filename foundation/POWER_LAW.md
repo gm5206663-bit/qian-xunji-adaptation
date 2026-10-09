@@ -80,6 +80,39 @@ the author's rulings; [era] true of this world's clock.
   Executed: **Ch04** (2026-10-07) — the second center formed, cold, turning
   against the first; rank stays 96; the five-question entry is in METERS.
 
+## Re-forging a ring — the law from R30 (2026-10-09)
+
+- **He does not break rings. He un-knits them.** He has no hammer and no 炸环.
+  What he does follows from two things already on the page: his rings are part
+  of his body (Ch01, perfect absorption), and his first core is a **Blood
+  Essence** core, which canon says purifies, refines and concentrates. So he
+  takes the fusion apart, lets the ring down into the core as raw years, and
+  the blood re-forges the seam at a higher age.
+- **The canon that makes it legal:** ring age **can** be raised by special
+  methods [Baike 魂环]; the years a man can absorb turn on martial soul
+  quality, physique and spiritual power, with **no universal ceiling** [same —
+  and 玉小刚's table is canonically wrong]; **Tang San could only absorb an
+  over-limit fourth ring because of the two waters** [SL1, 地穴魔蛛]; three
+  rings absorbed at once were purified from 90,000 across the line into
+  100,000 [SL1 ch297]; the Sea God's trial raised all of Tang San's rings by
+  fifty thousand years and turned them **red** [Baike].
+- **The cap is his blood, not a number.** Each re-forge runs only as far as his
+  blood can hold at that moment — and because each re-forge leaves the blood
+  richer, **each ring goes further than the one before it.** He cannot finish
+  the nine at once. This is a road, not a windfall.
+- **The ceiling: red at one hundred thousand. Never orange.** Orange and gold
+  are reserved to **True Divine**, whose defined work is to *"increase soul
+  rings age and quality"* — if Mortal Divine can reach orange now, godhood has
+  nothing left to do. (R30.)
+- **The danger, and it is real:** while a ring is down he is one ring thin, one
+  skill short, and the years his blood cannot hold are **gone for good**. A
+  ring that bursts instead of re-forging is a hole in him **until he kills
+  something old enough to fill it.** The canon receipt for that price is 炸环:
+  rings return over three days, but a second use inside thirty-six days risks
+  the ring being truly destroyed [SL1 ch297].
+- **Nothing is hunted here.** In 2619 the herbs of the basin are plants, not
+  beasts (author's correction, 2026-10-09). No ring comes from a plant.
+
 ## Why 96 here is not 96 anywhere else
 
 **One cause, and everything else follows from it: his bloodline runs purer
