@@ -6,9 +6,7 @@ He laid the coming month out in his head as another man lays out a journey: what
 
 One thing could not wait, because it was not his to schedule.
 
-There was a place east of the city, in the middle of the empire, in a forest nobody in the Hall ever spoke of, because nobody in the Hall had any reason to. A basin, with two waters in it, and things growing beside those waters that grew nowhere else on the continent and would not grow anywhere else, however a man tended them.
-
-He had read about it in a book that had not been written yet, in a life where he sat under a lamp with no reason to remember any of it. He remembered all of it. There was medicine in that basin, and not the kind the Hall kept in its cabinets. He knew what it did to a woman carrying a child, and to a man who meant to take himself apart.
+There was a place east of the city, in the middle of the empire, in a forest nobody in the Hall ever spoke of. A basin with two waters in it, and things growing beside those waters that grew nowhere else on the continent and would not grow anywhere else, however a man tended them. He had read about it in a book that had not been written yet. There was medicine in that basin, and not the kind the Hall kept in its cabinets, and he knew what it did to a woman carrying a child, and to a man who meant to take himself apart.
 
 Six weeks. Enough, if he wasted none of it.
 
@@ -16,7 +14,7 @@ Six weeks. Enough, if he wasted none of it.
 
 He told one person.
 
-Qian Daoliu was in the hall of statues, where he was always in the last hour before dawn, standing under his own grandfather's stone face with his hands folded behind him. Ninety-nine years old and ninety-nine levels deep, with the stillness of a man who had stopped needing to move.
+Qian Daoliu was in the hall of statues, where he was always in the last hour before dawn. Ninety-nine years old and ninety-nine levels deep, with the stillness of a man who had stopped needing to move.
 
 "I am going east."
 
@@ -28,45 +26,21 @@ His father did not turn around. "For how long."
 
 "No one."
 
-That was the first thing that made the old man turn. He looked at his son as he looked at a wall he suspected of settling, not with alarm but with the intention of finding the crack.
+That made the old man turn. He looked at his son as he looked at a wall he suspected of settling, not with alarm but with the intention of finding the crack.
 
 "You are the Pope."
 
-"I am a Titled Douluo, and there are three of us on this continent, and I am the youngest of the three by forty years. Nothing east of this city can hurt me."
+"I am a Titled Douluo, and there are three of us on this continent, and I am the youngest by forty years. Nothing east of this city can hurt me."
 
 "Something east of this city could take a month out of you."
 
 "Yes."
 
-The old man let that stand, because it was true, and he had never raised a son on comforts. "Then what is east of this city."
+The old man let that stand, because it was true, and he had never raised a son on comforts. "What are you going to fetch."
 
-"A forest. A basin in it. Two springs."
+"Medicine. For the woman carrying my child."
 
-"I have walked this continent for eighty years, and I have never heard of a basin with two springs worth a month of a Pope's time."
-
-"No."
-
-"You know it is there."
-
-"I know it is there."
-
-His father's eyes went narrow, and then went still in a way he had learned to read over the last year. Not suspicion. An old man noticing that his son had become a thing he had no name for.
-
-"What are you going to fetch."
-
-"Medicine."
-
-"What medicine."
-
-He had decided the night before that he would not lie to this man and would not explain himself either.
-
-"Medicine for the woman carrying my child."
-
-The hall went very quiet. Somewhere above them a lamp guttered in a draught that had come a long way to find a door.
-
-"Yours," his father said.
-
-"Mine."
+The hall went very quiet.
 
 "And she is the one under the locks."
 
@@ -74,146 +48,177 @@ The hall went very quiet. Somewhere above them a lamp guttered in a draught that
 
 Qian Daoliu went quiet long enough that he counted the breaths, nine of them, and had no idea why, except that it was either that or say something else.
 
-"The blood is what matters," the old man said at last. "You know that better than I do. Whatever she is, the child is ours."
-
-"Yes."
-
-"Then bring the medicine." He turned back to the statues. "And do not die in a forest. I have spent fifty years on you and I am not beginning again."
+"The blood is what matters," the old man said at last. "Whatever she is, the child is ours. Then bring the medicine." He turned back to the statues. "And do not die in a forest. I have spent fifty years on you and I am not beginning again."
 
 He bowed, because the body remembered to, and went out.
 
 ---
 
-He left through the east gate in the dark, with a plain sword at his hip and a bag holding gold, a jade cup, a knife, and a change of clothes with no gold thread in it.
+He left through the east gate in the dark, with a plain sword at his hip and a bag holding gold, a jade cup, a knife, and a change of clothes with no gold thread in it. Nobody stopped him. The two men at the gate were watching the road and not the people on it, and a tall man in a grey coat walking out at an hour when only farmers walk out is not a thing the eye holds onto. He did not fly: six wings over a village at dawn was a thing men would talk about for a generation.
 
-Nobody stopped him. The two men at the gate were watching the road and not the people on it, and a tall man in a grey coat walking out at an hour when only farmers and couriers walk out is not a thing the eye holds onto. He did not fly: six wings over a village at dawn was a thing men would talk about for a generation, and he had no use for that.
+The country east was flat and frozen and empty, and he crossed it at a pace that would have killed a horse. Twice he passed soul masters on the road and neither so much as glanced at him, because dust on a man's boots makes him nobody.
 
-The country east was flat and frozen and empty, and he crossed it at a pace that would have killed a horse, with the villages going past and their lamps unlit. Twice he passed soul masters on the road, once a pair arguing over a ring they had paid too much for, and neither so much as glanced at him, because dust on a man's boots makes him nobody.
+The forest began on the third day, northern trees standing apart with the ground open between them, and the beasts in it mostly under ten thousand years, and none of them came near him.
 
-The forest began on the third day. It was not the great southern forest, which he had never seen and knew as he knew everything now, out of a book. These were northern trees, standing apart with the ground open between them, the undergrowth thin, the light coming down in long grey columns. The beasts in it were mostly under ten thousand years, and there were not many, and none came near him.
+On the fourth day the snow stopped. Not thinned. Stopped, in a line, as if somebody had drawn it.
 
-On the fourth day the snow stopped.
+Then the steam, rising in a slow white column that leaned with the wind, and the smell: sulphur, and under it something green and heavy that he had no name for and knew anyway.
 
-Not thinned. Stopped, in a line, as if somebody had drawn it.
+The basin was an inverted cone, the black of old fire on one side and the white of old ice on the other, with a hollow between them that steamed. At the bottom lay a pool no larger than a courtyard, and in it two waters: one the colour of milk, one the colour of a wound. The line between them did not move. Ten thousand zhang under the stone, two dragons had died at the same hour and been buried in the same hole, and the world had never quite closed over them.
 
-The steam came next, rising out of the ground ahead in a slow white column that leaned with the wind, and then the smell: sulphur, and under it something green and heavy that he had no name for and knew anyway, as a man knows a face he saw once in childhood.
+The rim was ringed with flowers, jade-scaled, seven to a stalk, beautiful as a drawn blade is beautiful. The wind came off them toward him, and he felt it: a faint sweetness at the back of the throat, and under it, patient as a debt collector, the thing that would stop a man's blood where it stood.
 
-The basin was an inverted cone, and the mountain holding it was two mountains pretending to be one, the black of old fire on the south side and the white of old ice on the north, with a hollow between them that steamed. At the bottom lay a pool, oval, no larger than a courtyard.
-
-Two waters in it. One the colour of milk, and one the colour of a wound. They lay side by side in the same basin and the line between them did not move, and the steam came off that line and went straight up.
-
-Ten thousand zhang under the stone, two dragons had died at the same hour and been buried in the same hole, and the world had never quite closed over them. He had read that in a sentence and turned the page. Standing there with sulphur in his nose, it did not feel like a sentence.
-
-The rim was ringed with flowers, jade-scaled, seven to a stalk, low and thick all the way around, and beautiful as a drawn blade is beautiful. The wind came off them toward him, and he stood in it and felt it: a faint sweetness at the back of the throat, and under it, patient as a debt collector, the thing that would stop a man's blood where it stood. An ordinary soul master would have been dead before he finished the thought, and a strong one would have made twenty paces.
-
-He let the domain out.
-
-Golden radiance came off him without sound and lay across the stone, and the sweetness went out of the air as a smell goes out of a room when the window opens. The flowers did not die. Nothing they made could live where he stood, because the blood comprehends the domain and nothing else in the world can.
-
-He walked down through them.
-
-It cost him, and not much at first: a steady draw, like holding a heavy door open with one hand while working with the other. But he was working with the other too, and he did the arithmetic as he went, because that was the only honest way into a place like this: how long can I hold this, and what will be left when I let go.
+He let the domain out, and the sweetness went out of the air as a smell goes out of a room when the window opens. Nothing those flowers made could live where he stood, because the blood comprehends the domain and nothing else in the world can. He walked down through them, and it cost him a steady draw the whole way, like holding a heavy door open with one hand while working with the other.
 
 ---
 
-The white water was cold at a distance. Fifty paces off, the ground was furred with frost that had no business existing in a basin full of steam, and at thirty the cold began to press against the domain from underneath, like something testing a floor.
+Twelve things of the highest grade grew in that hole. He found the pale pink flower that cures no poison and defeats every one of them, and a red lotus that loved the cold and pulled fire-poison out of a body, and the snow silkworm, and a fungus with nine grades in its cap, and an orchid of eight petals that would not live a year outside a jade cup.
 
-The herb stood at the centre of the spring. White, eight-cornered, shaped like a flower drawn by somebody describing it from memory, its heart a cluster of points that caught the light as ice catches it. It was the coldest thing he had ever stood near, and he had stood near the Angel God's blood.
+The white herb stood at the centre of the cold spring, eight-cornered, its heart a cluster of points that caught the light as ice catches it, and ten metres from it the air bit. The red one sat at the heart of the other water and looked like a cabbage left in a forge, and the air above it bent so that things seen through it sat in the wrong place.
 
-Ten metres. The book had been precise about ten metres and the book had been right, because inside ten metres the air bit. He stopped outside it and stood there feeling his face go numb, and thought about a man named Dugu Bo who would one day build a house in this hole and live in it thirty years without ever touching the thing growing in his own front garden.
+The book said neither could be taken alone, and that the two taken together in the same hour fight each other instead of you.
 
-He did not have thirty years. He had six weeks, and most of them behind him.
+He tied the jade cup to a length of cord, went in fast, cut at the base, and was out again before the cold had finished deciding what to do about it. He did not touch either of them with his skin, and he carried them at arm's length, downwind, in separate folds of cloth.
 
-He took the knife from the bag and tied the jade cup to a length of cord, and then he went in fast and cut at the base, and was out again before the cold had finished deciding what to do about it.
+He took six of the twelve and left six standing, and wrote down in his head where each of them was, because in twenty-three years a boy would come into this basin looking for exactly those and it would be a kindness to leave him something to find.
 
-The herb hung in the jade cup at the end of the cord. He did not touch it with his hand or his skin or the inside of his mouth, and carried it across the basin at arm's length, downwind of himself.
+He made the pills on a flat stone with an iron pot and a fire lit in a hollow where the wind would not take it. The first kind was for a woman carrying a child: red lotus, snow silkworm, and a ninth of the fungus, bound with honey. Nine of them, each the size of a thumb joint. They would not make the birth safe, because nothing does, but they would put her body where it could do its own work.
 
-The red one was on the other side. It looked like a cabbage left in a forge, and the air above it did not merely shimmer but bent, so that things seen through it sat in the wrong place.
-
-The book said neither could be taken alone. Take the cold one and the cold goes into the heart, and there is nothing on the continent that will bring it back out. Take the hot one and the same, only faster. Take them together in the same hour and they fight each other instead of you, and what comes out of the fight is a body that neither fire nor ice can enter.
-
-That was the whole of it, and the reason a man twenty thousand years from now could swallow a ring four times over his limit.
-
-He cut the red one, and did not burn his hands only because the domain was still open and still costing him.
-
-Then he walked the basin for three days.
-
-Twelve things of the highest grade grew in that hole, and more below the highest that no book had bothered to count. He found the pale pink flower with no leaves and a scent so faint he had to stop moving to be sure of it, and knew it before he reached it: the thing that cures no poison and defeats every one of them, holding a circle of air in which nothing venomous can work. He found a red lotus that loved the cold and pulled fire-poison out of a body, and the snow silkworm, and a fungus with nine grades in its cap, and an orchid of eight petals that would not live a year outside a jade cup.
-
-He took six of the twelve, and left the pink flower standing, and the orchid, and four more beside them, and wrote down in his head where each of them was, because in twenty-three years a boy would come into this basin looking for exactly those and it would be a kindness to leave him something to find.
-
-He did not tell himself it was a kindness. He told himself six was enough, and that a man who takes everything out of a hole in the ground has not understood the hole. Both were true, and he let them both stand.
+He sent them west that evening with a courier who did not know what he carried, and a name off a household register, and instructions that reached a servant and not the woman herself, because the woman herself would have thrown them into the fire.
 
 ---
 
-He made the pills on a flat stone, with an iron pot carried up from a village and a fire lit in a hollow where the wind would not take it. The water came from a stream a mile out, because the water in the basin would have killed anything it touched that was not already dead.
+Then he swallowed the two poisons, and went into the cold water.
 
-The first kind was for a woman carrying a child: red lotus, snow silkworm, and a ninth of the fungus, ground fine and bound with honey he had bought at a farm. He made nine of them, each the size of a thumb joint. They would keep her on her feet, and keep the child fed on the days she could not eat. They would not make the birth safe, because nothing does, but they would put her body where it could do its own work.
+He had known it would be bad. He had not known it would be this.
 
-The second kind was for a man who meant to take himself apart. The third kind was the two poisons, one white and one red, in separate folds of cloth and not in the same pocket.
+They did not fight in his meridians. They fought in his blood, and the first thing that gave was a meridian along his left side, which opened as a dry channel opens, and the cold got into the place it should not have been and stayed there.
 
-Then he went down to the water and took off his coat.
+He bit down on his own tongue to keep from making a sound, and the domain went out.
 
-The cold water took him to the bone in a breath. It did not hurt as he had expected; it hurt like a bell, one note all the way through, every part of him at the same pitch. The cold got into his meridians and found them wider than it had planned for and kept going, and it reached the middle of him where the warm core sat, and the warm core did not flare or fight. It went on being warm, as a lamp does.
+Not because he let it. Because the body took the power back to hold itself together, as a house takes the beam out of the roof when the floor is going. The golden radiance came off him and thinned and died, and the sweetness in the air came back at once, and the flowers at the rim of the basin had him.
 
-His heart slowed past the place where a heart should be, and then past that, and he sat in the milk-white water with frost coming out along his arms and waited for the part of him that was still a soul master to be frightened. It was not frightened; it was counting.
+He was in the water. That was the only thing that saved him, because the cold of that spring was worse than the poison and the two of them went at each other through him instead of the poison finishing him on the stone.
 
-He stayed until the cold stopped being an enemy and became a weight he was holding. Then he stood up, crossed the line that did not move, and sat down in the red water.
+He lay in the milk-white water with frost coming out along his arms and one meridian in his side running hot and wrong, and he understood, in the detached way a man understands a thing while it is happening to him, that he had misjudged it. Not by much. Enough.
 
-That one was worse. It went for the same places, only in a hurry, and it found the cold still there, and the two of them met in the middle of him and did exactly what the book had said they would do.
+His heart slowed past the place where a heart should be. The warm core sat in the middle of him and did not flare or fight; it went on being warm, as a lamp does, and it was not enough, and he had never in his life needed it to be enough.
 
-They fought. Not in his meridians but in his blood, two things that had been buried ten thousand zhang down and had hated each other since before he was born going at each other through him. What came out of it was victory for neither: a body that neither of them could get into again.
+So he dragged himself out, and across the line that did not move, and into the red water.
 
-The warm core drank the heat and the cold core drank the cold. He had two centres in him, one of blood and one of a sword, and each took the half that suited it, and the rest was his.
+That one finished the argument.
 
-He sat in the red water until the light went, then walked out onto the stone and stood steaming in a basin where a man would have exploded, and found he was not cold and not hot and in no hurry.
+The heat went into the cold, the cold went into the heat, and what came out of the two of them was a body that neither of them could get into again — his, and stitched, and running hot along one side where the meridian had knit itself back crooked.
+
+He lay on the stone at the edge of the two waters until he could stand, and then he stood, and steamed, and did the arithmetic.
+
+A meridian. Not a vital one, and healed, and crooked for good, and he would feel it in cold weather for the rest of his life. That was the price of the body that could hold what came next. He had paid it without meaning to, in a basin where a man who misjudged by a little would have been a corpse by morning with six wings and a hundred years of power and no help within a hundred li.
+
+He wrote the misjudging down, and did not excuse it.
 
 ---
 
 He did the first ring that night, at the edge of the two waters, sitting with his back against the stone so that if he went over he would go into the cold.
 
-He had thought a long time about which one to begin with, and the thinking had not taken long. The first. The yellow one. Four hundred and twenty years, out of a small beast with a bad temper that he had killed when he was a boy and had not thought about once in fifty years. It was the smallest thing he owned, and the first thing he had ever taken from anything, and there was a shape to that which he left alone.
+He had thought a long time about which to begin with, and the thinking had not taken long. The first. The yellow one. Four hundred and twenty years, out of a small bird with light for feathers that he had killed when he was a boy and had not thought about once in fifty years. The smallest thing he owned, and the first thing he had ever taken from anything.
 
-He had read what the hammer does. There is a family on this continent that keeps one, and its deepest secret is that a man may break his own rings and pour the years out of himself at once, for one blow that hits far above his weight. He had read the price too. The rings go and the power stays, and they come back over three days, but a man who does it twice inside thirty-six days may find that one of them never comes back. And a ring that does not come back is a hole in him until he kills something old enough to fill it.
+He knew what the hammer does. There is a family on this continent that keeps one, and its deepest secret is that a man may break his own rings and pour the years out for one blow far above his weight. The rings return over three days, but a man who does it twice inside thirty-six days may find that one of them never comes back.
 
 He was not going to break anything. He was going to take a knot apart.
 
-The ring was part of his body now, and had been for a year, since the month of sweat in the chamber under the Hall, and it hung around him only because that was where a ring is supposed to hang. Under the light of it there was a fusion, and the fusion was a seam, and he had spent fifty years not looking at it and one year learning that it was there.
+The ring was part of his body now, and had been for a year, and it hung around him only because that was where a ring is supposed to hang. Under the light of it there was a fusion, and the fusion was a seam, and he had spent fifty years not looking at it and one year learning that it was there.
 
 So he looked at it. Then he let go of it.
 
-It did not shatter. It came apart as a fist comes apart when the hand decides to open, slowly and then all at once, and four hundred and twenty years of a small angry beast went down into him as raw years with no shape at all, and the core took them as a heart takes blood.
+**It did not open.**
 
-And his blood took them apart.
+That was the first thing, and it was the thing he had got wrong. He had thought of a seam as a seam — a line that comes apart when you stop holding it. It was not a line. It was fifty years of a body having grown around a thing, and the body did not want the thing out, and when he pulled, the seam tore instead of opening, and the tear went up along his spine and took the breath with it.
 
-That was the part he could not have pictured until it was happening. The blood did what blood does, which is to know what a thing is worth and keep that and let the rest go. Something left him, and he felt it go: a thinning, a loss with no pain in it, like a long breath out. Those years were gone for good, and the ones he kept were held in something richer than what had carried them before.
+Blood came out of his nose and his ears. Not much. It did not need to be much.
 
-The core turned. The blood closed. The seam re-knit. It took most of the night.
+The four hundred and twenty years came down into him anyway, as raw years with no shape at all, and the core took them as a heart takes blood — and then the blood took them apart, and kept what it could hold, and let the rest go.
 
-When it was finished the ring was around him again, and it was not yellow.
+Something left him, and that part did hurt. It was not a thinning and it was not a long breath out. It was a hand going into him and taking a thing he did not have a second of, and he understood while it was happening that what was leaving was not power. It was the substance that had been able to give power, and it was not coming back.
+
+And the years needed somewhere to come from.
+
+The core opened and drank. He felt it drink — the basin, the two springs, the steam, the ground, the cold air over the flowers, all of it pulled sideways toward a man sitting against a stone, and the pool's surface dipped. Not much. A finger's width across a courtyard of water, and then back.
+
+And inside the ring, small and furious and very old for what it was, the bird went through it.
+
+Four hundred and twenty years of a small light bird, and a hundred thousand years poured through it. It could not hold a fraction of that and it did not try; it was carried, as a feather is carried by a river it has no business being in, and what came out the other side was still a sparrow's blessing and was not small any more.
+
+The seam re-knit. It took most of the night, and it did not close flush. He would carry a ridge there, under the first ring, for the rest of his life, and he would know it in the dark with his fingers.
+
+Then the ring came back, and it was not yellow.
 
 It was red.
 
-He sat with his back against the stone and looked at the light of it going round him, deep red, the colour of a hundred thousand years, the colour his father carried three of and no other man alive carried at all.
+---
 
-Then he did the arithmetic honestly, as he had done it in the flowers, because that was the only way to walk out of a place like this alive. Four hundred and twenty years had gone in, and something under a hundred thousand had come out, and the difference had not come from nowhere. It had come out of his blood, which had been rich enough to give it and was richer now than at sunset.
+He had expected a change. He had not expected the ground to shake.
 
-Which meant the next ring would go further than this one, and the one after that further still. Eight more, one at a time, because the blood could hold one at a time, and each one leaving him thinner than the last until it came back.
+The light went up out of him in a pillar — not out of one ring but out of all nine and the two centres and the blood under them. A column of gold stood over the basin and went straight up through the steam and lit the underside of the cloud, and the hollow turned day at midnight.
 
-The child was due when the cold broke. He had sent the nine small pills east two days ago with a courier who did not know what he carried, and a name off a household register, and instructions that reached a servant and not the woman herself, because the woman herself would have thrown them into the fire.
+His wings came out. Six of them, all the way, without his asking, and the feathers were white-gold to the tips and the light ran along them like water.
 
-He would be home before the thaw, with three more rings red, or two, or one and a hole where the fourth had been.
+Every ring he carried shone at once, and the first of them, the small one, the yellow one, the sparrow, burned a deep red that he had seen twice in his life, both times on a man older than his father.
 
-He put his coat on over a body that no longer noticed the cold, and looked once more at the two waters that had not moved in ten thousand years and did not move now. Then he walked west.
+The domain tore open on its own and rolled out over the forest, and the flowers at the rim went flat, and somewhere out past the trees a beast that had been asleep stood up.
+
+He sat in the middle of it with blood drying on his face and one hand pressed against the ridge under his first ring, and he had exactly one thought, and it was not about the light.
+
+It was that the pillar could be seen for a hundred li in every direction.
+
+And then the surge went into the wall.
+
+It went up the ladder as water goes up a stair, ninety-six and then against the next step, and he felt the step — felt it as a man feels a door he has pushed against before — and it did not move. The power piled up behind it. He had written that rule into his own codex, in the second volume, in a paragraph he had not expected to be testing from underneath: *the power keeps accumulating behind a wall, and shows when the ring arrives.* It was accumulating. He was not at ninety-seven.
+
+He stayed there until the light went down and the wings folded and the domain settled back into him of its own accord, and then he sat in the dark in a basin that smelled of ozone and sulphur and his own blood, and took stock, because that was the only honest thing left to do.
+
+The blessing was still the bird's. He let it out and looked at it.
+
+Warm golden light came off his hands, the same gentle light he had put into a locked room in Spirit City eleven months ago, the light that had closed a woman's bruises and left her hatred entirely alone. Fifteen small particles, going slowly around him, exactly as they had always done.
+
+It healed the torn meridian in his side in the time it took him to notice.
+
+He sat with that for a while.
+
+The same skill. The same fifteen lights. Four hundred and twenty years behind them, and now a hundred thousand. The difference was not a new thing given to him but the old thing with the handbrake off, and he understood with a coldness that had nothing to do with the spring that this light, held to a man long enough, would now do things he had no name for.
+
+He put it away.
+
+Then he counted what it had cost, because a man who does not count is a man who dies in the second round.
+
+The years his blood gave away were gone for good, and the blood was poorer by exactly that much, and it would not make them back. The seam under the first ring would never close flush. The meridian in his side was crooked. His hands had shook badly enough, in the middle of it, that he had put one flat on the stone to stop them, and they were not entirely steady now.
+
+And eight rings were left.
+
+Each one would go further than the last, because each one left the blood richer than it found it — which was the whole reason to do any of it — and each one would want more than he had, and he had less than he started with.
+
+He looked at the two waters, which had not moved in ten thousand years and did not move now, and the pool sat a finger's width higher than it had.
+
+Then he stood up, and put his coat on over a body that no longer noticed the cold, and started walking west, into a continent that had watched a golden pillar stand up over the eastern forest at midnight and was already asking the only question that mattered.
+
+He had known it would be seen. That was the arithmetic he had done in the flowers, and the reason he had done it at night, in the one place on the continent where anyone sent to look would find a hole in the ground and nothing in it.
+
+He had not counted on how long the light would stand.
 
 ## Footer
 
-- **Ch05 v1 — "The Two Waters" — 2026-10-09.** Written on the author's beat: *"he go yin yang velly, well of course for immortal Hearbs, well he mix them and make pills, well he plans to broke his soul' rings one by one to reabsorb the soul' rings, of course he know how dengerous that be but with immortal hearb and others things like adaption telent."* R30 filed the same day.
-- **Canon receipts:** the 冰火两仪眼 — in the middle of the empire, in the core of 落日森林, an inverted cone of old fire and old ice, one oval pool holding two waters that never cross, steam off the line between them, 碧鳞七绝花 around the rim (Baike 冰火两仪眼) · formed by the Water and Fire Dragon Kings dying together and buried ten thousand zhang below (same) · one of the three great treasure-basins of medicine: rare plants mature ten times faster in it and ordinary plants cannot live in it (same) · in the SL1 era ordinary men and beasts who enter **explode** (same) · 八角玄冰草 at the centre of the yin spring, white, eight-cornered, ten metres of killing cold (Baike 八角玄冰草) · 烈火杏娇疏 at the centre of the yang spring, fire-red, supreme fire poison (Baike 烈火杏娇疏) · **the two taken together neutralise each other and give a body that fire and ice cannot enter** (Baike 烈火杏娇疏 + SL1 ch63) · **Tang San could absorb an over-limit fourth ring only because of this well** — the receipt that makes the plan canon-legal (SL1, 地穴魔蛛) · 幽香绮罗仙品, the pale pink flower that cures no poison and defeats all of them (SL1 ch63) · 朱砂莲 and 雪蚕 in the same chapter · 九品龙芝 and 八瓣仙兰 in the same basin (SL1 ch63 + Baike) · twelve herbs of the highest grade (SL1 roundups, secondary) · **独孤博 has not found it in 2619** — he is 78 at rank 91 when canon opens, broke 90 at seventy, and found the well about seven years before that, which puts his discovery near 2635 (Baike 独孤博) · **炸环 and its price** — the rings break, the power stays, three days to return, a second use inside thirty-six days risks the ring being truly destroyed (SL1 ch297) · **a ring's years can be raised by special methods**, and the limit a man can absorb turns on martial soul quality, physique and spiritual power, with no universal ceiling (Baike 魂环) · three rings absorbed at once were purified from 90,000 across the line into 100,000 (SL1 ch297) · the Sea God's trial raised all of Tang San's rings by fifty thousand years and turned them **red** (Baike) · 千道流 carries three red rings at 99 (B16) · ring colours white 10 / yellow 100 / purple 1,000 / black 10,000 / red 100,000 / orange 200,000+ (POWER_LAW; CANON_MASTER §3).
-- **The mechanism is F14's law, not a new power:** the rings are part of his body (Ch01) and the True Angel Core is a **Blood Essence core**, which canon says purifies, refines and concentrates. He takes the fusion apart; the blood weighs the years and keeps what it can hold; the core re-knits the seam at a higher age. **The cap is his blood, not a number I chose:** each re-forge leaves the blood richer, so each ring goes further than the one before, and he cannot finish the nine at once.
-- **The author's correction honoured:** **no plant beasts in 2619.** The six plant-type ferocious beasts of the well are those herbs after they have crossed ten thousand years and gained sentience — the SL4 receipt dates Tang San's use of their *predecessors* to twenty thousand years on. Here they are plants. Nothing is hunted and no ring comes from a plant. What guards the rim is the flowers; what kills is the ground.
-- **The ceiling, ruled in R30:** all nine rings cross into **red at one hundred thousand**; **none reaches orange.** Orange and gold are reserved to True Divine, whose defined work is to *"increase soul rings age and quality"* — if Mortal Divine can reach orange now, godhood has nothing left to do.
-- **Design, tagged:** the month's accounts · telling his father and not lying to him (*"And do not die in a forest"*) · walking out of the city invisible in a grey coat · the two poisons cut with a knife and never touched, one carried in a jade cup at the end of a cord · **six of the twelve taken and six left standing**, their places written down for the boy who will come in twenty-three years · the three kinds of pill · the nine small pills sent east ahead of him to a servant and not to the woman · the two springs taken one after the other, the warm core drinking the heat and the cold core drinking the cold · the first ring chosen because it is the smallest and the first thing he ever took from anything.
-- **Withheld, as R29 requires:** the well's name, which no word on this continent carries in 2620 · the Tang Sect, its founder, and the boy who will one day stand where he stood · the six plant beasts and what they become · the God Realm and its thirty-two seats.
-- **Locks untouched:** R22 the far era · R23 Bibi Dong's road — the pills reach her by a servant's hand and what she does with them is hers, unwritten · R24 the secret · R27 · R30 · Càn Róng awaiting strike or bless.
-- **Word count (body):** 3,395 (printed by `tools/measure_chapter.py`). **Metrics:** average 17.5w · median 13w · longest 58w · zero over 60; spoken dialogue 26 lines (7.7 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.
+- **Ch05 v2 — "The Two Waters" — 2026-10-09, corrected the same day on the author's strike:** *"So there is no breakthrough,no backlash and no and others things that' should happen, please check everything."* **F15 filed.** v1 shipped the gain and none of what the laws require to come with it; this version carries all five.
+- **The five stage-crossing questions, answered on the page in order (`POWER_LAW.md`):** *What changed* — the first ring crossed from four hundred and twenty years to a hundred thousand, and the body under it was forged against fire and ice. *What caused it* — the well's origin power, the paired poisons, and the Blood Essence core taking the years apart and keeping what it could hold. *What he already possessed* — rings that are part of his body (Ch01), a Blood Essence core, a divine martial soul, two 100,000-year bones, spiritual power past the abyss. ***What failed first*** — **the seam tore instead of opening**, because fifty years of a body had grown around the ring and the body did not want it out; the blood came out of his nose and his ears and his hands shook. ***What limitation remains*** — the years the blood gave are **gone for good** and the blood is poorer by exactly that much; the seam will never close flush; the meridian in his side is crooked for life; the power piled up against the wall at ninety-seven and **the wall did not move**.
+- **The backlash (Master §1.1 — overload requires a traceable cause, never a convenient weakness):** the two poisons did not merely fight; **a meridian along his left side opened**, and the body took the power back out of the domain to hold itself together, so **the domain went out** and the flowers at the rim had him — he survived only because the cold spring was worse than the poison and the two went at each other through him. He misjudged it, and the misjudging is on the page and is not excused.
+- **The breakthrough phenomena (`CANON_GROUND.md` receipt: soul-power pillar, martial soul true body, rings shining, domain expansion, outer sensing, holy aura like a Seraphim):** the pillar of gold out of all nine rings and both centres, lit the underside of the cloud, turned the hollow to day at midnight · six wings out to the tips, unasked · **every ring shining at once, the first of them deep red** · the domain tearing open on its own, the flowers at the rim going flat, a beast standing up past the trees · the pool's surface dipping a finger's width as the core drank the basin.
+- **No rank gained, deliberately:** the surge went into the wall at ninety-seven and the wall held — and the chapter quotes his own codex at him: *"the power keeps accumulating behind a wall, and shows when the ring arrives"* (Ch02, `CANON_HARVEST` B-batch). He is still 96. Nothing in this chapter breaks the ladder.
+- **The skill, corrected (F15's worst gap):** ring 1 is **Angel's Blessing** out of a 420-year Holy Light Sparrow (`SKILLS_CANON.md`) — the same fifteen golden lights he put into Bibi Dong's locked room in Ch01. **"No second skill to a ring" holds**: the bird's skill is not joined by another, it is the **same skill with the handbrake off**, and it healed a torn meridian in the time it took him to notice. The beast's remnant soul is on the page too — four hundred and twenty years of a small light bird carried by a hundred thousand years, *"the way a feather is carried by a river it has no business being in."*
+- **The energy is paid for:** the core **drank the basin** — the springs, the steam, the ground, the cold air — and the pool dipped a finger's width and came back. A hundred thousand years does not come out of a man.
+- **The political consequence, not skipped:** the pillar stood over the eastern forest at midnight and could be seen for a hundred li in every direction. He had counted on being seen and chosen the night and the empty place; **he had not counted on how long the light would stand.** The continent is asking the question before he is home.
+- **Canon receipts:** the 冰火两仪眼 — the grave of the Water and Fire Dragon Kings, one of the three great medicine basins, where ordinary men explode in this era (Baike) · 八角玄冰草 + 烈火杏娇疏 together forge a body that fire and ice cannot enter (Baike + SL1 ch63) · **Tang San could absorb an over-limit fourth ring only because of this well** (SL1, 地穴魔蛛) · ring age can be raised by special methods and there is **no universal absorption ceiling**, so 玉小刚's table is canonically wrong (Baike 魂环) · three rings absorbed at once were purified from 90,000 across the line into 100,000 (SL1 ch297) · 炸环's price — a second use inside thirty-six days risks the ring being truly destroyed (SL1 ch297) · red above 100,000 gains one gold streak per further 100,000, so a ring at exactly a hundred thousand is plain red (Baike 魂环) · 独孤博 has not found the well in 2619 (Baike 独孤博) · Titled-breakthrough phenomena and the Seraphim-dense aura (CANON_GROUND §71) · power accumulating behind a bottleneck (Ch02 codex; CANON_HARVEST).
+- **The author's correction honoured:** **no plant beasts in 2619** — the six plant-type ferocious beasts are those herbs after they cross ten thousand years and gain sentience. Nothing is hunted; no ring comes from a plant. What guards the rim is the flowers; what kills is the ground.
+- **The ceiling, ruled in R30:** all nine rings cross into **red at one hundred thousand**; **none reaches orange.** Orange and gold are reserved to True Divine. **The cap is his blood, not a number** — each re-forge leaves the blood richer, so each ring goes further than the one before, and each one wants more than he has.
+- **Design, tagged:** telling his father and not lying to him · walking out of the city invisible in a grey coat · the two poisons cut with a knife and never touched · **six of the twelve taken and six left standing** · the nine pills sent west to a servant and not to the woman · the misjudged forging · the torn seam · the ridge under the first ring · the pillar and its cost · the light he puts away.
+- **Withheld (R29):** the well's name · the Tang Sect and the boy who will come in twenty-three years · the six plant beasts and what they become · the God Realm and its thirty-two seats.
+- **Locks untouched:** R22 · R23 Bibi Dong's road — the pills reach her by a servant's hand and what she does with them is hers, unwritten · R24 · R27 · R30 · Càn Róng awaiting strike or bless.
+- **Word count (body):** 3,372 (printed by `tools/measure_chapter.py`). **Metrics:** average 18.1w · median 13w · longest 60w · zero over 60; spoken dialogue 14 lines (4.2 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.
+- **v1 archived byte-preserved** at `_archive/2026-10-07_superseded/Chapter_05_The_Two_Waters_v1.md` (md5-verified against `git show HEAD~0`). What v1 lacked, in one line: the gain without the breakthrough, the phenomena, the backlash, the failure or the limitation.

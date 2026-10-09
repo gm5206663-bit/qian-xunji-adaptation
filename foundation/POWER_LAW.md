@@ -113,6 +113,50 @@ the author's rulings; [era] true of this world's clock.
 - **Nothing is hunted here.** In 2619 the herbs of the basin are plants, not
   beasts (author's correction, 2026-10-09). No ring comes from a plant.
 
+### What a re-forging MUST carry — the F15 law, 2026-10-09
+
+Filed on the author's strike: *"So there is no breakthrough, no backlash and no
+and others things that' should happen, please check everything."* Ch05 v1
+shipped the gain and none of this. **A gain of this size is never written
+without all six, on the page, in this order:**
+
+1. **The failure first.** The seam **tears instead of opening** — fifty years of
+   a body have grown around the ring and the body does not want it out. Blood
+   from the nose and the ears; hands that shake. (Five-question law: *what
+   failed first.*)
+2. **The backlash, with a traceable cause** (Master §1.1 — never a convenient
+   weakness). The paired poisons **open a meridian**; the body takes the power
+   back out of the domain to hold itself together, so **the domain goes out**
+   and the rim flowers have him; he survives only because the spring's cold is
+   worse than the poison. The misjudging is named and not excused.
+3. **The phenomena** (`CANON_GROUND.md` Titled-breakthrough receipt): the
+   soul-power pillar out of all nine rings and both centres · six wings out
+   unasked · **every ring shining, the first of them deep red** · the domain
+   tearing open on its own · the outer world sensing it — the flowers going
+   flat, a beast standing up past the trees · and **the core drinking the
+   basin**, the pool dipping a finger's width. A hundred thousand years does
+   not come out of a man; it is paid for out of the world.
+4. **No free rank.** The surge goes into the wall at ninety-seven and **the
+   wall holds**. He stays 96. The chapter quotes his own codex at him: *the
+   power keeps accumulating behind a wall and shows when the ring arrives.*
+5. **The skill changes, and only that skill.** `SKILLS_CANON.md` ring 1 is
+   **Angel's Blessing** from a 420-year Holy Light Sparrow. **"No second skill
+   to a ring" holds** — the bird's skill is not joined by another; it is **the
+   same skill with the handbrake off** (it heals a torn meridian in the time it
+   takes him to notice). The beast's **remnant soul** is carried, not enlarged:
+   a 420-year bird under a hundred thousand years, *"as a feather is carried by
+   a river it has no business being in."*
+6. **The limitation that remains.** The years the blood gave are **gone for
+   good** and the blood is poorer by exactly that much · the seam never closes
+   flush, leaving a ridge under the first ring · the opened meridian knits
+   **crooked for life** · and because each re-forge leaves the blood richer,
+   **each of the remaining eight wants more than he has.**
+
+**And the consequence nobody can hide:** the pillar stands over the eastern
+forest at midnight and is visible for a hundred li in every direction. He
+chose the night and the empty place, and **he had not counted on how long the
+light would stand.** A gain this size is a public event.
+
 ## Why 96 here is not 96 anywhere else
 
 **One cause, and everything else follows from it: his bloodline runs purer
