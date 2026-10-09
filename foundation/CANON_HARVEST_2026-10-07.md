@@ -713,3 +713,123 @@ sect that did it has not yet closed its gates. The old man on Haotian Peak who
 beat 千道流 is still alive, and is at this moment losing his mind in a city of
 slaughter. **None of this may be pre-decided on a page — but now none of it can
 be gotten wrong either.**
+
+---
+
+## B17 · The first Shrek Seven — the seven our story's canon runs on
+
+Source: 百度百科 史莱克七怪 (8536815) · 史莱克八怪 (53357246) · novel ch320 (their
+titles conferred).
+
+**All seven took their Titled ranks before thirty — a first on the continent.**
+
+| # | Name | Rank at title | 封号 | Soul | Ring set | God position |
+| --- | --- | --- | --- | --- | --- | --- |
+| 3 | **唐三** | 100 | 千手 (代号 千手修罗) | 蓝银草→**蓝银皇**, second 昊天锤 | nine red + a blue-gold Sea God ring; on the hammer, nine red then 暗赤金/赤金 | **海神** (first-class) **+ 修罗神** (God King) |
+| 5 | **小舞** | 96 超级斗罗 | 柔骨 | 柔骨兔 — **a 100,000-year beast in human form** | 紫紫紫紫黑黑红红红 | shares the Asura seat as the 修罗魔剑's scabbard |
+| 1 | **戴沐白** | 95 超级斗罗 | 白虎 | 白虎 | 黄黄紫紫黑黑黑黑红 | 战神 (second-class) |
+| 2 | **奥斯卡** | 92 | 食神 | **香肠** — "香肠专卖" | 黄黄紫紫黑黑黑黑红 | 食神. **The continent's first food-system Titled Douluo** |
+| 4 | **马红俊** | 93 | 凤凰 | 邪火凤凰 → 凤凰 | 黄黄紫紫黑黑黑黑黑红 | 凤凰之神 |
+| 6 | **宁荣荣** | 94 | 九彩 | **九宝琉璃塔** (mutated up from seven) | 紫紫黑黑黑黑黑红红 | 九彩神女 |
+| 7 | **朱竹清** | 93 | 幽冥 | 幽冥灵猫 | 黄黄紫紫黑黑黑黑黑红 | 速度之神 |
+
+- **戴沐白 and 朱竹清** are Star Luo nobles betrothed from childhood; their
+  fusion **幽冥白虎** is what made Star Luo an empire.
+- **马红俊's soul was a mutation that ate him** — the evil fire backlashed and
+  could only be settled by women (in the manhua, by food), until Tang San found
+  the **鸡冠凤凰葵** in the 冰火两仪眼 and purified it. His seven-headed phoenix
+  later grew to nine heads.
+- **宁荣荣's 分心控制** — running several skills on several targets at once — is
+  the finest on the continent; her tower is the reason the Seven fight above
+  their ranks.
+- **白沉香** is added in the manhua/anime to make the "Eight Freaks"; she is the
+  **only one of them who never reached a god seat**, stopping at 魂圣.
+- **Recorded conflict:** novel ch320 says of Spirit Hall's Worshipers that "the
+  truly strongest was 金鳄斗罗 alone, at ninety-seven," while the 七大供奉 table
+  gives him **98**. Both stand; neither is smoothed.
+
+---
+
+## B18 · The three places — Sea God Island, the Star Dou Forest, the City of Slaughter
+
+Source: 百度百科 海神岛 (61600975) · 星斗大森林 (18373999) · novel ch219 · 腾讯新闻
+on 大明 and 二明.
+
+**海神岛 Sea God Island — also called 魔鬼岛, Devil's Island.**
+- **Four hundred li across**, worshipping the Sea God 波塞东; the current Sea God
+  is Tang San. **七圣柱 seven sacred pillars, seven cities** of about a thousand
+  faithful each, and **3,500 海神战士** — five hundred per city, retiring at
+  seventy. 海神山 carries the long staircase of the trial **"穿越，海神之光."**
+  The 海神殿 is held by 大供奉 **波赛西.**
+- **The Seven Pillar Douluo:** 海龙斗罗 **95** (first, holds **破魔领域**, which
+  nullifies every domain) · 海矛斗罗 93–94 · 海妄斗罗 93–94 control · 海马斗罗
+  92–94 · 海鬼斗罗 92–94 control · 海星斗罗 92–94 control · 海女斗罗 92–94
+  control. **Only three of the seven hold a domain at all.**
+- The 大祭司 must carry the 海神 or 瀚海 soul; each pillar guardian must carry the
+  pillar's own soul and be a Titled Douluo. The eight of them form the council.
+- **Spirit Hall once sent two thousand soul masters to take the island. About a
+  hundred came home, and two Titled Douluo did not come home at all.**
+
+**星斗大森林 Star Dou Forest.**
+- **Due south of Heaven Dou, spanning both empires** — two fifths in Heaven Dou,
+  three fifths in Star Luo, **though Heaven Dou has never admitted it.** Its area
+  is close to that of the Balak Kingdom. The largest and oldest human forbidden
+  zone on the continent, and one of the three great beast territories.
+- **Zones:** outer ring (ten- and hundred-year beasts) → mixed ring (hundred and
+  thousand, the odd ten-thousand) → the ten-thousand-year belt → **the core, the
+  Star Lake, where only 大明 and 二明 live** with beasts of fifty thousand years
+  and strong blood. Soul power thickens toward the middle; the ground runs to
+  volcano, wetland and grass.
+- **大明 (天青牛蟒) and 二明 (泰坦巨猿):** hundred-thousand-year beasts, **a little
+  under a 99-level Bibi Dong and far above an ordinary 95.** Bibi Dong kills them
+  at the end of SL1; Tang San raises them and makes them God Officers; in SL2
+  they stand guard over the Haotian School at 99 and 98.
+- **The five great ferocious beasts** hold the deep places; the strongest, **兽神
+  帝天, has eight hundred and ninety thousand years.**
+- In SL3 the Spirit Pagoda's mass killing for experiments **reduced the forest to
+  under one percent of what it was**, nearly every beast extinct, the Lake of
+  Life almost dry.
+
+**杀戮之都 City of Slaughter.** The Hell Road trial that grants the **杀神领域**;
+its 杀戮之王 was **唐晨**, put there by the Rakshasa God's sabotage at the eighth
+Asura trial; Tang San ended the city with the **雪色天鹅吻**.
+
+---
+
+## B19 · Tang Sect hidden weapons and the immortal herbs
+
+Source: 起点/搜狐/喜马拉雅/TapTap roundups on the 暗器 rankings — **[secondary]:
+the two lists disagree with each other, and both are given.**
+
+**Mechanism weapons (机括类):**
+1. **佛怒唐莲** — the Tang Sect founder 唐坤's life's work; **forged in this world
+   by 楼高, the first of the three great smiths, who gave his life at the
+   furnace.** At the Jialing Pass it killed **seventy-six 魂圣** (one source says
+   forty-plus — recorded, not smoothed). Kills Titled Douluo; makes gods change
+   colour.
+2. **暴雨梨花针** — **twenty-seven needles of deep-sea sunken silver**, the edge
+   opened with a man's blood. Ignores defence; breaks protective soul power and
+   罡气.
+3. **孔雀翎** — three hundred and sixty-five needles in twelve kinds: puncture,
+   burst, poison, and the killing 陨灭针 and 七杀针.
+
+**Technique weapons (手法类):**
+1. **观音泪** — not an object but a *method*; with it, **a drop of water hits like
+   a bullet.** "Ignores defence, never misses." Needs 鬼影迷踪, 玄天功, 玄玉手 and
+   控鹤擒龙 all at their limit. **At rank 96 Tang San drove it through the heart
+   of 千仞雪, a first-class god.**
+2. **菩提血** — legendary; Tang San never owned one.
+
+Also named: 阎王帖 (one inch, black, forty-nine herbs) · 一千零一夜 · 龙须针 ·
+诸葛神弩 · 子母追魂夺命胆 · 含沙射影 · 满天花雨 · 追心箭 · 无影神针 · 飞天神爪.
+
+**The immortal herbs that turn the plot:** **相思断肠红** (chose 小舞) ·
+**望穿秋水露** (let Tang San see through her true form) · **鸡冠凤凰葵** (cured
+马红俊's evil fire) · **雪色天鹅吻** (ended the City of Slaughter) ·
+**水晶血龙参** (restored 小舞's body).
+
+**For our pages:** none of the Tang Sect exists in 2619 — Tang San founds it
+twenty-odd years after our window, and its founder's masterpiece is forged by a
+smith who is alive right now. **The OC has read all of it.** What he does with
+the knowledge that a smith named 楼高 will one day die at a furnace for a
+lotus-shaped bomb is his, and is not decided here.
