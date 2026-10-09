@@ -832,8 +832,11 @@ So in our window:
 
 ### 14.4 The OC's spiritual power — the ruling this section exists to make
 
-Qian Xun Ji (our version) at rank 96 with a soul core sits in the
-**Spirit Domain realm, 灵域境 — 20,000 to 49,999 points.** Grounds:
+Qian Xun Ji (our version) stands **very high** — a 95–96 Titled Douluo, plus the
+True Angel Core, plus the Adaptation Talent's purification. **`POWER_LAW.md`
+forbids stating a point number or a realm name on any page until a chapter
+fixes one, and no chapter has.** The grounds below are why the placement is
+*around* Spirit Domain, not a licence to print it:
 
 1. Canon puts Spirit Domain as *the* foundation for Hyper Douluo (95–98)
    cultivation, and he stands at 96.
