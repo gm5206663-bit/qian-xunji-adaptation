@@ -134,19 +134,29 @@ The old man stood there until the cold got into his knees, and then he went back
 
 On the tenth night he made the cut.
 
+Not with the sword. The sword was standing where it had stood for two hundred mornings, and he did not touch it.
+
+But the cut was the sword's.
+
+That was the thing he had not understood for nine nights and understood on the tenth. The centre he was building was not made of soul power at all. It was made of the sea — of spirit — and spirit has to be given an edge before it will hold a shape. Two hundred mornings of one cut, landing in the same place, had put that edge into him. Not into the steel. Into him.
+
+So he made the cut inside.
+
 It was smaller than he had expected. Not a movement of the arm or the will, but a decision — the packing was right, the sea was holding, and the edge had to be made now or the moment would go, and he made it without consulting himself about it.
 
 There was a sound in his head like a string being drawn tight across a bowl.
 
-And then there was a centre, and the knowing of it was so plain and so undramatic that he almost laughed at it.
+And then there was a centre — a spirit's centre and not a soul power's, cold where the first was warm, and as straight as the cut that had made it — and the knowing of it was so plain and so undramatic that he almost laughed at it.
 
 Thin, and not yet solid, and turning slowly between his eyebrows in the wide dark of the sea — but a centre, with an edge to it, drinking in what it was given and giving back a little more than it took.
 
 He sat with it until the lamps went out on their own.
 
-It was not finished. It would take months to solidify and he knew how many months, because he had read the number in a book, and the number had been written by men who stood on the far side of this from him. But it was there, and it was his, and the second core was the thing that separated the high band from everybody else on the ladder — recovery, endurance, the capacity to keep working long after a lesser body had nothing left to give.
+It was not finished. It would take months to solidify, and he knew how many months, because he had read the number in a book written by men who stood on the far side of this from him.
 
-No man alive in this era carried one. In this era the method had not been invented yet, and would not be invented for twenty thousand years, by a man who had not been born, in a school that did not exist.
+No man alive in this era carried two centres. No man alive in this era carried one.
+
+The method for the ordinary kind would not be invented for twenty thousand years, by a man not yet born, in a school that did not exist — and he had not used it. He had built this one out of his own spirit and his own sword, and there was no book in any age that described the thing he had just done.
 
 ---
 

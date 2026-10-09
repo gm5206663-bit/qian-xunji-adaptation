@@ -96,6 +96,14 @@ It was wide. Wide as a sea and deeper than a sea, past the depth where most men 
 
 Soul power went liquid, and packed, and pressed toward solid.
 
+And it was not soul power alone that went into it.
+
+His blood went in with it — his own, and the Angel God's, and the whole line's — and behind the blood something else went in that he had no plain word for: the authority the blood carried, and the domain that came with the authority.
+
+A centre made of soul power is a storehouse. A centre made of blood and authority is a heart.
+
+The books had drawn that difference carefully, in a chapter he had read twice, and he was the only man in the world who knew that he was building the second kind of it.
+
 A vortex opened in front of his chest.
 
 It was gold and not black, with white-gold ripples turning around it, and inside those ripples, faint and far off, six wings and a pupil like an eye. And the vortex drank. Soul power poured into it until most of what he held was gone, and his breath came short, and his blood ran hot.
