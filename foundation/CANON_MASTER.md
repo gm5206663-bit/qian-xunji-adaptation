@@ -286,9 +286,29 @@ Tang San 11 years away.
   rings are exclusive to gods [canon-wiki].
 - **Ownerless rings** (stored from beasts without a killer) require special
   soul tools — a later-era Tang Sect method [canon-wiki, [later]].
-- Also canon: soul **shock** on absorbing an over-age ring, **optimal ring
-  combinations by rank**, **age ascension** (feeding rings to age them — an
-  SL2+ practice), and ring **camouflage** [canon-wiki]. House rulings s33
+- **The optimal ring ages by ring number** — the ladder the codex teaches, and
+  the reason the numbers 423 and 764 belong on our pages [canon-wiki "Optimal
+  Soul Rings According to Rank"; 百度知道 ring-colour entry, which gives the same
+  figures as what a 魂士 / 魂师 can absorb]:
+  | Ring | Optimal beast age |
+  | --- | --- |
+  | 1st | under **423** years |
+  | 2nd | under **764** years |
+  | 3rd | 1,300–1,800 years |
+  | 4th | 3,000–5,000 years |
+  | 5th | ~12,000 years |
+  | 6th | ~25,000 years (the manhua gives exactly 28,756) |
+  | 7th | 30,000–50,000 years |
+  | 8th | 50,000–100,000 years |
+  | 9th | 100,000+ years |
+  By rank, the same rule: a 魂士 can take a yellow ring under 423 years, a 魂师
+  under 764; purple — 魂尊 under 1,760, 魂宗 under 5,000; black — 魂王 under
+  12,000, 魂帝 under 20,000, 魂圣 under 50,000, 魂斗罗 any black ring. A red
+  (100,000+) ring needs Titled rank plus an exceptional martial soul or physique.
+  **The standard best configuration is three purple, five black, one red.**
+- Also canon: soul **shock** on absorbing an over-age ring, **age ascension**
+  (feeding rings to age them — an SL2+ practice), and ring **camouflage**
+  [canon-wiki]. House rulings s33
   (Nth ring at Nth decade; thousand-year second = pedigree anomaly;
   thousand-year first = death) sit on top of these tables — see
   `SKILLS_CANON.md`.
@@ -736,6 +756,97 @@ continental superpower of the era — see §11 for its standing among empires.
 
 **Harvest status:** first complete pass shipped 2026-10-07 (this file).
 Every later pass adds rows here and strikes them from this list.
+
+## 14. 精神力 — Spiritual power: the whole system, receipted
+
+**Added 2026-10-07 after the author's correction** — *"so what is his spritual
+Domine what"* — and it is a fair hit: this section did not exist, and because it
+did not exist I deleted a canon system out of Chapter 02 and called it invented.
+The system below is canon. What was wrong was my file, not the page.
+
+### 14.1 The six realms (standardized in SL3, continued in SL4)
+
+Every person is born in Spirit Origin. Points are the novel's own measure.
+
+| Realm | 中文 | Points | What it carries |
+| --- | --- | --- | --- |
+| **Spirit Origin** | 灵元境 | 0–49 (SL3's first telling: 0–99) | the state everyone is born in; intermediate Spirit Origin can support one yellow soul spirit |
+| **Spirit Connection** | 灵通境 | 50–499 (SL3's first telling: 100–499) | control begins — mind and heart communicate; two yellow or one purple soul spirit; ~200 points supports a 3,000-year soul spirit |
+| **Spirit Sea** | 灵海境 | 500–4,999 | the spirit becomes a sea; the foundation of an expert; five yellow / three purple / one black; supports cultivation to six or seven rings |
+| **Spirit Abyss** | 灵渊境 | 5,000–19,999 | "an abyssal prison, heaven above and hell below"; **normally the limit for an ordinary human**; can fuse a soul spirit of any grade, but only one orange or red, after which the remaining capacity falls back to Spirit Sea; otherwise up to five of any grade |
+| **Spirit Domain** | 灵域境 | 20,000–49,999 | spiritual sense becomes a domain and makes its own heaven and earth; can distinguish the energy particles in the air; theoretical maximum nine soul spirits; **the foundation for Hyper Douluo (95–98) cultivation and the road toward Limit Douluo**; the prerequisite for forming a spiritual domain, though reaching the realm does not by itself form one |
+| **Divine Origin** | 神元境 | 50,000+ | the divine band; corresponds to a God Officer's spiritual level; reaching it does not make one a god. Subdivisions: ordinary (Divine Official) 50,000–10⁵ · third-class 10⁵–10⁷ · second-class 10⁷–10⁹ · first-class 10⁹–10¹² |
+| **God King** | 神王境 | not numbered | above first-class Divine Origin; can control a plane and extend sense across planets |
+
+**Known boundary discrepancy, recorded not smoothed over:** SL3 gives the
+Origin→Connection transition at ~100 points in ch69/ch134 and at ~50 in
+ch113/ch183; SL4 continues with ~50. Both tellings are on file.
+
+**Sources:** Baidu Baike 精神力 (the seven-level list, 灵元境→神王境, and the point
+table) · soulland.fandom.com/wiki/Spiritual_Power (the six-realm table, the soul
+spirit capacities per realm, the SL3 chapter references for the boundary) ·
+baike.baidu.com/en/item/Spiritual Power/1420270 (English rendering + point
+table) · SL4 ch24 精神力测试 (the in-novel explanation: 灵元境 0–50, 灵通境
+51–500, 灵海境 501–5000).
+
+### 14.2 The era rule — the part that governs our story
+
+**The classification does not exist in 2619.** The six-realm ladder was
+standardized in **SL3**, when the development of soul spirits (魂灵) made
+spiritual power measurable. In the SL1 era there is no agreed division at all:
+people judge by feel and say "a Titled Douluo's spiritual power". The measuring
+instruments do not exist either.
+
+So in our window:
+- **Spiritual power is real and it matters** — every soul master has a spiritual
+  sea (精神之海) and spiritual power is born in it; it governs consciousness,
+  memory, perception, resistance to mental attack, and the number and grade of
+  rings/spirits a body can carry.
+- **Nobody has words for the levels.** The OC is the only man alive who knows
+  what the ladder is, because he read it in a book that will not be written for
+  twenty thousand years.
+- **SL2's own vocabulary is different again:** advanced spiritual development
+  there is described as *concretization* — 有形无质 (tangible form, intangible
+  substance) then 有形有质 — and Huo Yuhao's Spiritual Interference skill became
+  a *domain* when his spiritual power reached the first of those.
+- **Tang Sect's own scale in SL1** is the Purple Demon Eye's four stages: 纵观,
+  入微, 芥子, 浩瀚. Tang San at Sea God Island is described as 浩瀚.
+
+### 14.3 Spiritual power and the walls (the correlation the codex can teach)
+
+- To become a **Titled Douluo** in SL3 a soul master needs **Spirit Abyss**; it
+  can be done from Spirit Sea with the right soul-spirit configuration (a purple
+  first spirit plus a second at rank 40, or yellow + purple at 30 + black at 60).
+- **Spirit Domain** is the spiritual foundation for **Hyper Douluo (95–98)** and
+  the potential road to **Limit Douluo (99)** — not every Super Douluo reaches it.
+- Tang Wulin reached **Spirit Abyss at rank 47** (Soul Ancestor) and **Spirit
+  Domain shortly after becoming a Soul Saint** — the receipt for an early
+  climber, and the shape of the exception.
+- **Huo Yuhao** is the receipt for the top of the mortal ladder: he reached
+  Spirit Domain, and only he and Gu Yuena are recorded reaching the God King
+  realm's spiritual level before apotheosis.
+
+### 14.4 The OC's spiritual power — the ruling this section exists to make
+
+Qian Xun Ji (our version) at rank 96 with a soul core sits in the
+**Spirit Domain realm, 灵域境 — 20,000 to 49,999 points.** Grounds:
+
+1. Canon puts Spirit Domain as *the* foundation for Hyper Douluo (95–98)
+   cultivation, and he stands at 96.
+2. Canon puts an ordinary Titled Douluo around Spirit Abyss; he is explicitly
+   above any Qian before him, purified bloodline and a core included.
+3. Canon's own early climber (Tang Wulin) reached Spirit Domain as a Soul Saint,
+   so a 96 holding it is inside the pattern, not outside it.
+
+**Era caveat that must stay on the page:** in 2619 no instrument can measure it
+and no word exists for it. He knows his own standing only because he read the
+ladder in a book. That is not a loophole — it is the whole shape of the
+character, and it is why the codex he publishes describes the ranges in plain
+words and keeps the names to himself.
+
+Marked **[canon system + story placement]**: the ladder is canon; placing him in
+Spirit Domain is the story's ruling on canon grounds, and it is open to the
+author's strike or blessing.
 
 ## Receipts
 

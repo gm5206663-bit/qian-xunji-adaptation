@@ -36,7 +36,7 @@ Chrysanthemum opened his mouth, and closed it, and bowed lower than he had bowed
 
 "Yes, His Holiness," they said.
 
-They did not ask why. They were loyal, and it was not loyalty's business to ask. But they noticed the difference — anyone would have noticed the difference — and that, he thought, was only natural. The world was allowed to notice.
+They did not ask why. It was not loyalty's business to ask. But they noticed the difference — anyone would have noticed the difference — and that, he thought, was only natural.
 
 He walked alone to the secret chamber deep under the Worship Hall, into his father's domain. Qian Daoliu was ninety-nine, a Limit Douluo, the Angel God's guardian and his own oldest measure. His father would notice the change before anyone else. His father had always noticed, even in the years when all there was to notice was failure.
 
@@ -60,9 +60,9 @@ Of the Angel set he had owned two pieces — head and torso, ninety-nine thousan
 
 Last five days: the core.
 
-He used what the other life had given him. In the age to come, a soul core was a thing that arrived late if it arrived at all, and the books remembered only a handful of men who had ever carried one. In this era nobody carried one. No exception had ever been made in front of the world's eyes. He was going to be the first.
+He used what the other life had given him. In the age to come a soul core arrived at the Titled wall if it arrived at all — ninety and upward — and the books remembered exactly one man who had carried his first core before that, at seventy-six. In this era nobody carried one. No exception had ever been made in front of the world's eyes. He was going to be the first.
 
-He began the compression. Soul power, liquid, packed and pressed toward solid.
+He began the compression. It asked for spiritual power first, and his spirit gave it — wide as a sea and deeper, past the abyss where most men stop, into the range the books had a name for and this world did not. Soul power, liquid, packed and pressed toward solid.
 
 A vortex opened in front of his chest.
 
@@ -128,7 +128,7 @@ Chrysanthemum hesitated — half a breath, no more. Then he bowed lower.
 
 "Yes, His Holiness," he said, and Ghost nodded, and between the two of them it was settled that the elders would be called.
 
-They would also talk among themselves, that night and other nights. That was natural. The Hall had a new weight at its center, and everything in the Hall would lean toward it or away from it, soon.
+The Hall had a new weight at its center, and everything in the Hall would lean toward it or away from it, soon.
 
 Next: Bibi Dong.
 

@@ -63,37 +63,46 @@ The story is the author's; the canon is the books'. Everything else on the page 
 
 **Rule I hold to:** invention may dress the scene; it may not decide the future. Bibi Dong's road, the secret, the far era — never decided (R22–R24).
 
-## 5. Numbers cut on 2026-10-07 because no receipt existed for them
+## 5. The numbers I cut on 2026-10-07 — and the five I had to put back
 
-Found during the R28 read-and-fix pass on Chapters 01–03. Each of these stood in
-the prose as if the books had said it. None appears in `CANON_MASTER.md`, and
-none had an entry in this ledger. They were **removed from the prose** rather
-than tagged, because a number with no source is worse than no number:
+I cut eight numbers out of Chapters 01–02 and wrote them down here as having no
+receipt. **That was wrong for five of them, and the correction is the point of
+this section.** I checked whether `CANON_MASTER.md` contained them, found
+nothing, and concluded they were invented. Two of the five were already in that
+file — the orange and gold ring bands sat two hundred lines above where I was
+working. I did not read my own canon file before deleting from it.
 
-| Was in the prose | Ch | Why it went |
+**Restored to the page, with receipts now on file:**
+
+| Number | Where it is canon | Receipt |
 | --- | --- | --- |
-| "the first soul core would arrive at **ninety** for most" | 01 | no receipt for a general age of first-core formation. The receipts we hold: Tang Wulin's second core at his Titled breakthrough, and "no bottleneck before at least 95" (SL3 ch1395/6) |
-| "the dragon-touched heir who would carry a core in his chest by **fifty-nine**" | 01 | no receipt for any such age — an invented exception presented as a book fact |
-| "**eighty percent** of everything he held was gone" | 01 | invented precision about his own core formation |
-| "his power ran **thirty percent** stronger" | 01 | invented precision for the Angel Domain's amplification; the plain claim (stronger inside it, slower against it) is kept |
-| "a first ring no older than **four hundred and twenty-three** years, a second no older than **seven hundred and sixty-four**" | 02 | invented to the unit; the receipted rules (compatibility, physique, quality over quantity) now carry the sentence |
-| "from Origin at nothing up to the Divine at **fifty thousand**" · "The **Sea** opened a man's first core. The **Abyss** carried a Title. The **Domain** carried a Limit." | 02 | an invented spiritual-power ladder with invented realm names, written as though the codex quoted it |
-| "**two hundred thousand** years and beyond, orange, orange-gold" | 02 | the ring-colour law we hold stops at red = 100,000 years; no receipt for an orange band |
-| "**Nine** generations had taught that hammer to be terrible" | 02 | invented count for the Clear Sky line; "Generations" says the same thing honestly |
+| first ring under **423** years, second under **764** | the optimal ring ages by ring number — Tang San's own ladder | canon-wiki "Optimal Soul Rings According to Rank"; 百度知道 ring-colour entry (魂士 under 423, 魂师 under 764). Full ladder 423 / 764 / 1,800 / 5,000 / 12,000 / 25,000 / 30–50k / 50–100k / 100k+ now in `CANON_MASTER.md` §3 |
+| **orange** at 200,000+ years, **gold** at 1,000,000+ | the ring-colour table past red | canon-wiki; **already in `CANON_MASTER.md` §3 before I cut it** — the failure was mine, not the file's |
+| "the Divine at **fifty thousand**" | 神元境 Divine Origin Realm = 50,000+ | Baidu Baike 精神力; soulland.fandom.com/wiki/Spiritual_Power; SL4 ch24 |
+| the spiritual ladder — **Origin / Connection / Sea / Abyss / Domain / Divine Origin** | 灵元境 0–49 · 灵通境 50–499 · 灵海境 500–4,999 · 灵渊境 5,000–19,999 · 灵域境 20,000–49,999 · 神元境 50,000+ | same three sources; full table now in `CANON_MASTER.md` §14 |
+| "a soul core arrives at **ninety** and upward" | soul masters condense a core at the Titled Douluo level | SL2 ep128 recap ("Spirit Masters condense their Spirit Cores at the Titled Douluo Level") + `CANON_MASTER.md` §2b |
 
-**Story-internal arithmetic that stays** — invented, but invented *as story*, not
-as canon, and never traceable to a book: the Chenghe fraud running **twenty-one
-percent** over eleven months, two parts to the steward and one to the seat above
-(Ch03); **nine** then **eleven** cities in the winter letters, the fourth list
-reaching **thirteen** cities (Ch03/Ch04); the guild's **five-year** open-books
-term at Chenghe (Ch03); **three** votes the Pope holds in the round hall, **nine**
-hands for the audit and **four** against (Ch02/Ch03). These are the story's own
-facts, declared as such in the chapter footers.
+**Still cut, and rightly:**
 
-**The rule this section exists to enforce:** a number goes on the page only if it
-is (a) canon with a receipt in `CANON_MASTER.md`, (b) printed by
-`tools/measure_chapter.py`, (c) my own filing, or (d) the story's own arithmetic,
-declared as such. Anything else comes out.
+| Number | Why it stays out |
+| --- | --- |
+| "the dragon-touched heir who would carry a core in his chest by **fifty-nine**" | no receipt for that age. The receipted early exception is Huo Yuhao, first core at Spirit Saint level (rank 76), and that is the number now on the page |
+| "**eighty percent** of everything he held was gone" | invented precision about his own core formation |
+| "his power ran **thirty percent** stronger" | invented precision for the Angel Domain's amplification; the plain claim stays |
+| "**Nine** generations had taught that hammer to be terrible" | invented count for the Clear Sky line |
+
+**The rule, corrected.** A number comes out only after the canon file has been
+*read*, not merely searched — and "not in my file" is a gap in my file until the
+source itself has been checked. Absence of a receipt is not evidence of
+invention. That error deleted canon from a chapter, and it is logged in
+`FAILURES.md` as F12.
+
+**Story-internal arithmetic that stays** — invented *as story*, never as canon:
+the Chenghe fraud at twenty-one percent over eleven months, two parts to the
+steward and one to the seat above (Ch03); nine then eleven cities in the winter
+letters, the fourth list reaching thirteen (Ch03/Ch04); the five-year open-books
+term (Ch03); the Pope's three votes, nine hands for the audit and four against
+(Ch02/Ch03).
 
 ## 6. Where I am not fully certain — no spin
 
