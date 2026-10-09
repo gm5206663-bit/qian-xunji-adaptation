@@ -305,6 +305,53 @@ canon — **Chen Xin of the Seven Treasures**; the man at the door is canon —
 **the Grand Worship (Qian Daoliu)**. v3 archived byte-preserved; re-measured
 (2,716w) and re-gated (ALL HARD CHECKS PASS) at ship.
 
+## R28 — Canon register: clear, clean, readable, nothing invented (2026-10-07)
+
+The author's correction, verbatim, on Chapter 04 v4:
+
+> physician?, seriously what you even think this world is, when even soul land
+> working and written like that even
+
+> What the hell even this, i don't understand single thing, what you can't
+> write clear and clean and readable like canon written
+
+> Ooo wow old is******, that who teach, hmm?, seriously, what the hell you
+> even thinking seriously, like he never learn anything needed teaching what
+> the hell, why you makeing nonsense
+
+> Wow this is normal World
+
+> On the fourth day the fighting changed sound — Are you serious?, this is
+> normal World
+
+The ruling:
+
+1. **Nothing invented may enter the page as if it were canon.** An invented
+   master was already struck once (R27's aftermath, the arms master). No
+   swordsman, canon or invented, may now be staged as a teacher of the OC —
+   the era's Angel Douluo learned nothing from anyone. Where a canon figure
+   is cited from the book, the citation must be a fact, never a naming story
+   or an aphorism dressed up as one.
+2. **Diction must belong to this world.** "Physician" is out (doctor, or the
+   Hall's own medicine). "Politics standing by the bed" is out. No word may
+   be used that belongs to a European city and not to Spirit Hall.
+3. **No metaphor may stand in for a fact.** A sword is not a marriage. Light
+   is not punctual as a clerk. Two cores turning are not a household. If a
+   line only works as decoration, it does not work.
+4. **The prose must read like the canon reads** — clear, clean, readable:
+   short plain sentences, place first, concrete Hall business, dialogue in
+   plain short lines. House metrics target (FAILURES.md F7): avg 14–18,
+   median 11–14, max under 60, zero over 60 — measured against Ch01–Ch03 as
+   the accepted reference (12.2 / 13.6 / 13.8).
+5. **A fight, a breakthrough, a core must read as this world's fight,
+   breakthrough and core** — spiritual power, cores, rings, holy light,
+   Spirit Hall — never as a normal world's events described unusually.
+
+Applied: Ch04 v5 full rebuild (`measure_chapter.py` PASS, 2,784w, avg 13.9,
+med 11, max 44, dialogue 10, the-way 0, over60 0); Ch01 and Ch03 diction
+fixed the same day (physician → doctor, politics → power plays/factions);
+FAILURES.md F11 filed.
+
 ---
 
 **Discipline note.** Where an earlier session recorded a ruling as a summary

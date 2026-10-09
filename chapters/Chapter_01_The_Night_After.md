@@ -8,7 +8,7 @@ One life was Earth's. His name there had been Gaurav Meena; Càn Róng, if you w
 
 He was a boy who read at night with a small light on. He had read Soul Land to the end, all of it — one and two and three and the wiki pages after — until he knew its names like a child knows weather.
 
-The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel, son of Qian Daoliu, teacher of Bibi Dong. Fifty years of politics and worship and patience, a hunt for a Blue Silver Emperor not yet begun, and an old death waiting somewhere down the years in this same hall.
+The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel, son of Qian Daoliu, teacher of Bibi Dong. Fifty years of power plays and worship and patience, a hunt for a Blue Silver Emperor not yet begun, and an old death waiting somewhere down the years in this same hall.
 
 Both were his now. The body was his and the memory was his, and there was no one left to ask.
 
@@ -88,7 +88,7 @@ He closed his eyes, and behind his eyelids the vortex turned: gold, ripple on ri
 
 His son.
 
-Fifty years of impurities he had watched with his own eyes. Fifty years of the wrong path — politics and hunting and wanting things — and now something new hummed behind the chamber door.
+Fifty years of impurities he had watched with his own eyes. Fifty years of the wrong path — power plays and hunting and wanting things — and now something new hummed behind the chamber door.
 
 He walked to that door and did not open it. He stood outside with his hands behind his back and listened to the light.
 

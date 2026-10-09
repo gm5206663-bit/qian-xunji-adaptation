@@ -134,7 +134,7 @@ She did not stop. He did not stop. She said one thing into the middle distance, 
 
 He nodded once. That was all. Words across that distance were doors, and doors wanted handles; none had been offered, so he kept walking. Behind him her steps went on around the yard. He did not slow down to listen, and he did not let himself count the turns.
 
-He had settled the physician that week — an old country man with no seat in any hall's politics, paid from the Qian family's private purse and not from the Hall's. The child was due when the cold broke. The paper in the drawer said nothing else about her, and he left it at that.
+He had paid the doctor that week — an old country man with no seat in any hall's factions, paid from the Qian family's private purse and not from the Hall's. The child was due when the cold broke. The paper in the drawer said nothing else about her, and he left it at that.
 
 Back at the desk, he read the rest.
 

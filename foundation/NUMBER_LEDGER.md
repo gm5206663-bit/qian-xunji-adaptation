@@ -35,7 +35,7 @@ The world runs on a 1-to-99 power ladder. The number is the person's soul-power 
 
 These are **not claimed, they are printed by a tool**: `tools/measure_chapter.py`. Anyone can re-run it and get the same numbers.
 
-- Chapter 04 as it stands: 2,716 words in the body, average sentence 15.4 words, longest 49, dialogue 3 lines.
+- Chapter 04 as it stands (v5, 2026-10-07): 2,784 words in the body, average sentence 13.9 words, longest 44, dialogue 10 lines — all printed by `tools/measure_chapter.py`.
 - Band 2,400–3,400 · sentences under 60 words · "the way" simile count 0 · jargon count 0.
 - The band and the caps are **the author's rules** from earlier sessions; the tool enforces them.
 
