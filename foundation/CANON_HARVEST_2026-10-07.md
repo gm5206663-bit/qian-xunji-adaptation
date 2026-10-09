@@ -1099,3 +1099,125 @@ SL5 and the side books.
 5. Minor figures of our own window — the branch-hall stewards, the academy
    teachers, the clergy below bishop rank — are not individually sourced, because
    canon does not name them.
+
+---
+
+## B25 · 魂核 THE SOUL CORE — learned properly, after two wrong answers
+
+Source: **百度百科 魂核 (22553579)** · 绝世唐门 **ch558** (the condensation scene,
+quoted) · **ch538** (玄子 states the two paths) · **ch602** (the dual-core types) ·
+百度百科 霍雨浩 (7527523).
+
+**I had asserted what cores do twice and been wrong twice. This is the actual
+canon.**
+
+### What a core does — and does not
+
+1. **A core does NOT increase cultivation.** (baike, verbatim: 魂核并不增加魂师
+   修为.) It is not levels. It is not raw power.
+2. **Its advantage is in the RECOVERY SPEED of soul power.** (baike: 凝聚魂核的
+   优势体现在魂师魂力的回复速度上.)
+3. **It compresses his soul power, so he can hold MORE of it.** (ch558: 拥有魂核
+   之后，魂核就帮他压缩魂力，从而让他能够拥有更多的魂力.)
+4. **It recovers him even when he is not meditating** — given time, it pulls
+   heaven-and-earth origin power in and turns it back into soul power. (ch558)
+5. **Soul power quality rises** with the core's tier; cores of the same tier hold
+   equal totals. (baike)
+6. **Once formed, the core is the source of ALL his power** (ch558: 魂核一旦形
+   成，就是魂师一切力量的源泉) — and destabilising one risks detonation.
+
+### How many, and where
+
+**The body has three dantian — upper (眉心/泥丸宫), middle (chest), lower (气海,
+below the navel) — so three cores are theoretically possible.**
+
+**Rule for the upper dantian: it is too important to hold a high-damage attribute
+core. It can only hold an attribute-less core, or a life/spiritual-attribute
+core.**
+
+| Who | Cores | Where | When |
+| --- | --- | --- | --- |
+| **霍雨浩** | **阴阳互补三魂核** — spiritual · ultimate-ice · space | upper · middle · lower | **rank 74** · at the Titled breakthrough (then jumped two levels to 92) · at the Limit breakthrough |
+| **唐舞桐** | 阴阳互补三魂核 — light · spiritual · space | — | — |
+| **帝天** | **阴阳互补双魂核** | — | condensed in the life-filled water of the Lake of Life |
+| **唐三** | two yin-yang complementary whale pearls from the Deep Sea Demonic Whale King | — | — |
+| **唐三 + 小舞** | together form a yin-yang pair — male yang, female yin; when both cores grew by a third their combined strength nearly doubled | — | — |
+
+**When cores arrive, by era:**
+- **SL2:** first core at **Titled Douluo**, second core at **Super/Limit Douluo
+  (99)**. Cores are **one of the required thresholds** for those ranks.
+- **SL3 (ten thousand years later):** methods improved and spiritual cultivation
+  intensified, so a master may begin condensing **after 魂圣 (rank 71–80)**.
+- **Huo Yuhao's first core at 74 was the first in ten thousand years to break the
+  "only Titled Douluo can condense one" rule.**
+- **His SECOND core at rank 90 required 穆恩 — a Limit Douluo — to burn his
+  remnant soul to stabilise it.** Even a 98-level Super Douluo might not cross
+  that threshold alone.
+
+### The two kinds of dual core — and the ranking between them
+
+**SL2 ch538, 玄子 states two paths at Limit Douluo:**
+1. Replace **one tenth of your soul power with black-hole soul power (黑洞魂力)**.
+2. Condense a **second core**.
+**玄子 says path 1 is the stronger of the two.**
+
+**ch602 splits dual cores into two kinds:**
+| Kind | What it is | Ceiling |
+| --- | --- | --- |
+| **同位共振 co-orbital resonance** | earth-and-moon: the first core is big, the second is a satellite orbiting it and can never be its equal | **lower** |
+| **阴阳互补 yin-yang complementary** | a binary star: two cores attracting each other as equals. **Can convert the whole body's soul power into black-hole soul power** | **highest** |
+
+**The full strength ranking, in canon's own order:**
+**同位共振双魂核 < replacing a tenth with black-hole soul power < 阴阳互补双魂核.**
+
+**What yin-yang complementary additionally grants Huo Yuhao: the use of TWO
+martial souls at once** — something even Tang San could not do — and with the
+third core, all three.
+
+### Beasts and cores
+
+**阿银 condensed a core when she evolved to a 49,000-year life form**, and beasts
+coveted it, because **a core helps a soul beast evolve to the 100,000-year tier.**
+
+---
+
+## B26 · What B25 does to the power assessment — the honest correction
+
+**Both of my earlier answers were wrong, in opposite directions.**
+
+- **First answer:** ranked him fourth, called the missing red ring his weakness,
+  and said the cores only make him last longer. **Under-valued** — it ignored
+  that the core compresses his power so he *holds more*, that it recovers him
+  without meditation, that it raises his power's quality, and that in canon a
+  core is a **required threshold of the peak ranks**.
+- **Second answer:** said the two cores make him the strongest man on the
+  continent. **Over-valued, and it contradicts the baike directly: a core does
+  not increase cultivation.** It is not levels and it is not raw output. I
+  inflated him under pressure instead of reading.
+
+**What is actually true:**
+
+1. **Two cores at 96 are canonically early and canonically hard.** In SL2 the
+   second core belongs to the **99** stage, and Huo Yuhao's second core at 90
+   needed a **Limit Douluo to burn his soul** to stabilise it. Our OC did his
+   alone. That is genuinely remarkable — and it is a **[story]** claim that needs
+   the author's ruling, not my assertion.
+2. **Nobody alive has even one.** In 2619 the core is not a threshold anyone has
+   met, because the method does not exist. On **reserves, recovery and power
+   quality** he has no equal on the continent. That part stands.
+3. **It does not make him outrank a 99.** 唐晨 at 99 with eight black rings, one
+   red, the hammer and demi-god status still beats him in a straight exchange.
+   千道流 at 99 with three reds and the same domain is the genuine coin-flip —
+   better ammunition against a better engine.
+4. **帝天 has a yin-yang complementary dual core too.** On cores the dragon
+   matches him, and on everything else it is nine hundred thousand years old.
+5. **THE UNANSWERED QUESTION, and it is the one that matters:** **are his two
+   cores 同位共振 or 阴阳互补?** Canon ranks them **同位共振 < black-hole soul
+   power < 阴阳互补**, and the difference is a satellite against a binary star.
+   Nothing in our chapters says which he built. **That is the author's call, and
+   until it is made no page may claim the higher one.**
+6. **A third core is possible** — the lower dantian is empty. And the upper
+   dantian's rule (no high-damage attribute there, only attribute-less or
+   life/spiritual) is a constraint our chapters must respect: his upper core sits
+   between his eyebrows, so it must be a spiritual or attribute-less core, which
+   is consistent with what Ch04 describes.

@@ -83,57 +83,65 @@ that any claim of his standing stays **his own assessment**.
 
 ---
 
-## 2. Where he stands — corrected
+## 2. Where he stands — corrected twice, and the second correction is the right one
 
-**An earlier version of this file ranked him fourth and called the missing red
-ring his weakness. That was wrong, and the author said so: two soul cores are
-not a small edge.**
+**This section was wrong twice, in opposite directions, and both errors are kept
+on the record.**
 
-Here is the correction, and the reasoning behind it.
+- **First version:** ranked him fourth, called the missing red ring his weakness.
+  **Under-valued the cores.**
+- **Second version:** said two cores make him the strongest man on the continent.
+  **Over-valued them, and it contradicts the canon directly — a core does not
+  increase cultivation.** I inflated him under pressure instead of reading.
 
-**A soul core is not one more item. It is a different engine.**
+**B25 of the harvest is the actual canon. Read it before touching this section
+again.**
 
-A core compresses a man's soul power from liquid to solid. It draws the world's
-power in continuously. It lets a body hold more power than its rank allows. Canon
-says all three, and canon's whole point about cores is that **they let a man
-fight above his rank** — that is why Tang Wulin's second core arrived at his
-Titled breakthrough and why Huo Yuhao's three cores made him the strongest in
-divine sense among the twelve god-kings.
+### The truth about the cores
 
-**In 2619 the concept does not exist.** The method is not invented for twenty
-thousand years. Every man on this continent is running the old engine. He is
-running an engine from three eras later, **twice.**
+**They do not give him levels, and they do not give him a harder hit.** What they
+give him is: **more soul power held at once** (the core compresses it), **recovery
+without meditating** (it pulls heaven-and-earth power in on its own), and
+**higher soul power quality.**
 
-**So the three-level gap to the 99s is the smaller number.** A core is worth more
-than three levels — that is what cores are *for* — and he has two of them.
+**In 2619 nobody alive has even one,** because the method does not exist for
+another twenty thousand years. So on **reserves, recovery and quality he has no
+equal on this continent.** That is real and it is large.
+
+**It is not the same as being the strongest.**
 
 ### The corrected standing
 
-**He is the strongest man on the continent.**
-
 | Who | The honest comparison |
 | --- | --- |
-| **千道流, 99** | Three red rings and the same Angel Domain — the closest thing to him alive. But no core. In a long fight the old man empties and he does not |
-| **唐晨, 99** | A demi-god with eight black rings and one red, and the hammer. No core, no domain. He wins the first exchange and loses the tenth |
-| **波塞西** | Beat both of them on her own island, on her own ground, with the sea behind her. **Away from the sea she has no such advantage, and she has no core either** |
-| **帝天, ~900,000 years** | **The one thing that would still end him.** A dragon that old is not a rank; it is a natural disaster, and it carries a dual core of its own |
+| **唐晨, 99** | Eight black rings, one red, the hammer, demi-god status, and he beat 千道流. **Still beats him in a straight exchange** |
+| **千道流, 99** | Three red rings and the same Angel Domain, no core. **A genuine coin-flip** — better ammunition against a better engine. In a long fight the old man empties first |
+| **波塞西** | Beat both of them on her own island with the sea behind her. Away from it, no such advantage — and no core |
+| **帝天, ~900,000 years** | **Has a yin-yang complementary dual core of his own.** On cores they are equals. On everything else it is a natural disaster |
 
-### The red ring — demoted
+**So: he is not fourth, and he is not first. He is the man whose reserves nobody
+on this continent can match, in a body three ranks short of the two who can still
+beat him.**
 
-It is a real gap in *equipment*, and it stays on the record. But it is not his
-weakness, because a core supplies exactly what a red ring would have supplied:
-density and recovery. **Two cores outweigh one red ring.** His father's three red
-rings are the better ammunition; his two cores are the better gun.
+### The question that has not been answered — and it is the important one
 
-### 唐昊 — corrected
+**Canon ranks dual cores: 同位共振 co-orbital < black-hole soul power < 阴阳互补
+yin-yang complementary.** Co-orbital is a moon around a planet; yin-yang is a
+binary star, and it can turn the whole body's soul power into black-hole soul
+power.
 
-大须弥锤 condenses nine rings into a single blow, and after that no ring skill on
-either side matters. That is a **one-shot technique**, and canon shows the price:
-唐昊 cut off his own two limbs afterward.
+**Nothing in our chapters says which kind he built.** That is the author's call.
+**Until it is made, no page may claim the higher one.**
 
-Against a man with two cores, an all-in single blow is the wrong plan. **If it
-does not end the fight, he is spent — and his opponent refills while he stands
-there.** The hammer broke the last Pope because the last Pope had no core.
+Two further canon facts the chapters must respect:
+- In SL2 the **second core belongs to the 99 stage**, and Huo Yuhao's second core
+  at 90 needed **穆恩, a Limit Douluo, to burn his remnant soul** to stabilise
+  it. Our OC did his alone at 96 — remarkable, and a **[story]** claim needing
+  the author's ruling.
+- **The upper dantian cannot hold a high-damage attribute core** — only
+  attribute-less, or life/spiritual. His upper core sits between his eyebrows, so
+  it must be one of those. Ch04 is consistent with that, and must stay so.
+- **The lower dantian is empty. A third core is possible.**
 
 ## 3. What makes him dangerous, and it is not the number
 
