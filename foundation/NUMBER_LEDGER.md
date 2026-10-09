@@ -27,7 +27,7 @@ The world runs on a 1-to-99 power ladder. The number is the person's soul-power 
 - 96 — the OC's standing level in our story. **Not canon** (canon never states more for Xunji); it is our story's fixed choice, held across every chapter.
 - 97 — Chen Xin's level (the Seven Treasures' Sword Douluo). Source: Baike/Fandom.
 - 98 — Golden Crocodile. 99 — Qian Daoliu and Bibi Dong (99 = peerless). Sources: Baike.
-- 96 each — the other Worshipers (two are 97 in the donghua only). Source: Fandom/Baike + donghua.
+- The other six 供奉: 金鳄斗罗 **98** · 青鸾斗罗 **97** · 雄狮斗罗 **97** · 光翎斗罗 **96** · 千钧斗罗 **96** · 降魔斗罗 **96** (百度百科 武魂帝国七大供奉). **The 3rd and 4th are disputed** — that table says 97, an earlier note of mine said the novel says 96. Recorded as a conflict in `CANON_MASTER.md` §7; no page may state a number for them without naming its source.
 - 95 — Yue Guan and Gui Mei. Source: Baike.
 - 90 at his fight — Tang Hao, "newly Titled" when he wounded Xunji. Source: Fandom/Baike.
 

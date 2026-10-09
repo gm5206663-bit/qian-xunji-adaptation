@@ -411,14 +411,18 @@ continental superpower of the era — see §11 for its standing among empires.
 | --- | --- | --- | --- | --- |
 | 1 | **Qian Daoliu** (Grand Worship) | — | 99 | Sacrifices for Renxue |
 | 2 | **Golden Crocodile** | — | 98 | Self-detonation, saving Renxue |
-| 3 | unnamed [canon-novel] | **Azure Luan (Qingluan)** | 96 novel / 97 donghua | Killed by Xiao Wu |
-| 4 | unnamed [canon-novel] | **Mighty Lion (Xiongshi)** | 96 novel / 97 donghua | Killed by Xiao Wu |
+| 3 | unnamed [canon-novel] | **Azure Luan (Qingluan)** | **97** (百度百科 七大供奉 table) — *conflict: an earlier note here claimed 96 in the novel; unresolved without the novel text* | Killed by Xiao Wu |
+| 4 | unnamed [canon-novel] | **Mighty Lion (Xiongshi)** | **97** (same table, same conflict) | Killed by Tang San |
 | 5 | unnamed [canon-novel] | **Glowing Feather (Guangling)** | 96 | Killed by Tang San |
 | 6 | unnamed [canon-novel] | **Fifteen Ton (Qianjun)** | 96 | Killed by the Netherworld White Tiger + Ma Hongjun |
 | 7 | unnamed [canon-novel] | **Falling Devil (Xiangmo)** | 96 | Killed by the Netherworld White Tiger + Ma Hongjun |
 
-- Novel canon leaves the 3rd/4th/5th unnamed at level 96; the **donghua names
-  them** (fans' "Xuanji originals"). Ch02's two named Worshipers — **Azure
+- The **names** of the 3rd/4th/5th are donghua originals — the novel leaves them
+  unnamed. Their **levels are disputed**: the 百度百科 武魂帝国七大供奉 table, which
+  carries each man's martial soul, ring set and skills, gives 97 / 97 / 96; an
+  earlier note in this file claimed the novel said 96 / 96 / 96. **Recorded as a
+  conflict, not resolved** — the novel text has not been read. Do not state a
+  number for these three on a page without naming the source. Ch02's two named Worshipers — **Azure
   Luan, Light Feather** — ride on the donghua names; our light-chapter
   wording "Light Feather" = Glowing Feather's transliteration family.
 - The seven **obey only the Grand Worship and the Young Master** [canon-baike].
