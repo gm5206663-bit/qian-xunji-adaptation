@@ -635,9 +635,17 @@ options, none taken:
   positions, and leaves the *why* alone, so the Master's ten still arrive as
   canon says they do.
 
-**Recommendation, offered not decided:** (b). It costs nothing, keeps canon
-whole, and it is the most interesting — a Pope who hands the continent the
-*what* and a mocked theorist who later finds the *why*.
+**~~Recommendation, offered not decided:~~ (b).** **REVERSED the same day by the
+author, and the reversal is the correct reading — see `RULINGS_LOG.md` R29.** The
+author's correction: *"that' master all theory mostly flawed and knowledge of
+spirit hall that be public, and ocs is completely High level knowledge from all
+soul' land series, oc Codex is not wrong it was you who limited."* He is right
+and I was wrong twice over: the ten are canonically weak (the first is disproved
+by 玉小刚's own 罗三炮, and the fourth and fifth restate the classification), and
+the basics are public because **Spirit Hall itself administers every awakening,
+certificate and conferral on the continent.** There was no collision to manage.
+I invented the problem, then limited the chapter to solve it. Chapter 02 has
+been rebuilt the other way — see R29.
 
 ---
 

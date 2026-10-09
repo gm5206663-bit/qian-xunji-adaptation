@@ -354,6 +354,54 @@ FAILURES.md F11 filed.
 
 ---
 
+### R29 — 2026-10-07 — THE CODEX LAW
+
+**The author, verbatim:** *"Are you serious, that' master all theory mostly
+flawed and knowledge of spirit hall that be public, and ocs is completely High
+level knowledge from all soul' land series, oc Codex is not wrong it was you who
+limited"*
+
+**Ruling.** The OC's knowledge is **complete across all six Soul Land series and
+the side stories** — everything from SL1 through SL6 and the 外传, read to the
+end in his first life. The codex he publishes is limited **only by his
+strategy** — by what a continent can be handed without breaking itself — and
+**never by what he knows.** No chapter may shrink his knowledge to fit the era.
+
+Three consequences that bind every future page:
+
+1. **The Master's ten core competencies are canonically weak.** Several are
+   common sense that Spirit Hall itself administers — awakening at six, the ring
+   colours, who may hold which ring. The first ("innate soul power is
+   proportional to the soul's quality") is **disproved by his own 罗三炮**, and
+   the fourth and fifth are restatements of the classification itself. The OC's
+   material stands **above** them, not beside them, and no page may treat the
+   ten as a rival to be managed.
+2. **The basics are public because Spirit Hall runs them** — every child's
+   awakening, every rank certificate, every Titled conferral passes through the
+   Hall. Publishing them is not a leak; it is a Pope tidying his own house's
+   paperwork.
+3. **What he withholds, he withholds by choice, and the page must show it as a
+   choice:** cores · soul spirits and the Spirit Pagoda that would bargain for
+   them · the god seats, how few there are, and which stand empty · the twenty
+   thousand years he read to the end of. The withholding is strategy. It is
+   never a limit on what he knows.
+
+**Reversed by this ruling:** my own recommendation in `CANON_HARVEST` §B15 that
+the codex be held to era level and a "collision" with the Master be managed by
+keeping the codex away from theory. **There was no collision.** I invented the
+problem and then limited the chapter to solve it.
+
+**Chapter 02 rebuilt under it the same day:** the ring skill counts (one to ten
+thousand years, two at a hundred thousand, four at a million) · the six bone
+positions ranked torso > head > arms > legs, and the one-in-a-thousand odds ·
+three rules that were in no book on the continent (the true body turns the
+advantage from beast to tool at seventy; a ring answers to what the man is
+missing, not to what the beast was; power keeps accumulating behind a bottleneck
+and shows when the ring arrives) · the correction of the century-old error about
+weak souls · the existence of domains, written without the way to win one · and
+the withheld list, printed in full so the reader can see the size of what he is
+sitting on. 2,651w → 3,161w, gate PASS.
+
 **Discipline note.** Where an earlier session recorded a ruling as a summary
 rather than a quote, the summary is quoted as recorded and dated — never
 dressed up as the author's exact words. A new ruling is logged here or it is
