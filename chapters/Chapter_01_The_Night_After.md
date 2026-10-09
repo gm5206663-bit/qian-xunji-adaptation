@@ -18,9 +18,9 @@ Old memory said the rest plainly, because old memory did not soften anything. Sh
 
 He had not done it. The Earth life had never touched anyone; single, careful, a boy with books and no hands on anybody. But the body had done it, and the memory had kept it, and both of those belonged to him, which meant the debt belonged to him too, whatever any court of anyone's opinion would say.
 
-He did not run from that. The body had a wife, as this world counted such things. He would not pretend otherwise, and he would not use it as a claim, either. Under the guilt, and under an attraction he did not trust, something quieter sat — patience laid like a floor under a flooded room, and one line he would not cross. Whatever she became in the years ahead, whatever she chose, he would never be the hand that ended her. That was not generosity. It was the one part of himself he fully recognized.
+He did not run from that. The body had a wife, as this world counted such things. He would not pretend otherwise, and he would not use it as a claim, either. Under the guilt, and under an attraction he did not trust, something quieter sat — patience, and one line he would not cross. Whatever she became in the years ahead, whatever she chose, he would never be the hand that ended her. That was not generosity. It was the one part of himself he fully recognized.
 
-His body felt wrong, in the manner of an old house with the windows still shut. Fifty years of impurities sat in the blood and the bone. The bloodline was not pure. The rings were not fully his. The bones were not fully his. Soul power lay in him scattered, a lake that had never once been allowed to sit still. He was ninety-five, and not a clean ninety-five at all.
+His body felt wrong, like a room after fifty years with the windows shut. Fifty years of impurities sat in the blood and the bone. The bloodline was not pure. The rings were not fully his. The bones were not fully his. Soul power lay in him scattered, a lake that had never once been allowed to sit still. He was ninety-five, and not a clean ninety-five at all.
 
 He called for Ghost and Chrysanthemum.
 
@@ -44,7 +44,7 @@ He sat cross-legged under the low light. Behind his back, the six wings showed f
 
 First three days: impurities.
 
-Black sweat came out of him, and foul blood, and the smell of it was old. Heat rose off his skin, and cold chased the heat, and he breathed through both. He held on to the shape of what he was doing. From the other life he knew the pattern — a core of blood essence, the kind the great dragons would carry in an age not yet born. His would be the angel's version. He did not hurry. Hurry was for people with nothing to wait on.
+Black sweat came out of him, and foul blood, and the smell of it was old. Heat rose off his skin, and cold chased the heat, and he breathed through both. He held on to the shape of what he was doing. From the other life he knew the shape of what he was making: a center, solid, turned out of a man's own power. Later ages would carry such things. This age had none, and his would be the angel's version of one. He did not hurry. Hurry was for people with nothing to wait on.
 
 Next seven days: bloodline.
 
@@ -52,7 +52,7 @@ The wings behind him brightened as the days went. Dim gold first, then gold with
 
 Next ten days: rings.
 
-Nine of them — two yellow, two purple, five black — had hung around him for years like guests who never took their coats off. Now they sank in. There was pain, and after the pain a relief so deep it was almost grief, and then the rings were part of the body and not light hung outside it. When he breathed, they breathed.
+Nine of them — two yellow, two purple, five black — had hung around him for years like guests who never sat down. Now they sank in. There was pain, and after the pain a relief so deep it was almost grief, and then the rings were part of the body and not light hung outside it. When he breathed, they breathed.
 
 Next five days: bones.
 
@@ -60,17 +60,17 @@ Of the Angel set he had owned two pieces — head and torso, ninety-nine thousan
 
 Last five days: the core.
 
-He used what the other life had given him. In the age to come, the first soul core would arrive at ninety for most who ever managed one at all, though a rare few got there earlier — the dragon-touched heir who would carry a core in his chest by fifty-nine was one of the exceptions the books remembered. There was no such thing as a ninety-five-year-old exception before the eyes of the world. He was going to be the first.
+He used what the other life had given him. In the age to come, a soul core was a thing that arrived late if it arrived at all, and the books remembered only a handful of men who had ever carried one. In this era nobody carried one. No exception had ever been made in front of the world's eyes. He was going to be the first.
 
 He began the compression. Soul power, liquid, packed and pressed toward solid.
 
 A vortex opened in front of his chest.
 
-It was gold, not black. White-gold ripples turned around it, and inside the ripples, faint and far, six wings and a pupil like a seraph's eye — and the vortex drank. Soul power poured in until eighty percent of everything he held was gone. His breath came short. His blood ran hot. It was not burning. It was like being pulled down a long well of light by a rope that was also light.
+It was gold, not black. White-gold ripples turned around it, and inside the ripples, faint and far, six wings and a pupil like a seraph's eye — and the vortex drank. Soul power poured in until most of what he held was gone. His breath came short. His blood ran hot. It was not burning. It was like being pulled down a long well of light by a rope that was also light.
 
 The domain let go on its own.
 
-Brilliant golden radiance came off him and filled the chamber. It covered the stone and climbed the statues and turned the air thick and warm. This was the Seraphim's innate domain, and he knew it from the other life like he knew his own hands. Inside it, his power ran thirty percent stronger. It slowed what stood against it, and settled what stood at its center, and where death-aura pressed in, the domain washed it out. It cleansed.
+Brilliant golden radiance came off him and filled the chamber. It covered the stone and climbed the statues and turned the air thick and warm. This was the Seraphim's innate domain, and he knew it from the other life like he knew his own hands. Inside it, his power ran stronger. It slowed what stood against it, and settled what stood at its center, and where death-aura pressed in, the domain washed it out. It cleansed.
 
 Out in the Worship Hall, an old man felt it.
 
@@ -108,7 +108,7 @@ Two wings until seventy, four until ninety, six after — the old rule of the bl
 
 He opened his eyes on the last day of the month.
 
-The phenomena had faded by then, but the body they left behind was not a rumor. Holy light had gone steady in him. The six wings were brighter than they had ever been. The rings sat perfectly in him, and the bones had gone all the way in, and the core turned in his chest, warm as a banked sun, solid in his dantian. Ninety-six. One level, after thirty days — and worth more than any three levels the old man could have climbed, because the grade of the thing was different now. No soul master alive in this era had a core. He did. That was not a small luck, and he did not intend to spend it on small things.
+The phenomena had faded by then, but the body they left behind was not a rumor. Holy light had gone steady in him. The six wings were brighter than they had ever been. The rings sat perfectly in him, and the bones had gone all the way in, and the core turned in his chest, warm as a banked fire, solid in his dantian. Ninety-six. One level, after thirty days — and worth more than any three levels the old man could have climbed, because the grade of the thing was different now. No soul master alive in this era had a core. He did. That was not a small luck, and he did not intend to spend it on small things.
 
 He stood. The difference stood with him, in the bones of him, like air on a mountain.
 
@@ -184,7 +184,7 @@ The brush did not shake. He had fifty years of ways to hold a brush, and a world
 
 ## Footer
 
-- **Ch01 v5 — "The Night After" — the read-and-fix pass (R26), 2026-10-07.**
+- **Ch01 v6 — "The Night After" — the R28 register pass, 2026-10-07.** **R28 pass (the author's register correction, applied here after Ch04 v5):** "physician" and "politics" were already out of this chapter; this pass took the rest of the same fault class — the European textures ("guests who never took their coats off", "in the manner of an old house"), the metaphor standing in for a fact ("patience laid like a floor under a flooded room"), the jargon F7 had already named ("a core of blood essence"), and four numbers that had no receipt anywhere: the general first-core age of ninety, the dragon-touched heir's fifty-nine, eighty percent of his power, thirty percent stronger. All are listed with their reasons in `foundation/NUMBER_LEDGER.md` §5. No beat added or removed; no lock moved.
 - **Chapter time:** the night of the assault and the month after — the seclusion (three days impurities · seven days bloodline · ten days rings · five days bones · five days core), then the first evening back at the desk.
 - **LAWS APPLIED:**
   - **k01 style gate — Grey Wolf style.** Third person limited, past, place first; band held; no sentence over 60 words; no "the way" simile; dialogue kept low. Numbers at the foot of this block.
@@ -200,4 +200,4 @@ The brush did not shake. He had fifty years of ways to hold a brush, and a world
 - **OPEN_RULINGS flag — the Earth-name line:** the pass proposes "His name there had been Gaurav Meena; Càn Róng, if you wrote it in this world's letters." Both names kept; the "Chinese fantasy" phrasing gone. Author: strike or bless.
 - **PROPOSED (author may strike or keep):** Ghost and Chrysanthemum as the two retainers at his back, and the twenty years with them (placement and number kept from v1; no receipt yet); Chrysanthemum asking "Purification?"; the guards' glance; the chair-feels-smaller line; the closing line.
 - **History:** v1–v4 drafted 2026-09-27 (v3 superseded; v4 "Grey Wolf style"). The v3 file is archived in `_archive/2026-10-07_superseded/` with a marker — never edited. **v5 — this pass (R26, 2026-10-07):** the story kept whole; the foundation-note paragraphs removed from the body (their content restated in prose or moved to this footer); banned terms out of the body; canon line-checks applied (the Eight Trials; bone ages; both names on the Earth line).
-- **Word count (body):** 3,392 (measured at the pass). **Metrics:** average 12.2w · median 10w · longest 53w · zero over 60; spoken dialogue 10 lines (2.9 per 1000w); the-way 0; jargon 0. Band 2,400–3,400: **IN**.
+- **Word count (body):** 3,374 (measured at the R28 pass by `tools/measure_chapter.py`). **Metrics:** average 12.1w · median 10w · longest 53w · zero over 60; spoken dialogue 10 lines (3.0 per 1000w); the-way 0; jargon 0; bare 「 0. Band 2,400–3,400: **IN**.

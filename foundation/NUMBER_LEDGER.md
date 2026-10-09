@@ -53,15 +53,49 @@ These are administrative IDs I use to keep records countable. They are **not can
 
 The story is the author's; the canon is the books'. Everything else on the page is mine, and it is marked `[design]` or `PROPOSED` in the chapter footers. The full list for Ch04:
 - the small court, the bare tree, the unused well
-- the old arms master **(struck in v4 on the author's call — he was wrong for who Xunji is)**
-- the physician and "Due when the cold breaks"
+- the doctor and "Due when the cold breaks" (the word was "physician" until the author struck it — R28)
 - the guild lists, readers, the noodle-shop teacher (from Ch03)
-- the held cuts, the doubling test, "Proud things eat", the sword by the chair, "to sleep in the middle of it, and be the house"
+- the held cuts, the doubling test, "Proud things eat", the sword by the chair
+- the closing line "He slept in the middle of it. That was the whole art." (v5; the "be the house" ending was struck on the author's call)
 - the wall line "It is not the light" (Bibi Dong's one line — design, awaiting strike-or-keep)
+- the guild reader's stove line and the Grand Worship's two lines at the door (both added in v5)
+- **struck as invention on the author's calls:** the old arms master (v4) · the "ten thousand mornings" ledger line and the "Sword Dao" naming story (v5). The Chen Xin passage struck in v5 was **canon**, not invention — struck for the staging, and recorded as such in the Ch04 footer.
 
 **Rule I hold to:** invention may dress the scene; it may not decide the future. Bibi Dong's road, the secret, the far era — never decided (R22–R24).
 
-## 5. Where I am not fully certain — no spin
+## 5. Numbers cut on 2026-10-07 because no receipt existed for them
+
+Found during the R28 read-and-fix pass on Chapters 01–03. Each of these stood in
+the prose as if the books had said it. None appears in `CANON_MASTER.md`, and
+none had an entry in this ledger. They were **removed from the prose** rather
+than tagged, because a number with no source is worse than no number:
+
+| Was in the prose | Ch | Why it went |
+| --- | --- | --- |
+| "the first soul core would arrive at **ninety** for most" | 01 | no receipt for a general age of first-core formation. The receipts we hold: Tang Wulin's second core at his Titled breakthrough, and "no bottleneck before at least 95" (SL3 ch1395/6) |
+| "the dragon-touched heir who would carry a core in his chest by **fifty-nine**" | 01 | no receipt for any such age — an invented exception presented as a book fact |
+| "**eighty percent** of everything he held was gone" | 01 | invented precision about his own core formation |
+| "his power ran **thirty percent** stronger" | 01 | invented precision for the Angel Domain's amplification; the plain claim (stronger inside it, slower against it) is kept |
+| "a first ring no older than **four hundred and twenty-three** years, a second no older than **seven hundred and sixty-four**" | 02 | invented to the unit; the receipted rules (compatibility, physique, quality over quantity) now carry the sentence |
+| "from Origin at nothing up to the Divine at **fifty thousand**" · "The **Sea** opened a man's first core. The **Abyss** carried a Title. The **Domain** carried a Limit." | 02 | an invented spiritual-power ladder with invented realm names, written as though the codex quoted it |
+| "**two hundred thousand** years and beyond, orange, orange-gold" | 02 | the ring-colour law we hold stops at red = 100,000 years; no receipt for an orange band |
+| "**Nine** generations had taught that hammer to be terrible" | 02 | invented count for the Clear Sky line; "Generations" says the same thing honestly |
+
+**Story-internal arithmetic that stays** — invented, but invented *as story*, not
+as canon, and never traceable to a book: the Chenghe fraud running **twenty-one
+percent** over eleven months, two parts to the steward and one to the seat above
+(Ch03); **nine** then **eleven** cities in the winter letters, the fourth list
+reaching **thirteen** cities (Ch03/Ch04); the guild's **five-year** open-books
+term at Chenghe (Ch03); **three** votes the Pope holds in the round hall, **nine**
+hands for the audit and **four** against (Ch02/Ch03). These are the story's own
+facts, declared as such in the chapter footers.
+
+**The rule this section exists to enforce:** a number goes on the page only if it
+is (a) canon with a receipt in `CANON_MASTER.md`, (b) printed by
+`tools/measure_chapter.py`, (c) my own filing, or (d) the story's own arithmetic,
+declared as such. Anything else comes out.
+
+## 6. Where I am not fully certain — no spin
 
 - I have **not read the novels end to end.** Canon chapter numbers rest on Fandom/Baike pages and their citation lists, plus search snippets — not on me reading the raw text.
 - **Thinnest receipts:** the sword-ladder chapter numbers (SL3 ch1249/1515) — recorded from the earlier canon pass, not re-read by me directly. If the novel disagrees with any number here, **the novel wins**, and I fix our record the same day.
