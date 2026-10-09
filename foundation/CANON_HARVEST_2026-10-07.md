@@ -342,3 +342,147 @@ Source: 百度百科 千仞雪 (3427715) · 百度百科 唐三 (9287143, citing
 - The disguise skill came from a piece of the Angel soul-bone set. Our OC holds
   two pieces of that set already (head and torso, per Ch01). That is a fact to
   keep straight, not a lever to pull.
+
+---
+
+## B10 · The Seven Great Sects (七大宗门) — and Spirit Hall's war on three of them
+
+Source: 百度百科 七大宗门 (65545670) · 新浪 on the Upper Three · 腾讯新闻 on the
+Blue Lightning extermination · 起点 Q&A.
+
+An alliance **re-ranked every twenty years by a hegemony contest (争霸赛).**
+
+**The Upper Three (上三宗), this cycle:**
+
+| Sect | Soul | What it is known as |
+| --- | --- | --- |
+| **昊天宗 Haotian School** | 昊天锤 | **天下第一宗门**, head of the Upper Three. The strongest tool soul under heaven |
+| **七宝琉璃宗 Seven Treasure Glazed Tile** | 七宝琉璃塔 | **the number one support soul**, and **the wealthiest sect on the continent** — tower holders have superb appraisal (鉴宝), so the sect's trade runs across both empires. ~5,000 members including outer disciples |
+| **蓝电霸王龙家族 Blue Lightning Tyrant Dragon** | 蓝电霸王龙 | the number one beast soul; only ~1,800 members, and **only the sect master 玉元震 was a Titled Douluo** |
+
+**The Lower Four (下四宗):** 黑虎宗 · 风剑宗 · 象甲宗 (钻石猛犸 — "the number one
+defence sect under heaven") · 火豹宗.
+
+**Haotian School, in detail — this is the family our Ch03's silence comes from:**
+- **Three hundred li east of Heaven Dou City**, on a mountain peak, the peaks
+  joined by iron-chain bridges, every building stone and fortress-like, the main
+  gate five metres tall with the sect's name carved above it. **(Ch03's "three
+  hundred li east of Heaven Dou City" is canon and now doubly receipted.)**
+- **唐晨 Tang Chen** — founder and former first chief elder; 昊天锤; **99级
+  强攻系绝世斗罗, 封号 昊天斗罗**; one of the three Limit Douluos with 千道流 and
+  波塞西, and one source ranks him **above** 千道流.
+- Publicly "一门双斗罗" — **唐啸 and 唐昊** — before it withdrew. After twenty
+  years in seclusion its **five great elders all reached Titled Douluo**; with
+  唐晨, 唐三 and 阿银 the school could count ten. *(Another source says six
+  Titled Douluo — recorded as a conflict.)*
+- Its secret arts: **乱披风锤法** and the **炸环** ring-explosion technique.
+- **唐昊, newly Titled, broke the 95-level Pope 千寻疾 with the Clear Sky
+  Hammer.** The hammer's strength is such that even the Angel family feared it.
+- Beast souls are **naturally suppressed by tool souls, and by the Clear Sky
+  Hammer above all** — which is why the Blue Lightning family lost.
+
+**What Spirit Hall did to them (the Soul Hunting Operation's real result):**
+- **蓝电霸王龙家族 was exterminated.** Spirit Hall sent **eight thousand** against
+  the family's **eighteen hundred** and still lost **three thousand**; 玉元震
+  died mutually with Spirit Hall's ninth elder, **and his three soul bones were
+  stripped off him.** Only a few disciples away from home survived (玉天心,
+  玉天恒). 玉小刚 had been expelled from the family for his mutation.
+- **七宝琉璃宗** survived only because it happened to have bought Tang San's
+  hidden weapons; **剑斗罗 尘心 lost an arm** defending it and broke through to
+  **97** afterwards. Crippled, it was later renamed **九宝琉璃宗** when 宁荣荣's
+  tower mutated to nine treasures.
+- **昊天宗 withdrew (退隐)** and shut its gates — and 千道流 did not let it be
+  attacked.
+
+**For our story:** in 2619–2620 **none of this has happened yet.** All three
+Upper Three sects are standing, Haotian has not withdrawn, the Blue Lightning
+family is whole, and 宁风致 is still only a sect master. Our OC's codex publicly
+called the Clear Sky Hammer *not* the strongest weapon soul under heaven, and
+Ch03 records that the family three hundred li east sent no letter at all. That
+silence now has a canon weight behind it: it is the family that breaks Popes.
+
+---
+
+## B11 · Soul beasts (魂兽) — cultivation, the drop rules, transformation
+
+Source: 百度百科 斗罗大陆用语列表 (55230119) · 百度百科 化形 (56943685) ·
+game-site summaries marked [secondary].
+
+- **Before humans held the continent, the soul beasts ruled it.** They divide
+  into land, flying, plant and sea kinds, and are read by size and by **the
+  colour of the soul power they use** — the same colour scale as the rings.
+- **The drop rules — and Ch02's line is canon:** killing a beast always yields a
+  ring. A **1,000-year** beast drops a bone only with a very small chance. **A
+  100,000-year beast always drops a bone, and it drops one for a position the
+  killer does not already own — it fills what is empty.** A 1,000,000-year beast
+  always drops one too.
+- **Skills per ring:** 10,000 years and below → one skill · **100,000 years → at
+  least two** · 1,000,000 years → four.
+- **Best ring configuration — two canon statements that disagree, both recorded:**
+  百度百科 用语列表 gives **两黄两紫四黑一红** (2 yellow, 2 purple, 4 black, 1
+  red); the 百度知道 ring-colour entry gives **三紫五黑一红** (3 purple, 5 black,
+  1 red) as the standard best. **Ch02 currently prints the second. Do not treat
+  either as settled.**
+- **Bones cannot be removed once absorbed** — unless the owner is killed, when
+  the bone drops and becomes ownerless. **A Titled Douluo or above can force one
+  off a limb by cutting the limb away and paying ten levels per limb.** *(Ch02's
+  "unless a Titled Douluo paid ten levels to cut a limb and tear it free" is
+  canon.)*
+- **化形 — transformation at 100,000 years.** The beast's choice: take human
+  form, or live another thousand years and die. On transforming, **every original
+  ability vanishes and cultivation starts again** — but far faster than a human's,
+  and the beast **generates its own rings.** Maintaining the form needs long
+  contact with humans for their 气息. Stages: **幼生期** below rank 60 (a Soul
+  Douluo or above can see through it) · **成熟期** 60+, essentially human ·
+  **化神期** 90+, aiming at rank 100. Known: **小舞** (100,000-year 柔骨兔,
+  transformed to avenge her mother) · **阿银** (100,000-year 蓝银皇, who
+  re-cultivated to 100,000 and transformed again) · **雪帝** (to break the
+  700,000-year bottleneck) · **王秋儿** (the 帝皇瑞兽 三眼金猊).
+- **天劫** comes every 100,000 years; **soul beasts cannot ascend to the God
+  Realm** — this is the ceiling of their whole race.
+- **凶兽 (ferocious beasts) = 200,000+ years.** Titles run 王 at 10,000+, 皇 at
+  100,000, 帝 at 200,000+ [secondary].
+- **帝皇瑞兽 三眼金猊:** the most special beast there is — while it lives, every
+  beast in the Star Dou Forest cultivates **more than twice as fast**, and it
+  brings the forest fortune.
+- **天梦冰蚕:** the first beast ever to reach 1,000,000 years; it slept through
+  nine tenths of that time, is weak in a straight fight, and strikes with
+  spiritual power. Huo Yuhao's first ring.
+- **魂灵 (soul spirits)** — a beast's soul fused with a ring, keeping its
+  intelligence — belong to a **later era** and come through the **传灵塔 Spirit
+  Pagoda.** They do not exist in our window.
+
+---
+
+## B12 · The God Realm (神界) — the ladder above rank 100
+
+Source: 起点 Q&A on the God Realm's ranks · 新浪 on god positions.
+
+| Rank | 中文 | Level band | How many |
+| --- | --- | --- | --- |
+| New god | 百级新神 | 100 | — |
+| **God Officer** | 神官 | above 100, **no god position** | everyone who enters the God Realm any other way |
+| Third-class god | 三级神祇 | 110–119 | **over a thousand** |
+| Second-class god | 二级神祇 | 120–129 | only **two hundred and some** |
+| **First-class god** | 一级神祇 | 130–139 | **only 32 in the entire God Realm** |
+| God King | 神王 | 140+ | five |
+| Supreme God King | 至高神王 | beyond levels | 唐三 · 蓝轩宇 |
+
+- **Three ways to become a god:** born a god (天生之神) · **create your own
+  position** (自创神位 — the Sea God did) · **inherit a position through trials**
+  (传承神位).
+- **The God Realm Committee (神界委员会) is five God Kings:** 善良之神 Goodness ·
+  邪恶之神 Evil · 修罗神 Asura · 毁灭之神 Destruction · 生命女神 Life.
+- **千仞雪 the Angel God, 比比东 the Rakshasa God, 唐三 the Sea God and 霍雨浩 the
+  Emotion God are all first-class gods** — thirty-two seats in all, which is how
+  rare the thing our OC's bloodline leads to actually is.
+- 唐三 also holds **修罗神**, a God King seat and the God Realm's enforcer.
+- The first Shrek Seven apart from Tang San and Xiao Wu are second-class:
+  戴沐白 战神 · 朱竹清 速度之神 · 马红俊 凤凰之神 · 奥斯卡 食神 · 宁荣荣 九彩女神;
+  唐舞桐 is the 蝶神.
+
+**For our story:** the Angel God's seat is one of thirty-two first-class
+positions, it is inherited by blood, its last holder's position shattered, and
+**it has stayed empty ever since.** In 2619 that seat is not merely unfilled —
+the continent has not seen a god in a very long time, which is exactly what
+千道流 says at the altar in ch287: *"斗罗大陆，已经不知道多少年没有神出现过了."*
