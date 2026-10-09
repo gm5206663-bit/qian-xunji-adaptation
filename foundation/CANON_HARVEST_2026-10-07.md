@@ -564,3 +564,144 @@ before the boy is born**, and every canon event above is still ahead of our OC.
 R22–R24 stand. The hunt, the deaths, the palace coup, the two gods — a page may
 not pre-decide any of them, because our story has already moved one piece:
 千寻疾 is alive, sane, and reading.
+
+---
+
+## B15 · 玉小刚 the Master, and the ten theories our codex collides with
+
+Source: 微信百科 玉小刚 · 知乎 on the ten core competencies (quoting the novel) ·
+起点 Q&A on soul-master classification.
+
+**The man:** born of the **Blue Lightning Tyrant Dragon family** and **expelled
+from it for a malignant soul mutation** (his soul is 罗三炮). Weak in strength,
+but the deepest researcher of martial souls the continent has produced —
+**"invincible in theory."** The name 大师 was given to him **in mockery.** He was
+near fifty when he took Tang San. Later 天斗帝国国师 and 蓝电王.
+
+**And the fact that sits inside our window: 比比东 and 玉小刚 loved each other.**
+Canon says so plainly. She was not a woman with no one; she was a woman who had
+someone, and then was taken.
+
+**黄金铁三角 (the Golden Iron Triangle):** 玉小刚 (the mind) · 弗兰德 (Shrek's
+dean) · 柳二龙 (Blue Lightning family). Their three-person fusion is the
+**黄金圣龙.**
+
+**The soul-master role types (canon's own classification):** 强攻系 assault ·
+敏攻系 swift assault · 控制系 control · 防御系 defence · 辅助系 support · 食物系
+food · 治疗系 healing. A proper hunting team needs six of them working together
+over years: food-tool, support-tool, swift, defence, assault, control.
+
+**The 武魂十大核心竞争力 — the ten core competencies, as the novel gives them:**
+
+1. **Innate soul power is proportional to the soul's quality.**
+2. **Souls mutate** — usually downward, rarely upward.
+3. **Awakening is at six**, and only those who wake *with* soul power can
+   cultivate; how much depends on the soul.
+4. **Rings come from beasts**, in five tiers: white / yellow / purple / black /
+   red.
+5. **Every soul master needs a chosen direction** — assault, control, swift,
+   support, defence.
+6. **A ring bottleneck does not stop soul power from growing.** Without a ring a
+   master cannot step up a tier, but the power keeps accumulating and shows
+   itself the moment the ring arrives.
+7. **Before rank 70 a beast soul beats a tool soul; after the true body at 70,
+   the tool soul beats the beast.**
+8. **"There are no trash souls in this world — only trash soul masters."**
+9. **A bone must match its owner's attribute** to give its full strength.
+10. **Souls of different attributes can fuse** — the 武魂融合技.
+
+Plus two more stated elsewhere in the novel: the **武魂拟态 theory** (a plant
+soul need not take a plant beast's ring, and a beast soul may take a plant ring)
+and that **a true body's amplification is proportional to the soul's quality** —
+which is exactly why the seventh skill matters more the better the soul.
+
+**⚠ THE COLLISION, and it is the most important thing in this batch:**
+**None of this exists in 2619.** 玉小刚 is a young man, unknown, unexpelled or
+barely expelled, and his ten theories are unwritten. Our OC has just published a
+codex that teaches the ring ladder, the ring-age limits, compatibility, physique
+against ring, quality over quantity, and the six bone positions. **Several of the
+things canon credits to the Master, our codex has already put into the world
+eleven years early — from a man who read them in a book.**
+
+That is not a mistake to fix; it is a decision the author owns. Three honest
+options, none taken:
+- **(a) Let the codex pre-empt him.** The Master then becomes the man who
+  *systematized* what the Pope's book had already scattered — which makes him
+  poorer, not greater.
+- **(b) Let the codex and the theories diverge.** The codex is the practical
+  hunter's ledger; the Master's work is the *theory* behind it. Both stand, and
+  canon is intact.
+- **(c) Keep the codex away from theory entirely** — it teaches prices, ages and
+  positions, and leaves the *why* alone, so the Master's ten still arrive as
+  canon says they do.
+
+**Recommendation, offered not decided:** (b). It costs nothing, keeps canon
+whole, and it is the most interesting — a Pope who hands the continent the
+*what* and a mocked theorist who later finds the *why*.
+
+---
+
+## B16 · The family that breaks Popes — 唐晨, 唐啸, 唐昊, 阿银
+
+Source: 百度百科 唐昊 (9676920) · 唐啸 (19107024) · 唐晨 (16001865) · 微信百科.
+
+**唐晨 Tang Chen — the founder's generation.**
+- Tang San's **great-grandfather**. 昊天锤. Ring set **黑黑黑黑黑黑黑黑红** — eight
+  black and one red. **99级, nine rings, 强攻系绝世斗罗, 半神 — a demigod.**
+  封号 昊天.
+- **He beat 天使斗罗 千道流 on Haotian Peak and became the strongest man on the
+  continent.** *(This is a direct correction to any assumption that the Grand
+  Worship is the ceiling. He is not.)*
+- Went to Sea God Island with 千道流, met **波塞西**, and **both of them lost to
+  her.** 千道流 went home to Spirit Hall's business; 唐晨 stayed, sparred with her
+  daily, fell in love, and swore **"不成神，不归来"** — I do not come back unless
+  I become a god.
+- **At the eighth of the Asura Nine Trials the Rakshasa God sabotaged him and he
+  lost his mind, becoming the 杀戮之王 — the Slaughter King of the City of
+  Slaughter.** Tang San's Sea God Light later brought him back; he died unable to
+  hold the Asura power, pouring it all into the 修罗魔剑 for his descendant.
+
+**唐啸 Tang Xiao — the sitting sect master.**
+- 唐晨's eldest grandson; 唐昊's elder brother by fifteen years; 封号 **啸天斗罗**.
+  **84 years old at the end of SL1; 97 by then.**
+- At thirty he received the sect's inherited soul bone; at forty-five he was a
+  **78-level 魂圣**. In his hands at 90+ the hammer weighs **over three thousand
+  jin**, and in 器魂真身 **over ten thousand.**
+- **How he became sect master:** after 唐昊 broke ninety and wounded 千寻疾,
+  Spirit Hall pressed the sect; **their father, the sect master, died of
+  illness**; 唐啸 beat every family elder and took the seat. He then closed the
+  gates and stood by his brother.
+
+**唐昊 Tang Hao — the man who broke our OC's predecessor's body.**
+- **Broke rank ninety at forty-four — the youngest Titled Douluo the continent
+  had ever seen.** 封号 昊天. 95级 at first appearance, 97 by the double-god war.
+  Rings 黄黄紫紫黑黑黑黑红. Skills **乱披风锤法 · 大须弥锤 · 昊天九绝.**
+  **Domain: 杀神领域** — he walked the Hell Road too.
+- **大须弥锤** condenses *all* his rings into one, converting them to pure
+  attack and breaking every limit — so that neither his own ring skills nor his
+  enemy's matter any more. This is the technique that broke three 95-level
+  Titled Douluo at once, one killed and two ruined, **and broke the sitting
+  Pope 千寻疾.**
+- He is also **one of the world's three great smiths** and a 杀神 of the City of
+  Slaughter. He taught Tang San the **紫极魔瞳** for spiritual power.
+
+**阿银 Ah Yin — and the actual sequence, which is our story's first night.**
+- The **100,000-year 蓝银皇**, in mature transformed form. 唐昊 and 唐啸 met her
+  while out training; **both loved her**; they swore brotherhood and travelled
+  three years together, and 唐啸 withdrew quietly one night to let his brother
+  have her.
+- **On the road back to the sect, Spirit Hall hunted them. 阿银 killed herself to
+  give her ring (自杀取环) so that 唐昊 would live. He broke ninety in that
+  fight**, and broke the Pope.
+- Then: Haotian closed its gates; **唐昊 became the sect's sinner, returned its
+  soul bones and cut off two limbs, falling to a third of his power.** Years
+  later the 蓝银皇 right-leg bone's *野火烧不尽，春风吹又生* regrew them and he
+  returned to 96, then 97.
+
+**So, stated plainly for the pages:** in 2619 the man lying broken in the Pope
+Hall was broken by a forty-four-year-old who had just watched his wife kill
+herself to save him, wielding a hammer that turns nine rings into one blow. The
+sect that did it has not yet closed its gates. The old man on Haotian Peak who
+beat 千道流 is still alive, and is at this moment losing his mind in a city of
+slaughter. **None of this may be pre-decided on a page — but now none of it can
+be gotten wrong either.**
