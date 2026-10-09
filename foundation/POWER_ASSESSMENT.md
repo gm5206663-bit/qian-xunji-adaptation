@@ -83,42 +83,57 @@ that any claim of his standing stays **his own assessment**.
 
 ---
 
-## 2. Where he stands — honestly, against canon's named figures
+## 2. Where he stands — corrected
 
-**Clearly above him:**
-| Who | Why |
+**An earlier version of this file ranked him fourth and called the missing red
+ring his weakness. That was wrong, and the author said so: two soul cores are
+not a small edge.**
+
+Here is the correction, and the reasoning behind it.
+
+**A soul core is not one more item. It is a different engine.**
+
+A core compresses a man's soul power from liquid to solid. It draws the world's
+power in continuously. It lets a body hold more power than its rank allows. Canon
+says all three, and canon's whole point about cores is that **they let a man
+fight above his rank** — that is why Tang Wulin's second core arrived at his
+Titled breakthrough and why Huo Yuhao's three cores made him the strongest in
+divine sense among the twelve god-kings.
+
+**In 2619 the concept does not exist.** The method is not invented for twenty
+thousand years. Every man on this continent is running the old engine. He is
+running an engine from three eras later, **twice.**
+
+**So the three-level gap to the 99s is the smaller number.** A core is worth more
+than three levels — that is what cores are *for* — and he has two of them.
+
+### The corrected standing
+
+**He is the strongest man on the continent.**
+
+| Who | The honest comparison |
 | --- | --- |
-| **唐晨** | 99, eight black and one red, a **demi-god**, and he **beat 千道流 on Haotian Peak** (B16) |
-| **波塞西** | beat **both** 唐晨 and 千道流 on Sea God Island (B16, B18) |
-| **千道流** | 99, six black and **three red**, the same Angel Domain, and fifty years more of it |
-| **帝天** | ~900,000 years, a dual soul core, and the 龙神爪 that **matches a demi-god** (B22) |
-| **金鳄斗罗** | 98 *(or 97 — the sources conflict)*, and he holds a red ring (B2) |
-| **三供奉 / 四供奉** | 97 each (B2) |
+| **千道流, 99** | Three red rings and the same Angel Domain — the closest thing to him alive. But no core. In a long fight the old man empties and he does not |
+| **唐晨, 99** | A demi-god with eight black rings and one red, and the hammer. No core, no domain. He wins the first exchange and loses the tenth |
+| **波塞西** | Beat both of them on her own island, on her own ground, with the sea behind her. **Away from the sea she has no such advantage, and she has no core either** |
+| **帝天, ~900,000 years** | **The one thing that would still end him.** A dragon that old is not a rank; it is a natural disaster, and it carries a dual core of its own |
 
-**Level with him:** the 五, 六 and 七供奉 at 96 — and he should beat all three, on
-the cores, the domain, the purified blood and two 100,000-year bones.
+### The red ring — demoted
 
-**The genuine questions:**
-- **大明 and 二明** — 100,000-year beasts, a little under a 99-level Bibi Dong
-  and far above an ordinary 95 (B18). Against an ordinary 95 they win. Against a
-  96 with two cores and a domain, it is not settled, and no page should settle it
-  early.
-- **唐昊.** He broke the *old* Pope at 95 while newly Titled at forty-four, using
-  大须弥锤 — which condenses nine rings into one blow so that **no ring skill on
-  either side matters any more** (B16). That technique is the specific answer to
-  everything our OC has built. **The rebuilt man is not the man he broke, but the
-  hammer is still the hammer.**
-- **Bibi Dong** — in canon she ends at 99 with dual souls, the Slaughter God
-  Domain, the Death Domain and an external bone. In 2619 she is the Saintess
-  under lock, carrying his child. **R23 forbids pre-deciding her road.**
+It is a real gap in *equipment*, and it stays on the record. But it is not his
+weakness, because a core supplies exactly what a red ring would have supplied:
+density and recovery. **Two cores outweigh one red ring.** His father's three red
+rings are the better ammunition; his two cores are the better gun.
 
-**So, stated plainly:** in 2619 he is **not the strongest thing on the
-continent.** Three Limit Douluo stand above him, and a nine-hundred-thousand-year
-dragon in the forest would end him. He is **the strongest man alive under those
-three** — which is exactly the claim Chapter 4 puts in his own mouth and
-immediately qualifies, as R27 requires.
+### 唐昊 — corrected
 
----
+大须弥锤 condenses nine rings into a single blow, and after that no ring skill on
+either side matters. That is a **one-shot technique**, and canon shows the price:
+唐昊 cut off his own two limbs afterward.
+
+Against a man with two cores, an all-in single blow is the wrong plan. **If it
+does not end the fight, he is spent — and his opponent refills while he stands
+there.** The hammer broke the last Pope because the last Pope had no core.
 
 ## 3. What makes him dangerous, and it is not the number
 
