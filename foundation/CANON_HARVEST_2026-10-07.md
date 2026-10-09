@@ -958,3 +958,144 @@ bargain for their souls" — that is the Spirit Pagoda, and this batch is its
 receipt. Nothing in it exists in 2619, and the beasts our OC's continent still
 takes rings from are, in twenty thousand years, the reason the towers had to be
 built at all. He knows how that story ends. He has not told anybody.
+
+---
+
+## B22 · The ten great ferocious beasts (十大凶兽)
+
+Source: 百度百科 十大凶兽 (8483732) · 新浪/喜马拉雅 rankings. They are named in
+**SL2**, and are the top ten soul beasts by cultivation.
+
+| # | Name | True form | Cultivation | What it is |
+| --- | --- | --- | --- | --- |
+| 1 | **帝天, the Beast God** | 金眼黑龙王 Golden-Eyed Black Dragon King | **~900,000 years** | Supreme ruler of the Star Dou Forest, living at the Lake of Life in the core. The purest dragon blood after the Golden and Silver Dragon Kings and the Dragon God's nine sons. The Dragon God gave him the supreme technique **龙神爪**, with which he **matches a demi-god.** Extreme darkness. **One of only three living holders of a yin-yang complementary DUAL SOUL CORE.** Self-created 黑日紫月·黑龙剑 |
+| 2 | **邪君 / 邪帝** | 邪眼暴君主宰 Evileye Tyrant Emperor | ~790,000–800,000 | Strongest beast of the Sun Moon Empire, in the 邪魔森林. A three-hundred-metre eye with tentacles, spiritual attribute; his **时空之光** made even 帝天 wary. Became Huo Yuhao's ninth ring on the 灵眸 |
+| 3 | **雪帝** | 冰天雪女 Ice Maiden | 700,000 | Head of the Extreme North's three kings, strongest ice-attribute beast, **the only humanoid soul beast.** Her 雪帝三绝: 帝剑 · 帝掌 · 帝寒天. Became Huo Yuhao's first soul spirit and gave him **four orange rings** |
+| 4 | **碧姬** | 翡翠天鹅 Emerald Swan | 590,000–600,000 *(her true cultivation was only ~100,000, accelerated by the 三眼金猊's fortune)* | The strongest healing beast, and kind. **She opposed the first beast tide** and saved many beasts in the second. A Spirit Pagoda elder, and the forest's representative for peace with humans |
+| 5 | **万妖王** | 妖眼魔树 Demon-Eyed Devil Tree | 540,000 | Strongest plant-type beast; grew strong by devouring an immortal herb that happened to sprout beside him |
+| 6 | **熊君** | — | 400,000+ | — |
+| 7 | **冰帝** | 冰碧帝皇蝎 Ice Jade Emperor Scorpion | 399,900, raised to 400,000 by the 天梦冰蚕's origin power | One of the Extreme North's three kings; became Huo Yuhao's second martial soul. Skills 永冻之域 · 冰皇之怒 · 雪舞极冰域 (with 雪帝) |
+| 8 | **赤王** | — | 300,000+ | — |
+| 9–10 | **never named in the text** | — | — | One circulating list guesses 六翼暗金虎 and an unknown; another names 魔后 and 妖灵. **The novel does not say. Recorded as a gap, not filled** |
+
+**Two receipts worth pulling out for our story:**
+1. **帝天 holds a yin-yang complementary DUAL SOUL CORE** — so the dual core is
+   not only a human high-band marker; the strongest beast alive carries one too.
+2. **碧姬's real cultivation was only ~100,000 years** and the 三眼金猊's fortune
+   multiplied it — canon's own receipt that the瑞兽 doubles the whole forest.
+
+---
+
+## B23 · SL4 (终极斗罗) — the Dragon God's second attempt, and the shape of the universe
+
+Source: 起点 Q&A on SL4's core conflict · 起点 SL4 introduction · a 知乎 answer
+quoting the novel by chapter.
+
+**Ten thousand years after SL3.** The ice that sealed 古月娜 and 唐舞麟 melts. A
+Douluo Federation science team — 蓝潇 and 南澄, of the ancient-beast research
+institute — find a **gold-and-silver patterned egg** in the extreme north, and it
+hatches **蓝轩宇**, who is adopted and grows up believing they are his parents.
+
+**The whole book is one conflict: two bloodlines in one body.** He carries the
+Golden Dragon King's and the Silver Dragon King's blood at once, and they fight.
+Early on the gold-silver clash nearly kills him; he needs a stronger body, the
+dragon race's blessing, and the **冰火两仪眼's origin power** to调和 them. When
+they finally fuse into the **Dragon God bloodline**, he **breaks the rule that
+soul beasts cannot become gods**, and with Huo Yuhao's help he builds his own
+**龙神神域.**
+
+**The price:** to take the Dragon God's full inheritance, **his parents must
+sacrifice themselves.**
+
+**The final enemy: 深红之母, the Crimson Mother**, who would found a devouring
+god realm and end all life. Against her he must unite two federations that do not
+trust each other — the **Douluo Federation**, advanced in technology and weak in
+individuals, and the **龙马联邦**, backward in technology and strong in
+individuals.
+
+**Other SL4 people:** 冻千秋, the female lead — princess of the 魔魂大白鲨,
+古月娜's disciple, saved by 唐舞麟 from the Deep Sea Demonic Whale King ten
+thousand years earlier · 白秀秀, body 魔魂大白鲨, soul evolving into 深渊冰魔龙 ·
+蓝梦琴, dual souls 冰天雪女 and 玉凰琴 · and **小舞 dies of illness in this book**,
+the first symptoms having appeared back in 神界传说.
+
+**The Dragon God himself:** the ancient ancestor of the dragon race and the first
+shared lord of the beasts; cultivated to godhood on talent alone; **individually
+stronger than any of the five God Kings of his time**; holder of **创生 creation
+and 破灭 destruction**. When the 比蒙 race grew strong enough to send beasts into
+the God Realm, **he ordered the dragon kings to hunt them almost out of
+existence** — the original sin 蓝轩宇 has to answer for.
+
+**The cosmology, which is the deepest thing in the whole series:** **创世
+(Creation) and 天守 (the Warden) share one account, called the law of the
+universe.** Creation is busy making new planes; the Warden was absent. So the law
+ran its daily tasks by itself — and those tasks are **the time-space torrents and
+the black holes**, which destroy any plane that grows too strong. The universe's
+law *rejects the founding of a god star*, and it is not wrong to: that is what
+keeps the universe lasting. 天守 joining the 大神圈 let the players cancel the
+automatic execution. **蓝轩宇's answer is to stop fighting the law and become its
+enforcer** — which is how the 神龙界域 becomes a god star.
+*(Chapter receipts quoted by readers: ch1792 重生唐三(上) · ch1738 最后一道封印 ·
+ch1718 海神的无定风波 · ch692 神话传说 · ch576 星球轨道炮.)*
+
+---
+
+## B24 · SL5, SL6, and the side books — consolidated, with the honesty flags
+
+Consolidated from the earlier deep canon pass (already in `CANON_MASTER.md`) plus
+this harvest. **The flags matter more than the facts.**
+
+- **SL5 《重生唐三》** — Tang San reborn. His 玄天功 runs to **thirteen layers**,
+  with **four realms** above, and ends at **妖神真身**. *(Recorded from baike;
+  chapter-level receipts thin.)*
+- **SL6 — [UNVERIFIED]. This stands and must not be softened.** Every 2026
+  serial carrying a "Soul Land 6" title is another author's fan work (番茄 87
+  chapters · 起点 25 · 红袖 313). Only zh.wikipedia names an SL6 at all. **No page
+  of ours may cite SL6 as canon.**
+- **神界传说** (bridges SL2→SL3) — set about thirty years after Huo Yuhao's
+  ascent; the God Realm's great crisis; the five god-kings 海神 / 修罗神 and the
+  rest; **confirms the Angel God's seat has stayed vacant.**
+- **唐门英雄传** (bridges SL3→SL4) — the crisis chain: the Destruction god-king's
+  civil war → the Time-Space Turbulence → the black hole → the **众神之战**
+  against six trapped realms → the founding of the **大神圈**, with Tang San
+  leading.
+- **史莱克天团** — four god-kings teach: 长弓威 · 阿呆 · 雷翔 · 周维清. Students
+  戴莹 (daughter of Huo Yuhao and 唐舞桐) · 依晨 · 凌羽墨 · 梦鬓白. 雷翔 teaches
+  依晨 the 狂神诀 and the 天魔诀.
+- **斗罗世界** — Huo Yuhao and 唐舞桐's son leads against the first-generation
+  Shrek Seven Devils.
+- **大神圈's sixteen god-kings** (baike): 唐三 · 霍雨浩 · 长弓威 · 雷翔 · 阿呆 ·
+  海龙 · 天痕 · 叶音竹 and the rest.
+- **God_Realm on the English fandom wiki is an EMPTY page** — checked, and it
+  stays marked as a source that cannot be used.
+
+---
+
+## THE HARVEST — what is now covered, and what is honestly still open
+
+**Covered, with receipts (24 batches):** Spirit Hall's whole structure and clergy
+ranks · the seven 供奉 with levels, souls, rings and skills · the Angel God and
+his blood-only succession · Bibi Dong's full record · martial souls, their three
+classes and the divine tier · the ring ladder, colours, skill counts, optimal ages
+and best configuration · soul bones ranked, with the drop rules · 精神力 in all
+six realms with the era rule · domains and who holds them · Qian Renxue's whole
+arc · the calendar, pinned at both ends · the Seven Great Sects and what Spirit
+Hall did to them · soul beasts, transformation and the ten ferocious beasts · the
+God Realm's ladder and its thirty-two first-class seats · the two empires and the
+Heaven Dou house · the dated SL1 arc · 玉小刚 and his ten theories · 唐晨 / 唐啸 /
+唐昊 / 阿银 · the Shrek Seven · Sea God Island, the Star Dou Forest, the City of
+Slaughter · the hidden weapons and the herbs · SL2's soul tools, soul spirits and
+Spirit Pagoda · SL3's forging, battle armour and mecha · SL4 and the cosmology ·
+SL5 and the side books.
+
+**Still genuinely open — and named so nobody mistakes this for finished:**
+1. **The novels have not been read end to end.** Every chapter number here rests
+   on encyclopedias and their citation lists. Where two sources disagreed, both
+   are recorded; none was smoothed.
+2. Chapter-level receipts are thinnest for **SL5 and the side books**.
+3. **SL6 is unverified and stays uncitable.**
+4. The 9th and 10th ferocious beasts were **never named in the text** and are
+   left as a gap.
+5. Minor figures of our own window — the branch-hall stewards, the academy
+   teachers, the clergy below bishop rank — are not individually sourced, because
+   canon does not name them.
