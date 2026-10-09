@@ -100,10 +100,24 @@ the author's rulings; [era] true of this world's clock.
   blood can hold at that moment — and because each re-forge leaves the blood
   richer, **each ring goes further than the one before it.** He cannot finish
   the nine at once. This is a road, not a windfall.
-- **The ceiling: red at one hundred thousand. Never orange.** Orange and gold
-  are reserved to **True Divine**, whose defined work is to *"increase soul
-  rings age and quality"* — if Mortal Divine can reach orange now, godhood has
-  nothing left to do. (R30.)
+- **The ring that comes back is a BLOOD-ESSENCE ring (气血魂环), and it is
+  GOLD — not red, and it carries no year.** Baike 魂环: *"（无年限）（金色）…
+  不依靠魂力是依靠气血之力."* Red at a hundred thousand measures a dead
+  animal's age; his rings stopped measuring dead animals in the seclusion
+  month. **The beast-ring colour ladder does not apply to them** (F16; R30
+  corrected).
+  - **No year (无年限):** the ring measures the concentration of the Angel God's
+    blood in him and deepens as he deepens. There is no age to cap.
+  - **It runs on blood, not soul power** (不依靠魂力). 唐舞麟 with his soul
+    power stripped still fights on his blood rings. **His rings cannot be
+    sealed, drained or cut off** — write that consequence, do not skip it.
+  - **Only two beings in the franchise have ever held one:** 唐舞麟 and
+    蓝轩宇. **Both dragons.** He is the third and the first who is not.
+  - **Gold is his family's god-colour:** 天使神环（金）, pure gold, which
+    千仞雪 got only on becoming a god.
+  - **What True Divine reserves is a GRADE, not a colour:** 蓝轩宇's blood rings
+    ran 七彩 → 八彩 → 九彩 as he climbed to the Dragon God seat. Mortal Divine
+    gets gold; godhood gets what is beyond gold.
 - **The danger, and it is real:** while a ring is down he is one ring thin, one
   skill short, and the years his blood cannot hold are **gone for good**. A
   ring that bursts instead of re-forging is a hole in him **until he kills

@@ -1330,3 +1330,92 @@ broke his soul' rings one by one to reabsorb the soul' rings."*
   not canon** — 独孤博 is canonically a Heaven Dou imperial guest, and there is
   no receipt tying him to Spirit Hall. Recorded so nobody "remembers" it later.
 
+---
+
+## B28 · 气血魂环 — the blood-essence ring — the receipt that overturned R30's ceiling
+
+Collected 2026-10-09 on the author's strike: *"It's can't be red because it's
+blood essence, it's should golden layer and things around, and others things,
+hey things are still don't enough , hey you check canon information."* **I had
+the class wrong: I applied the beast-ring colour ladder to a ring that is not a
+beast ring.**
+
+### The definition (Baike 魂环, special-rings table)
+
+> **气血魂环** — **（无年限）（金色）正常情况下为金色，当唐舞麟陷入狂暴状态时
+> 为赤金色，来自金龙王血脉，不依靠魂力是依靠气血之力**，拥有者唐舞麟。
+> **（百万年）（七彩→八彩→九彩）龙神蓝轩宇**，九个魂环代表掌控九种不同元素的
+> 力量。
+
+Four facts, each of which contradicts what I had written:
+
+1. **金色 — GOLD.** Not red. Not on the ladder.
+2. **无年限 — NO YEAR.** It is not a measure of a beast's age at all.
+3. **不依靠魂力，依靠气血之力 — it does not run on soul power.** It runs on
+   blood and qi. Canon receipt: **唐舞麟 with his soul power stripped, the
+   blood rings light up, his body swells, the dragon claws come out, and he
+   still fights** (腾讯动漫 Q&A). **A blood-essence ring cannot be sealed,
+   drained or cut off.**
+4. **Only two holders in the entire franchise** — 唐舞麟 and 蓝轩宇. Both
+   dragon-blooded. 蓝轩宇 is seven-eighths soul-beast blood with three God-King
+   bloodlines.
+
+### How they are obtained, and what they do
+
+- **唐舞麟:** the Golden Dragon King's bloodline carries **eighteen seals** laid
+  by Tang San; **every two seals broken yields one blood-essence ring**, and
+  **each ring grants a blood-based skill**: 黄金龙体 · 金龙霸体 · 黄金龙吼 ·
+  金龙狂暴领域 · 金龙震爆 · 金龙镇狱杀 · (7th unknown) · 黄金龙瀑 · the ninth
+  releases everything he has. **[Baike 斗罗大陆Ⅲ + 斗罗志]**
+- **The rings are not made of soul power:** *"金色魂环并非魂力所形成，而是由气血
+  的波动带来，不过这魂环确实可以赋予魂技."* — **a wave of blood-essence, and it
+  still grants a skill.** **[SL3 manhua ch293 report]**
+- **They grow without limit:** *"随着唐舞麟自身实力的不断提升和血脉力量的逐渐
+  觉醒，气血魂环的威力也会不断增强"* — the ring strengthens as the bearer
+  grows. **This is the canon statement that a blood-essence ring has no
+  ceiling.**
+- **Each holder's colour is his own:** 唐舞麟 gold; 蓝轩宇 white early, then
+  七彩 → 八彩 → 九彩 as he climbed. **"每个人的气血魂环色不一样."**
+
+### The "golden layer and things around" — every one of them a canon receipt
+
+- **金鳞覆盖** — golden scales cover the body where the blood is active.
+- **全身金鳞覆盖的地方释放金光** — golden light is given off wherever the
+  scales sit.
+- **一圈金色光晕** — a ring of golden halo (from the dragon claws striking
+  together).
+- **气血旋涡** (ninth seal) and **气血心脏** (tenth seal) — a blood-essence
+  vortex and a blood-essence heart at the higher stages.
+- **Pouring one's own blood into the gold rings changes them:** *"随着一道道殷红
+  色的气血之力融入金色魂环之中… 三道金色魂环表面出现一道道血红色的纹路，整个
+  魂环也变成了金红色"* — **blood-red patterns appear on the gold and the ring
+  turns gold-red.** **[derivative, recorded as a description of the mechanism,
+  not as canon plot]**
+- **赤金 in the berserk state:** *"赤金色的光芒… 浓郁的气血波动瞬间升腾到了顶
+  点… 金色斗铠上早已浮现出了一簇簇鲜红血焰的纹理"* — dark red-gold light,
+  blood-flame patterns, blood-essence waves at their peak. **[SL3 ch1372]**
+
+### The Angel receipt that makes gold the right colour for HIM
+
+- **天使神环（金）** — the Angel God's divine ring is **gold**, *"魂环颜色为纯金
+  色."* **[Baike 天使神]**
+- **千仞雪's rings before godhood: 黄 黄 紫 紫 黑 黑 黑 黑 黑. After: 黑 黑 黑
+  黑 黑 黑 红 红 红 金** — the gold ring is the **tenth**, and it arrives **only
+  with the god seat.** **[Baike 天使神 + 千仞雪]**
+- **The Angel God is the source of the six-winged angel bloodline** (六翼天使武
+  魂血脉的源头), and the martial soul is divine-class and **passes through the
+  blood.** **[Baike 天使神]**
+- **Therefore:** in the Qian line, **gold is the colour of the blood's far end
+  and of the god seat.** A mortal Angel Douluo whose first ring turns gold has
+  done something the colour itself says should not be possible before godhood —
+  which is exactly the point, and exactly why it is not red.
+
+### What this replaces
+
+- **R30 clause 2 is reversed** ("all nine to red, none to orange"). Corrected in
+  `RULINGS_LOG.md` the same day.
+- **F16 filed.** The root cause is named there: *I reached for the colour ladder
+  because it was the tool I already had.* The receipt that blood-essence things
+  run parallel to ordinary soul power was already in my own B25 and I never
+  followed it to the ring.
+

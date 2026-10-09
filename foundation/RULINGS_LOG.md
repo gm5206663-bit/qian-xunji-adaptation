@@ -479,6 +479,44 @@ ring loosened at the edge. Ch06 — the un-knitting, and what the first ring
 comes back as. The pace law gives the danger room; compressing nine rings into
 one chapter would make the risk decorative.
 
+### **CORRECTED 2026-10-09 (F16) — the ceiling clause above is WRONG and is reversed**
+
+The author's strike: *"It's can't be red because it's blood essence, it's should
+golden layer and things around, and others things… you check canon information."*
+
+**I applied the BEAST-ring colour ladder to a ring that is no longer a beast
+ring.** Canon has a separate class — **气血魂环, the blood-essence ring** — and
+Baike 魂环 states it flatly: **"（无年限）（金色）正常情况下为金色… 来自金龙王
+血脉，不依靠魂力是依靠气血之力."**
+
+**R30 clause 2 ("all nine rings cross into red at one hundred thousand; none
+reaches orange") is REVERSED.** The correct law:
+
+1. **A re-forged ring of his is a blood-essence ring, and its colour is GOLD**
+   (white-gold in his case, the colour his wings and his core already run).
+   Red at a hundred thousand is a measure of a **dead animal's age**; his rings
+   stopped being measures of dead animals in the seclusion month.
+2. **It carries no year.** 无年限. It measures the concentration of the Angel
+   God's blood in his body and deepens as he deepens. **There is no age to
+   cap** — so there is no "red ceiling", and no "orange reserved" clause, and
+   the whole framing of a ladder was wrong for this object.
+3. **It runs on blood and qi, not on soul power** (不依靠魂力，依靠气血之力).
+   Canon receipt: 唐舞麟 with his soul power stripped, the blood rings light and
+   he still fights. His rings cannot be sealed, drained or cut off.
+4. **Only two beings in the entire franchise have ever held one** — 唐舞麟
+   (Golden Dragon King blood) and 蓝轩宇 (Dragon God blood). **Both dragons.**
+   He is the third and the first who is not a dragon. **And in his own family
+   the golden ring is the colour of godhood: 天使神环（金）, "魂环颜色为纯金
+   色", which 千仞雪 received only on becoming a god.**
+5. **What True Divine still reserves** is not a colour but a **grade**: the
+   blood-essence rings go gold now, and godhood is what takes them past gold —
+   蓝轩宇's blood rings ran 七彩 → 八彩 → 九彩 as he climbed to the Dragon God
+   seat. Mortal Divine gets gold. Godhood gets what is beyond it.
+
+**Everything else in R30 stands** — the un-knitting rather than the shattering,
+the cap being his blood rather than a number, no plant beasts in 2619, the well
+unclaimed, and two chapters.
+
 ### Standing prohibitions from this ruling
 
 - **No plant beast, no ring from a plant, in our era.** The herbs are cut, never
