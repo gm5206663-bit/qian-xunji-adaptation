@@ -486,3 +486,81 @@ positions, it is inherited by blood, its last holder's position shattered, and
 **it has stayed empty ever since.** In 2619 that seat is not merely unfilled —
 the continent has not seen a god in a very long time, which is exactly what
 千道流 says at the altar in ch287: *"斗罗大陆，已经不知道多少年没有神出现过了."*
+
+---
+
+## B13 · The two empires, and the family Renxue is sent into
+
+Source: 百度百科 星罗帝国 (18373316) · 百度百科 雪崩 (15994293) · 知乎 canon map
+essay quoting the novel · 百科TA说 on why she infiltrated.
+
+**天斗帝国 Heaven Dou Empire** — the north. Imperial family **雪夜**.
+- Capital **天斗城**, centre-northeast of the empire, **one of the two largest
+  cities on the continent** (only Star Luo's capital compares).
+- Structure: originally ten provinces; after enfeoffing the **four great
+  kingdoms** the empire became six powers — the crown directly holds five
+  provinces, each kingdom one, plus **one duchy holding the smallest eastern
+  province.** The kingdoms and the duchy are **states within the state**: apart
+  from the necessary tribute they are wholly self-governing, and only the
+  crown's standing army keeps that from becoming open revolt.
+- The **three great military districts** cluster near the capital, **over a
+  million troops.**
+- They sit on the borders on purpose: in any war the vassal states are hit first.
+
+**星罗帝国 Star Luo Empire** — the south, the military one.
+- Imperial family **白虎 / 戴家**; by intermarrying with the **幽冥灵猫** family
+  it produced the **幽冥白虎 martial-soul fusion** that made it an empire.
+- Capital **星罗城**; currency 星罗币; on the order of **100,000 soul masters.**
+- Feudal in the same way, though more centralized. In SL1 it stands with Heaven
+  Dou against Spirit Hall.
+
+**The Heaven Dou imperial family — the house our OC's daughter is sent into:**
+
+| Person | Who |
+| --- | --- |
+| **雪夜大帝** | the emperor; the common people's faith is *in him* — which is the whole reason subversion, not conquest |
+| **雪清河** | eldest prince — **the identity 千仞雪 takes** |
+| **雪崩** | fourth prince; Tang San's first disciple; soul **白天鹅**; 50+; endured for years because of 雪清河, made crown prince after the exposure, then emperor |
+| **雪柯 / 雪珂** | princess |
+| **雪星亲王 (雪星王)** | the emperor's brother — **the man who detected the poisoning plot** |
+
+**Why Spirit Hall sent a child instead of an army — canon's own reasoning:**
+1. The people's faith belongs to the emperor, not to Spirit Hall; a conquered
+   Heaven Dou would not hold. It must be taken slowly, from inside.
+2. **The two empires and the Upper Three are, in the end, one bloc.** They feud
+   in peacetime and stand together the moment Spirit Hall moves — the proof is
+   that Haotian withdrew, Seven Treasure bent, and Blue Lightning died alone.
+3. **Sea God Island exists**, and 波塞西 is not weak.
+
+---
+
+## B14 · The SL1 arc, dated — the harness our story runs beside
+
+Source: 百度百科 唐三 (2631 birth, 2637 awakening, chapter-cited) · 知乎 whole-world
+timeline · 知乎 SL1 story-line answers. **Chapter numbers here are from secondary
+timelines, not re-read from the novel; marked accordingly.**
+
+| 斗罗历 | Event |
+| --- | --- |
+| **2619–2620** | **OUR WINDOW.** Ch01–Ch04. Renxue born 2620 |
+| 2629 | Renxue, age 9, taken into the Heaven Dou palace as 雪清河 |
+| **2631** | **Tang San born** (11th day of the first month) — 昊天宗 blood, mother the 100,000-year 蓝银皇 阿银 |
+| 2637 | Tang San awakens at six: dual souls 蓝银草 (truly 蓝银皇) and 昊天锤, innate full soul power; Nodin Academy under 玉小刚; meets 小舞 |
+| the five years between | 玉小刚 wanders; 戴沐白 and 朱竹清 come to Heaven Dou; 马红俊 taken by 弗兰德; 小舞 breaks 100,000 years and takes human form |
+| **2643** | **Tang San, twelve, rank 29, enters Shrek Academy with 小舞. The Shrek Seven assemble.** |
+| after | rank 30 trip to the Star Dou Forest — third ring, the **八蛛矛** external bone; 大明 and 二明 carry 小舞 off |
+| the tournament | 全大陆高级魂师学院大赛 — the Seven beat 象甲宗 in a minute; the final against Star Luo Royal Academy and Spirit Hall's team; **小舞's beast identity exposed; 唐昊 rescues her; Spirit Hall orders the hunt** |
+| the Soul Hunting Operation | **Blue Lightning exterminated · Seven Treasure crippled · 大明 and 二明 hunted · 小舞 sacrifices herself** — her soul into a 100,000-year ring, her body fallen to the 柔骨兔 |
+| the palace coup | 雪清河's identity exposed; **千仞雪 stands revealed**; she breaks with 比比东 and takes the Elder Hall and the Douluo Hall |
+| after | Tang San founds the **唐门**; the four elemental clans submit; the **City of Slaughter** — he meets his great-grandfather **唐晨**, takes the 昊天令, earns the **杀神领域** |
+| the end | Sea God Island; **波塞西 sacrifices**; Tang San inherits the **Sea God**. Jialing Pass: 千仞雪 beaten, saved by the newly-made **罗刹神 比比东**; the two gods kill the Sea God; 九彩神 and 食神 bring him back; **the Angel God is abolished; 比比东 is killed** |
+
+**What this fixes for us:** our clock is not merely consistent, it is pinned at
+both ends by chapter-cited dates — **2631 for Tang San's birth and 2637 for his
+awakening**, with Shrek at **2643**. Our window sits **eleven to twelve years
+before the boy is born**, and every canon event above is still ahead of our OC.
+
+**And what it forbids, again:** all of it is *known*, none of it is *decided*.
+R22–R24 stand. The hunt, the deaths, the palace coup, the two gods — a page may
+not pre-decide any of them, because our story has already moved one piece:
+千寻疾 is alive, sane, and reading.
