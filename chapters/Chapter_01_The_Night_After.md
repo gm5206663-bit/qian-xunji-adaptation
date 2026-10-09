@@ -1,203 +1,231 @@
 # Chapter 01 — The Night After
 
-Pope Hall sat above Spirit City like a blade laid flat — stone, gold, and quiet. At night the wind came off the plains and hit the high walls and broke. Inside, the angel statues stood in their rows and did not move.
+Spirit City slept under a thin snow, and Pope Hall sat above it on its hill, and the wind off the plains came up and broke itself on the high walls and went on without them.
 
-He woke with cold stone under his back and two lives in one skull.
+He woke on cold stone with two lives in one skull.
 
-One life was Earth's. His name there had been Gaurav Meena; Càn Róng, if you wrote it in this world's letters. He had been single, and alone, and content with both.
+One life had been a man named Gaurav Meena, on a world that had no soul power in it at all. He had been single, and quiet, and content with both of those things. He had read at night with a small lamp on — one long story, six books and the side books after it, about a continent where every child woke at six years old with a soul of his own and a rank to climb. He had read it to the end, twice, and he knew its names as other men know the streets of the town they were born in.
 
-He was a boy who read at night with a small light on. He had read Soul Land to the end, all of it — one and two and three and the wiki pages after — until he knew its names like a child knows weather.
+The other life was Qian Xun Ji's.
 
-The other life was Qian Xun Ji's. Pope of Spirit Hall. Ninety-five. Six-winged angel, son of Qian Daoliu, teacher of Bibi Dong. Fifty years of power plays and worship and patience, a hunt for a Blue Silver Emperor not yet begun, and an old death waiting somewhere down the years in this same hall.
+Pope of Spirit Hall, ninety-five, six-winged angel, the blood of the Angel God, son of Qian Daoliu, and the man who had taught Bibi Dong everything she knew. Fifty years of worship and patience and hunting behind it, a search for a hundred-thousand-year Blue Silver Emperor that had gone wrong on a mountain road, and a death waiting somewhere further down the years in this same hall.
 
-Both were his now. The body was his and the memory was his, and there was no one left to ask.
+Both lives were his now. The body was his and the memory was his, and there was nobody left in either world to ask about it.
 
-He sat up slowly. The secret chamber was dim under its low holy light, and the air still held the shape of what had happened in it. That night. That thing. No detail stayed with him — only the aftermath, the wrongness, and the hatred that had filled this room and then walked out under guard.
+He sat up slowly.
 
-Old memory said the rest plainly, because old memory did not soften anything. She had been taken back to her room. She was carrying a child. He knew the shape of that child's life from another life entirely — from pages, from a night-light, from a story that had hurt to read and hurt more to remember — a daughter who would be raised hidden, taught duty instead of love, and sent toward an inheritance heavier than she was. She did not know yet. He did.
+The secret chamber was dim under its low holy light, and the air in it still held the shape of what had happened here. That night. That thing. No detail had survived the crossing — only the aftermath, the wrongness, and a hatred so large that it had filled the room and then walked out of it under guard.
 
-He had not done it. The Earth life had never touched anyone; single, careful, a boy with books and no hands on anybody. But the body had done it, and the memory had kept it, and both of those belonged to him, which meant the debt belonged to him too, whatever any court of anyone's opinion would say.
+Old memory told him the rest, because old memory did not soften anything.
 
-He did not run from that. The body had a wife, as this world counted such things. He would not pretend otherwise, and he would not use it as a claim, either. Under the guilt, and under an attraction he did not trust, something quieter sat — patience, and one line he would not cross. Whatever she became in the years ahead, whatever she chose, he would never be the hand that ended her. That was not generosity. It was the one part of himself he fully recognized.
+She had been taken back to her room, and she was carrying a child.
 
-His body felt wrong, like a room after fifty years with the windows shut. Fifty years of impurities sat in the blood and the bone. The bloodline was not pure. The rings were not fully his. The bones were not fully his. Soul power lay in him scattered, a lake that had never once been allowed to sit still. He was ninety-five, and not a clean ninety-five at all.
+And he knew that child. He knew her out of a book, from a lamp and a long winter, a story that had hurt to read and hurt more to put down. A daughter raised in hiding, taught duty instead of affection, sent toward an inheritance far heavier than she was, and given a grandfather who would burn himself alive to open the door for her. He knew what she would be wearing at the end of it, and what it would cost her, and what would be left of her afterward.
+
+She did not know any of that. She was not born yet.
+
+He had not done the thing that had been done in this room. The other life had never laid a hand on anyone, single and careful and content. But the body had done it and the memory had kept it, and both of those were his now, which made the debt his as well.
+
+He did not try to argue his way out of that.
+
+The body had a wife, as this world counted such things, and he would not pretend otherwise — but he would not use it as a claim either. Under the guilt, and under a pull he did not trust and had no intention of acting on, something quieter was sitting. Patience, and one line he would not cross.
+
+Whatever she became in the years ahead, whatever she chose or did to him or to anyone else, he would never be the hand that ended her.
+
+That was not kindness. It was the one part of himself he recognised without having to think about it.
 
 He called for Ghost and Chrysanthemum.
 
-They came fast, black and gold, and knelt. Ghost's face was hidden. Chrysanthemum's eyes were quick. Twenty years, the two of them, at the old Pope's back — they knew his voice when it was angry and when it was tired, like hounds know a step on gravel.
+They came quickly, black and gold, and knelt on the cold floor. Twenty years at the old Pope's back, the two of them, and they knew his voice when it was angry and when it was tired.
 
-This voice was neither. This voice was calm. It belonged, they would say later among themselves, to a body that had set something down.
+This voice was neither.
 
-"One month of seclusion," he said. "No disturbances. Hall matters go to the Elder Hall and the Worship Hall. The Saintess is to be kept safe. No punishment. Her needs provided. Give her space."
+"One month of seclusion," he said. "No one enters. Hall business goes to the Elder Hall and the Worship Hall in the ordinary course, and nothing waits on me."
 
-Ghost glanced at Chrysanthemum. Chrysanthemum frowned half a finger's width and then smoothed it away. Keep her safe. No punishment. The old Pope would have said harsher things and meant them harder.
+Ghost's face did not move. It never moved.
 
-Chrysanthemum opened his mouth, and closed it, and bowed lower than he had bowed in years.
+"The Saintess is to be kept safe. No punishment. Her needs provided, and the yard if she wants it."
 
-"Yes, His Holiness," they said.
+Chrysanthemum's brows went up a finger's width and came down again. Ghost glanced at him, and the glance said what neither of them would say out loud: the old Pope would have ordered harder things and meant them harder, and there was no version of last night that ended in the yard.
 
-They did not ask why. It was not loyalty's business to ask. But they noticed the difference — anyone would have noticed the difference — and that, he thought, was only natural.
+"Yes, Your Holiness," they said together.
 
-He walked alone to the secret chamber deep under the Worship Hall, into his father's domain. Qian Daoliu was ninety-nine, a Limit Douluo, the Angel God's guardian and his own oldest measure. His father would notice the change before anyone else. His father had always noticed, even in the years when all there was to notice was failure.
+They did not ask why, because it had never been their business to ask and twenty years had taught them that thoroughly. But they noticed, and anyone would have noticed, and he thought the world was permitted to notice.
 
-He sat cross-legged under the low light. Behind his back, the six wings showed faint and dim gold. He closed his eyes, and let the work begin.
+Then he went down alone, under the Worship Hall, into his father's domain.
 
-First three days: impurities.
+Qian Daoliu was ninety-nine. A Limit Douluo, one of three alive on the whole continent, the other two being a man on Haotian Peak and a woman on an island out in the sea. The Angel God's guardian, and his father, and the oldest measure he had of anything.
 
-Black sweat came out of him, and foul blood, and the smell of it was old. Heat rose off his skin, and cold chased the heat, and he breathed through both. He held on to the shape of what he was doing. From the other life he knew the shape of what he was making: a center, solid, turned out of a man's own power. Later ages would carry such things. This age had none, and his would be the angel's version of one. He did not hurry. Hurry was for people with nothing to wait on.
+His father would notice the change before anyone else did. He had always noticed, even in the years when there was nothing at all to notice except failure.
 
-Next seven days: bloodline.
+He sat down cross-legged under the low light, folded his hands in his lap, and began.
 
-The wings behind him brightened as the days went. Dim gold first, then gold with white running through it, then white-gold, feathers laid along light. Heat sat in his chest and moved in his blood. The Angel God's blood ran better in him than it had in fifty years — not divine, he was no god, but purer, closer to the thing the old blood had only ever been a rumor of.
+Three days went to the impurities.
 
-Next ten days: rings.
+Black sweat came out of him and foul blood with it, and the smell of both was old. Heat rose off his skin and cold chased the heat, and he breathed through the one and then the other. Fifty years of a body kept busy with other matters, and it gave up its filth slowly, in stages, like a man paying a debt he had stopped counting.
 
-Nine of them — two yellow, two purple, five black — had hung around him for years like guests who never sat down. Now they sank in. There was pain, and after the pain a relief so deep it was almost grief, and then the rings were part of the body and not light hung outside it. When he breathed, they breathed.
+He did not hurry. There was nothing to hurry toward that would not still be there tomorrow.
 
-Next five days: bones.
+Seven days went to the blood.
 
-Of the Angel set he had owned two pieces — head and torso, ninety-nine thousand nine hundred and ninety-nine years apiece, uncounted time spent waiting to be worn. They went in as the rings had: pain first, then relief, then a strangeness like remembering a limb he had never had. His body came out tougher, his meridians wider, his bones denser. The two pieces were no longer armor. They were him. Standing felt lighter. Sitting felt rooted. And one thing more: they had come to him one year short of the hundred-thousand mark, and the perfect absorption carried them across it — a hundred thousand years each, worn all the way through.
+The wings behind his back brightened as the days went on. Dim gold first, then gold with white running through it, then white-gold with the feathers laid along the light. The Angel God's blood ran better in him than it had run in fifty years — not divine, because he was no god and he meant to stay honest about that, but purer, and closer to the thing the old blood had only ever been a rumour of.
 
-Last five days: the core.
+Ten days went to the rings.
 
-He used what the other life had given him. In the age to come a soul core arrived at the Titled wall if it arrived at all — ninety and upward — and the books remembered exactly one man who had carried his first core before that, at seventy-six. In this era nobody carried one. No exception had ever been made in front of the world's eyes. He was going to be the first.
+Nine of them had hung around him for years, two yellow and two purple and five black, light worn on the outside of the body like company that never once sat down.
 
-He began the compression. It asked for spiritual power first, and his spirit gave it — wide as a sea and deeper, past the abyss where most men stop, into the range the books had a name for and this world did not. Soul power, liquid, packed and pressed toward solid.
+Now they went in.
+
+There was pain, and after the pain a relief so deep it came close to grief, and then the rings were part of him instead of decoration. When he breathed, they breathed with him.
+
+Five days went to the bones.
+
+Of the Angel set he had owned two pieces, head and torso, ninety-nine thousand nine hundred and ninety-nine years apiece, an uncounted time spent waiting to be worn by somebody. They went in as the rings had gone in — pain first, then the relief, then a strangeness like remembering a limb he had never actually had.
+
+His body came out tougher and his meridians wider and his bones denser than they had been. The two pieces were not armour any more; they were him. Standing felt lighter. Sitting felt rooted.
+
+And one thing more, which he noticed on the fourth day and wrote down in his head: they had come to him one year short of the hundred-thousand mark, and the perfect taking of them had carried them across it. A hundred thousand years each, worn all the way through.
+
+Five days went to the core.
+
+He used what the other life had given him, and he did not hesitate over the using of it, because hesitation is a luxury for men who have not read the ending.
+
+The compression asked for spiritual power before it asked for anything else, and his spirit gave it.
+
+It was wide. Wide as a sea and deeper than a sea, past the depth where most men stop for good, and into a range he could only name inside his own head, in the words of a book that would not be written for twenty thousand years. The world he stood in had no word for it and no instrument that could have measured it. He knew what he was because he had read it, and he was the only man alive who did.
+
+Soul power went liquid, and packed, and pressed toward solid.
 
 A vortex opened in front of his chest.
 
-It was gold, not black. White-gold ripples turned around it, and inside the ripples, faint and far, six wings and a pupil like a seraph's eye — and the vortex drank. Soul power poured in until most of what he held was gone. His breath came short. His blood ran hot. It was not burning. It was like being pulled down a long well of light by a rope that was also light.
+It was gold and not black, with white-gold ripples turning around it, and inside those ripples, faint and far off, six wings and a pupil like an eye. And the vortex drank. Soul power poured into it until most of what he held was gone, and his breath came short, and his blood ran hot.
 
-The domain let go on its own.
+It was not burning. It was being pulled down a long well of light by a rope that was made of the same light.
 
-Brilliant golden radiance came off him and filled the chamber. It covered the stone and climbed the statues and turned the air thick and warm. This was the Seraphim's innate domain, and he knew it from the other life like he knew his own hands. Inside it, his power ran stronger. It slowed what stood against it, and settled what stood at its center, and where death-aura pressed in, the domain washed it out. It cleansed.
+Then the domain let go of its own accord.
 
-Out in the Worship Hall, an old man felt it.
+Golden radiance came off him and filled the chamber, covered the stone, climbed the statues, and made the air thick and warm. This was the Seraphim's own domain, the Angel Domain, which the blood comprehends and nothing else in the world can. Inside it his power ran stronger, and what stood against him ran slower, and what stood at the centre of it went still. Where death-aura pressed in against it, the domain washed the death-aura out.
 
-Golden Crocodile Douluo opened his eyes in his own hall. He was ninety-eight, one step from the final wall, second in the Hall behind Qian Daoliu alone, and his face carried scars older than most of the men who served under him. The holy aura coming off the Worship Hall was dense and heavy, like the Seraphim line at its best — heavier than that, in truth. He rose. He walked to the window and stood a long moment, looking at nothing at all.
+It cleansed. That was the whole of the thing, and it had no second meaning.
 
-"That boy," he said at last. "What did you do?"
+Out in the Worship Hall an old man opened his eyes.
 
-He had lived ninety-eight years and had never seen a soul core. No one in this era had. He had no word for what he was feeling from across the courtyard; he only knew it was strength — real strength, more of it than the Hall's second man had any comfortable place to put. An old warrior's respect woke in him and pointed itself at whatever had just happened, and under the respect, patient and natural, sat a wanting to learn. He would ask. Later.
+Golden Crocodile Douluo was ninety-eight, one step from the last wall, and second in this Hall behind Qian Daoliu alone. His face carried scars older than most of the men who served under him.
 
-Farther in, in the Angel statue hall, Qian Daoliu turned his head.
+The holy aura coming off that chamber was dense and heavy, heavier than the Angel line had ever run in his memory, and he got up and walked to the window and stood a long time looking at nothing at all.
 
-Ninety-nine. Limit. The Angel God's guardian for fifty years, the Eight Trials of the Angel behind him. He had felt the aura too — and it was pure. White-gold. Not the dim gold of a son who had spent half a century failing to be anything but a Pope. Purer than that. Closer.
+"That boy," he said at last. "What have you done."
 
-He closed his eyes, and behind his eyelids the vortex turned: gold, ripple on ripple, wings faint inside it, and a pupil like an eye.
+He had lived ninety-eight years and had never once felt anything like it, and he had no word for what he was feeling from across a courtyard. He knew only that it was strength — real strength, more of it than the Hall's second man had any comfortable place to put.
 
-His son.
+An old warrior's respect woke in him and pointed itself at a closed door, and under the respect, patient and entirely natural, sat a wanting to learn.
 
-Fifty years of impurities he had watched with his own eyes. Fifty years of the wrong path — power plays and hunting and wanting things — and now something new hummed behind the chamber door.
+He would ask. Later.
 
-He walked to that door and did not open it. He stood outside with his hands behind his back and listened to the light.
+Further in, in the hall of statues, Qian Daoliu turned his head.
 
-Finally awakened, he thought. Finally on the Angel's path. Not the Pope's path. The Angel's.
+Ninety-nine. Limit. The Angel God's guardian for fifty years, with the Eight Trials of the Angel behind him. He had felt the aura too, and it had been pure — white-gold, and not the dim gold of a son who had spent half a century failing to be anything except a Pope.
 
-He did not knock. He was an old man, and he knew the value of a threshold left uncrossed. He turned, walked back to the statue, and sat down again. Somewhere under the stone face of him, hope moved — real hope, the first in half a century — and he let it move.
+He closed his eyes, and behind his lids the vortex turned: gold, ripple upon ripple, wings faint inside it, and a pupil like an eye.
 
-Inside, the vortex compressed the last of itself. Liquid went to solid. A center.
+*His son.*
 
-Then the light fell from above.
+Fifty years of impurities he had watched with his own two eyes. Fifty years of the wrong road — the hunting, and the wanting, and the taking of things. And now something was humming behind that door which had never hummed there before.
 
-A pillar of golden light came down through the thick roof of the Worship Hall as though the roof were not there, and the sun leaned in after it. It was heat without burning. It did not attack; it washed. Smaller pillars formed around the first, circling, holding — an array of light with him at the middle of it.
+He walked to the door and did not open it, and stood with his hands behind his back, listening to the light.
+
+*Finally*, he thought. *Finally on the Angel's road, and not the Pope's.*
+
+He did not knock. He was an old man, and he knew what a threshold left uncrossed was worth. He turned, walked back to the statue, and sat down again, and somewhere under the stone of his face hope moved — real hope, the first in half a century — and he let it move.
+
+Inside, the vortex closed on the last of itself. Liquid went to solid. A centre.
+
+And then the light came down from above.
+
+A pillar of gold came through the thick roof of the Worship Hall as though the roof had not been there, and the sun leaned in after it. It was heat without burning, and it did not strike so much as wash. Smaller pillars formed around the first, turning, holding, an array of light with him at the middle of it.
 
 The six wings came out full.
 
-Two wings until seventy, four until ninety, six after — the old rule of the bloodline, and his were unfolded now, white-gold, feathers like sun on water, the true body of the angel standing faint and golden behind his back. The rings turned slowly around the pillar, two yellow, two purple, five black, and the last of his soul power settled into the new center in his dantian. A core, turning, drinking the world's power in through channels too fine to see, and giving back strength and recovery on a scale the old body had never known. Somewhere past it, faint as a promise, an embryo of the second.
+Two wings until seventy, four until ninety, six after — the old rule of the blood, and his were open now, white-gold, the feathers like sun on water, the true body of the angel standing faint and enormous behind his back. The rings turned slowly around the pillar, two yellow and two purple and five black, and the last of his soul power settled into the new centre in his dantian.
+
+A core, turning. Drinking the world's power in through channels too fine to see, and giving back strength and recovery on a scale the old body had never known.
+
+And somewhere past it, faint as a promise, the beginning of a second.
 
 He opened his eyes on the last day of the month.
 
-The phenomena had faded by then, but the body they left behind was not a rumor. Holy light had gone steady in him. The six wings were brighter than they had ever been. The rings sat perfectly in him, and the bones had gone all the way in, and the core turned in his chest, warm as a banked fire, solid in his dantian. Ninety-six. One level, after thirty days — and worth more than any three levels the old man could have climbed, because the grade of the thing was different now. No soul master alive in this era had a core. He did. That was not a small luck, and he did not intend to spend it on small things.
+The light had faded by then, but the body it left behind was not a rumour. Holy light ran steady in him. The six wings were brighter than they had ever been. The rings sat perfectly, and the bones had gone all the way in, and the core turned in his dantian warm as a banked fire.
 
-He stood. The difference stood with him, in the bones of him, like air on a mountain.
+Ninety-six. One level in thirty days, and worth more than any three levels the old man could have climbed, because the grade of the thing was different now. No soul master alive in this era carried a core. He did.
+
+He stood up, and the difference stood up with him, in the bones of him.
 
 He walked out.
 
-Ghost and Chrysanthemum were waiting at the chamber mouth. They bowed — and their eyes came up quicker than court manners allowed.
+Ghost and Chrysanthemum were waiting at the chamber mouth, and they bowed, and their eyes came up quicker than court manners allowed.
 
-"His Holiness, you are... different," Chrysanthemum said. He had always been the one who said things. "The bloodline is purer. The holy light is stronger. There is a faint golden radiance around you. Purification?"
+"Your Holiness is different," Chrysanthemum said, because he had always been the one who said things. "The blood is purer. The holy light is stronger. There is gold around you. Purification?"
 
-Ghost said nothing. He did not have to. He could feel the domain's edge on his own skin — faint gold, the slowing, the washing-out of whatever mean thing sat nearby. That was not the old Pope. Whatever stood in the old Pope's robes, it was not the old Pope.
+Ghost said nothing, and did not need to. He could feel the edge of the domain on his own skin — faint gold, the slowing, the washing-out of whatever mean thing happened to be standing nearby.
 
-"I will need the elders for a while," he said. "I plan to make strict rules and end the corruption in the Hall. That is the first foundation."
+That was not the old Pope, and whatever stood in the old Pope's robes now, it was not the old Pope.
 
-Chrysanthemum glanced at Ghost. Strict rules, and corruption on the table — that touched many elders, and the kind of speech that cuts at corruption makes enemies in the same breath as it makes anything else. Some of the Hall's elders were corrupt, and everyone in the room would know it. The Hall's law was not the Pope's to bend, either: the elders together had voices that could unseat him if enough of them spoke as one.
+"I will need the elders for a while," he said. "I intend to write strict rules and end the taking in this Hall. That is the first foundation, and nothing else holds without it."
 
-Chrysanthemum hesitated — half a breath, no more. Then he bowed lower.
+Chrysanthemum glanced at Ghost.
 
-"Yes, His Holiness," he said, and Ghost nodded, and between the two of them it was settled that the elders would be called.
+Strict rules, and the taking said out loud in a corridor. That touched a great many seats in the round hall, because some of the elders there took offerings from the branch halls and sold soul-beast sightings to the highest purse, and every man in the ring knew exactly which seats the others meant.
 
-The Hall had a new weight at its center, and everything in the Hall would lean toward it or away from it, soon.
+And the law was not the Pope's to bend. Twenty elders, every one of them a Titled Douluo, and the Pope held three votes in that ring — three — and if enough of the others spoke in one direction they could unseat him. Everyone had read the same page of the same law.
 
-Next: Bibi Dong.
+Chrysanthemum hesitated for half a breath, and no more.
 
-The Saintess's room sat behind its locks under the old order's guard — kept safe from the world, watched until the birth, the child protected whether anyone wished to say so or not. He had let that order stand, because the child's safety was the one thing the old order had gotten right, and he had laid his own orders under it: no punishment, resources provided, space given.
+Then he bowed lower than he had bowed in years.
 
-He knocked. No answer. He opened the door anyway, quietly.
+"Yes, Your Holiness," he said, and Ghost nodded, and between the two of them it was settled that the elders would be called.
 
-She sat on the bed with her back to the wall and her knees pulled up, the blanket wrapped around her shoulders like a wall she could carry. There was hatred in her eyes — settled and clean, aimed at him — and there was less pain than there had been, because he had healed the body's injuries the day before, gently. She had taken that healing like a wall takes light: without moving.
+Next was Bibi Dong.
 
-He stopped in the doorway, three steps short of the bed. The distance was the point. In two lives he had never had anyone look at him with hatred, and he did not know how to talk to her, and he had decided not to pretend otherwise. His voice, when it came, was quiet and pitched low, the voice for a room with a hurt animal in it.
+Her room sat behind its locks under the old order's guard, kept safe from the world and watched until the birth, the child protected whether anybody wished to say so out loud or not. He had let that order stand, because it was the one piece of the old man's work he had no intention of undoing.
+
+He knocked, and got no answer, and opened the door quietly anyway.
+
+She sat on the bed with her back against the wall and her knees drawn up, a blanket wrapped around her shoulders. There was hatred in her eyes, settled and clean and aimed precisely at him, and there was exhaustion underneath the hatred, and she was not going to let him see the exhaustion.
+
+He stopped in the doorway, three steps short of the bed, and the distance was the whole point of stopping there.
+
+In two lives nobody had ever looked at him like that. He did not know how to talk to it, and he had decided some hours ago not to pretend otherwise.
 
 "You need to eat."
 
 She did not answer. She looked at the wall.
 
-He set the tray on the table by the door — not on the bed, not near her. Soup, bread, and a small bottle of pills for the body and the child neither of them had said out loud. Beside the tray, a small folded pouch: money for a safe house held quietly in the Qian name.
+He set the tray on the table by the door — not on the bed, and not near her. Soup, bread, and a small bottle of pills for the body and for the child that neither of them had said out loud. Beside the tray he put a folded pouch: money, for the things a guard would never think to fetch.
 
-"Resources will be provided," he said. "The guards outside are for safety, not punishment. No one enters without your permission except for food and medicine. If you need anything, tell them. If you want to walk in the courtyard, you may, with guards at a distance."
+"Resources will be provided," he said. "The guards outside are for safety and not for punishment. Nobody enters without your permission except for food and medicine. If you need anything, tell them. If you want the yard, it is yours, at a distance."
 
 Silence. She held the blanket tighter and did not look at him.
 
-He did not push. He was not owed answers, and she was not required to have words yet, and nothing that lived between the two of them was going to be solved by a speech at a doorway. He would come back. He would say little and keep doing the small things, and if she never spoke to him again for the rest of her life, that would be hers to choose.
+He did not push. He was not owed answers and she was not required to have words yet, and nothing living between the two of them was going to be settled by a speech delivered at a doorway.
+
+He would come back. He would say little, and stay a short while, and leave the door unlocked behind him, and he would keep doing that until one of those days meant something.
 
 He left, and closed the door with his own hand, softly.
 
-The guards straightened. He stood in front of them a moment while the words settled into orders.
+The guards straightened as he came out, and he stood in front of them a moment while the words settled into orders.
 
-"No one enters without her permission except for food and medicine," he said. "If she needs anything, provide it. If she wants the yard, allow it, at a distance."
+"No one enters without her permission except for food and medicine," he said. "If she needs anything, provide it. If she wants the yard, allow it, and stay at a distance."
 
-The two guards glanced at each other — the old orders had been harder, both of them knew it, neither of them said it. They bowed.
+Then he went out into the snow.
 
-"Yes, His Holiness."
-
-They would talk about it later, the two of them, and by the end of the week the Hall would have it too. That was fine. The Hall could have that one; there was no secret in mercy.
-
-He walked back to the Pope Hall through the evening.
-
-The desk waited where he had left it — stone and heavy, carved with the six wings, and behind it the angel statues stood with their swords down. His core was warm in his chest, the turning steady now like a second breath, and when he sat the chair felt smaller than it had a month ago. Or he felt larger, which was the same thing said rudely.
-
-He took up the brush.
-
-There was a book in his head that the continent did not have and could not have, because this world had spent a thousand years guessing at its own rules. Where the guesses were wrong, they were wrong expensively. Where they were right, nobody knew why. He had the why — from the other life, from pages, and from fifty years of the old Pope's hands and memory — and somewhere in the seclusion he had decided to write it down.
-
-The first book would be only the ground floor: what a martial soul truly is, what the grades are worth, how a ring should be chosen and what it costs the body to carry one. He would not write about the core. Not in the first book — there would be a right year for that, and this was not it. And beneath the honest reason he kept one more reason, folded small where no eye could reach it: a Hall that people believed in was a Hall that gathered a quieter and heavier kind of strength, slowly, year on year. He turned that thought over once and set it back where it lived, and did not write it.
-
-He wrote the first line.
-
-Martial Soul True Classification.
-
-The brush did not shake. He had fifty years of ways to hold a brush, and a world's worth of things that needed saying, and the night was long.
-
----
+The Hall had a new weight at its centre, and everything in the Hall would lean toward that weight or away from it, soon.
 
 ## Footer
 
-- **Ch01 v6 — "The Night After" — the R28 register pass, 2026-10-07.** **R28 pass (the author's register correction, applied here after Ch04 v5):** "physician" and "politics" were already out of this chapter; this pass took the rest of the same fault class — the European textures ("guests who never took their coats off", "in the manner of an old house"), the metaphor standing in for a fact ("patience laid like a floor under a flooded room"), the jargon F7 had already named ("a core of blood essence"), and four numbers that had no receipt anywhere: the general first-core age of ninety, the dragon-touched heir's fifty-nine, eighty percent of his power, thirty percent stronger. All are listed with their reasons in `foundation/NUMBER_LEDGER.md` §5. No beat added or removed; no lock moved.
-- **Chapter time:** the night of the assault and the month after — the seclusion (three days impurities · seven days bloodline · ten days rings · five days bones · five days core), then the first evening back at the desk.
-- **LAWS APPLIED:**
-  - **k01 style gate — Grey Wolf style.** Third person limited, past, place first; band held; no sentence over 60 words; no "the way" simile; dialogue kept low. Numbers at the foot of this block.
-  - **k02 — no system, no jargon, embodied only.** The talent is never named; the gains are breath, blood, bone, heat, light.
-  - **k03 — the night law.** The assault is "that thing / that night" only — no detail, no flashback. The healing is physical only: gentle holy light, never a pillar, never judgement. No memory wipe; nothing said to her about who he is.
-  - **k04 — phenomena.** Golden vortex · white-gold ripples · six wings and the angel pupil inside it · holy pillar from the sun · Angel Domain expansion · outer sensing (Golden Crocodile; Qian Daoliu) · six-wing manifestation.
-  - **k05 — stage crossing, five answers.** What changed: impurities out, bloodline purer, rings and bones all the way in, True Angel Core formed, 95→96. What caused it: one month of seclusion, the Adaptation Talent, meta knowledge of how a core forms. What he already had: level 95, divine martial soul, the canon ring set and two bones already his, very high spiritual power. What failed first: nothing is free — the pain and sweat are on the page. What remains: one level only; no precedent and no teacher (the era's first core); a core is not godhood.
-  - **k06 — measured claims.** Every number below printed by `tools/measure_chapter.py` at the pass.
-  - **k07 — naturally.** Nothing steered; Bibi Dong's road is not advanced, guessed, or decided by this chapter.
-  - **k10 — plain language.**
-- **Beats:** wake with both lives in one skull — the old Pope's death still down the years, the night left as "that thing" only; the debt taken, not dodged — the wife he counts as his, the three steps of distance set as a rule; Ghost and Chrysanthemum sent out with the new orders (safe-keeping, no punishment, space); the secret chamber under the Worship Hall — five stages written day by day; the vortex, the domain let go; Golden Crocodile at the window — "That boy. What did you do?"; Qian Daoliu at the door with his hands behind his back, the threshold left uncrossed; the pillar and the six wings, the core settled — "No soul master alive in this era had a core"; out to the two retainers ("The bloodline is purer... Purification?"); the first foundation told to the Hall — strict rules, corruption ended; Bibi Dong's room — tray, pills, the safe-house pouch, the distance kept; the desk at night — the first line of "Martial Soul True Classification," and the second reason folded small.
-- **Canon receipts:** Qian Xun Ji — 95 · 2Y 2P 5B · 6-Winged Angel · Pope · son of Qian Daoliu · teacher of Bibi Dong · killed by Bibi Dong after Tang Hao's injury (canon; held here as his private knowledge of an old death) [Baike Qian Xun Ji]; the night's canon consequence — the child, the guarded room [Baike]; the 6-Winged Angel — two wings to 70, four to 90, six after 90; flight; holy and fire; innate Angel Domain: brilliant golden radiance, 30% amplification, slow, purification, negation of death aura [Baike + Qian Daoliu/Abilities]; breakthrough phenomena as the donghua shows them — vortex, ripples, wings, pupil, light pillar from the sun, domain expansion, outer sensing [SL2 Ep126 receipt + Angel Domain + Judgement of Light]; soul cores are a later era's fact — first at 90 (SL2), 70+ (SL3); Blood Essence Core / Dragon Core — Tang Wulin, chest, age 59 [Soul Cores wiki + Tang Wulin table]; **era law, held**: no human in this era has a soul core — not Qian Daoliu at 99, not Golden Crocodile at 98; the Pope is the first [R7]; the fanfic scene of an elder watching a re-condensation (Soul Heavenly Emperor) is not canon and is not used; the Angel bones — head and torso, each 99,999 years, carried past the hundred-thousand mark by perfect absorption [POWER_LAW].
-- **OPEN_RULINGS flag — the Earth-name line:** the pass proposes "His name there had been Gaurav Meena; Càn Róng, if you wrote it in this world's letters." Both names kept; the "Chinese fantasy" phrasing gone. Author: strike or bless.
-- **PROPOSED (author may strike or keep):** Ghost and Chrysanthemum as the two retainers at his back, and the twenty years with them (placement and number kept from v1; no receipt yet); Chrysanthemum asking "Purification?"; the guards' glance; the chair-feels-smaller line; the closing line.
-- **History:** v1–v4 drafted 2026-09-27 (v3 superseded; v4 "Grey Wolf style"). The v3 file is archived in `_archive/2026-10-07_superseded/` with a marker — never edited. **v5 — this pass (R26, 2026-10-07):** the story kept whole; the foundation-note paragraphs removed from the body (their content restated in prose or moved to this footer); banned terms out of the body; canon line-checks applied (the Eight Trials; bone ages; both names on the Earth line).
-- **Word count (body):** 3,374 (measured at the R28 pass by `tools/measure_chapter.py`). **Metrics:** average 12.1w · median 10w · longest 53w · zero over 60; spoken dialogue 10 lines (3.0 per 1000w); the-way 0; jargon 0; bare 「 0. Band 2,400–3,400: **IN**.
+- **Ch01 v7 — "The Night After" — the full rebuild, 2026-10-07.**
+- **Why rebuilt:** the author's order *"Rebuild all chapters."* Fresh prose and structure, not a patch. v6 archived byte-preserved at `_archive/2026-10-07_superseded/Chapter_01_The_Night_After_v6.md`.
+- **Canon receipts:** rank 95 (Baidu Baike, Qian Xunji) · six-winged angel, divine-class beast soul, the topmost tier of martial soul (CANON_HARVEST B6) · Qian Daoliu 99, one of three Limit Douluo with 唐晨 and 波塞西 (B16, B18) · Golden Crocodile 98 (B2) · wings two-until-seventy, four-until-ninety, six-after (CANON_MASTER §7) · the Angel Domain comprehended by the blood and held by 千道流 at 99, so holding it at 96 is inside the pattern (B8) · twenty elders, the Pope's three votes, the ring's power to unseat him (B1) · the Douluo Hall admits only the dead (B1) · a core at the Titled wall, with the one receipted exception at seventy-six (NUMBER_LEDGER §5).
+- **His spiritual power** is ruled at **Spirit Domain, 灵域境, 20,000–49,999** (CANON_MASTER §14.4) and the chapter honours the era rule: in 2619 the ladder has no names and no instruments, so he names it only inside his own head.
+- **Design, tagged:** Gaurav Meena / Càn Róng · the month of seclusion and its five stages · the two Angel bones at 99,999 years carried across to 100,000 by perfect absorption · the second core's faint beginning · the one line he will not cross. **Struck by earlier rulings and absent here:** any teacher, any arms master, any invented swordsman — nobody hands him anything.
+- **Locks untouched:** R22 the far era · R23 Bibi Dong's road · R24 the secret · R27 and its five answers · Càn Róng awaiting strike or bless.
+- **Word count (body):** 3,157 (printed by `tools/measure_chapter.py` at the rebuild). **Metrics:** average 15.2w · median 12w · longest 48w · zero over 60; spoken dialogue 10 lines (3.2 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.
