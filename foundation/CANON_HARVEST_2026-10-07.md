@@ -833,3 +833,128 @@ twenty-odd years after our window, and its founder's masterpiece is forged by a
 smith who is alive right now. **The OC has read all of it.** What he does with
 the knowledge that a smith named 楼高 will one day die at a furnace for a
 lotus-shaped bomb is his, and is not decided here.
+
+---
+
+## B20 · SL2 (绝世唐门) — ten thousand years after our window
+
+Source: 百度百科 传灵塔 (18373325) · 轩梓文 (16379009) · 知乎 outline answers.
+
+**The world changed shape.** The **Sun Moon Continent collided with the Douluo
+Continent** and the old order broke into four nations: 日月帝国 Sun Moon · 天魂
+帝国 Heaven Soul · 斗灵帝国 Dou Ling · 星罗帝国 Star Luo.
+
+**魂导器 — soul tools.** Technology that partly *replaces* a soul master's own
+skills. The makers are **魂导师, ranked one to ten by the grade of device they
+can build.** The Sun Moon Empire is generations ahead of everyone.
+- **孔德明** — father of Sun Moon soul tools, tenth-grade, founder of 明德堂,
+  封号 银月斗罗. His super-device fired a beam at demi-god force.
+- **轩梓文** — ninth-grade, the first ninth-grade soul-tool master the original
+  continent ever produced; Tang Sect vice-master, head of its 魂导堂, and dean of
+  Shrek's tool faculty. His inventions: the all-terrain self-walking soul cannon
+  (which killed a 100,000-year beast in the beast tide), the **ring storage
+  device** (holds a ring for days), the sealed soul-power flask, humanoid
+  soul-armour, and the ninth-grade **冰极战神甲**.
+- The Sun Moon's **死神塔**, a tenth-grade device, killed several hundred Star
+  Luo soul masters in one shot. That is the gap the continent was facing.
+
+**魂灵 — soul spirits, the thing that replaced hunting.** After the beasts were
+hunted nearly to extinction, **Huo Yuhao found a way for a beast's soul to become
+a companion instead of a ring** — the master keeps cultivating, the beast keeps
+living. Only he knew the contract at first, so Shrek trained the first batch of
+spiritual-attribute masters and set the method loose across the continent.
+
+**传灵塔 — the Spirit Pagoda.** The regulatory body for soul spirits: it supplies
+masters with spirits and buys beasts longer lives. **Its staff are entirely
+spiritual-system soul masters (传灵师).** Tower master **玄老**; honorary tower
+master and founder **Huo Yuhao**.
+
+**Shrek split into a martial faculty and a tool faculty.** Its Sea God Pavilion
+master **穆恩** — a Limit Douluo carrying 光明圣龙 — on his deathbed ordered the
+academy to develop soul tools at full force, and the last thread of his soul went
+into the golden tree.
+
+**The bloodlines our story's people leave behind:** **唐雅**, Tang Sect's master,
+carries Tang San's blood with a 蓝银草 soul, 95 control-type, 封号 蓝银. **贝贝**
+descends from **玉小刚 and 柳二龙** with a 蓝电霸王龙 soul that becomes 光明圣龙
+once it fuses a spirit.
+
+**霍雨浩 in full:** souls 灵眸 (later 修罗之瞳), 冰碧帝皇蝎, and the 死灵圣法神;
+the **million-year 天梦冰蚕** spiritual ring; a 400,000-year ring and torso bone
+from the Tang Sect; **three quarters beast blood**; three souls; innate godhood;
+ninth-grade soul-tool master; the only success of the academy's extreme-soldier
+plan; and in the end the **first-class god of Emotion**.
+
+**And the beast side:** 兽神 帝天 was sealed in the sky by 穆恩's remnant soul and
+玄老 while the ten great ferocious beasts led the beast tide against the
+continent. Di Tian put the **黑龙逆鳞** on Huo Yuhao to watch him and cut him off
+from the God Realm.
+
+---
+
+## B21 · SL3 (龙王传说) — battle armour, mecha, and the Dragon God's children
+
+Source: 红袖百科 SL3 · maigoo SL3 setting page · novel ch503 · 起点/知乎 outlines.
+
+**The age:** soul-tool science has conquered the ocean and found two more
+continents. **Hunting beasts for rings is over — the Spirit Pagoda's man-made
+soul spirits replaced it**, and they are safe, growable, and the key to breaking
+bottlenecks. The beasts are all but gone, and the Beast King wakes in the Star
+Dou Forest's last pure land to take revenge.
+
+**锻造 — forging, the new profession.** Ranks: **百锻 → 千锻 → 灵锻 → 魂锻 →
+天锻.** 灵锻 gives metal spirituality, 魂锻 gives it life, 天锻 gives it
+consciousness and ability. Only metal forged to 千锻 or above can become battle
+armour, and only 灵锻 or above can fuse into a body.
+
+**斗铠 — battle armour. Eleven pieces:** head band · breastplate · left and right
+shoulder-and-upper-arm · left and right gauntlet-and-forearm · waist guard and
+battle skirt · left and right thigh · left and right greave-and-boot.
+
+**Four grades, and the ladder matters:**
+| Grade | What it does |
+| --- | --- |
+| **一字** | an attribute boost |
+| **二字** | releases a domain |
+| **三字** | carries a battle-armour domain |
+| **四字** | **near a divine artifact** |
+
+A set needs a forger, a designer and a soul master working together, which is why
+the forger's guild became a power in its own right.
+
+**机甲 — mecha,** graded white, yellow, purple, black, red. **Mecha and armour do
+not conflict:** the mecha sits outside and carries its own energy, the armour
+hides inside and runs on the master's own soul power. The best armour masters are
+also good mecha pilots.
+
+**唐舞麟 — Tang San and Xiao Wu's son,** left on the continent by the God Realm's
+time-space torrent and adopted. He woke with 蓝银草 and secretly carries the
+**Golden Dragon King's bloodline under eighteen seals** that Tang San set, with a
+thread of Tang San's own divine sense inside him called Old Tang. Every seal he
+breaks changes his body. He became a **神匠**, a ninth-grade forger.
+- Souls: **蓝银皇 + the Golden Dragon King bloodline.** Spiritual power:
+  **神元境.** Level **100, a true god with no god position.** 封号 **龙皇.**
+- Armour: god-grade four-word **金龙月语**, domain skill 鲜血金龙, sublimation
+  千龙复苏 — and before it, four-word 银龙舞麟.
+- Mecha: **无定蓝皇**, black-grade. Weapons: 白银龙枪 and the **龙神之心**, a super
+  divine artifact.
+
+**古月娜** — the Silver Dragon King, a split of the Dragon God, the beasts'
+shared lord, **tower master of the Spirit Pagoda**, and his wife. She killed
+herself for the continent's peace and he died with her; their hearts were pierced
+together by the Golden Dragon Spear and frozen in the extreme north.
+
+**云冥** — 99, a demigod, 封号 擎天, soul 擎天枪, spiritual power 神元境,
+four-word armour, the previous Sea God Pavilion master and Shrek's spiritual
+leader, Tang Wulin's godfather.
+
+**The SL3 Shrek Seven:** 唐舞麟 (蓝银皇 / Golden Dragon King) · 原恩夜辉 (泰坦巨猿
+and 堕落天使) · 乐正宇 (**神圣天使**, four-word 天言) · 谢邂 (光龙匕 and 影龙匕,
+later fused into 时空之龙) · 许小言 (星冰杖, later 星杖) · **叶星澜 (星神剑)** ·
+徐笠智 (包子, four-word armour with a 禁锢天地 domain).
+
+**For our pages:** the codex's withheld list names "the towers that would one day
+bargain for their souls" — that is the Spirit Pagoda, and this batch is its
+receipt. Nothing in it exists in 2619, and the beasts our OC's continent still
+takes rings from are, in twenty thousand years, the reason the towers had to be
+built at all. He knows how that story ends. He has not told anybody.
