@@ -103,8 +103,9 @@ Tang San 11 years away.
   | 61–70 | Soul Emperor |
   | 71–80 | Soul Sage |
   | 81–90 | Soul Douluo |
-  | 91–99 | **Titled Douluo** |
+  | 91–99 | **Titled Douluo** — sub-bands are **era-specific**, see below |
   | 100 | god |
+- **CORRECTED 2026-10-10 (F20) — the 91–99 sub-bands differ by era.** This file used to list 91–99 as one band, which is how a chapter came to be written without a breakthrough. Canon's own tables: **SL1 (斗罗大陆) 91–95 普通封号斗罗 / 96–98 超级斗罗 (called 巅峰斗罗 in SL1) / 99 绝世斗罗**; **SL3 龙王传说 and SL4 终极斗罗: 91–94 普通封号斗罗 / 95–98 超级斗罗 / 99 极限斗罗** (sub-split 准半神 / 半神 / 准神) **[Baike 魂师 + 封号斗罗 + 超级斗罗]**. **Rule: name no band in prose unless the era is fixed, and never assume SL1's bands carry to the later eras.** A ring is required **only at multiples of ten**, so 96→97 needs no ring; past 95 each level is measured in decades **[Baike 魂环 + qidian]**.
 - **Peerless Douluo** (99): the three great peak masters of the era — **Qian
   Daoliu, Tang Chen, Bo Saixi** [canon-baike].
 - **Cultivation is measured primarily by soul power rank**, but real strength
