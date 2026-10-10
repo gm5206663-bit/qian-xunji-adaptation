@@ -26,11 +26,11 @@ The token went into her hand in front of the hall, and the chair took her as a c
 
 "Three reasons, and I will give you all three because you are past the age of sugar." He sat down on the steps below the chair, which was where he found himself belonging now, and was not displeased about it. "The chair is a tool, and you are the only person alive who will never mistake it for a god. The hall needs a Pope who has been a victim of this hall, because the memory is the only lock that holds. And the third reason is that I am going into the trials, and I want the seat held by someone I would come home to."
 
-"The trials." She said it flat, as she said everything that frightened her. "Your father passed eight of the nine trials."
+"The trials." She said it flat, as she said everything that frightened her. "Your father walked eight of the nine."
 
-"And never passed the ninth, and lives on a hill with a statue and sixty years of patience." He looked up at her. "I am not taking the ninth trial. I am not asking you to believe that or fear it. I am telling you the level I mean to stop at, before I go in, so that afterwards you can hold me to it."
+"And never passed the ninth, and lives on a hill with a statue and sixty years of patience." He looked up at her. "I am not walking the ninth. I am not asking you to believe that or fear it. I am telling you the door I mean to stop at, before I go in, so that when I come out you can hold me to it."
 
-"Pass eight," she said. "Each one taken, each reward earned, and not one step onto the ninth. That is what I am holding you to."
+"Come out at ninety-nine," she said.
 
 "That is the whole plan."
 
@@ -58,9 +58,9 @@ The eldest of the four was in the courtyard within the hour, because news travel
 
 The courtyard went very still, as courtyards do when a decision walks into them.
 
-"I passed eight," Qian Dao Liu said. "Eight trials, eight rewards, and I have told you what each of the eight cost. The ninth is not a trial, it is the inheritance, and what stands behind it is not a level. You are ninety-seven with two cores in you and rings no record explains, and I have watched you for a year doing things the angels in that hall do not do." He turned the book a quarter turn, as if offering it back. "Tell me the truth. Are you going to take the ninth trial."
+"I walked eight," Qian Dao Liu said. "I have told you what the eighth felt like. The ninth is not a trial, it is a door, and what stands behind it is not a level. You are ninety-seven with two cores in you and rings no record explains, and I have watched you for a year doing things the angels in that hall do not do." He turned the book a quarter turn, as if offering it back. "Tell me the truth. Are you going to walk nine."
 
-"No," he said. "And I will tell you why I can promise that, which is the only promise of that kind anyone can honestly make. I am not hungry for what is behind the door. I have a chair I just gave away, a woman I intend to come home to, and a daughter on your shoulder who is going to need her father for sixty years. A man with those three things does not put his hand on the ninth. I am going to take eight trials, as you did — pass each level, take each reward — and come down this hill."
+"No," he said. "And I will tell you why I can promise that, which is the only promise of that kind anyone can honestly make. I am not hungry for what is behind the door. I have a chair I just gave away, a woman I intend to come home to, and a daughter on your shoulder who is going to need her father for sixty years. A man with those three things does not walk into a god's mouth. I am going to walk eight, as you did, and take what the eight give, and come down this hill."
 
 His father looked at him for a long moment.
 
@@ -76,7 +76,7 @@ She worked late. That was the first thing about being Pope that he had predicted
 
 She put the brush down at that and looked at him over the lamp. The red ring was quiet at her feet. The grey spider was asleep on its perch by the window, and Spirit City was doing its ten-thousand nightly sounds below them, and neither of them moved for a while, because there are sentences after which moving would be a mistake.
 
-"Three terms," she said finally. "You pass eight trials and you stop at the eighth. You come down that hill walking. And you come down it to me. Those are the terms of this expedition, and I am the Pope now, so they are not requests."
+"Ninety-nine," she said finally. "You come down that hill at ninety-nine, and you come down it walking, and you come down it to me. Those are the terms of this expedition, and I am the Pope now, so they are not requests."
 
 "Terms accepted," he said. "All three. Especially the third."
 
@@ -88,7 +88,7 @@ She put the brush down at that and looked at him over the lamp. The red ring was
 
 "You have decided correctly."
 
-"One more thing," she said. "I have started writing. The first volume is the hill — what the elders did there, what your father did there, and why you take the trials alone in the winter. It will not be flattering to read."
+"One more thing," she said. "I have started writing. The first volume is the hill — what the elders did there, what your father did there, and why you walk it alone in the winter. It will not be flattering to read."
 
 "Write it accurately," he said. "I have never once wanted a flattering copy of anything from you."
 
@@ -100,17 +100,13 @@ He walked up the hill before dawn with no cloak, because the cold had stopped ma
 
 Qian Dao Liu did not make a speech. He put his hand on the statue's foot and said one sentence in the old temple tongue that was not a prayer and not a command, and somewhere under the floor of the world a light came on.
 
-Around the statue, out of the stone floor of the great hall, nine pillars of light rose without a sound. Eight of them stood bright and even, patient as lampposts. The ninth, at the ring's far end, was not lit. It was not dark either. It was simply not a light, and had never been one, and the family's records had never once described it as anything else.
-
-"The Nine Trials," his father said. "Each one is a level, and each level carries its reward — I passed eight of them, and I have kept the account of what each one cost me and what each one gave me. The ninth is the inheritance. It does not light for effort or for blood. It lights for the one the Angel God has already chosen, and it has never lit in this hall."
-
 The angel's eyes opened. Not a trick of the dawn. The stone eyes opened, and the gold in them was the gold of a sun looked at through closed lids, and the great doors behind the statue, which the hall's own servants believed were a wall, came apart along a seam nobody had ever noticed, and beyond them was not a corridor.
 
 It was a hall with no walls, hung in a night full of stars, six golden pillars holding up nothing, and in the middle of it a smaller angel, grey, and before the grey angel a sword stuck in the floor, grey, six wings folded along the hilt.
 
 The light that came out of that door was cold and clean and enormous, and it lay along the floor of the great hall like water, and it waited.
 
-He did not step through the door. Not yet — that hall beyond the statue was the seventh trial's ground and the ninth's, and he had a promise about the ninth. He turned to the first pillar of light in his own father's hall, stood before it with his nine rings up and his eyes open, and stepped in.
+He stepped through, and the doors came together behind him without a sound, and the star-hall received him as deep water receives a stone. Nine pillars of light stood in a ring around the grey angel and its sword, eight of them near and patient and one of them far, far away at the ring's closed end, and the first pillar was already leaning against his shoulders like a hand made of weather. He walked into it with his nine rings up and his eyes open.
 
 "Eight," his father said, behind him. "The nine pillars will offer you nine. Remember what you promised, and remember that I am standing right here, and go."
 
@@ -118,8 +114,8 @@ He went.
 
 ## Footer
 
-- **Ch10 v2 — "The Second Chair" — 2026-10-10, corrected on the author's strike (F25/R35).** v1 archived byte-preserved. Struck from v1: *"Your father walked eight of the nine"* (diction and meaning — trials are LEVELS that are PASSED; 千道流 **passed eight考**), *"Come out at ninety-nine"* (no rank arrives by coming out of anything — her terms are rebuilt: pass eight, stop at the eighth, come down walking, come down to me), and the wrong geography (the nine考 light pillars rise in the great hall before the statue [B33b]; the star-hall beyond the statue is the seventh/ninth ground). Written to the author's beat (SERIAL_LOG row 13, ruling **R34**): *"he make her pope and go to his father and give method of forming soul' cores and pills for worship elders to breakthrough one or two level, while he go in angle god trials…"* This is the giving-away chapter; the trials are Ch11.
-- **Canon receipts used (B32/B33/B33b):** the trials are nine LEVELS with REWARDS — 千道流 passed eight考 and kept the account · the ninth考 is the inheritance, lit only for the chosen, never lit in this family · the 108-day kneeling precedent noted but not used (her penance, not his) · the **天使九考** — nine tests in a lotus, eight around one, administered by **千道流 before the angel statue** · **the true Angel Shrine reached through the statue** — the hexagonal hall in the star-field, six golden pillars, the grey angel and the **grey Angel Holy Sword stuck in the floor** [novel ch287] · **千道流 completed eight trials and never passed the ninth** — which is why "eight" is the promise the son makes and the father accepts · **the Pope holds three votes and roughly twenty Titled elders can depose — so they can confirm** (nineteen to one on the page) · the elder pills attenuated from canon's receipts (奇茸通天菊 +1 at a 39→40 wall; 八瓣仙兰 +5 and 绮罗郁金香 +6 at low levels) down to **one or two levels at Titled height**, built from the three unnamed herbs still standing in the basin plus re-bought whale gum (the gum's street price is still a brothel drug's — the coast has not learned).
+- **Ch10 v1 — "The Second Chair" — 2026-10-10.** Written to the author's beat (SERIAL_LOG row 13, ruling **R34**): *"he make her pope and go to his father and give method of forming soul' cores and pills for worship elders to breakthrough one or two level, while he go in angle god trials…"* This is the giving-away chapter; the trials are Ch11.
+- **Canon receipts used (B32):** the **天使九考** — nine tests in a lotus, eight around one, administered by **千道流 before the angel statue** · **the true Angel Shrine reached through the statue** — the hexagonal hall in the star-field, six golden pillars, the grey angel and the **grey Angel Holy Sword stuck in the floor** [novel ch287] · **千道流 completed eight trials and never passed the ninth** — which is why "eight" is the promise the son makes and the father accepts · **the Pope holds three votes and roughly twenty Titled elders can depose — so they can confirm** (nineteen to one on the page) · the elder pills attenuated from canon's receipts (奇茸通天菊 +1 at a 39→40 wall; 八瓣仙兰 +5 and 绮罗郁金香 +6 at low levels) down to **one or two levels at Titled height**, built from the three unnamed herbs still standing in the basin plus re-bought whale gum (the gum's street price is still a brothel drug's — the coast has not learned).
 - **The core-method book:** his own method, taught off his own body (R29 — the codex's crown), given as a single hand-written copy to the Worship Hall under 千道流's hand, **tested on no one, forced on no one** — the codex law (R25: story only) kept inside the gift. The fourth elder-line (*"four of them have been ninety-one for a decade"*) prices the pills honestly.
 - **R34's promise, on the page, before he enters:** *"I am not walking nine"* — the ninth door is named as a door he will not open, given for a reason that is character and not prophecy (F18 kept; R22 kept — the seat is not taken and not foretold). The father's canon price — burning himself as fuel [ch287] — is set up here (*"that is what the guardian is for"*) to be **refused** in Ch11.
 - **R32's romance, natural:** the lamp, the terms (*"you come down it to me… I am the Pope now, so they are not requests"*), and the line that closes the room. **Bibi Dong's elevation is her scene, not his gift** — she silences the eleven by standing, votes her own promotion into being, and promotes the honest dissenter. R23 inside R34: the chair is hers now, and what she does with it is unwritten.

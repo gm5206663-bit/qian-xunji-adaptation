@@ -704,3 +704,17 @@ others things."*
    not written it, so it is not written (R22). No one prophesies about it (F18).
    The trials take one winter: in at the first snow of 2620, down the hill when
    the ice runs, spring 2621.
+
+---
+
+## R35 — 2026-10-10 — the trial law (filed on the author's strike; supersedes the invented "pillar" model in Ch10/Ch11 v1)
+
+**The author, verbatim:** *"Your father walked eight of the nine. Seriously mistake in writing and meaning… his father receive 8th, there is level of trials, please check canon information, why you making without canon information"* · *"Come out at ninety-nine. This is serious mistake again"* · *"The first pillar was not a fight and not a vision. It was weight. What the hell, this is completely wrong"* · *"no rewards and anything like seriously there is limit of mistakes."*
+
+**Ruled (receipts: B33):**
+
+1. **The 天使九考 are nine LEVELS. A trial is PASSED, TAKEN, or CLEARED — never "walked."** 千道流 **passed eight trials** (通过前八考), and the ninth has never opened for anyone in the family.
+2. **Every trial has a REWARD, on the page.** Canon's own ladder prices them: the sixth考 lifts 千仞雪 89→90; the seventh考 gives the sword and a 神赐魂环 (90→92); the seventh考's space amplifies cultivation; the eighth考 is the great-jump考 (唐三's eighth考: 96→99).
+3. **Our ladder for him (97 entering), on the DONGHUA's own frame (B33b):** the first five考 carry the five named angelic domains — **第一考·命运 Fate, 第二考·智慧 Wisdom, 第三考·苦难 Suffering, 第四考·情感 Emotion, 第五考·奇迹 Miracle** (ep174 canon-donghua; the 梦/Dream domain belongs to the closed ninth考, whose obsession-illusions the novel shows) — each passed, each with its reward on the page: the granted-ring offer at the bottleneck has **no empty slot to fill** (nine rings, nine beasts), so the granted power **stores inside him**, counted, by canon's own bottleneck law (B31) · **sixth考 = one incense against 千道流 [novel-stated] → reward: 97→98** (千仞雪's +1 parallel) · **seventh考 = draw the Angel Holy Sword → reward: the sword**; the 神赐魂环 offer has no empty slot to fill (nine rings, nine beasts) and closes honestly · the space amplifies cultivation through the rest of the winter · **eighth考 = 审判世间罪恶, the three gates [novel]: a stranger's small evil, his own middle evil, and the great evil — 千道流's silence, canon-grounded ("明白自己儿子做的龌龊事…没有对比比东出手")** → passing it releases the **Angel Set**, and **absorbing the four bones takes him to 99** (the author's beat + 唐三's eighth-考 jump as receipt) · then the fusion (R34 unchanged: the law met by total, the father's fuel-offer REFUSED, armor, Holy Solar Core, Tri-Unity Method) · **the ninth考 = the inheritance, CLOSED and unwritten (R22/R34/F18).**
+4. **No rank arrives by "coming out" of anything.** 99 is the eighth考's bone reward, earned on the page. Bibi Dong's terms are rebuilt: pass eight, come down walking, come down to me — the level is not hers to demand.
+5. **Geography (B32+B33):** the trials are administered before the angel statue in the Worship Hall — **nine light pillars**; the seventh考 passes through the statue into the inheritance hall (hexagonal, star-field, six golden pillars, the grey angel, the sword in the floor).

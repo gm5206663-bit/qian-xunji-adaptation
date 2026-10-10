@@ -10,11 +10,14 @@ Simple names, one place each, receipt where the place is canon.
   [canon]
 - **The Angel Shrine (传承地) — through the statue [canon, novel ch287, B32;
   entered Ch11]:** the great angel statue in the Worship Hall is a door. Behind
-  it: a hexagonal hall floating in a star-field, six golden pillars, a grey
-  angel statue, and the grey **Angel Holy Sword** stuck in the floor. The nine
-  trial pillars stand in a ring — eight near, the ninth at the ring's far end,
-  **closed and unwritten** (R22/F18). 千道流 administers the trials before the
-  statue; he completed eight and never the ninth.
+  it, and the statue receives a body like water [novel ch287]. Inside: a
+  hexagonal hall floating in a star-field, six golden pillars, no walls,
+  feather-pattern engravings, a grey angel statue, and the grey **Angel Holy
+  Sword** stuck in the floor with a round transparent gem in its pommel. The
+  **nine考 light pillars rise in the great hall before the statue** (B33b), not
+  in this hall; the ninth考 — the inheritance — is **closed and unwritten**
+  (R22/F18). 千道流 administers the trials before the statue; he **passed eight**
+  and never the ninth.
 - **Worship Hall** — above the Pope Hall in standing; only Douluos qualify to
   enter. The deep **secret chamber** under it is where the one-month seclusion
   ran — the father's domain, quiet and guarded. [canon + Ch01]

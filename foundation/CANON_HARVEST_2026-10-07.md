@@ -1491,3 +1491,34 @@ perfectly fuse them and others things and then forming third holy solar core
 - **The solar element is canon's own Angel theme:** 太阳真火 in the sword · 圣光照耀 · 万阳凌天 (千仞雪's self-made skill at ninety — "ten thousand suns") · the armor drinks the sun. The author's **Holy Solar Core** is the element canon already hands the Angel line.
 - **Core locations [already receipted, POWER_LAW]:** the brows, **the chest**, the dantian — three canonical seats; 霍雨浩's three-core template by dantian [CANON_MASTER §2b]. His first core (True Angel) sits in the **dantian**, his second (sword) in the **spiritual sea between the brows** — so the third, the element core, takes **the chest**, and the three seats complete the tri-unity.
 - **Pope mechanics [already receipted]:** the Pope holds three votes; roughly twenty Titled elders of the Elder Hall can depose — so they can also confirm. Bibi Dong's elevation is an abdication-and-confirmation on the page.
+
+## B33 — 2026-10-10 — the Angel Nine Trials: levels, rewards, and the three judgment gates (post-strike canon check)
+
+**Sources:** 163/华为 same-article novel recap ("斗罗：同样是神考，唐三、千仞雪和比比东，魂力各提升多少级") · Zhihu 491822347 · Zhihu 438701688 story-line thread · Baidu 经验/知道 (nine light pillars) · Tencent news (donghua 349) · novel ch287 re-read.
+
+**The trials are LEVELS with REWARDS — the canon ladder, from the novel's own numbers for 千仞雪:**
+- 前五考内容原著未介绍 — **the first five考 are NOT described in the novel.**
+- 开启第六考时魂力 **89级**;开启第七考时 **90级左右** ⇒ **the sixth考 is worth about +1 level.**
+- **第六考 = 在千道流手中坚持一炷香 (文中有描述)** — hold out one incense stick against 千道流 [novel-stated].
+- **第七考 = 拔出天使圣剑** [novel-stated]. Reward: **a 神赐魂环 (god-granted ring)** — she absorbs it and **90 → 92**.
+- **神赐魂环 mechanic:** *"每一位黑级以上考核者可在魂力到达瓶颈时获得一枚神赐魂环"* — a black-grade+ examinee at a soul-power bottleneck receives one god-granted ring (马红俊 receipt: a 40,000-year granted ring at 60).
+- The seventh考's space **amplifies cultivation efficiency** (donghua analysis, 163) — levels gained between考s.
+- **开启第八考时魂力 95级. 第八考 = 审判世间罪恶, 三关:** 第一关审判**不乐的小恶** (a small evil) · 第二关审判**自己的中恶** (her own middle evil) · 第三关审判**千道流的大恶** (a great evil) [novel per 163 recap].
+- **千仞雪 opened the ninth考 at 99** — *"只有99级才有资格传承神位"* — only 99 qualifies for the inheritance; 99→100 only through the final考.
+- **第九考 = the inheritance**: her three obsessions (千道流's sacrifice / 比比东 / 唐三), the six Set bones melt (five already fused before, the torso bone during), 千道流 burns himself, she crosses 100 [ch287].
+- **唐三 parallel (the eighth考 is the great-jump考):** Sea God eighth考 — absorbing the Deep Sea Demon Whale King's energy took him **96 → 99 巅峰斗罗** [163].
+- **千道流's great evil, canon-grounded:** *"千道流虽然大怒，但也明白自己儿子做的龌龊事，同时不希望千仞雪失去母亲，于是没有对比比东出手"* — he knew what his son did and did nothing [story-line thread, canon summary].
+- Trials administered **before the angel statue in the hall; nine light pillars appear = the Nine Trials** [Baidu 经验/知道]. 千仞雪 knelt 108 days before the statue before the trials were granted.
+- Zhihu's 1–5考 ladder (pressure/combat/body/battlefield/duel-an-offering) is **explicitly marked 斗一中没有写过 — fanon reconstruction**, and its "第八考=absorb the Set bones" CONFLICTS with the novel's 审判三关; for 千仞雪 the bones fuse during the ninth考's inheritance. **Our story follows the author's beat (R34): he absorbs the bones inside the trials and reaches 99 — the eighth考's judgment gates are kept (novel), the Set released as the eighth考's reward (author + Tang San's eighth-考 jump as the receipt).**
+
+## B33b — 2026-10-10 — the trials in the OTHER media (donghua + manhua + novel ch287 full text)
+
+**Filed on the author's second strike:** *"What the hell, if they are in novel then check manhua donghua and others things"* — B33 said "the first five考 are not in the novel" and stopped there; the standing rule is EVERY MEDIUM. Checked: donghua (ep174 preview analysis, ep250 preview, episode recaps), manhua (ch349), novel ch287 full text.
+
+**Donghua (canon-donghua):**
+- 千仞雪 kneels **108 days** before the six-winged statue in the 斗罗殿, then 千道流 administers; **nine light pillars appear** — nine考 granted [ep174 arc + Baidu 经验].
+- **The nine考 are each governed by an angelic DOMAIN — nine angels, eight small icons around one great one (lotus):** 阿姆拉 **命运/Fate (first)** · 诃息 **智慧/Wisdom (second)** · 基德·鳞 **苦难/Suffering (third)** · 莫迪 **情感/Emotion (fourth)** · 犹大·辛多 **奇迹/Miracle (fifth)** · 瑰洱 **梦/Dream (sixth icon)** · three more unnamed [ep174 preview analysis, Sohu]. **This is the frame the early考 have on screen** — the novel does not contradict it because the novel does not detail the early考.
+- The donghua shows the seventh考's sword-draw and the **神赐魂环 → 92** landing [163 analysis]; she **completes the first eight考 relatively fast** [Qidian recap]; by ep250 she has finished the nine考 and ascends.
+**Manhua (ch349):** she enters the **天使神殿** under 千道流's guidance and sees the Angel Holy Sword — **drawing it is the precondition of finishing the trials.**
+**Novel ch287 full text (re-read):** the inheritance hall = **hexagonal, six golden pillars, floating in a star-field, no walls, feather-pattern engravings**; entry = **flying INTO the statue** (it receives like water); the grey statue, the dull sword with the **round transparent gem in the pommel**; the blood that feeds it is **"淡淡的粉色混合着淡淡的金色，带着几分清香" — pink mixed with gold, faintly fragrant (angel blood is not wholly human red)**; 千道流's exact price-words: *"有得总要有失，这是我注定的宿命。作为天使之神地守护者，我的存在，就是为了天使神诋的传承"* + his last ask: *"如果你遇到一个叫唐晨的绝世斗罗，一定要替爷爷击败他"*; the six Set bones appear from her body and the void, **melt to golden liquid, form a light-orb, slam into her**; her soul cracks and is held by three obsessions (比比东 / 千道流 / 唐三's harp illusion); the grey statue turns gold and embraces her; **"天使降临"**; the diamond gem on her forehead shatters into a six-winged brand.
+**Mechanics consolidated:** 神赐魂环 = granted ring for black-grade+ examinees **at a soul-power bottleneck** (马红俊: 40,000y ring at 60) · **第八考 is the great-jump考** (唐三: 96→99) · only **99** may enter the inheritance · the seventh考's space **amplifies cultivation**.

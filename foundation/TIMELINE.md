@@ -38,14 +38,20 @@ inside that window.
   **Pope** (19–1); the core-forming method + nine elder pills (+1–2 levels) go
   to 千道流 and the Worship Hall; **he enters the Angel God trials at the first
   snow**, promising eight, not nine.
-- **Winter 2620 → the thaw, spring 2621 — Ch11.** One winter inside the
-  star-hall: 97→98 under the fourth pillar; one incense against his father at
-  the sixth; the Angel Holy Sword (36,000 jin, 太阳真火) at the seventh; the four
-  Set bones → **99** at the eighth; the perfect fusion paid in his own blood
-  (father's fuel-offer REFUSED — 千道流 lives); **Angel Sacred Armor + Holy Solar
-  Core in the chest — tri-unity; the Tri-Unity Soul Core Forming Method named.**
-  The ninth door stays closed and unwritten (R22/F18). He comes down at the
-  thaw: **99 on the hill, 95 in the chair**, the child a year old.
+- **Winter 2620 → the thaw, spring 2621 — Ch11 (v2, rebuilt on F25/R35).** One
+  winter of the **Nine Trials — nine LEVELS, each passed, each with its reward
+  on the page** (B33/B33b): first five考 on the donghua's angelic domains
+  (Fate/Wisdom/Suffering/Emotion/Miracle), granted power stored at the
+  bottleneck (nine slots full, B31); **第六考 one incense against 千道流 →
+  97→98**; **第七考 the Angel Holy Sword** (36,000 jin, 太阳真火) through the
+  statue into the inheritance hall, space amplifying cultivation; **第八考 the
+  three judgment gates** (small evil / his own / 千道流's silence) releasing the
+  **Angel Set** → four bones → **99**; fusion paid in his own blood
+  (**the canon fuel-offer REFUSED — 千道流 lives**); **Angel Sacred Armor +
+  Holy Solar Core in the chest — tri-unity; the Tri-Unity Soul Core Forming
+  Method named.** The ninth考 has never lit and stays closed (R22/F18). He
+  comes down at the thaw: **99 on the hill, 95 in the chair**, the child a
+  year old.
 
 **What was wrong:** Ch03/Ch05 said *eleven months*, Ch04 said *nine months
 earlier*, Ch05/Ch06 said *a year*, and Ch06 still said *due in five weeks* — which
