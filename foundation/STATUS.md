@@ -9,8 +9,10 @@ fixed.
 - **Chapters (all live, all gate PASS, measured by `tools/measure_chapter.py`):**
   Ch01 "The Night After" **v8** 3,304w · Ch02 "The Codex" **v5** 2,513w ·
   Ch03 "The First Cut" **v3** 2,541w · Ch04 "The Second Core" **v7** 2,673w ·
-  **Ch05 "The Two Waters" v1** 3,395w (2026-10-09). Serial total **14,426w**.
-  Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0.
+  Ch05 "The Two Waters" **v4** 3,380w (rebuilt in the Ch04 register) ·
+  **Ch06 "The Colour of Gold" v1** 3,068w (2026-10-09). Serial total **17,479w**.
+  Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0, and all
+  three house metrics (avg 14–18 / med 11–14 / max <60) inside.
 - **Latest rulings in force:** **R30** (2026-10-09) — the well, the herbs, the
   un-knitting of the rings; all nine rings cross into **red at 100,000**, none
   reaches orange, and the cap is his blood, not a number. **R29** — the codex
