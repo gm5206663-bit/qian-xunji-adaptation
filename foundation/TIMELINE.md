@@ -41,12 +41,13 @@ inside that window.
 - **Winter 2620 → the thaw, spring 2621 — Ch11 (v2, rebuilt on F25/R35).** One
   winter of the **Nine Trials — nine LEVELS, each passed, each with its reward
   on the page** (B33/B33b): first five考 on the donghua's angelic domains
-  (Fate/Wisdom/Suffering/Emotion/Miracle), granted power stored at the
+  — the **nine angel CARDS** of donghua ep174, granted power stored at the
   bottleneck (nine slots full, B31); **第六考 one incense against 千道流 →
   97→98**; **第七考 the Angel Holy Sword** (36,000 jin, 太阳真火) through the
   statue into the inheritance hall, space amplifying cultivation; **第八考 the
-  three judgment gates** (small evil / his own / 千道流's silence) releasing the
-  **Angel Set** → four bones → **99**; fusion paid in his own blood
+  Judgment arc's mechanism** (small evil / his own ledger / the purgatory
+  demand — the refusal passes) releasing the **Angel Set** → four bones →
+  **99**; fusion paid in his own blood
   (**the canon fuel-offer REFUSED — 千道流 lives**); **Angel Sacred Armor +
   Holy Solar Core in the chest — tri-unity; the Tri-Unity Soul Core Forming
   Method named.** The ninth考 has never lit and stays closed (R22/F18). He
