@@ -650,3 +650,57 @@ you make it."*
    rings, Titled at eighteen" (v2). When the author corrects, restate the
    author's model and build THAT — do not invent facts to fit a guess about what
    the correction implies (F24).
+
+---
+
+## R34 — 2026-10-10 — the Pope's chair, the method to the hall, the trials, the Set, ninety-nine, and the third core
+
+> **EXECUTED 2026-10-10 — Ch10 v1 (2,469w) + Ch11 v1 (2,730w), both gate PASS. Serial 31,155w / 11 ch. Every ruled point is on the page; the ninth door closed and unwritten; 千道流 lives.**
+
+**The author, verbatim:** *"Next, he make her pope and go to his father and give
+method of forming soul' cores and pills for worship elders to breakthrough one or
+two level, while he go in angle god trials ,he absorb others angle god soul' bones
+to reach 99 level And perfectly fuse them and others things and then forming third
+holy solar core (element core) creating tri unity soul core forming method and
+others things."*
+
+**Ruled:**
+
+1. **He makes Bibi Dong Pope** — abdication and Elder Hall confirmation on the
+   page; the eleven who wanted the Saintess dead vote with their eyes on the
+   floor. Her road keeps moving because the AUTHOR keeps writing it (R23 stands
+   inside R34).
+2. **To his father he gives:** the **soul-core forming method** (his own, taught
+   off his own body, R29 — the codex's crown, guarded by the Worship Hall) and
+   **pills for the worship elders** built from the three unnamed herbs still
+   standing in the basin plus re-bought whale gum, worth **one or two levels**
+   each at Titled height (attenuated from canon's +5/+6 at low levels; 奇茸通天菊
+   broke a 39→40 wall for +1).
+3. **He enters the Angel God trials**, opened by 千道流 — the guardian who
+   completed eight and never passed the ninth. The trials lift him **97 → 99**
+   (canon-attested ladder: they carried 千仞雪 to a hundred and godhood); every
+   level is a station passed, never free.
+4. **He absorbs the four remaining Angel Set bones** (right arm, left arm, left
+   leg, right leg — the Angel God trials' exclusive rewards, already designed in
+   SKILLS_CANON) and **perfectly fuses the six**: all six cross 99,999 →
+   **100,000**, the Set melts into liquid gold and becomes the **Angel Sacred
+   Armor**, and the **Angel Holy Sword** (seventh trial, 36,000 jin, sun's true
+   fire) is his. **The law of the final bone — soul power at one hundred — is
+   spoken on the page and met honestly:** the Set's scales ask for a hundred and
+   find ninety-nine with two cores, the sun-sword in hand and the Angel God's own
+   blood, and after a moment like judgment they accept the weight. The cost is
+   the fusion itself: his soul cracks and he carries it ALONE — 千道流 offers
+   himself as fuel as canon's guardian did, and the son refuses: the father is
+   not fuel. 千道流 lives.
+5. **The third core: the Holy Solar Core, an element core, in the CHEST** — the
+   third canonical seat (brows, chest, dantian), born of the sun's true fire the
+   fused Set and the sword pour through him. **The tri-unity:** True Angel Core
+   (dantian, blood and purity) · Sword Core (spiritual sea between the brows,
+   spirit) · Holy Solar Core (chest, element) — three cores, three seats, one
+   turning. **He creates and names the method — the Tri-Unity Soul Core Forming
+   Method — and it goes into the codex**, grounded in 霍雨浩's three-core
+   template [CANON_MASTER §2b].
+6. **The ninth door stays closed.** He does not take the god seat; the author has
+   not written it, so it is not written (R22). No one prophesies about it (F18).
+   The trials take one winter: in at the first snow of 2620, down the hill when
+   the ice runs, spring 2621.

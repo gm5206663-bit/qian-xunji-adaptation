@@ -24,8 +24,28 @@ inside that window.
   **seven months**. The basin takes nine days. He comes home to a daughter
   **due in five weeks** — the cold breaks, the child is born, and canon's 2620
   holds.
-- **Month 7–8 — spring 2620 — 千仞雪 BORN.** Not yet written. Nothing pre-decides
-  her road beyond canon's birth (R22/R23).
+- **Month 7–8 — spring 2620 — 千仞雪 BORN. Ch07** (2,605w). Named in her second
+  month — **千仞雪, chosen by Bibi Dong alone, never explained, never asked
+  about** (Ch11, R23: the naming is the mother's). Nothing pre-decides her road
+  beyond canon's birth (R22/R23); canon's 2626 awakening undisturbed.
+- **Late spring 2620 — Ch08.** The immortal-herb pill; Bibi Dong packed to the
+  edge of ninety with five-or-six levels stored (B31); her first core; both
+  spiders in the world at the same hour.
+- **Early summer 2620 — Ch09.** The northern hunt; at ninety she absorbs the
+  red hundred-thousand ninth ring → **95, Titled at twenty**; the torso bone
+  fuses (Deep Water + The Long Breath). Child five months old.
+- **Early autumn 2620 — Ch10.** Return; the Elder Hall confirms Bibi Dong
+  **Pope** (19–1); the core-forming method + nine elder pills (+1–2 levels) go
+  to 千道流 and the Worship Hall; **he enters the Angel God trials at the first
+  snow**, promising eight, not nine.
+- **Winter 2620 → the thaw, spring 2621 — Ch11.** One winter inside the
+  star-hall: 97→98 under the fourth pillar; one incense against his father at
+  the sixth; the Angel Holy Sword (36,000 jin, 太阳真火) at the seventh; the four
+  Set bones → **99** at the eighth; the perfect fusion paid in his own blood
+  (father's fuel-offer REFUSED — 千道流 lives); **Angel Sacred Armor + Holy Solar
+  Core in the chest — tri-unity; the Tri-Unity Soul Core Forming Method named.**
+  The ninth door stays closed and unwritten (R22/F18). He comes down at the
+  thaw: **99 on the hill, 95 in the chair**, the child a year old.
 
 **What was wrong:** Ch03/Ch05 said *eleven months*, Ch04 said *nine months
 earlier*, Ch05/Ch06 said *a year*, and Ch06 still said *due in five weeks* — which
