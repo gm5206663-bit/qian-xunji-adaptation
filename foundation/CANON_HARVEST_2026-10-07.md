@@ -1419,3 +1419,22 @@ Four facts, each of which contradicts what I had written:
   run parallel to ordinary soul power was already in my own B25 and I never
   followed it to the ring.
 
+---
+
+## B29 · 鲸胶 Whale gum, the second martial soul, and the red ninth ring — collected 2026-10-10 on the author's beat
+
+Collected 2026-10-10 on the author's beat: *"he give Bibi dong pill and
+breakthroughs her and help her form Frist core, with that she can use both
+martial soul's together, and while give her Whale Rubber (Whale Gum)(that' he
+already collect in very large amount and quality knowing it's true worth) and
+spent time together with her, then take her for hunt 1 lakh years old soul
+beasts or higher for her."*
+
+- **鲸胶 whale gum [Baike 魂环, verbatim]:** *"王冬儿拥有顶级双生武魂，且从小服用鲸胶（**鲸鱼类魂兽大脑中所产出的一种特殊物质，服用后可以增强魂师的体质**），在20级就吸收千年魂环"* — a substance from the **brains of whale-class soul beasts**; it **strengthens the body**; Wang Dong'er took it from childhood and **absorbed a thousand-year ring at level 20.**
+- **The same Baike page legalises the over-limit ring:** *"理论上，只要一名魂师武魂、体魄、精神力足够强大，**哪怕第一魂环为十万年的都是可以的**"* — absorption limits turn on martial soul quality, physique and spiritual power; 玉小刚's table is wrong; **a hundred-thousand-year FIRST ring is possible in theory.**
+- **Red-ring rarity [same page]:** *"唐三崛起前，整个大陆，只有两三个十万年魂环"* — before Tang San the whole continent held **two or three** red rings, and a 100,000-year ring **carries two skills**, and above 100,000 each further 100,000 adds one gold streak, max nine.
+- **The second-soul precedent [SL1, ch-end era]:** **泰坦巨猿 became the Haotian Hammer's FIRST ring** at 100,000 (by willing sacrifice) and pushed Tang San through the Titled wall — a second martial soul may take great rings first, and the ring still lifts the level.
+- **Twin souls are two in the whole of SL1:** only **Tang San and Bibi Dong** (fanon receipts counted; used as era-colour, not law). 玉小刚's warning: rings on a second soul can **burst the body** — the risk is canon-shaped.
+- **The 100,000-year bone drop [already in SKILLS_CANON]:** killing a beast over 100,000 **guarantees a 100,000-year soul bone** for a part the killer lacks; 100,000-year bones carry **at least two skills**; bones fuse over years.
+- **The tribulation receipt:** at 100,000 years a beast chooses — transform and re-cultivate, or stay and take a **heavenly tribulation every 100,000 years.** A beast that has just come through its tribulation is the only hundred-thousand a pair of mortals may honestly kill.
+- **Bibi Dong's calendar [canon-baike via CANON_MASTER]:** dies at 55 in 2655 ⇒ **born ≈2600; she is twenty in 2620.** She is canon's **youngest Titled Douluo of her day** (disputed against Tang Hao at 44) and her final Death Spider Emperor set is **黄黄紫紫黑黑黑黑红 — the ninth ring red.** This story gives her that red ninth ring **at the wall of ninety, in 2620**, hunted with the Pope in the cold northern sea — which makes hers one of the continent's two or three red rings of the era.

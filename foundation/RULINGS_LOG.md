@@ -531,3 +531,47 @@ unclaimed, and two chapters.
   medicine home for the woman carrying his child; what she does with the fact is
   hers and is not pre-decided.
 
+---
+
+## R31 — 2026-10-10 — Bibi Dong's rise: the pill, the first core, the whale gum, the red ninth ring
+
+**The author's beat, verbatim:** *"Next, he give Bibi dong pill and breakthroughs
+her and help her form Frist core, with that she can use both martial soul's
+together, and while give her Whale Rubber (Whale Gum)(that' he already collect in
+very large amount and quality knowing it's true worth) and spent time together
+with her, then take her for hunt 1 lakh years old soul beasts or higher for her."*
+
+**Ruled, and how it is grounded:**
+
+1. **Her position:** Bibi Dong is **twenty** in 2620 (canon dies at 55 in 2655),
+   rank **89**, eight rings on the Death Spider Emperor
+   (黄黄紫紫黑黑黑黑), two years at the wall of ninety. **The wall of ninety
+   opens only for the ninth ring** — that is the law, so the pill does not fake
+   it; the pill and the core carry her TO the wall and make her able to survive
+   what comes through it.
+2. **The pill:** made from the rest of the **九品龙芝** (two-thirds of the fungus
+   left after the nine pregnancy pills) bound with refined whale gum. It takes
+   her to the razor edge of eighty-nine. **No free rank** (F15): the core raises
+   nothing, and the rank comes only with the ring.
+3. **The first core:** formed under his instruction — the second human core of
+   the era after his own. **The author's ruling:** with the core she can **run
+   both martial souls together.** Grounding: canon says a core refines and
+   compresses soul power and is the threshold of Titled; the twin souls have
+   always pulled one purse in two directions, which is why twin-souled masters
+   cultivate one soul; the core is the single furnace that feeds both. Story
+   precedent: his own two cores turning together at ninety-seven.
+4. **The whale gum (鲸胶):** he has been buying it for months through merchant
+   houses — the coast sells it as an aphrodisiac and nobody prices what it is:
+   body-strengthening, ring-year-raising **[B29, Baike receipt]**. Large amount,
+   high grade, refined before use. He gives her the working of it, not a lecture.
+5. **The hunt:** north, to the cold sea, to a **whale-class leviathan just past
+   one hundred thousand years and just come through its first heavenly
+   tribulation** — the only honest hundred-thousand two mortals may kill. Its
+   ring is her **ninth, and it is red**, which is canon's own ninth ring for the
+   Death Spider Emperor, and makes hers one of the two or three red rings the
+   continent holds before Tang San. It also drops the guaranteed
+   **100,000-year soul bone**.
+6. **R23 stands inside all of it.** These are the author's pages, not a
+   pre-decided road: what she DOES with the core, the ring and the freedom is
+   still unwritten, and the hatred is not dissolved — it is only, for the first
+   time, in the same room as something else.
