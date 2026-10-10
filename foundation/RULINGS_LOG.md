@@ -614,3 +614,39 @@ go he make from immortal hearb and others many things… What you even checking 
 5. **R23 note:** her road is still hers — but the author has now walked her onto it:
    stronger, choosing, and not alone. What she DOES with 98 and with him remains
    unwritten beyond the page.
+
+---
+
+## R33 — 2026-10-10 — the author's clarification: the pill carries her TO ninety, the ninth ring IS the hundred-thousand, and the landing is far past ninety
+
+**The author, verbatim:** *"Who said she was 'She is already 92, nine rings, Titled
+at eighteen'… Who said this. I am saying she was 90 of course at 90 she absorb 9th
+soul' ring, she reach after taking pill although more but ring was not, but what
+you make it."*
+
+**R33 corrects R32's second clause. The ruled sequence:**
+
+1. **Before the arc:** Bibi Dong is **89 with eight rings** (黄黄紫紫黑黑黑黑),
+   two years at the wall of ninety. Not Titled. The wall of ninety opens only for
+   the ninth ring, and *the ring was not there* — that is exactly why she is
+   stuck, and it is canon's own bottleneck law.
+2. **The pill** (八瓣仙兰 + 绮罗郁金香 + 幽香绮罗仙品 + refined whale gum +
+   honey) carries her **to the razor edge of ninety — "although more":** the
+   herbs hold five-to-six levels' worth of power, and by canon's own rule the
+   surplus **keeps accumulating at the bottleneck, unusable, until the ring is
+   obtained and expresses it** (B31 verbatim receipt). Nothing is wasted. Nothing
+   is spent for free: the pill buys no rank, it buys the flood.
+3. **At ninety she absorbs her NINTH ring — the northern leviathan's red
+   hundred-thousand** (her kill, her ring). The door opens and both floods come
+   through together: **89 → 95 on the page**, inside canon's three-to-six for the
+   ring alone plus the stored herb power expressed. **She becomes a Titled Douluo
+   at twenty — the youngest the continent has made — and it happens on the page,**
+   never in an invented past. The red ring is on the **Death Spider Emperor, her
+   ninth**, exactly where the author put it.
+4. **The bone stays as R32 ruled it:** the 100,000-year torso bone fuses in nine
+   days with **two usable skills** and a permanently remade body — never shelved.
+5. **The romance stays as R32 ruled it:** natural, written, hers.
+6. **Struck and never to be repeated:** the fabricated history "already 92, nine
+   rings, Titled at eighteen" (v2). When the author corrects, restate the
+   author's model and build THAT — do not invent facts to fit a guess about what
+   the correction implies (F24).

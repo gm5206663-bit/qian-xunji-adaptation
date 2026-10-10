@@ -1453,3 +1453,22 @@ things… What you even checking canon."*
 - **The second martial soul takes 100,000-year rings FIRST [canon]:** 泰坦巨猿 became the **first ring of the Haotian Hammer**, granting 泰坦之锤 + 大地之力 — two skills, as every red ring does.
 - **Her rank before the absorption — the author's ruling, canon checked around it:** the novel **never states** when Bibi Dong reached Titled (fan estimates run 25–39 [fanon, context only]); what canon fixes is that she is the **youngest Titled Douluo of her day** (唐昊, 44, held the public record) and Pope at 34. **R32: in this story she is ALREADY 92 with nine rings on the Death Spider Emperor (黄黄紫紫黑黑黑黑黑, ninth ≈90,000y black, taken at eighteen — youngest Titled ever) BEFORE the pill.** The pill breaks her stagnation; the red ring on the Soul Devouring Spider Emperor and the 100,000-year bone are the great leap ON TOP of a Titled Douluo.
 - **Herb ledger, corrected (read Ch05 before writing, not after):** the six taken in 2619 are ALL SPENT — 朱砂莲+雪蚕+九品龙芝 went wholly into the nine birth pills (a ninth of the fungus EACH), the two poisons 八角玄冰草+烈火杏娇疏 were swallowed in the forging, 奇茸通天菊 was his own rank pill in Ch06. **Six still stand in the basin: 八瓣仙兰, 绮罗郁金香, 幽香绮罗仙品 + three unnamed — and he wrote down where every one grows.** Her pill is made from THOSE: 八瓣仙兰 (canon +5 for 奥斯卡) + 绮罗郁金香 (canon +6 for 宁荣荣) + 幽香绮罗仙品 (defeats all poisons — the safety in the surge), bound with refined whale gum and honey. He flies east and takes three of the six, and the cost to the unborn boy is acknowledged on the page.
+
+---
+
+## B31 — The wall stores what it cannot spend — receipt for the author's corrected sequence (2026-10-10)
+
+The author, verbatim: *"Who said she was 'She is already 92, nine rings, Titled at
+eighteen'… Who said this. I am saying she was 90 of course at 90 she absorb 9th
+soul' ring, she reach after taking pill although more but ring was not, but what
+you make it."*
+
+**The author's sequence:** she stands BELOW the wall (89, eight rings) · the pill
+carries her TO ninety — *although more*: the medicine holds power for five, six
+levels — *but the ring was not* there, so the wall holds · **at ninety she
+absorbs her NINTH soul ring — the hundred-thousand leviathan's red ring** — and
+the landing is far past ninety, never at it.
+
+- **Canon receipt for stored power [Baike 魂环, verbatim from this session's search]:** *"当魂师的魂力修炼到十的倍数的时候，如十级、二十级、三十级……就达到了瓶颈，不能继续突破（**此时如果继续修炼，魂力仍能增长，只是不能运用，得到魂环后能相应体现**）"* — at a bottleneck, soul power **keeps growing, cannot be used, and is expressed correspondingly once the ring is obtained.** The pill's surplus does not vanish at the wall; it waits behind the door and comes through with the ring. That is the mechanism of *although more*.
+- **Therefore the corrected numbers (R33):** before the arc **89, eight rings 黄黄紫紫黑黑黑黑, two years at the wall** · the immortal-herb pill packs her to the razor edge of ninety with **five-to-six levels' worth of power stored unusable behind the wall** · the red ninth ring (the leviathan, killed by her working) opens the door and **both floods come through together: 89 → 95**, six levels, on the page · the 100,000-year torso bone then fuses with two skills · she is a Titled Douluo at twenty — the youngest the continent has made — and it happens ON THE PAGE, not in an invented past.
+- **What v2 got wrong and is struck:** the invented history *"already 92, nine rings, Titled at eighteen"* — nobody said it, no file held it, it was fabricated to fit a misreading of the first correction. The red ring returns to where the author put it: **her ninth, on the Death Spider Emperor.**
