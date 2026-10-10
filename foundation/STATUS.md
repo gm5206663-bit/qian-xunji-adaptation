@@ -10,7 +10,7 @@ fixed.
   Ch01 "The Night After" **v8** 3,304w · Ch02 "The Codex" **v5** 2,513w ·
   Ch03 "The First Cut" **v3** 2,541w · Ch04 "The Second Core" **v7** 2,673w ·
   Ch05 "The Two Waters" **v4** 3,380w (rebuilt in the Ch04 register) ·
-  **Ch06 "The Colour of Gold" v1** 3,068w (2026-10-10). Serial total **17,479w**.
+  **Ch06 "The Colour of Gold" v2** 3,343w (2026-10-10, rebuilt whole for F18). Serial total **17,754w**.
   Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0, and all
   three house metrics (avg 14–18 / med 11–14 / max <60) inside.
 - **Latest rulings in force:** **R30** (2026-10-09) — the well, the herbs, the
