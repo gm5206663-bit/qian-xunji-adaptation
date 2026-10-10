@@ -655,7 +655,7 @@ you make it."*
 
 ## R34 — 2026-10-10 — the Pope's chair, the method to the hall, the trials, the Set, ninety-nine, and the third core
 
-> **EXECUTED 2026-10-10 — Ch10 v1 (2,469w) + Ch11 v1 (2,730w), both gate PASS. Serial 31,155w / 11 ch. Every ruled point is on the page; the ninth door closed and unwritten; 千道流 lives.**
+> **NOT EXECUTED — WITHDRAWN FROM THE PAGE 2026-10-10.** This ruling was carried by Ch10 and Ch11, and the author ordered both deleted whole (*"Delete both chapter's completely"*). They were struck three times on the trials first (F25) and then removed rather than patched a fourth time. **Nothing in R34 is on the page.** The story present ends at Ch09 (25,956w / 9 ch): he is still Pope, she is Titled at ninety-five and not Pope, he is at ninety-seven, the Angel Set's other four bones are not possessed, there is no third core, and the trials have not been entered. R34 stands as ruled DESIGN for whenever the beat is written; **R35 (the trial law) governs how.** Superseded chapter text is byte-preserved in `_archive/2026-10-10_ch10_v1|ch10_v2_DELETED|ch11_v1|ch11_v2|ch11_v3_DELETED/`.
 
 **The author, verbatim:** *"Next, he make her pope and go to his father and give
 method of forming soul' cores and pills for worship elders to breakthrough one or

@@ -26,7 +26,7 @@ inside that window.
   holds.
 - **Month 7–8 — spring 2620 — 千仞雪 BORN. Ch07** (2,605w). Named in her second
   month — **千仞雪, chosen by Bibi Dong alone, never explained, never asked
-  about** (Ch11, R23: the naming is the mother's). Nothing pre-decides her road
+  about** (R23: the naming is the mother's — ruled, not yet on the page). Nothing pre-decides her road
   beyond canon's birth (R22/R23); canon's 2626 awakening undisturbed.
 - **Late spring 2620 — Ch08.** The immortal-herb pill; Bibi Dong packed to the
   edge of ninety with five-or-six levels stored (B31); her first core; both
@@ -34,25 +34,13 @@ inside that window.
 - **Early summer 2620 — Ch09.** The northern hunt; at ninety she absorbs the
   red hundred-thousand ninth ring → **95, Titled at twenty**; the torso bone
   fuses (Deep Water + The Long Breath). Child five months old.
-- **Early autumn 2620 — Ch10.** Return; the Elder Hall confirms Bibi Dong
-  **Pope** (19–1); the core-forming method + nine elder pills (+1–2 levels) go
-  to 千道流 and the Worship Hall; **he enters the Angel God trials at the first
-  snow**, promising eight, not nine.
-- **Winter 2620 → the thaw, spring 2621 — Ch11 (v2, rebuilt on F25/R35).** One
-  winter of the **Nine Trials — nine LEVELS, each passed, each with its reward
-  on the page** (B33/B33b): first five考 on the donghua's angelic domains
-  — the **nine angel CARDS** of donghua ep174, granted power stored at the
-  bottleneck (nine slots full, B31); **第六考 one incense against 千道流 →
-  97→98**; **第七考 the Angel Holy Sword** (36,000 jin, 太阳真火) through the
-  statue into the inheritance hall, space amplifying cultivation; **第八考 the
-  Judgment arc's mechanism** (small evil / his own ledger / the purgatory
-  demand — the refusal passes) releasing the **Angel Set** → four bones →
-  **99**; fusion paid in his own blood
-  (**the canon fuel-offer REFUSED — 千道流 lives**); **Angel Sacred Armor +
-  Holy Solar Core in the chest — tri-unity; the Tri-Unity Soul Core Forming
-  Method named.** The ninth考 has never lit and stays closed (R22/F18). He
-  comes down at the thaw: **99 on the hill, 95 in the chair**, the child a
-  year old.
+- **Everything after Ch09 is UNWRITTEN.** Ch10 and Ch11 were deleted whole on
+  the author's word (2026-10-10, *"Delete both chapter's completely"*), so the
+  clock stops at early summer 2620 with the child five months old. R34's beat —
+  the Pope's chair, the method and pills to the Worship Hall, the Angel God
+  trials, the fusion, the third core — is ruled design and sits ahead of the
+  story, not inside it. R35's trial law governs how it gets written when it is.
+  Do not treat any autumn-2620-or-later event as having happened.
 
 **What was wrong:** Ch03/Ch05 said *eleven months*, Ch04 said *nine months
 earlier*, Ch05/Ch06 said *a year*, and Ch06 still said *due in five weeks* — which

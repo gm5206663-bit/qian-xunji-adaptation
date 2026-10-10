@@ -9,40 +9,49 @@ fixed.
 - **Chapters (all live, all gate PASS, measured by `tools/measure_chapter.py`):**
   Ch01 "The Night After" **v8** 3,304w · Ch02 "The Codex" **v5** 2,513w ·
   Ch03 "The First Cut" **v3** 2,541w · Ch04 "The Second Core" **v7** 2,673w ·
-  Ch05 "The Two Waters" **v4** 3,380w (rebuilt in the Ch04 register) ·
-  **Ch11 "The Ninth Door" v3** 3,399w (2026-10-10, rebuilt twice on the author's strikes — F25/R35/B33/B33b/B33c) — the trials as the donghua actually shows them: the **NINE ANGEL CARDS** of ep174 (emblems on the page), each考 passed with its reward — granted power stored at the bottleneck (no empty slot, B31), **第六考 one incense against 千道流 → 97→98**, **第七考 the Angel Holy Sword** through the statue into the inheritance hall, **第八考 the Judgment arc's mechanism** (the small evil, his own ledger, then the demand to send the guardian into purgatory — **the refusal passes the考**, canon's own correct answer) releasing the **Angel Set** → four bones → **99** — then the fusion (law met by total, **the canon fuel-offer quoted and REFUSED — 千道流 lives**), the **Angel Sacred Armor**, the **Holy Solar Core in the chest (tri-unity)**, the **Tri-Unity Soul Core Forming Method** named; **the ninth考 has never lit and stays closed**. **Ch10 "The Second Chair" v2** 2,619w (corrected on the same strike) — Bibi Dong confirmed **Pope 19–1**; the core-forming method + nine elder pills (+1–2 levels) to the Worship Hall; he enters the trials at the first snow; her terms: **pass eight, stop at the eighth, come down walking, come down to me**. **Ch09 "The Cold North Sea" v3** 2,673w (third build on R33) — at ninety she absorbs her **ninth** ring, the leviathan's red hundred-thousand, and both floods land her **89 → 95 on the page**, Titled at twenty; the bone fuses with **Deep Water + The Long Breath**; she says **"our daughter"** first. **Ch08 "What the Sea Sold Cheap" v3** 2,870w (third build on R33) — 89 at the wall, the **immortal-herb pill** packs her to the edge of ninety with five-or-six levels **stored behind the wall** (B31), the first core puts both spiders in the world at once, and the romance is natural (R32). **Ch07 "The Cold Broke" v1** 2,605w — the birth, month 7 / spring 2620. Serial total **31,974w** over eleven chapters.
+  Ch05 "The Two Waters" **v4** 3,381w (rebuilt in the Ch04 register) ·
+**Ch09 "The Cold North Sea" v3** 2,673w (third build on R33) — at ninety she absorbs her **ninth** ring, the leviathan's red hundred-thousand, and both floods land her **89 → 95 on the page**, Titled at twenty; the bone fuses with **Deep Water + The Long Breath**; she says **"our daughter"** first. **Ch08 "What the Sea Sold Cheap" v3** 2,870w (third build on R33) — 89 at the wall, the **immortal-herb pill** packs her to the edge of ninety with five-or-six levels **stored behind the wall** (B31), the first core puts both spiders in the world at once, and the romance is natural (R32). **Ch07 "The Cold Broke" v1** 2,605w — the birth, month 7 / spring 2620. Serial total **25,956w** over nine chapters.
   Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0, and all
   three house metrics (avg 14–18 / med 11–14 / max <60) inside.
 - **Latest rulings in force:** **R34** (2026-10-10) — the Pope's chair, the method
   to the hall, the trials, the Set to 99, the fusion law met by total not rank,
   **千道流 lives (the fuel-offer refused)**, the third core = Holy Solar Core in
   the chest, the **Tri-Unity Soul Core Forming Method**, the ninth door closed
-  and unwritten. **R33** — her sequence: 90 at the ninth ring, 95 after. **R32** —
+  and unwritten. **R34 IS NOT EXECUTED ON THE PAGE** — the two chapters that
+  carried it were deleted whole on the author's word (2026-10-10, *"Delete both
+  chapter's completely"*); the ruling stands as design and the beat is unwritten
+  again. **R35** — the trial law: trials are LEVELS that are PASSED with REWARDS,
+  never "walked", and canon is checked in every medium before anything is called
+  silent. **R33** — her sequence: 90 at the ninth ring, 95 after. **R32** —
   romance is natural; immortal-herb pills. **R30** — red at 100,000, none orange.
   **R29** — the codex limited by strategy, never by knowledge. **F24** — never
   invent a history to fit a correction.
-- **Next:** Ch12, on the author's word only.
+- **Next:** **Ch10 — on the author's word only.** R34's beat (the Pope's chair,
+  the method and pills to the hall, the trials, the fusion, the third core) is
+  unwritten and waiting; nothing downstream of Ch09 is on the page.
 - **New (same day, on the author's question):** `NUMBER_LEDGER.md` — where
   every number on our pages comes from, in plain words: the canon ladder
   (1–99), the measured numbers (printed by the tool), the bookkeeping
   numbers (R-codes, k-codes, §s — mine, strippable), invention (tagged),
   and the honest weak spots.
 - **Next:** **Ch05 — on the author's word.**
-- **Story position (post-Ch11, spring 2621):** he has come down off the hill at
-  **ninety-nine** — Angel Sacred Armor on his bones, the Angel Holy Sword in his
-  hand, three cores (blood/sword/sun), the seam aching, the fire needing feed.
-  **Bibi Dong is Pope at 95**, confirmed 19–1 in the autumn, ruling from the
-  chair, writing her first volume of the hill. **千仞雪 is a year old**, named by
-  her mother alone. **千道流 is alive** — the canon fuel-price refused. The
-  core-forming method and the Tri-Unity method are in the hall's book; the
-  elder pills are ripening (four elders off the 91 wall). The ninth door is
-  closed and unwritten. **Ch04:** the winter of the sword — the second core formed in
+- **Story position (post-Ch09, early summer 2620):** **he is still the Pope, at
+  ninety-seven**, with **two cores** — blood in the dantian, sword between the
+  brows — and **two of the six Angel Set bones** (head and torso) at 99,999; the
+  other four are not possessed and the trials have not been entered.
+  **Bibi Dong is a Titled Douluo at ninety-five with nine rings — she is NOT
+  Pope**; the chair is still his. **千仞雪 is five months old**, and her naming by
+  her mother alone is ruled (R23) but not yet on the page. **千道流 is alive** at
+  ninety-nine on his hill, as he has been all along. Nothing from R34 has
+  happened: no confirmation vote, no method or pills given to the Worship Hall,
+  no third core, no Angel Sacred Armor, no fusion. **Ch04:** the winter of the sword — the second core formed in
   the sea between the brows (cold, turning against the warm first), the
   Worship Hall lights unclaimed for five nights, the Grand Worship at the
   threshold asking nothing; the year turned with the sum done — below the
   gods, he could not find the man for him, and that was his own count.
-- **Clock:** the story present is **spring 2621, the thaw** — ten years before
-  Tang San (born 11 January 2631). 千仞雪 born spring 2620 [canon]; her canon
+- **Clock:** the story present is **early summer 2620** — a little over ten years
+  before Tang San (born 11 January 2631). The clock stops here; nothing later is
+  written. 千仞雪 born spring 2620 [canon]; her canon
   awakening at six (2626) undisturbed.
 - **The far ends:** not pre-decided — Bibi Dong's road, the secret, the Tang
   San era (R22–R24). Write the present.
@@ -51,15 +60,14 @@ fixed.
 
 - Earth reader (lifelong, single — the author's own starting point) + all of
   Qian Xun Ji's memories; both are his (R1, R2).
-- Level **99** (Ch11); nine rings **2Y 2P 5B** (beast ladder) with the golden
-  blood-essence overlay; **all six Angel Set bones fused at 100k** → **Angel
-  Sacred Armor + the Angel Holy Sword** (36,000 jin, 太阳真火, seventh trial);
-  **three cores — tri-unity:** True Angel Core (dantian, blood) · sword core
-  (brows, spirit) · **Holy Solar Core (chest, element)**; the
-  **Tri-Unity Soul Core Forming Method** is his, written into the hall's book.
-  **Much stronger than a normal 99** — the era's only soul cores (R7, R13, R34).
-  Limitations on the page: the soul seam aches; the fire must be fed; the ninth
-  door stays closed (R22/F18).
+- Level **97** (Ch09); nine rings **2Y 2P 5B** (beast ladder) with the golden
+  blood-essence overlay; **two of the six Angel Set bones** (head, torso) at
+  99,999 — **the other four are NOT possessed**; **two cores:** True Angel Core
+  (dantian, blood) · sword core (brows, spirit). **There is no third core and no
+  Tri-Unity method on the page** — R34's Holy Solar Core and the method are ruled
+  design only. The era's only soul cores (R7, R13). Limitations on the page: the
+  un-knitting seam, the meridian opened at a cost, the domain that went out of
+  him and came back gold (Ch05).
 - Adaptation Talent, **Mortal Divine Level** — not True Divine; True Divine
   only when he is a God (R8). Never named in prose (R17).
 - **Second core (Ch04, R27; v4):** the winter's held cuts grew the thread

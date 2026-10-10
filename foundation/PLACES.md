@@ -9,7 +9,7 @@ Simple names, one place each, receipt where the place is canon.
   Hall. The OC's seat and desk; angel statues, high windows, light in shafts.
   [canon]
 - **The Angel Shrine (传承地) — through the statue [canon, novel ch287, B32;
-  entered Ch11]:** the great angel statue in the Worship Hall is a door. Behind
+  NOT YET ENTERED on our pages — the chapter that entered it was deleted]:** the great angel statue in the Worship Hall is a door. Behind
   it, and the statue receives a body like water [novel ch287]. Inside: a
   hexagonal hall floating in a star-field, six golden pillars, no walls,
   feather-pattern engravings, a grey angel statue, and the grey **Angel Holy
