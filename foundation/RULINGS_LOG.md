@@ -575,3 +575,42 @@ with her, then take her for hunt 1 lakh years old soul beasts or higher for her.
    pre-decided road: what she DOES with the core, the ring and the freedom is
    still unwritten, and the hatred is not dissolved — it is only, for the first
    time, in the same room as something else.
+
+---
+
+## R32 — 2026-10-10 — the author's correction: romance is natural, she is already Titled, and the gains must be worth what they are
+
+**The author, verbatim:** *"What the hell, you just restricted romance what that' is
+natural 😡… Are you kidding me just 90, that should already before absorbing, are you
+serious she absorb 1 lakh years old soul ring and soul bone… Where is hell the pills
+go he make from immortal hearb and others many things… What you even checking canon."*
+
+**Ruled:**
+
+1. **Romance between 千寻疾 and 比比东 is NATURAL and is to be written.** They are
+   the parents of his child; seven months of healing, honesty and presence have
+   happened. The CHARACTERS lock *"the hatred stays intact, no forced forgiveness"*
+   is **superseded to this extent:** the hatred may still be named, but it must not
+   be used to keep them cold. No more trades, no more doors sat outside, no more
+   *"I am not going to thank you"* as a wall. What grows between them grows on the
+   page, at her pace, initiated by her as often as by him. This is the author's
+   story and the author wants it.
+2. **She is ALREADY a Titled Douluo before the absorption:** rank **92**, nine rings
+   on the Death Spider Emperor, Titled at eighteen — the youngest ever, which is
+   canon's own title for her. The 100,000-year ring and bone do not open her wall
+   of ninety; they lift a Titled Douluo several ranks, the way 小舞's ring lifted
+   Tang San six levels and 大明二明's took him 85→90 (B30).
+3. **The pill is an IMMORTAL-HERB pill:** 八瓣仙兰 + 绮罗郁金香 + 幽香绮罗仙品 from
+   the basin, bound with refined whale gum and honey — not one leftover fungus. He
+   flies back to the well and takes three of the six he left standing, and the page
+   acknowledges what that costs the boy who is not born yet.
+4. **The leap, final numbers:** pill **92 → 95** (immortal herbs at her height,
+   attenuated from canon's +5/+6 at low levels, paid for in five days of burning);
+   the red first ring of the Soul Devouring Spider Emperor **95 → 98** (inside
+   canon's three-to-six range for a killed hundred-thousand); the 100,000-year
+   torso bone adds **two usable skills and a permanently remade body**, fused in
+   nine days under his light. She ends the arc at **98, twenty years old**, second
+   on the continent under 千道流's 99 — and beside the man at 97 who built the road.
+5. **R23 note:** her road is still hers — but the author has now walked her onto it:
+   stronger, choosing, and not alone. What she DOES with 98 and with him remains
+   unwritten beyond the page.

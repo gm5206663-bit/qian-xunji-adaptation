@@ -1438,3 +1438,18 @@ beasts or higher for her."*
 - **The 100,000-year bone drop [already in SKILLS_CANON]:** killing a beast over 100,000 **guarantees a 100,000-year soul bone** for a part the killer lacks; 100,000-year bones carry **at least two skills**; bones fuse over years.
 - **The tribulation receipt:** at 100,000 years a beast chooses — transform and re-cultivate, or stay and take a **heavenly tribulation every 100,000 years.** A beast that has just come through its tribulation is the only hundred-thousand a pair of mortals may honestly kill.
 - **Bibi Dong's calendar [canon-baike via CANON_MASTER]:** dies at 55 in 2655 ⇒ **born ≈2600; she is twenty in 2620.** She is canon's **youngest Titled Douluo of her day** (disputed against Tang Hao at 44) and her final Death Spider Emperor set is **黄黄紫紫黑黑黑黑红 — the ninth ring red.** This story gives her that red ninth ring **at the wall of ninety, in 2620**, hunted with the Pope in the cold northern sea — which makes hers one of the continent's two or three red rings of the era.
+
+---
+
+## B30 — What a 100,000-year ring and bone are actually WORTH, and her rank before it — collected 2026-10-10 on the author's correction
+
+Collected after the author's correction: *"Are you kidding me just 90, that should
+already before absorbing, are you serious she absorb 1 lakh years old soul ring and
+soul bone… Where is hell the pills go he make from immortal hearb and others many
+things… What you even checking canon."*
+
+- **A 100,000-year ring lifts SEVERAL levels [canon receipts]:** 小舞's sacrifice ring **raised Tang San six levels in one absorption** · 大明+二明 (two 100,000 rings + two bones) took him **85 → 90**, breaking the Titled wall · the **killed** 邪魔虎鲸王's ring and bone carried him to **83**. One hundred-thousand is worth roughly **three to six levels**, never one.
+- **A 100,000-year soul bone carries TWO skills** (万年 carries one) [canon, re-confirmed]: 泰坦巨猿左臂骨 → 泰坦苍穹破 + 重力泥沼 · 天青牛蟒右臂骨 → 天青迟钝神爪 + 天青寂灭神雷 · 邪魔虎鲸王左腿骨 → 虎鲸邪魔斧 + 虎鲸碎牙斩 (whale-class bones give whale-class skills) · 阿银's bone gave **flight + regeneration**. Bones remake the body itself, permanently.
+- **The second martial soul takes 100,000-year rings FIRST [canon]:** 泰坦巨猿 became the **first ring of the Haotian Hammer**, granting 泰坦之锤 + 大地之力 — two skills, as every red ring does.
+- **Her rank before the absorption — the author's ruling, canon checked around it:** the novel **never states** when Bibi Dong reached Titled (fan estimates run 25–39 [fanon, context only]); what canon fixes is that she is the **youngest Titled Douluo of her day** (唐昊, 44, held the public record) and Pope at 34. **R32: in this story she is ALREADY 92 with nine rings on the Death Spider Emperor (黄黄紫紫黑黑黑黑黑, ninth ≈90,000y black, taken at eighteen — youngest Titled ever) BEFORE the pill.** The pill breaks her stagnation; the red ring on the Soul Devouring Spider Emperor and the 100,000-year bone are the great leap ON TOP of a Titled Douluo.
+- **Herb ledger, corrected (read Ch05 before writing, not after):** the six taken in 2619 are ALL SPENT — 朱砂莲+雪蚕+九品龙芝 went wholly into the nine birth pills (a ninth of the fungus EACH), the two poisons 八角玄冰草+烈火杏娇疏 were swallowed in the forging, 奇茸通天菊 was his own rank pill in Ch06. **Six still stand in the basin: 八瓣仙兰, 绮罗郁金香, 幽香绮罗仙品 + three unnamed — and he wrote down where every one grows.** Her pill is made from THOSE: 八瓣仙兰 (canon +5 for 奥斯卡) + 绮罗郁金香 (canon +6 for 宁荣荣) + 幽香绮罗仙品 (defeats all poisons — the safety in the surge), bound with refined whale gum and honey. He flies east and takes three of the six, and the cost to the unborn boy is acknowledged on the page.

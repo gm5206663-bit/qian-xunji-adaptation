@@ -10,7 +10,7 @@ fixed.
   Ch01 "The Night After" **v8** 3,304w · Ch02 "The Codex" **v5** 2,513w ·
   Ch03 "The First Cut" **v3** 2,541w · Ch04 "The Second Core" **v7** 2,673w ·
   Ch05 "The Two Waters" **v4** 3,380w (rebuilt in the Ch04 register) ·
-  **Ch09 "The Cold North Sea" v1** 2,755w (2026-10-10) — the hunt: the tribulation-wounded leviathan, her red ninth ring, ninety at twenty, R23 handed back (*"Then it will be me who tells her"*). **Ch08 "What the Sea Sold Cheap" v1** 3,359w (2026-10-10) — the watch off her door, the whale gum, the pill, **her first core**, both spiders in the world at once (R31), no free rank. **Ch07 "The Cold Broke" v1** 2,605w (2026-10-10) — the birth, month 7 / spring 2620. Serial total **26,527w** over nine chapters.
+  **Ch09 "The Cold North Sea" v2** 2,498w (2026-10-10, rebuilt on R32) — the hunt: she boards at ninety-five, the red first ring of the devouring sister lifts her **95 → 98** (canon's three-to-six), the 100,000-year torso bone fuses with two usable skills, and she says **"our daughter"** first. **Ch08 "What the Sea Sold Cheap" v2** 2,783w (2026-10-10, rebuilt on R32) — already Titled at 92, the **immortal-herb pill** from the basin takes her to **95**, the first core puts both spiders in the world at once, and the romance is natural on the page (R32). **Ch07 "The Cold Broke" v1** 2,605w (2026-10-10) — the birth, month 7 / spring 2620. Serial total **25,694w** over nine chapters.
   Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0, and all
   three house metrics (avg 14–18 / med 11–14 / max <60) inside.
 - **Latest rulings in force:** **R30** (2026-10-09) — the well, the herbs, the
