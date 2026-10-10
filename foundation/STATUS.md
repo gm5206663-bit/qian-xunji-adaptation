@@ -10,7 +10,7 @@ fixed.
   Ch01 "The Night After" **v8** 3,304w · Ch02 "The Codex" **v5** 2,513w ·
   Ch03 "The First Cut" **v3** 2,541w · Ch04 "The Second Core" **v7** 2,673w ·
   Ch05 "The Two Waters" **v4** 3,380w (rebuilt in the Ch04 register) ·
-  **Ch06 "The Colour of Gold" v4** 3,396w (2026-10-10, rebuilt three times — F18 · F19/F20 · **F21/F22**: the blood ring is an **overlay** that leaves the beast skill in place, and the clock is fixed to seven months so the child is still due in five weeks). Serial total **17,808w**.
+  **Ch07 "The Cold Broke" v1** 2,605w (2026-10-10) — the birth, month 7 / spring 2620. **Ch06 "The Colour of Gold" v4** 3,396w (2026-10-10, rebuilt three times — F18 · F19/F20 · **F21/F22**: the blood ring is an **overlay** that leaves the beast skill in place, and the clock is fixed to seven months so the child is still due in five weeks). Serial total **20,413w**.
   Every chapter band IN, zero over 60, the-way 0, jargon 0, panels 0, and all
   three house metrics (avg 14–18 / med 11–14 / max <60) inside.
 - **Latest rulings in force:** **R30** (2026-10-09) — the well, the herbs, the
