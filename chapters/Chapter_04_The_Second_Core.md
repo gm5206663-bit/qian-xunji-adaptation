@@ -114,7 +114,7 @@ The reader went out backwards, holding his cap, and forgot to put it on until he
 
 The ninth night, the Grand Worship came to the chamber door.
 
-He did not knock, and he did not open it. He stood outside with his hands behind his back, as he had stood nine months earlier, and he listened to the light for a while.
+He did not knock, and he did not open it. He stood outside with his hands behind his back, as he had stood five months earlier, and he listened to the light for a while.
 
 Then he said two things, plainly, to a door.
 

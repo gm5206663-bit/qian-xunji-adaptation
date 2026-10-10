@@ -52,13 +52,13 @@ The first was taxes. The second was the hunting rosters — the good soul-beast 
 
 It was fees. Paid by the families of children who had failed their awakening, so that the names would not be read out at the gate.
 
-The three columns added up to twenty-one percent more than the number that had travelled up to Spirit City. For eleven months. In the same direction, at the same size, every month.
+The three columns added up to twenty-one percent more than the number that had travelled up to Spirit City. For six months. In the same direction, at the same size, every month.
 
 Of the difference, two parts went to the hall's steward. One part went to the seat above.
 
 And the seat above the Main Hall at Chenghe belonged to an old elder of the round hall.
 
-He sent for the file the Hall of Accounts kept on Chenghe — eleven months of clean summaries, every column adding to the last copper the city had sent up. He read the file beside the leaf.
+He sent for the file the Hall of Accounts kept on Chenghe — six months of clean summaries, every column adding to the last copper the city had sent up. He read the file beside the leaf.
 
 Both sums were honest. Only one of them had happened.
 
@@ -193,7 +193,7 @@ And he thought, walking on: that is the second thing today that did not happen, 
 - **Ch03 v3 — "The First Cut" — the full rebuild, 2026-10-07.**
 - **Why rebuilt:** the author's order *"Rebuild all chapters."* v2 archived at `_archive/2026-10-07_superseded/Chapter_03_The_First_Cut_v2.md`.
 - **Canon receipts:** the Main Hall / branch hall ladder (B1) · three hundred li east of Heaven Dou City for the Haotian School, on a peak joined by iron bridges (B10) · 唐昊 at forty-four, newly Titled, breaking the sitting Pope with the 大须弥锤 (B16) · twenty elders and the Pope's three votes, nine hands for and four against (B1) · a Titled Douluo conferral presided over by the Grand Worship (B2).
-- **Story arithmetic, invented as story and declared as such:** the Chenghe fraud at twenty-one percent over eleven months, two parts to the steward and one to the seat above · the five-year open-books term · the guild's four orders to its first reader · the teacher's twelve years (NUMBER_LEDGER §5).
+- **Story arithmetic, invented as story and declared as such:** the Chenghe fraud at twenty-one percent over six months, two parts to the steward and one to the seat above · the five-year open-books term · the guild's four orders to its first reader · the teacher's twelve years (NUMBER_LEDGER §5).
 - **Design, tagged:** Chenghe itself · the packet and the note · the crooked tally figure · the noodle-shop teacher · the reading room and its lectern cut from a door · the plum trees · *"It is not the light"* still unwritten here, held for Ch04.
 - **Locks untouched:** R22 · R23 · R24 · R27 · Càn Róng.
 - **Word count (body):** 2,541 (printed by `tools/measure_chapter.py` at the rebuild). **Metrics:** average 13.9w · median 11w · longest 58w · zero over 60; spoken dialogue 10 lines (3.9 per 1000w); the-way 0; jargon 0; blockquote panels 0. Band 2,400–3,400: **IN**. Gate: **PASS**.

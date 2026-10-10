@@ -111,8 +111,21 @@ the author's rulings; [era] true of this world's clock.
   - **It runs on blood, not soul power** (不依靠魂力). 唐舞麟 with his soul
     power stripped still fights on his blood rings. **His rings cannot be
     sealed, drained or cut off** — write that consequence, do not skip it.
-  - **Only two beings in the franchise have ever held one:** 唐舞麟 and
-    蓝轩宇. **Both dragons.** He is the third and the first who is not.
+  - **CORRECTED 2026-10-10 (F21) — the blood-essence ring is an OVERLAY, not a
+    replacement.** 唐舞麟's martial soul is **蓝银草 → 蓝银皇**, *not* the Golden
+    Dragon King; the Golden Dragon King is his **bloodline**. His nine rings stay
+    **红红红红 + 绿金 + 橙金橙金橙金橙金 with their own skills**, and the golden
+    气血魂环 **appear when he activates the bloodline — "使用金龙爪时出现的魂环"** —
+    and 黄金龙体 *"短时间强化血脉魂环"*, temporarily empowering the rings already
+    there. **The blood ring grants a blood skill IN ADDITION; it does not delete
+    the beast's skill.**
+  - **Therefore for him:** the nine slots stay nine, the nine beast skills stay,
+    and the gold is a **second layer that comes up over the ring when the blood
+    runs.** What is new is the **blood skill**, the body, and the fuel.
+  - **Bearers:** 唐舞麟 and 蓝轩宇 — and **唐萧 inherited his father's
+    blood-essence ring [SL4 ch20]**, so "only two" is a **SL1–SL3-era** statement,
+    not an eternal one. **All three are dragon-blooded.** He is the first who is
+    not.
   - **Gold is his family's god-colour:** 天使神环（金）, pure gold, which
     千仞雪 got only on becoming a god.
   - **What True Divine reserves is a GRADE, not a colour:** 蓝轩宇's blood rings

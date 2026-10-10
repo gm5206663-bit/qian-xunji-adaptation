@@ -150,7 +150,7 @@ He knew what the hammer does. There is a family on this continent that keeps one
 
 He was not going to break anything. He was going to take a knot apart.
 
-The ring was part of his body now, and had been for a year, and it hung around him only because that was where a ring is supposed to hang. Under the light of it there was a fusion, and the fusion was a seam, and he had spent fifty years not looking at it and one year learning that it was there.
+The ring was part of his body now, and had been for seven months, and it hung around him only because that was where a ring is supposed to hang. Under the light of it there was a fusion, and the fusion was a seam, and he had spent fifty years not looking at it and seven months learning that it was there.
 
 He looked at it, and then he let go of it.
 
@@ -224,7 +224,7 @@ It carried no year because it was not made of years. It was made of the concentr
 
 Two beings in everything he had ever read had carried a ring like that, and both of them were dragons, with blood old enough that the world had rules about it.
 
-A sparrow's blessing out of a four-hundred-and-twenty-year bird had no business being gold. The only reason it was gold was that it had stopped being the bird's ring a long time ago, in the middle of a year of black sweat in a chamber under the Hall.
+A sparrow's blessing out of a four-hundred-and-twenty-year bird had no business being gold. The only reason it was gold was that it had stopped being the bird's ring a long time ago, in the middle of the seclusion month of black sweat in a chamber under the Hall.
 
 He was the third, and he was the first who was not a dragon.
 
@@ -234,7 +234,7 @@ He did not feel triumphant. He felt as a man feels who has been handed something
 
 The blessing was still the bird's. He let it out and looked at it.
 
-Warm golden light came off his hands. The same gentle light he had put into a locked room in Spirit City eleven months ago, the light that had closed a woman's bruises and left her hatred entirely alone. Fifteen small particles, going slowly around him, exactly as they had always done.
+Warm golden light came off his hands. The same gentle light he had put into a locked room in Spirit City six months ago, the light that had closed a woman's bruises and left her hatred entirely alone. Fifteen small particles, going slowly around him, exactly as they had always done.
 
 It healed the torn meridian in his side in the time it took him to notice.
 

@@ -5,6 +5,34 @@
 > **NOTE 2026-10-07, docset adoption:** the Years 5–25 rows below carried guesses marked "maybe". The author ruled on 2026-10-07 that the far era, Bibi Dong's road, and the secret are **never pre-decided** (RULINGS_LOG R22–R24). The guesses were neutralized inline the same day; canon facts stand.
 
 
+## THE CLOCK — canonical, 2026-10-10 (F22) — every chapter must agree with this
+
+**The hard anchor is canon's, not mine:** 千仞雪 is born in **斗罗历 2620**, and
+Ch04/Ch05 say the child is *"due when the cold breaks"* — i.e. **spring 2620**.
+The assault night (Day 0) is **late summer 2619**. Therefore **only about seven
+months can pass between Day 0 and the birth**, and the story present must sit
+inside that window.
+
+- **Day 0** — the assault night, late summer 2619. Ch01.
+- **Month 1** — the seclusion month: impurities cleared, True Angel Core formed,
+  95 → 96. Ch01–Ch02.
+- **Month 2** — he heals Bibi Dong; the fraud file begins. Ch03–Ch04.
+- **Month 6** — **Ch03–Ch05: "six months" of clean summaries; the light he put
+  into the locked room was "six months ago"; he has stood outside that door
+  "five months".**
+- **Month 7, the cold not yet broken — Ch06.** He has been ninety-six for
+  **seven months**. The basin takes nine days. He comes home to a daughter
+  **due in five weeks** — the cold breaks, the child is born, and canon's 2620
+  holds.
+- **Month 7–8 — spring 2620 — 千仞雪 BORN.** Not yet written. Nothing pre-decides
+  her road beyond canon's birth (R22/R23).
+
+**What was wrong:** Ch03/Ch05 said *eleven months*, Ch04 said *nine months
+earlier*, Ch05/Ch06 said *a year*, and Ch06 still said *due in five weeks* — which
+put the birth at month twelve and the story present at month eleven, **five months
+past the birth canon dates to 2620.** All corrected to the seven-month clock above.
+**Rule: before writing any elapsed time, subtract it from the child's due date.**
+
 ## Canon Timeline Reference — Clean
 
 - **~2570:** Qian Xun Ji born, son of Qian Daoliu (canon-wiki: 50+ at Renxue's birth, 60+ at his death).
